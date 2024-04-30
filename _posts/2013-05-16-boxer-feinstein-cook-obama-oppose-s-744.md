@@ -1,0 +1,38 @@
+---
+id: 1694
+title: 'Oppose S. 744'
+date: '2013-05-16T15:39:37-08:00'
+author: 'Greg Raven'
+layout: post
+guid: 'http://localhost:10004/?p=1694'
+permalink: /2013/05/boxer-feinstein-cook-obama-oppose-s-744/
+algolia_searchable_posts_records_count:
+    - '1'
+categories:
+    - Letters
+tags:
+    - amnesty
+    - 'Barack Hussein Obama'
+    - population
+    - 'Representative Paul Cook'
+    - 'Senator Barbara Boxer'
+    - 'Senator Dianne Feinstein'
+---
+
+Please oppose the S. 744 immigration bill, that would give out a minimum of 33 million lifetime work permits to foreign citizens in the first decade alone.  
+  
+The last thing we need when 20 million Americans are unable to find full-time jobs at every level of occupation is for Congress to flood the country with more foreign job-seekers.
+
+S. 744 promises to give work permits to at least 11 million illegal border crossers and visa overstayers. It also would continue the recent elevated flow of 11 million new immigrants a decade. And it would add at least another 11 million the first decade through new immigration categories and increases in existing categories.
+
+It is irrational and cruel to give out 33 million more work permits when millions of Americans who ARE employed are suffering long-term wage depression due to the persistent shortage of jobs and excess of workers.
+
+This bill would give out about half the number of green cards in a single decade as all the immigrants who have ever arrived in our entire history since the founding of Jamestown in 1607.
+
+No matter what you may think about legalizing most of the current illegal population in this country, you can’t possibly justify adding 33 million potential foreign job seekers as competitors for scarce U.S. jobs.
+
+Furthermore, this bill would be a pathway to higher chain migration and massive new social service expenditures in a time of budget deficit and debt crisis. And it would lead to more illegal immigration because it gives the legalization and work permits first with only promises of future enforcement, just like the previous seven amnesties between 1986 and 2000 which had no hard enforcement triggers and served only to entice 11 million new illegal immigrants who now demand their own amnesty.
+
+Phone me if you would like to talk about this,
+
+[Greg Raven](https://www.gregraven.org/)

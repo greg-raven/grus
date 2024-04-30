@@ -1,0 +1,15 @@
+---
+id: 2975
+title: 'A year in photos'
+date: '2022-01-21T09:46:00-08:00'
+author: 'Greg Raven'
+layout: post
+guid: 'http://localhost:10004/?p=2975'
+permalink: /2022/01/a-year-in-photos/
+algolia_searchable_posts_records_count:
+    - '1'
+categories:
+    - Memes
+---
+
+<figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Bare_Shelves.png)](https://www.gregraven.us/wp-content/uploads/2022/02/Bare_Shelves.png)<figcaption>Bare shelves</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Border_-_Del_Rio_Bridge.png)](https://www.gregraven.us/wp-content/uploads/2022/02/Border_-_Del_Rio_Bridge.png)<figcaption>The U.S. border at Del Rio, Texas</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Closed_due_to_Staffing.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/Closed_due_to_Staffing.jpg)<figcaption>Staffing issues</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/COVID_Testing_Line.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/COVID_Testing_Line.jpg)<figcaption>Long lines for COVID-19 testing</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Flash_Mob_Robbery.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/Flash_Mob_Robbery.jpg)<figcaption>Flash-mob robberies across the land</figcaption></figure><figure class="wp-block-image size-large is-resized">[![](https://www.gregraven.us/wp-content/uploads/2022/02/gas_prices-1024x764.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/gas_prices.jpg)<figcaption>Skyrocketing gas prices</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Kabul_Airport.png)](https://www.gregraven.us/wp-content/uploads/2022/02/Kabul_Airport.png)<figcaption>Chaos at the Kabul Airport</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Port_Congestion.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/Port_Congestion.jpg)<figcaption>Congested ports and transportation issues</figcaption></figure><figure class="wp-block-image size-full">[![](https://www.gregraven.us/wp-content/uploads/2022/02/Train_Robberies.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/Train_Robberies.jpg)<figcaption>Train robberies in Los Angeles, California</figcaption></figure><figure class="wp-block-image size-large is-resized">[![](https://www.gregraven.us/wp-content/uploads/2022/02/dozin-joe-1024x638.jpg)](https://www.gregraven.us/wp-content/uploads/2022/02/dozin-joe.jpg)<figcaption>Dozin’ Joe</figcaption></figure>

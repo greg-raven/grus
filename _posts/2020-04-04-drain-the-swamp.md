@@ -1,0 +1,38 @@
+---
+id: 2806
+title: 'Drain The Swamp'
+date: '2020-04-04T15:52:00-08:00'
+author: 'Greg Raven'
+layout: post
+guid: 'http://localhost:10004/?p=2806'
+permalink: /2020/04/drain-the-swamp/
+algolia_searchable_posts_records_count:
+    - '1'
+categories:
+    - Letters
+tags:
+    - 'Federal government'
+    - 'President Donald Trump'
+---
+
+I implore you to be an authentic, impassioned, fearless conservative around whom freedom-loving Americans can rally.
+
+The Washington establishment has not served the people, and so we have suffered at the hands of those awash in power, those who have turned their backs on their constituents, and those who forsake principles for their political advantage.
+
+Please stay true to conservatism and:
+
+- Stop illegal immigration by securing our borders and enforcing the laws;
+- Balance the federal budget by slashing the size of government;
+- End pork-barrel spending and the buying of votes in Congress;
+- Eliminate today’s federal tax code and replace it with a new, fair, flat tax;
+- Free our children and grandchildren from the crushing national debt;
+- Replace Obamacare with a market-driven, patient-centered reform;
+- Take care of our military and our veterans;
+- Uphold the Constitution;
+- Believe in the power of “we, the people.”
+
+Our forefathers founded America based on the timeless idea that all men are created equal, and that they are endowed with God-given, unalienable rights to life, liberty. and the pursuit of happiness. Moreover, they believed that government existed solely to secure those rights and that its power derived from the consent of the governed. From these principles flow the freedoms that have made the American Dream possible.
+
+Our children and grandchildren depend on us as stewards of these principles. I ask you to act in their defense.
+
+[Greg Raven](https://www.gregraven.org/), Apple Valley, CA

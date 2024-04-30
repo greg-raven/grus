@@ -1,0 +1,27 @@
+---
+id: 157
+title: 'We need E-Verify'
+date: '2009-03-03T14:38:00-08:00'
+author: 'Greg Raven'
+layout: post
+guid: 'http://localhost:10004/2009/03/03/we-need-e-verify/'
+permalink: /2009/03/we-need-e-verify/
+algolia_searchable_posts_records_count:
+    - '1'
+categories:
+    - Letters
+tags:
+    - 'Federal government'
+    - 'Senator Barbara Boxer'
+    - 'Senator Dianne Feinstein'
+---
+
+More than 7.7 million illegal aliens have jobs at a time when more than 11.5 million Americans do not. You can help some of these unemployed Americans by ensuring that E-Verify is reauthorized for at least 10 years.
+
+Certain Members of Congress have been using E-Verify as a political football to the detriment of unemployed and underemployed Americans. This political posturing must stop. E-Verify is an effective way of preventing illegal aliens from taking American jobs.
+
+There is currently a movement to attach the reauthorization to the Omnibus Appropriations Bill. Please do all you can to support this effort to reauthorize the E-Verify employment verification system for a period of no less than ten years. There are more than 11.5 million unemployed Americans depending on you.
+
+Phone me if you would like to talk about this,
+
+Greg Raven
