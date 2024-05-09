@@ -1,13 +1,7 @@
 ---
-id: 2743
 title: 'Just say NO to amnesty'
 date: '2019-06-11T09:49:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2743'
-permalink: /2019/06/just-say-no-to-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -16,7 +10,7 @@ tags:
     - 'Senator Kamala Harris'
 ---
 
-Oppose amnesty legislation — focus on the border surge!
+Oppose amnesty legislation --- focus on the border surge!
 
 I’m very disappointed that the U.S. Senate may soon debate and vote on legislation to amnesty illegal aliens. The crisis at the border is overwhelming the Border Patrol and USCIS and it is showing no signs of abating. People are crossing the border with the expectation of receiving an amnesty; the Senate voting on amnesty legislation will only reinforce these expectations.
 

@@ -1,13 +1,7 @@
 ---
-id: 2374
 title: 'No new legislation needed to complete border fence'
 date: '2016-11-22T04:32:35-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2374'
-permalink: /2016/11/no-new-legislation-needed-to-complete-border-fence/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,4 +19,4 @@ I hope you will do all you can to support President-elect Trump’s effort to co
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

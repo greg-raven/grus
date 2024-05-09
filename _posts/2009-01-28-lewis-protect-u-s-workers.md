@@ -1,13 +1,7 @@
 ---
-id: 179
 title: 'Protect U.S. workers'
 date: '2009-01-28T14:49:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/01/28/lewis-protect-u-s-workers/'
-permalink: /2009/01/lewis-protect-u-s-workers/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -21,7 +15,7 @@ Resident-elect Obama promised to create millions of jobs for America’s unemplo
 
 Temporarily halting chain migration and the visa lottery would open hundreds of thousands of American jobs each year. Chain migration is the primary mechanism that has caused legal immigration in this country to quadruple from historical levels of approximately 250,000 per year to one million a year since 1990. Chain migration results from a system that prioritizes non-nuclear family members and eventually leads to the immigration of cousins, aunts, uncles, in-laws, nieces and nephews of the original immigrant. Since virtually all immigrants need to work to support themselves and their families, regardless of the category under which they were admitted, chain migration creates a nearly endless stream of job seekers that puts downward pressure on wages and directly hurts the economic well being of the working poor.
 
-The irrational visa lottery has the same effect. Rather than award visas based on job skills, education, refugee status, or family connections, the visa lottery awards 50,000 visas through a random drawing. According to testimony of the State Department’s Inspector General during the 109th Congress, the visa lottery “contains significant risks to national security from hostile intelligence officers, criminals, and terrorists attempting to use the program for entry into the United States as permanent residents.” The lottery also fails its goal of diversifying the immigrant flow, since more than half of all lottery visas are issued to Europeans.
+The irrational visa lottery has the same effect. Rather than award visas based on job skills, education, refugee status, or family connections, the visa lottery awards 50,000 visas through a random drawing. According to testimony of the State Department’s Inspector General during the 109th Congress, the visa lottery "contains significant risks to national security from hostile intelligence officers, criminals, and terrorists attempting to use the program for entry into the United States as permanent residents." The lottery also fails its goal of diversifying the immigrant flow, since more than half of all lottery visas are issued to Europeans.
 
 I urge you to work towards temporarily halting non-essential immigration. Doing so would open hundreds of thousands of jobs for unemployed Americans.
 

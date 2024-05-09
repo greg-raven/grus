@@ -1,13 +1,7 @@
 ---
-id: 2345
 title: 'Call out the National Guard'
 date: '2014-12-18T05:05:58-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2345'
-permalink: /2014/12/call-out-the-national-guard-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,4 +19,4 @@ Phone me if you would like to talk about this,
 
 Greg Raven
 
-P.S. As a great former governor of California once said, “A country without a border is not a country.”
+P.S. As a great former governor of California once said, "A country without a border is not a country."

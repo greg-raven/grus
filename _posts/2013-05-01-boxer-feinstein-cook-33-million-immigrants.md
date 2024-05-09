@@ -1,13 +1,7 @@
 ---
-id: 1664
 title: '33 million immigrants!'
 date: '2013-05-01T10:41:30-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1664'
-permalink: /2013/05/boxer-feinstein-cook-33-million-immigrants/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -30,4 +24,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. These amnesties are on the path to national suicide. We must return to pre-1965 immigration law, secure our borders, and evict those who should not be here, including “anchor babies.”
+P.S. These amnesties are on the path to national suicide. We must return to pre-1965 immigration law, secure our borders, and evict those who should not be here, including "anchor babies."

@@ -1,13 +1,7 @@
 ---
-id: 2744
 title: 'H.R. 2740 would worsen the border crisis &#8212; please vote NO!'
 date: '2019-06-12T12:06:43-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2744'
-permalink: /2019/06/h-r-2740-would-worsen-the-border-crisis-please-vote-no/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -15,7 +9,7 @@ tags:
     - 'Representative Paul Cook'
 ---
 
-H.R. 2740 only benefits drug cartels and people traffickers — please oppose it!
+H.R. 2740 only benefits drug cartels and people traffickers --- please oppose it!
 
 I strongly urge you to vote against H.R. 2740. This spending bill would limit the federal government’s ability to enforce our nation’s immigration laws and allow the drug cartels to continue to smuggle people into the country at record levels!
 

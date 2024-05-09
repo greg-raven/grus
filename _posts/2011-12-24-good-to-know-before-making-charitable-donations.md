@@ -1,13 +1,7 @@
 ---
-id: 48
 title: 'Good to know before making charitable donations'
 date: '2011-12-24T15:15:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2011/12/24/good-to-know-before-making-charitable-donations/'
-permalink: /2011/12/good-to-know-before-making-charitable-donations/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Information
 tags:

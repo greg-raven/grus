@@ -1,13 +1,7 @@
 ---
-id: 168
 title: 'Stop importing foreign workers'
 date: '2009-02-04T16:29:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/04/lewis-stop-importing-foreign-workers/'
-permalink: /2009/02/lewis-stop-importing-foreign-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

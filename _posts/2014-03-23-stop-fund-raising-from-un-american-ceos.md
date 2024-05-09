@@ -1,13 +1,7 @@
 ---
-id: 1964
 title: 'Stop fund-raising from un-American CEOs'
 date: '2014-03-23T15:07:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1964'
-permalink: /2014/03/stop-fund-raising-from-un-american-ceos/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

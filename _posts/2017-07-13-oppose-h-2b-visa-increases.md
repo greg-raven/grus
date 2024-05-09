@@ -1,13 +1,7 @@
 ---
-id: 2462
 title: 'Oppose H-2B visa increases'
 date: '2017-07-13T05:40:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2462'
-permalink: /2017/07/oppose-h-2b-visa-increases/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

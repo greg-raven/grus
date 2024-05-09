@@ -1,13 +1,7 @@
 ---
-id: 2413
 title: 'Reduce immigration back to traditional levels'
 date: '2017-03-08T16:28:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2413'
-permalink: /2017/03/reduce-immigration-back-to-traditional-levels/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,4 +19,4 @@ For the first 200 years of its existence, the United States admitted about 250,0
 
 I implore you to look at the numbers. You will find that America is indeed taking in far too many immigrants than it can handle. You and your friends and colleagues in Congress can act to reduce these numbers so that America’s unemployed and underemployed have a decent chance of finding a job.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

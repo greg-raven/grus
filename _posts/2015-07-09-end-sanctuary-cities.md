@@ -1,13 +1,7 @@
 ---
-id: 2235
 title: 'End sanctuary cities'
 date: '2015-07-09T09:17:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2235'
-permalink: /2015/07/end-sanctuary-cities/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

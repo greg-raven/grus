@@ -1,13 +1,7 @@
 ---
-id: 2725
 title: 'Please oppose new gun control legislation'
 date: '2019-03-12T13:10:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2725'
-permalink: /2019/03/please-oppose-new-gun-control-legislation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

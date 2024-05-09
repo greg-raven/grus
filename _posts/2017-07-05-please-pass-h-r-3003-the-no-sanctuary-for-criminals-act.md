@@ -1,13 +1,7 @@
 ---
-id: 2457
 title: 'Please pass H.R. 3003, the No Sanctuary for Criminals Act'
 date: '2017-07-05T12:22:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2457'
-permalink: /2017/07/please-pass-h-r-3003-the-no-sanctuary-for-criminals-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -24,4 +18,4 @@ If a jurisdiction in our state refuses to cooperate with federal immigration enf
 
 I urge you to do the right thing by supporting H.R. 3003 should it reach the Senate floor for a vote.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

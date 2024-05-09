@@ -1,13 +1,7 @@
 ---
-id: 120
 title: 'Oppose health care reconciliation'
 date: '2009-04-28T01:18:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/28/lewis-et-al-oppose-health-care-reconciliation/'
-permalink: /2009/04/lewis-et-al-oppose-health-care-reconciliation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

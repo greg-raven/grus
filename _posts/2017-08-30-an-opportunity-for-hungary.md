@@ -1,13 +1,7 @@
 ---
-id: 2470
 title: 'An opportunity for Hungary'
 date: '2017-08-30T05:31:04-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2470'
-permalink: /2017/08/an-opportunity-for-hungary/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

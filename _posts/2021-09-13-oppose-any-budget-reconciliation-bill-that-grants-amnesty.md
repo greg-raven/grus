@@ -1,13 +1,7 @@
 ---
-id: 2924
 title: 'Oppose any budget reconciliation bill that grants amnesty'
 date: '2021-09-13T14:49:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2924'
-permalink: /2021/09/oppose-any-budget-reconciliation-bill-that-grants-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

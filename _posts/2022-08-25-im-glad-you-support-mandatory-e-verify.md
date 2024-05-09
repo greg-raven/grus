@@ -1,13 +1,7 @@
 ---
-id: 3037
 title: 'I&#8217;m glad you support mandatory E-Verify'
 date: '2022-08-25T04:44:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3037'
-permalink: /2022/08/im-glad-you-support-mandatory-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

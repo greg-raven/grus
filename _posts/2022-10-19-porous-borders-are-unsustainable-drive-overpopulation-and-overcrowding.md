@@ -1,13 +1,7 @@
 ---
-id: 3073
 title: 'Porous borders are unsustainable, drive overpopulation and overcrowding'
 date: '2022-10-19T12:26:02-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3073'
-permalink: /2022/10/porous-borders-are-unsustainable-drive-overpopulation-and-overcrowding/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

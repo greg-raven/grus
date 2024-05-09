@@ -1,13 +1,7 @@
 ---
-id: 2095
 title: 'Useful idiots sign a petition to repeal the 2nd Amendment'
 date: '2013-04-12T23:15:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1608'
-permalink: /2013/04/useful-idiots-sign-a-petition-to-repeal-the-2nd-amendment/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 format: video

@@ -1,13 +1,7 @@
 ---
-id: 2929
 title: 'Oppose the immigration enforcement freeze'
 date: '2021-09-15T11:10:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2929'
-permalink: /2021/09/oppose-the-immigration-enforcement-freeze/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

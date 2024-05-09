@@ -1,13 +1,7 @@
 ---
-id: 2906
 title: 'Oppose firearms licensing and registration'
 date: '2021-06-26T03:05:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2906'
-permalink: /2021/06/oppose-firearms-licensing-and-registration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

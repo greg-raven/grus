@@ -1,13 +1,7 @@
 ---
-id: 2168
 title: 'Illegals do NOT have the right to work'
 date: '2015-03-19T05:41:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2168'
-permalink: /2015/03/illegals-do-not-have-the-right-to-work/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -20,7 +14,7 @@ Please ensure that Loretta Lynch understands that immigration laws exist to prot
 
 The Attorney General nominee’s comments on these matters before the Senate Judiciary Committee were not reassuring.
 
-She was asked who has more of a right to a job in this country, an illegal immigrant or U.S. citizens and legal immigrants. She refused to give priority to Americans, saying that all individuals in the United States “regardless of their status — I would prefer that they be participating in the workplace.”
+She was asked who has more of a right to a job in this country, an illegal immigrant or U.S. citizens and legal immigrants. She refused to give priority to Americans, saying that all individuals in the United States "regardless of their status --- I would prefer that they be participating in the workplace."
 
 She and a Justice Department official later indicated that illegal aliens do not have a right to U.S. jobs *if* they lack a work permit. But if a President chooses to give illegal aliens work permits they apparently have rights equal to those of Americans to U.S. jobs, in nominee Lynch’s view. Given ample opportunity before the committee, she declined to disagree with the ability of a President to ignore the will of Congress and give work permits to millions of illegal aliens to compete directly with struggling American workers.
 

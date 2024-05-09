@@ -1,13 +1,7 @@
 ---
-id: 2746
 title: 'H.R. 3401 fails to address causes of the crisis and lacks enforcement funding &#8212; Vote NO'
 date: '2019-06-25T05:48:18-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2746'
-permalink: /2019/06/h-r-3401-fails-to-address-causes-of-the-crisis-and-lacks-enforcement-funding-vote-no/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

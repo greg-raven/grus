@@ -1,13 +1,7 @@
 ---
-id: 2493
 title: 'Support Trump&#8217;s call for mandatory E-Verify and ending chain migration'
 date: '2017-10-09T13:51:39-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2493'
-permalink: /2017/10/support-trumps-call-for-mandatory-e-verify-and-ending-chain-migration/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

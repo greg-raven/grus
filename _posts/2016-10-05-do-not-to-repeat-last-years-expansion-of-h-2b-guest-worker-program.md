@@ -1,13 +1,7 @@
 ---
-id: 2371
 title: 'Do not to repeat last year&#8217;s expansion of H-2B guest-worker program'
 date: '2016-10-05T12:40:55-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2371'
-permalink: /2016/10/do-not-to-repeat-last-years-expansion-of-h-2b-guest-worker-program/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -28,4 +22,4 @@ Investigative reports have shown that businesses are more than willing to fire A
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

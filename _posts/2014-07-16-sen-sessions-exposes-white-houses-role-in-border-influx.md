@@ -1,13 +1,7 @@
 ---
-id: 2017
 title: 'Sen. Sessions Exposes White House&#8217;s Role in Border Influx'
 date: '2014-07-16T16:22:47-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2017'
-permalink: /2014/07/sen-sessions-exposes-white-houses-role-in-border-influx/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,7 +15,7 @@ Tuesday, Sen. Sessions spoke on the Senate floor about President Obama’s role 
 
 In his floor speech, Sen. Sessions said:
 
-> “In the internal Border Patrol memo, Deputy Chief Vitiello stressed that the only way to stop the flow is to show potential illegal immigrants that there will be real consequences for their actions: ‘If the U.S. government fails to deliver adequate consequences to deter aliens from attempting to illegally enter the U.S. the result will be an even greater increase in the rate of recidivism and first-time illicit entries.'”
+> "In the internal Border Patrol memo, Deputy Chief Vitiello stressed that the only way to stop the flow is to show potential illegal immigrants that there will be real consequences for their actions: ‘If the U.S. government fails to deliver adequate consequences to deter aliens from attempting to illegally enter the U.S. the result will be an even greater increase in the rate of recidivism and first-time illicit entries.'"
 
 Deputy Chief Vitiello is right. Unless there is a true deterrence, people will continue to come to this country illegally. Unless those who come to this country are forced to leave, they will continue to come.
 

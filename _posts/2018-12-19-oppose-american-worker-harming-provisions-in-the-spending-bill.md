@@ -1,13 +1,7 @@
 ---
-id: 2638
 title: 'Oppose American-worker-harming provisions in the spending bill'
 date: '2018-12-19T10:10:30-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2638'
-permalink: /2018/12/oppose-american-worker-harming-provisions-in-the-spending-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

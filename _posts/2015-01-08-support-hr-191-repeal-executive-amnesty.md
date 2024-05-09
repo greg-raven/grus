@@ -1,13 +1,7 @@
 ---
-id: 2080
 title: 'Support HR 191: Repeal Executive Amnesty'
 date: '2015-01-08T07:22:05-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2080'
-permalink: /2015/01/support-hr-191-repeal-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

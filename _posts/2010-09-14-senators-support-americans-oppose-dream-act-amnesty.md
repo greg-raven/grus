@@ -1,13 +1,7 @@
 ---
-id: 83
 title: 'Support Americans, oppose DREAM Act amnesty'
 date: '2010-09-14T14:02:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/09/14/senators-support-americans-oppose-dream-act-amnesty/'
-permalink: /2010/09/senators-support-americans-oppose-dream-act-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,7 +16,7 @@ Sponsoring the DREAM Act amnesty on the Senate floor would be an affront to Amer
 
 If you are considering supporting such an anti-American bill, at least make sure that it does not provide confidentiality for potential terrorists and criminals, requires the DHS to pursue and act on reports of fraud, mandates the use of E-Verify (to take away an incentive for another mass influx of illegal aliens) and eliminates the chain migration category for parents and adult siblings (to prevent this amnesty from ballooning into a mass influx of legal immigrants who will compete with unemployed Americans).
 
-Many people argue that children should not be forced to pay the sins of their parents. Unfortunately, the DREAM Act rewards the illegal, law-breaking parents as well as the “innocent,” illegal “youths.”
+Many people argue that children should not be forced to pay the sins of their parents. Unfortunately, the DREAM Act rewards the illegal, law-breaking parents as well as the "innocent," illegal "youths."
 
 Phone me if you would like to talk about this,
 

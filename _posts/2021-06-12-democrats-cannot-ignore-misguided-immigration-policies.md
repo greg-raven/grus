@@ -1,13 +1,7 @@
 ---
-id: 2902
 title: 'Democrats cannot ignore misguided immigration policies'
 date: '2021-06-12T06:03:08-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2902'
-permalink: /2021/06/democrats-cannot-ignore-misguided-immigration-policies/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

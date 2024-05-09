@@ -1,13 +1,7 @@
 ---
-id: 2369
-title: 'Don&rsquo;t expand H-2B visas in 2017'
+title: "Don't expand H-2B visas in 2017"
 date: '2016-09-16T12:42:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2369'
-permalink: /2016/09/dont-expand-h-2b-visas-in-2017/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Investigative reports have shown that businesses are more than willing to fire A
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

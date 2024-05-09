@@ -1,13 +1,7 @@
 ---
-id: 2765
 title: 'Stop Pelosi from legitimizing her sham impeachment witch hunt'
 date: '2019-10-30T13:28:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2765'
-permalink: /2019/10/stop-pelosi-from-legitimizing-her-sham-impeachment-witch-hunt/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2185
 title: 'Please cosponsor HR 140'
 date: '2015-03-19T13:35:02-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2185'
-permalink: /2015/03/please-co-sponsor-hr-140/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 3138
 title: 'Help end the visa lottery'
 date: '2023-08-16T09:49:09-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3138'
-permalink: /2023/08/help-end-the-visa-lottery-5/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

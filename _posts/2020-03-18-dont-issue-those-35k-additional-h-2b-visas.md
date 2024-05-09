@@ -1,13 +1,7 @@
 ---
-id: 2788
 title: 'Don&#8217;t issue those 35k additional H-2B visas'
 date: '2020-03-18T07:32:53-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2788'
-permalink: /2020/03/dont-issue-those-35k-additional-h-2b-visas/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

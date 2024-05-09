@@ -1,13 +1,7 @@
 ---
-id: 2401
 title: 'Mandate E-Verify, end chain migration'
 date: '2017-02-07T14:11:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2401'
-permalink: /2017/02/mandate-e-verify-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

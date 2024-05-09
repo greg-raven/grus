@@ -1,20 +1,14 @@
 ---
-id: 2558
 title: 'Immigration policy sabotaged Earth Day'
 date: '2018-04-20T06:34:16-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2558'
-permalink: /2018/04/immigration-policy-sabotaged-earth-day/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Commentary
 tags:
     - population
 ---
 
-On this 49th Earth Day, the population of our country has passed 327 million … with no upper limit in sight.
+On this 49th Earth Day, the population of our country has passed 327 million ... with no upper limit in sight.
 
 This was definitely not the environmental dream at the first Earth Day in 1970 when teach-ins across the nation stressed that the nation was unable to responsibly handle even the 200-million population at that time.
 
@@ -38,15 +32,15 @@ A nationwide ad campaign portrays the numbers behind this environmental tragedy 
 
 **1994 BOOK SADLY STILL ACCURATE**
 
-Roy Beck conveyed his sadness about the betrayal of the Earth Day dreamer in the introduction for “Re-Charting America’s Future,” the book he wrote for high school debate teams whose national topic in the 1994-95 year was immigration:
+Roy Beck conveyed his sadness about the betrayal of the Earth Day dreamer in the introduction for "Re-Charting America’s Future," the book he wrote for high school debate teams whose national topic in the 1994-95 year was immigration:
 
-> “But Congress all the while has been flooding the nation with unprecedented waves of foreign workers and their relatives. U.S population growth has surged.
+> "But Congress all the while has been flooding the nation with unprecedented waves of foreign workers and their relatives. U.S population growth has surged.
 > 
-> “Now … Americans are faced with a heartbreaking conclusion: Washington has canceled out much of the environmental and social benefits that their choice of small families could have provided.
+> "Now ... Americans are faced with a heartbreaking conclusion: Washington has canceled out much of the environmental and social benefits that their choice of small families could have provided.
 > 
-> “In effect, Congress has re-charted the future that Americans thought they were creating.
+> "In effect, Congress has re-charted the future that Americans thought they were creating.
 > 
-> “Since 1972, American women have averaged about two children each, a rate that produces no long-term population expansion. But Congress has used immigration to drive population growth higher than it was during the Baby Boom.”
+> "Since 1972, American women have averaged about two children each, a rate that produces no long-term population expansion. But Congress has used immigration to drive population growth higher than it was during the Baby Boom."
 
 On this Earth Day, the clear ecological arguments for limiting immigration into the U.S. continue to be sidelined, or worse ignored, by those elected to represent us in Congress.
 

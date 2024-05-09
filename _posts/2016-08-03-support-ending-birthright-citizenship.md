@@ -1,13 +1,7 @@
 ---
-id: 2354
 title: 'Support ending birthright citizenship'
 date: '2016-08-03T03:02:23-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2354'
-permalink: /2016/08/support-ending-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,6 +21,6 @@ The American people, and our nation’s future generations, are depending on you
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. Even though birthright citizenship is not the law in the U.S., we must make this explicit.

@@ -1,13 +1,7 @@
 ---
-id: 2329
 title: 'Don&#8217;t let Congress pass anti-gun measures'
 date: '2016-06-16T12:16:55-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2329'
-permalink: /2016/06/dont-let-congress-pass-anti-gun-measures/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Please stand up for our Second Amendment rights and reject any and all calls for
 
 Thank you, and I await your response on this important issue.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

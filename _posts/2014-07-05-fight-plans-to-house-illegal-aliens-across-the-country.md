@@ -1,13 +1,7 @@
 ---
-id: 2009
 title: 'Fight plans to house illegal aliens across the country'
 date: '2014-07-05T14:58:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2009'
-permalink: /2014/07/fight-plans-to-house-illegal-aliens-across-the-country/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

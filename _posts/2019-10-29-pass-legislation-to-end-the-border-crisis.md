@@ -1,13 +1,7 @@
 ---
-id: 2761
 title: 'Pass legislation to end the border crisis'
 date: '2019-10-29T06:03:20-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2761'
-permalink: /2019/10/pass-legislation-to-end-the-border-crisis/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

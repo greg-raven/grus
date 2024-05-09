@@ -1,13 +1,7 @@
 ---
-id: 2490
 title: 'Mandatory E-Verify would shut off the jobs magnet and help end illegal immigration'
 date: '2017-10-07T04:49:35-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2490'
-permalink: /2017/10/mandatory-e-verify-would-shut-off-the-jobs-magnet-and-help-end-illegal-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

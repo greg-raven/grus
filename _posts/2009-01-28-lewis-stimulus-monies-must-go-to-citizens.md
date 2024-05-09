@@ -1,13 +1,7 @@
 ---
-id: 176
 title: 'Stimulus monies must go to citizens'
 date: '2009-01-28T14:52:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/01/28/lewis-stimulus-monies-must-go-to-citizens/'
-permalink: /2009/01/lewis-stimulus-monies-must-go-to-citizens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

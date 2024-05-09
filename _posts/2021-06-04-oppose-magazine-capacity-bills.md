@@ -1,13 +1,7 @@
 ---
-id: 2892
 title: 'Oppose magazine capacity bills'
 date: '2021-06-04T05:51:04-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2892'
-permalink: /2021/06/oppose-magazine-capacity-bills/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

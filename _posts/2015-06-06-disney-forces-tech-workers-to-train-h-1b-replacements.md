@@ -1,13 +1,7 @@
 ---
-id: 2228
 title: 'Disney forces tech workers to train H-1B replacements'
 date: '2015-06-06T05:41:55-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2228'
-permalink: /2015/06/disney-forces-tech-workers-to-train-h-1b-replacements/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

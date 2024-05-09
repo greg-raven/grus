@@ -1,13 +1,7 @@
 ---
-id: 2827
 title: 'Please support enforcement of the public charge rule'
 date: '2020-08-06T09:08:15-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2827'
-permalink: /2020/08/please-support-enforcement-of-the-public-charge-rule/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

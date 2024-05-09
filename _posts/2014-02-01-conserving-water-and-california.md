@@ -1,13 +1,7 @@
 ---
-id: 1937
 title: 'Conserving water, and California'
 date: '2014-02-01T17:11:10-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1937'
-permalink: /2014/02/conserving-water-and-california/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -18,11 +12,11 @@ tags:
 
 I found on-line your declaration of a state of emergency due to our drought conditions. The declaration reads in part:  
   
-“With California facing water shortfalls in the driest year in recorded state history, Governor Edmund G. Brown Jr. today proclaimed a State of Emergency and directed state officials to take all necessary actions to prepare for these drought conditions.”
+"With California facing water shortfalls in the driest year in recorded state history, Governor Edmund G. Brown Jr. today proclaimed a State of Emergency and directed state officials to take all necessary actions to prepare for these drought conditions."
 
 Yet, your own actions belie your commitment to conservation of any kind in California.
 
-In 2011, you signed the second half (AB 131) of California’s “DREAM Act.” This bill gave illegal aliens in-state tuition to California’s universities and access to state-funded financial aid.
+In 2011, you signed the second half (AB 131) of California’s "DREAM Act." This bill gave illegal aliens in-state tuition to California’s universities and access to state-funded financial aid.
 
 At the same time, you also signed into law AB 1236, essentially banning employers in California from using E-Verify, the national online database used to check workers’ immigration status.
 

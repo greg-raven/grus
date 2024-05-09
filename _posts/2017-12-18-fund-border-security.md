@@ -1,13 +1,7 @@
 ---
-id: 2513
 title: 'Fund border security'
 date: '2017-12-18T09:27:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2513'
-permalink: /2017/12/fund-border-security/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

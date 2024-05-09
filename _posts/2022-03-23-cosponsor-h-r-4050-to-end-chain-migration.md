@@ -1,13 +1,7 @@
 ---
-id: 2990
 title: 'Cosponsor H.R. 4050 to End Chain Migration'
 date: '2022-03-23T06:06:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2990'
-permalink: /2022/03/cosponsor-h-r-4050-to-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

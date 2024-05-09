@@ -1,13 +1,7 @@
 ---
-id: 3045
 title: 'Invest in American workers and reduce immigration'
 date: '2022-09-18T13:01:42-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3045'
-permalink: /2022/09/invest-in-american-workers-and-reduce-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

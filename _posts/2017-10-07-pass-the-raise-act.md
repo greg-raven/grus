@@ -1,13 +1,7 @@
 ---
-id: 2491
 title: 'Pass the RAISE Act'
 date: '2017-10-07T04:51:54-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2491'
-permalink: /2017/10/pass-the-raise-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

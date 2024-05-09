@@ -1,13 +1,7 @@
 ---
-id: 2208
 title: 'Congress must prevent fast track for Pacific free trade deal'
 date: '2015-04-30T17:14:39-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2208'
-permalink: /2015/04/congress-must-prevent-fast-track-for-pacific-free-trade-deal/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Please do all you can to make sure the president is not granted fast track autho
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

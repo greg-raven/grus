@@ -1,14 +1,7 @@
 ---
-id: 226
 title: 'Oppose H.R. 2330'
 date: '2006-02-24T13:20:00-08:00'
-author: 'Greg Raven'
-excerpt: 'Supporting H.R. 2330 suggests that one supports amnesty for illegal aliens. If that is not the case, I suggest you keep your name off this amnesty bill.'
 layout: post
-guid: 'http://localhost:10004/2006/02/24/lewis-oppose-h-r-2330/'
-permalink: /2006/02/lewis-oppose-h-r-2330/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

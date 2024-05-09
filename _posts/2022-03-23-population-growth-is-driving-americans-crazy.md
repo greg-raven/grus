@@ -1,13 +1,7 @@
 ---
-id: 3001
 title: 'Population growth is driving Americans crazy'
 date: '2022-03-23T06:15:30-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3001'
-permalink: /2022/03/population-growth-is-driving-americans-crazy/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

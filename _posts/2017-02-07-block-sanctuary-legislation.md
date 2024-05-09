@@ -1,13 +1,7 @@
 ---
-id: 2395
 title: 'Block sanctuary legislation'
 date: '2017-02-07T13:58:22-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2395'
-permalink: /2017/02/block-sanctuary-legislation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -33,6 +27,6 @@ Please stand up for sanity and stop SB 54. There’s just too much at stake.
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. Let’s get into compliance with Federal immigration law for a change.

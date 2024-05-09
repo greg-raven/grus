@@ -1,13 +1,7 @@
 ---
-id: 2797
 title: 'Thank you for cosponsoring H.R. 250 to mandate E-Verify'
 date: '2020-03-20T08:52:41-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2797'
-permalink: /2020/03/thank-you-for-cosponsoring-h-r-250-to-mandate-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

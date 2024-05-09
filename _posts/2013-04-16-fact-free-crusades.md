@@ -1,13 +1,7 @@
 ---
-id: 1632
 title: 'Sowell: Fact-Free Crusades'
 date: '2013-04-16T12:10:10-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1632'
-permalink: /2013/04/fact-free-crusades/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Information
 tags:
@@ -26,4 +20,4 @@ Have the media outlets that you follow ever even mentioned that some studies hav
 
 The dirty little secret is that gun control laws do not actually control guns. They disarm law-abiding citizens, making them more vulnerable to criminals, who remain armed in disregard of such laws.
 
-[Read the full article here](http://www.creators.com/conservative/thomas-sowell/fact-free-crusades.html).
+[Read the full article here](https://www.creators.com/conservative/thomas-sowell/fact-free-crusades.html).

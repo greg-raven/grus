@@ -1,13 +1,7 @@
 ---
-id: 3120
 title: 'There is no labor shortage. Co-sponsor S. 156'
 date: '2023-03-21T15:42:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3120'
-permalink: /2023/03/there-is-no-labor-shortage-co-sponsor-s-156/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

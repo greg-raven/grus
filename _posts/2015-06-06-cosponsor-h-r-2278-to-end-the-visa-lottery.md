@@ -1,13 +1,7 @@
 ---
-id: 2226
 title: 'Cosponsor H.R. 2278 to end the visa lottery'
 date: '2015-06-06T05:40:48-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2226'
-permalink: /2015/06/cosponsor-h-r-2278-to-end-the-visa-lottery/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

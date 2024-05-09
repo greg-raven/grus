@@ -1,13 +1,7 @@
 ---
-id: 2997
 title: 'Increasing Density can&#8217;t stop Urban Sprawl'
 date: '2022-03-23T06:13:10-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2997'
-permalink: /2022/03/increasing-density-cant-stop-urban-sprawl/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

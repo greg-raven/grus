@@ -1,13 +1,7 @@
 ---
-id: 28
 title: 'Put U.S. citizens in U.S. jobs'
 date: '2012-02-09T21:22:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/ca-representatives-put-u-s-citizens-in-u-s-jobs/'
-permalink: /2012/02/ca-representatives-put-u-s-citizens-in-u-s-jobs/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

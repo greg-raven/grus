@@ -1,13 +1,7 @@
 ---
-id: 2277
 title: 'Thanks for opposing the sale of U.S. visas'
 date: '2015-11-09T15:48:54-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2277'
-permalink: /2015/11/thanks-for-opposing-the-sale-of-u-s-visas/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

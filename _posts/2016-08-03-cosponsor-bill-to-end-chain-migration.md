@@ -1,13 +1,7 @@
 ---
-id: 2355
 title: 'Cosponsor bill to end chain migration'
 date: '2016-08-03T03:04:32-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2355'
-permalink: /2016/08/cosponsor-bill-to-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -26,6 +20,6 @@ You can help to solve this problem by cosponsoring H.R. 604, the Nuclear Family 
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. If family unity is the goal, then we should ship each of them back to his country of origin.

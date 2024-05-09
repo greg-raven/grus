@@ -1,13 +1,7 @@
 ---
-id: 3052
 title: 'Oppose green cards for unvetted Afghans'
 date: '2022-09-18T13:05:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3052'
-permalink: /2022/09/oppose-green-cards-for-unvetted-afghans/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,7 +15,7 @@ The Biden Administration abused its executive parole powers by admitting Afghan 
 
 S. 4787 would give these unvetted Afghan evacuees green cards even though they don’t qualify for refugee status or a special immigrant visa program already created by Congress for Afghan evacuees.
 
-Please oppose S. 4787 which would essentially “rubber stamp” the Biden Administration’s abuse of executive parole.
+Please oppose S. 4787 which would essentially "rubber stamp" the Biden Administration’s abuse of executive parole.
 
 Sincerely,
 

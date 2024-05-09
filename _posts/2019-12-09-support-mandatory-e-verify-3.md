@@ -1,13 +1,7 @@
 ---
-id: 2771
 title: 'Support mandatory E-Verify'
 date: '2019-12-09T09:23:46-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2771'
-permalink: /2019/12/support-mandatory-e-verify-3/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

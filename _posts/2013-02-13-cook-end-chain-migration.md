@@ -1,13 +1,7 @@
 ---
-id: 1527
 title: 'End chain migration'
 date: '2013-02-13T13:04:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1527'
-permalink: /2013/02/cook-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

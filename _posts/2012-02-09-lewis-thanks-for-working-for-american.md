@@ -1,13 +1,7 @@
 ---
-id: 39
 title: 'Thanks for working for America'
 date: '2012-02-09T21:09:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/lewis-thanks-for-working-for-american/'
-permalink: /2012/02/lewis-thanks-for-working-for-american/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

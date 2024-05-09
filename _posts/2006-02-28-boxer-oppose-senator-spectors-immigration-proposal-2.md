@@ -1,13 +1,7 @@
 ---
-id: 221
 title: 'Oppose Senator Spector&#8217;s immigration proposal'
 date: '2006-02-28T14:27:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/02/28/boxer-oppose-senator-spectors-immigration-proposal-2/'
-permalink: /2006/02/boxer-oppose-senator-spectors-immigration-proposal-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

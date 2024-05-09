@@ -1,18 +1,12 @@
 ---
-id: 2076
 title: 'Community Colleges'
 date: '2015-01-11T07:14:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2076'
-permalink: /2015/01/community-colleges/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 ---
 
-Steve Williams makes some good points in his evaluation of Barack Obama’s plan to provide free tuition at the junior college level (“Our Opinion: Another ‘free’ lunch,” January 11th). However, there are additional arguments against this proposal.
+Steve Williams makes some good points in his evaluation of Barack Obama’s plan to provide free tuition at the junior college level ("Our Opinion: Another ‘free’ lunch," January 11th). However, there are additional arguments against this proposal.
 
 First, the average high school graduate reads at the 5th grade level, and only one-third are proficient in math. Making junior college free will help them about as much as importing cheap laborers by the millions to compete against them in the job market, which is another of Obama’s pet projects.
 

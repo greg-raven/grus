@@ -1,13 +1,7 @@
 ---
-id: 125
 title: 'No amnesty for illegal aliens'
 date: '2009-04-24T21:18:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/24/no-amnesty-for-illegal-aliens/'
-permalink: /2009/04/no-amnesty-for-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 I am disappointed that you and your colleagues on the Judiciary Committee will be holding hearings on amnesty when so many Americans feel the negative impact of the illicit hiring of illegal aliens.
 
-Comprehensive immigration reform along the lines of the bills that failed in 2006 and 2007 due to a groundswell of public opposition (during sunnier economic times) will be the subject of a hearing paid for by millions of American workers and our families. I am not alone in my opposition to so-called “comprehensive immigration reform,” which is build on the false-premise that we must choose between a massive amnesty or massive roundups of illegal workers.
+Comprehensive immigration reform along the lines of the bills that failed in 2006 and 2007 due to a groundswell of public opposition (during sunnier economic times) will be the subject of a hearing paid for by millions of American workers and our families. I am not alone in my opposition to so-called "comprehensive immigration reform," which is build on the false-premise that we must choose between a massive amnesty or massive roundups of illegal workers.
 
 I support a third way: workplace enforcement. If Congress would simply take away jobs for illegal workers, the tide of illegal immigration will ebb – and at far less cost than an amnesty program.
 

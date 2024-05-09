@@ -1,13 +1,7 @@
 ---
-id: 2591
 title: 'Push Congress to mandate E-Verify'
 date: '2018-07-06T14:36:38-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2591'
-permalink: /2018/07/push-congress-to-mandate-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

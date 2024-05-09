@@ -1,13 +1,7 @@
 ---
-id: 2820
 title: 'Oppose DACA Amnesty'
 date: '2020-07-14T05:32:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2820'
-permalink: /2020/07/oppose-daca-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2381
 title: 'Voters support Jordan Commission recommendations'
 date: '2016-12-14T07:23:35-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2381'
-permalink: /2016/12/voters-support-jordan-commission-recommendations/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -25,7 +19,7 @@ Rep. Barbara Jordan and her colleagues recognized that immigration enforcement w
 - the elimination of other family-based admission categories;
 - focusing on the admission of highly-skilled individuals whose skills would benefit our society. The Commission recommended the elimination of the admission of unskilled workers and elimination of the diversity visa lottery;
 - an immigration admissions level of 550,000 per year; and
-- stressing that deportation is crucial. “Credibility in immigration policy can be summed up in one sentence: those who should get in, get in; those who should be kept out, are kept out; and those who should not be here will be required to leave.”
+- stressing that deportation is crucial. "Credibility in immigration policy can be summed up in one sentence: those who should get in, get in; those who should be kept out, are kept out; and those who should not be here will be required to leave."
 
 High immigration levels and lax border security and enforcement harms less-educated and lower-skilled Americans by making it easier for businesses to hire less-expensive foreign labor. These Americans will continue to be left behind until immigration enforcement is put into place and immigration levels are reduced to sustainable levels. The Jordan Commission recognized this, as did then-President Bill Clinton when he endorsed its proposals.
 
@@ -33,4 +27,4 @@ Americans are depending on Congress to reform our immigration system so that it 
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 2085
 title: 'Thanks for voting YES on Defunding President Obama&#8217;s Executive Amnesty'
 date: '2015-01-14T18:09:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2085'
-permalink: /2015/01/thanks-for-voting-yes-on-defunding-president-obamas-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

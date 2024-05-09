@@ -1,13 +1,7 @@
 ---
-id: 218
 title: 'DHS malfeasance'
 date: '2006-03-09T14:52:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/03/09/lewis-et-al-dhs-malfeasance/'
-permalink: /2006/03/lewis-et-al-dhs-malfeasance/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -29,4 +23,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. This is further proof that giving up our freedom is not gaining us “security.” We must secure our borders and evict illegals!
+P.S. This is further proof that giving up our freedom is not gaining us "security." We must secure our borders and evict illegals!

@@ -1,13 +1,7 @@
 ---
-id: 219
 title: 'Oppose Senator Spector&#8217;s immigration proposal'
 date: '2006-03-06T14:49:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/03/06/feinstein-oppose-senator-spectors-immigration-proposal/'
-permalink: /2006/03/feinstein-oppose-senator-spectors-immigration-proposal/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

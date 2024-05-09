@@ -1,13 +1,7 @@
 ---
-id: 2789
 title: 'Oppose immigration increases in emergency spending bills'
 date: '2020-03-18T13:26:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2789'
-permalink: /2020/03/oppose-immigration-increases-in-emergency-spending-bills/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

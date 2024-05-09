@@ -1,13 +1,7 @@
 ---
-id: 2615
 title: 'John McCain&#8217;s Senate replacement'
 date: '2018-08-27T11:25:47-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2615'
-permalink: /2018/08/john-mccains-senate-replacement/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

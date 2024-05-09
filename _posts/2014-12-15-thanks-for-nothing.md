@@ -1,13 +1,7 @@
 ---
-id: 2074
 title: 'Thanks for nothing'
 date: '2014-12-15T08:01:53-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2074'
-permalink: /2014/12/thanks-for-nothing/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,7 +16,7 @@ Currently there are 18 million Americans who want a full time job, but cannot fi
 
 Adding millions of more workers will also continue to stagnate wages. According to federal data, middle-class wages, when adjusted for inflation, are lower now than in 1979.
 
-The will of the American voters is also against executive amnesty. According to “The Polling Company/WomanTrend”, 74% of midterm voters want the president to work with Congress on immigration.
+The will of the American voters is also against executive amnesty. According to "The Polling Company/WomanTrend", 74% of midterm voters want the president to work with Congress on immigration.
 
 I am disappointed that you are choosing to help illegal aliens over struggling American families.
 
@@ -30,4 +24,4 @@ Phone me if you would like to talk about this,
 
 Greg Raven
 
-P.S. So much for being a tax fighter and fiscal conservative … let alone a conservative, period. Thanks for nothing.
+P.S. So much for being a tax fighter and fiscal conservative ... let alone a conservative, period. Thanks for nothing.

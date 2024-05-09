@@ -1,13 +1,7 @@
 ---
-id: 1463
 title: 'Oppose Bambam&#8217;s amnesty'
 date: '2012-06-18T14:33:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1463'
-permalink: /2012/06/lewis-oppose-bambams-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

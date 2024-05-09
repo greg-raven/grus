@@ -1,13 +1,7 @@
 ---
-id: 2899
 title: 'Reject H.R. 1454 &#8212; an extremely anti-gun bill'
 date: '2021-06-04T05:55:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2899'
-permalink: /2021/06/reject-h-r-1454-an-extremely-anti-gun-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

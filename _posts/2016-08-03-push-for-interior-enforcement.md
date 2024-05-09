@@ -1,13 +1,7 @@
 ---
-id: 2351
 title: 'Push for interior enforcement'
 date: '2016-08-03T02:57:43-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2351'
-permalink: /2016/08/push-for-interior-enforcement/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -25,6 +19,6 @@ All murders are tragic, but the murder of Kate Steinle in San Fransisco was sens
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. We cannot preserve our country if we do not preserve the rule of law.

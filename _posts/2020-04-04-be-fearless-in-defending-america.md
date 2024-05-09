@@ -1,13 +1,7 @@
 ---
-id: 2805
 title: 'Be fearless in defending America'
 date: '2020-04-04T15:50:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2805'
-permalink: /2020/04/be-fearless-in-defending-america/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -29,7 +23,7 @@ It is long past due that you:
 - Replace Obamacare with a market-driven, patient-centered reform;
 - Take care of our military and our veterans;
 - Uphold the Constitution;
-- Believe in the power of “we, the people.”
+- Believe in the power of "we, the people."
 
 Our forefathers founded America based on the timeless idea that all men are created equal, and that they are endowed with God-given, unalienable rights to life, liberty. and the pursuit of happiness. Moreover, they believed that government existed solely to secure those rights and that its power derived from the consent of the governed. From these principles flow the freedoms that have made the American Dream possible.
 

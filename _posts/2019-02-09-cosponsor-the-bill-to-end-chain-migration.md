@@ -1,13 +1,7 @@
 ---
-id: 2713
 title: 'Cosponsor the bill to end chain migration'
 date: '2019-02-09T05:19:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2713'
-permalink: /2019/02/cosponsor-the-bill-to-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

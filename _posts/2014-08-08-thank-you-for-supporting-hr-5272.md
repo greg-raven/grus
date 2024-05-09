@@ -1,13 +1,7 @@
 ---
-id: 2022
 title: 'Thank you for supporting HR 5272'
 date: '2014-08-08T13:44:07-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2022'
-permalink: /2014/08/thank-you-for-supporting-hr-5272/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

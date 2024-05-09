@@ -1,13 +1,7 @@
 ---
-id: 2363
 title: 'Enact 10 steps to fix our broken immigration enforcement system'
 date: '2016-08-30T13:13:25-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2363'
-permalink: /2016/08/enact-10-steps-to-fix-our-broken-immigration-enforcement-system/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -34,4 +28,4 @@ Please pledge to tackle the following priorities in the next Congress in order t
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

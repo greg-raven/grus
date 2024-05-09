@@ -1,13 +1,7 @@
 ---
-id: 148
 title: 'Reduce immigration'
 date: '2009-04-05T01:42:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/05/lewis-et-al-reduce-immigration/'
-permalink: /2009/04/lewis-et-al-reduce-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

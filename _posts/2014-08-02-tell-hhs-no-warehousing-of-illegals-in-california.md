@@ -1,13 +1,7 @@
 ---
-id: 2020
 title: 'Tell HHS no warehousing of illegals in California'
 date: '2014-08-02T04:43:43-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2020'
-permalink: /2014/08/tell-hhs-no-warehousing-of-illegals-in-california/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2399
 title: 'Confirm Senator Sessions for Attorney General'
 date: '2017-02-07T14:07:49-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2399'
-permalink: /2017/02/confirm-senator-sessions-for-attorney-general/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

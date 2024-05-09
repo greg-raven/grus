@@ -1,13 +1,7 @@
 ---
-id: 2489
 title: 'Support the RAISE Act'
 date: '2017-10-07T04:46:32-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2489'
-permalink: /2017/10/support-the-raise-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 54
 title: 'Support Rep. Bishop&#8217;s Border amendment'
 date: '2011-07-26T12:57:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2011/07/26/lewis-support-rep-bishops-border-amendment/'
-permalink: /2011/07/lewis-support-rep-bishops-border-amendment/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

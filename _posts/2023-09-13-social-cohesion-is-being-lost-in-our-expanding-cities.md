@@ -1,13 +1,7 @@
 ---
-id: 3144
 title: 'Social cohesion is being lost in our expanding cities.'
 date: '2023-09-13T05:26:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3144'
-permalink: /2023/09/social-cohesion-is-being-lost-in-our-expanding-cities/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

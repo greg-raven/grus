@@ -1,13 +1,7 @@
 ---
-id: 2230
 title: 'Stop Obama Administration program paying to relocate illegal aliens'
 date: '2015-06-06T05:43:16-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2230'
-permalink: /2015/06/stop-obama-administration-program-paying-to-relocate-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

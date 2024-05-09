@@ -1,13 +1,7 @@
 ---
-id: 2867
 title: 'Oppose the Biden Amnesty'
 date: '2021-02-18T15:08:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2867'
-permalink: /2021/02/oppose-the-biden-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

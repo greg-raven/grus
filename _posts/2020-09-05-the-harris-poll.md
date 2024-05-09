@@ -1,13 +1,7 @@
 ---
-id: 2831
 title: 'The Harris Poll'
 date: '2020-09-05T04:58:20-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2831'
-permalink: /2020/09/the-harris-poll/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Memes
 ---

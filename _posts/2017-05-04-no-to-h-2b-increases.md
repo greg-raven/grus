@@ -1,13 +1,7 @@
 ---
-id: 2431
 title: 'NO to H-2B increases!'
 date: '2017-05-04T09:57:09-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2431'
-permalink: /2017/05/no-to-h-2b-increases/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Investigative reports have shown that businesses are more than willing to fire A
 
 Please do all you can to protect these American workers by opposing any effort to increase H-2B visas.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

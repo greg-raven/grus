@@ -1,13 +1,7 @@
 ---
-id: 2160
 title: 'Shame on you for supporting Obama&#8217;s illegal executive amnesty'
 date: '2015-03-19T05:35:08-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2160'
-permalink: /2015/03/shame-on-you-for-supporting-obamas-illegal-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

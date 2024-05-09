@@ -1,13 +1,7 @@
 ---
-id: 480
 title: 'Executive amnesty'
 date: '2012-06-18T16:31:32-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=480'
-permalink: /2012/06/obama-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,7 +16,7 @@ Resident Obama:
 
 I am absolutely appalled by your amnesty program. How dare you!  
   
-In March 2011, at a Univision Town Hall in Washington, DC, you said you simply couldn’t “suspend deportations.” You said, “With respect to the notion that I can just suspend deportations through executive order, that’s just not the case, because there are laws on the books that Congress has passed.”
+In March 2011, at a Univision Town Hall in Washington, DC, you said you simply couldn’t "suspend deportations." You said, "With respect to the notion that I can just suspend deportations through executive order, that’s just not the case, because there are laws on the books that Congress has passed."
 
 What has changed since then? Has Congress changed the law? Do Americans approve of amnesty for illegal aliens? Are there drastically fewer jobless Americans? No, there is an election coming up and you believe that your electorate is alright with an amnesty for illegal aliens when 20 million Americans cannot find a full-time job.
 

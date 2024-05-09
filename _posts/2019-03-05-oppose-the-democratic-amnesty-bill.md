@@ -1,13 +1,7 @@
 ---
-id: 2722
 title: 'Oppose the Democratic Amnesty Bill'
 date: '2019-03-05T15:06:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2722'
-permalink: /2019/03/oppose-the-democratic-amnesty-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

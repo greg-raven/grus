@@ -1,13 +1,7 @@
 ---
-id: 86
 title: 'Why do you hate American workers?'
 date: '2010-09-14T13:58:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/09/14/boxer-why-do-you-hate-american-workers/'
-permalink: /2010/09/boxer-why-do-you-hate-american-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

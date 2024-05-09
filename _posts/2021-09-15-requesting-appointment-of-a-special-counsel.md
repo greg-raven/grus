@@ -1,13 +1,7 @@
 ---
-id: 2926
 title: 'Requesting appointment of a special counsel'
 date: '2021-09-15T08:30:17-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2926'
-permalink: /2021/09/requesting-appointment-of-a-special-counsel/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,6 +15,6 @@ There is substantial evidence from documents and witness statements that the Bid
 
 A special counsel should immediately be appointed because the Justice Department is conflicted investigating any matter that could implicate President Biden or his immediate family.
 
-I, the undersigned citizen of the U.S., Greg Raven, residing in Apple Valley, CA, hereby demand that a special counsel be named to investigate all the facts, evidence, and credible allegations related to overseas “pay-to-play” corruption involving Hunter Biden and his father, Resident Joe Biden.
+I, the undersigned citizen of the U.S., Greg Raven, residing in Apple Valley, CA, hereby demand that a special counsel be named to investigate all the facts, evidence, and credible allegations related to overseas "pay-to-play" corruption involving Hunter Biden and his father, Resident Joe Biden.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

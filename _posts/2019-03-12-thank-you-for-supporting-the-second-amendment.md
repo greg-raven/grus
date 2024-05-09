@@ -1,13 +1,7 @@
 ---
-id: 2723
 title: 'Thank you for supporting the Second Amendment'
 date: '2019-03-12T13:06:02-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2723'
-permalink: /2019/03/thank-you-for-supporting-the-second-amendment/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 3066
 title: 'DACA ruling should not distract you from the historic border crisis'
 date: '2022-10-14T12:54:35-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3066'
-permalink: /2022/10/daca-ruling-should-not-distract-you-from-the-historic-border-crisis/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 1585
 title: 'NO to immigration &#8216;reform&#8217;'
 date: '2013-04-10T20:05:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1585'
-permalink: /2013/04/boxer-feinstein-no-to-immigration-reform/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,6 +21,6 @@ Please say no to amnesty and comprehensive immigration reform.
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. Instead of amnesty for criminals, how about evicting all illegals and securing our borders? It’s a pretty sorry day for the nation when I have to recommend to my senators to follow the law!

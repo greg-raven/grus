@@ -1,13 +1,7 @@
 ---
-id: 152
 title: 'You should have supported Sessions&#8217; amendment'
 date: '2009-03-29T02:06:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/03/29/senators-you-should-have-supported-sessions-amendment/'
-permalink: /2009/03/senators-you-should-have-supported-sessions-amendment/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -18,7 +12,7 @@ tags:
 
 Sen. Sessions’ amendment to the omnibus would have protected millions of American jobs, yet you would not even support giving it a straight vote. How appalling!
 
-There are more than 12 million unemployed Americans. This means that more than 8% of Americans who want a job are unable to find one. I would like to think this statistic breaks your heart, but your vote against Sen. Sessions’ E-Verify amendment suggests otherwise — as do your previous votes against E-Verify and for amnesty.
+There are more than 12 million unemployed Americans. This means that more than 8% of Americans who want a job are unable to find one. I would like to think this statistic breaks your heart, but your vote against Sen. Sessions’ E-Verify amendment suggests otherwise --- as do your previous votes against E-Verify and for amnesty.
 
 I know I should not be surprised with your vote. You have consistently voted in favor of amnesty and against bills that would help American workers. However, I am not one to give up easily.
 

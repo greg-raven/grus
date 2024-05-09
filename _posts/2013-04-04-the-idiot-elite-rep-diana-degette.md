@@ -1,13 +1,7 @@
 ---
-id: 1556
 title: 'The Idiot Elite: Rep. Diana Degette'
 date: '2013-04-04T22:15:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1556'
-permalink: /2013/04/the-idiot-elite-rep-diana-degette/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 format: video

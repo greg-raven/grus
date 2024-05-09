@@ -1,13 +1,7 @@
 ---
-id: 2928
 title: 'Oppose Democrats&#8217; budget reconciliation amnesty'
 date: '2021-09-15T11:08:26-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2928'
-permalink: /2021/09/oppose-democrats-budget-reconciliation-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

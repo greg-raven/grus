@@ -1,13 +1,7 @@
 ---
-id: 1644
 title: 'What &#8216;gun show loophole&#8217;?'
 date: '2013-04-20T23:09:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1644'
-permalink: /2013/04/what-gun-show-loophole/
-algolia_searchable_posts_records_count:
-    - '4'
 categories:
     - Information
     - Video
@@ -15,11 +9,11 @@ categories:
 
 The only thing they can’t take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/hiIGUFhPfO8?feature=oembed" width="840"></iframe></div></figure>Go here <http://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/hiIGUFhPfO8?feature=oembed" width="840"></iframe></div></figure>Go here <https://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
 
 Did you see Obama claim in his speech last week that 40% of all gun sales occur at gun shows, so we need universal background checks and need to close the gun show loophole?
 
-More Obama lies …
+More Obama lies ...
 
 Watch the video above to see the truth and gain an understanding of WHY Obama must lie to push his agenda to disarm responsible Americans.
 
@@ -29,7 +23,7 @@ Responsible, sane Americans are being mentally abused.
 
 Have you ever heard the term gaslighting?
 
-Check it out at <http://en.wikipedia.org/wiki/Gaslighting>
+Check it out at <https://en.wikipedia.org/wiki/Gaslighting>
 
 Gaslighting is a form of psychological abuse in which false information is presented with the intent of making a victim doubt his or her own memory, perception, and sanity.
 
@@ -37,7 +31,7 @@ Instances may range simply from the denial by an abuser that previous abusive in
 
 You are being told repeatedly by anti-gun advocates, politicians, and the media that they support the Second Amendment and that no one really wants to take your guns, yet the President is pushing Congress for more restrictive gun control legislation that will substantially impact your gun rights.
 
-You’re being told that the gun control measures they want to take are “reasonable” and reflective of “common sense,” yet your own common sense makes it clear not a single measure being suggested would have prevented any of the mass shootings we’ve seen.
+You’re being told that the gun control measures they want to take are "reasonable" and reflective of "common sense," yet your own common sense makes it clear not a single measure being suggested would have prevented any of the mass shootings we’ve seen.
 
 You are being told that law enforcement supports gun control when in fact law enforcement officers surveyed reject gun control.
 
@@ -59,7 +53,7 @@ You are being Gaslighted. You are being told lies about the true intentions of t
 
 Those who suggest this is happening are branded as paranoid conspiracy nuts, a tactic of the gaslighting process. The approach is as clever and effective as it is diabolical and many in America are falling prey to it.
 
-Those who recognize it for what it is will face difficult choices — comply or resist both of which carry adverse consequences.
+Those who recognize it for what it is will face difficult choices --- comply or resist both of which carry adverse consequences.
 
 We study history to understand where the future is likely to carry us and now you are living it. Either you are going to be a part of deciding your own destiny or you will allow others to determine it for you. I choose the former.
 
@@ -67,12 +61,12 @@ Make no mistake. ANY politician who introduces, supports, or votes for ANY gun c
 
 Either way, whether an idiot or a traitor, THEY NEED TO BE VOTED OUT OF OFFICE. Make sure they know, each and every day through an e-mail, a call or a letter that YOU ARE WATCHING THEIR EVERY MOVE on the gun issue.
 
-Here is a link to find your representatives. <http://capwiz.com/gunowners/dbq/officials/>
+Here is a link to find your representatives. <https://capwiz.com/gunowners/dbq/officials/>
 
 And remember, if all else fails, the only thing they can’t take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
 
-Go here <http://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
+Go here <https://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
 
-This is $2,500 in training, PLUS a full set of training manuals for only $200 as my way of putting my money where my mouth is to sharpen the teeth of the Second Amendment and prepare every responsible American citizen to protect and defend their freedom. Get trained NOW <http://www.frontsight.com/patriot/>
+This is $2,500 in training, PLUS a full set of training manuals for only $200 as my way of putting my money where my mouth is to sharpen the teeth of the Second Amendment and prepare every responsible American citizen to protect and defend their freedom. Get trained NOW <https://www.frontsight.com/patriot/>
 
 Exercise your rights before they become weak and flabby!

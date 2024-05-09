@@ -1,13 +1,7 @@
 ---
-id: 3057
 title: 'Oppose DACA amnesty'
 date: '2022-10-11T07:06:22-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3057'
-permalink: /2022/10/oppose-daca-amnesty-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

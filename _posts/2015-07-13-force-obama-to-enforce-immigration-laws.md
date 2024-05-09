@@ -1,13 +1,7 @@
 ---
-id: 2243
 title: 'Force Obama to enforce immigration laws'
 date: '2015-07-13T13:20:53-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2243'
-permalink: /2015/07/force-obama-to-enforce-immigration-laws/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -17,9 +11,9 @@ tags:
 
 I hope you are as worried by the Obama administration’s recent decisions to restrict the ability of DHS and ICE to enforce immigration laws as I am. The administration has made it nearly impossible for the agencies to apprehend and detain illegal aliens. I hope you will pass important pieces of legislation to require the administration to enforce the law.
 
-DHS Secretary Jeh Johnson stated that “I have reached the conclusion that we must make substantial changes in our detention practices with respect to families with children. In short, once a family has established eligibility for asylum or other relief under our laws, long-term detention is an inefficient use of our resources and should be discontinued.” Although a new report shows that 84% of people who crossed the border illegally as part of last year’s border surge failed to show up at their hearings, the Obama administration clearly believes hearings are unimportant and it’s better for illegal aliens to be at large in the country. This creates a serious national security risk and only encourages more people to come to this country illegally.
+DHS Secretary Jeh Johnson stated that "I have reached the conclusion that we must make substantial changes in our detention practices with respect to families with children. In short, once a family has established eligibility for asylum or other relief under our laws, long-term detention is an inefficient use of our resources and should be discontinued." Although a new report shows that 84% of people who crossed the border illegally as part of last year’s border surge failed to show up at their hearings, the Obama administration clearly believes hearings are unimportant and it’s better for illegal aliens to be at large in the country. This creates a serious national security risk and only encourages more people to come to this country illegally.
 
-On top of this, the administration has begun to enact its “Priority Enforcement Program” (PEP) that prohibits ICE agents from targeting most illegal aliens for removal, including most of those who come into contact with state and local police. This means that ICE can no longer arrest or target illegal aliens on the streets, but only those already in jails or prisons. On top of that, ICE can only detain illegal aliens who have committed the most grievous offenses. This means that offenses including drug possession, theft, fraud, and cases involving moral turpitude are not sufficient to warrant ICE’s attention.
+On top of this, the administration has begun to enact its "Priority Enforcement Program" (PEP) that prohibits ICE agents from targeting most illegal aliens for removal, including most of those who come into contact with state and local police. This means that ICE can no longer arrest or target illegal aliens on the streets, but only those already in jails or prisons. On top of that, ICE can only detain illegal aliens who have committed the most grievous offenses. This means that offenses including drug possession, theft, fraud, and cases involving moral turpitude are not sufficient to warrant ICE’s attention.
 
 Clearly, our national security is at risk and our nation is at risk of losing control of its borders. Legislation must be passed that requires the administration to enforce all aspects of immigration law. These pieces of legislation include
 

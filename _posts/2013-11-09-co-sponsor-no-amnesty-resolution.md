@@ -1,13 +1,7 @@
 ---
-id: 2106
 title: 'Cosponsor &#8216;no amnesty&#8217; resolution'
 date: '2013-11-09T05:34:05-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1904'
-permalink: /2013/11/co-sponsor-no-amnesty-resolution/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

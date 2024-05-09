@@ -1,13 +1,7 @@
 ---
-id: 2903
 title: 'Petroleum power'
 date: '2021-06-12T08:38:07-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2903'
-permalink: /2021/06/petroleum-power/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 tags:

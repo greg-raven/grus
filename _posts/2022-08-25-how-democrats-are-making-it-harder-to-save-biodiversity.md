@@ -1,13 +1,7 @@
 ---
-id: 3031
 title: 'How Democrats are making it harder to save biodiversity'
 date: '2022-08-25T04:36:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3031'
-permalink: /2022/08/how-democrats-are-making-it-harder-to-save-biodiversity/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2295
 title: 'Support a refugee moratorium'
 date: '2016-02-01T06:51:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2295'
-permalink: /2016/02/support-a-refugee-moratorium-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

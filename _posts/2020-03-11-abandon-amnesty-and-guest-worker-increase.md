@@ -1,13 +1,7 @@
 ---
-id: 2783
 title: 'Abandon amnesty and guest worker increase'
 date: '2020-03-11T05:36:08-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2783'
-permalink: /2020/03/abandon-amnesty-and-guest-worker-increase/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

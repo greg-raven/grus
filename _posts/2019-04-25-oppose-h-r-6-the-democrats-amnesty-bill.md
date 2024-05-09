@@ -1,13 +1,7 @@
 ---
-id: 2733
 title: 'Oppose H.R.6, the Democrats&#8217; amnesty bill'
 date: '2019-04-25T04:48:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2733'
-permalink: /2019/04/oppose-h-r-6-the-democrats-amnesty-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

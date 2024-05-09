@@ -1,13 +1,7 @@
 ---
-id: 32
 title: 'Thanks for cosponsoring the SAVE Act'
 date: '2012-02-09T21:16:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/lewis-thanks-for-cosponsoring-the-save-act/'
-permalink: /2012/02/lewis-thanks-for-cosponsoring-the-save-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

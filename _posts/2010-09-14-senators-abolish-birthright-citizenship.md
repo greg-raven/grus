@@ -1,13 +1,7 @@
 ---
-id: 84
 title: 'Abolish birthright citizenship'
 date: '2010-09-14T14:01:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/09/14/senators-abolish-birthright-citizenship/'
-permalink: /2010/09/senators-abolish-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,7 +17,7 @@ Less-educated citizens and legal immigrants have had high rates of joblessness s
 
 This is an unsustainable situation for 30 million jobless Americans. Either the federal government must fully enforce immigration law against all illegal aliens, including those with U.S.-born children, or the U.S. should abandon the archaic practice of giving away citizenship to the children of illegal aliens.
 
-Please introduce legislation similar to H.R. 1868 to protect jobless citizens and legal immigrants from the federal government’s failure to fully enforce immigration laws by clarifying (not changing) the meaning of “subject to the jurisdiction thereof” in the 14th Amendment.
+Please introduce legislation similar to H.R. 1868 to protect jobless citizens and legal immigrants from the federal government’s failure to fully enforce immigration laws by clarifying (not changing) the meaning of "subject to the jurisdiction thereof" in the 14th Amendment.
 
 Phone me if you would like to talk about this,
 

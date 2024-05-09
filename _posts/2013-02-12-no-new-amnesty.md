@@ -1,13 +1,7 @@
 ---
-id: 1518
 title: 'No new amnesty'
 date: '2013-02-12T13:20:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1518'
-permalink: /2013/02/no-new-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 1694
 title: 'Oppose S. 744'
 date: '2013-05-16T15:39:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1694'
-permalink: /2013/05/boxer-feinstein-cook-obama-oppose-s-744/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

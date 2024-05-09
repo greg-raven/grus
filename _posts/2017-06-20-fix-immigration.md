@@ -1,13 +1,7 @@
 ---
-id: 2449
 title: 'Fix immigration'
 date: '2017-06-20T14:40:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2449'
-permalink: /2017/06/fix-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -28,4 +22,4 @@ Third, you must make good on your campaign promise to end Obama’s DACA amnesty
 
 Please don’t hesitate to contact me if you wish to discuss this.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

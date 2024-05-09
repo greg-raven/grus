@@ -1,13 +1,7 @@
 ---
-id: 2393
 title: 'Please vote to confirm Senator Sessions as AG'
 date: '2017-01-30T07:35:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2393'
-permalink: /2017/01/please-vote-to-confirm-senator-sessions-as-ag/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -20,4 +14,4 @@ For more than two decades, Senator Sessions has been the Senate’s leading voic
 
 As the nation’s chief law enforcement officer, Senator Sessions would uphold the U.S. Constitution and the rule of law by pursuing local jurisdictions that protect illegal workers from federal immigration agents and encouraging the enforcement of immigration laws passed by Congress.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 1687
 title: 'The multi-trillion dollar cost of amnesty'
 date: '2013-05-16T15:35:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1687'
-permalink: /2013/05/boxer-feinstein-cook-obama-the-multi-trillion-dollar-cost-of-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

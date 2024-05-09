@@ -1,13 +1,7 @@
 ---
-id: 2809
 title: 'Reopen America'
 date: '2020-04-23T13:23:57-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2809'
-permalink: /2020/04/reopen-america/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

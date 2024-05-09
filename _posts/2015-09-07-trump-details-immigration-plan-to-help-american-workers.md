@@ -1,13 +1,7 @@
 ---
-id: 2264
 title: 'Trump details immigration plan to help American workers'
 date: '2015-09-07T14:23:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2264'
-permalink: /2015/09/trump-details-immigration-plan-to-help-american-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,7 +15,7 @@ Donald Trump’s plan to reform America’s immigration system to benefit Americ
 
 Among the proposals in his immigration plan, Mr. Trump says he will:
 
-> “Increase prevailing wage for H-1Bs. We graduate two times more Americans with STEM degrees each year than find STEM jobs, yet as much as two-thirds of entry-level hiring for IT jobs is accomplished through the H-1B program. More than half of H-1B visas are issued for the program’s lowest allowable wage level, and more than eighty percent for its bottom two. Raising the prevailing wage paid to H-1Bs will force companies to give these coveted entry-level jobs to the existing domestic pool of unemployed native and immigrant workers in the U.S., instead of flying in cheaper workers from overseas. This will improve the number of black, Hispanic and female workers in Silicon Valley who have been passed over in favor of the H-1B program.”
+> "Increase prevailing wage for H-1Bs. We graduate two times more Americans with STEM degrees each year than find STEM jobs, yet as much as two-thirds of entry-level hiring for IT jobs is accomplished through the H-1B program. More than half of H-1B visas are issued for the program’s lowest allowable wage level, and more than eighty percent for its bottom two. Raising the prevailing wage paid to H-1Bs will force companies to give these coveted entry-level jobs to the existing domestic pool of unemployed native and immigrant workers in the U.S., instead of flying in cheaper workers from overseas. This will improve the number of black, Hispanic and female workers in Silicon Valley who have been passed over in favor of the H-1B program."
 
 I believe this is an excellent recommendation. Far too often, American workers are replaced with H-1B workers simply because these new workers cost far less money. Corporations are even forcing the American workers being replaced to train their H-1B replacements. This is a sad state of affairs that needs to be changed immediately.
 

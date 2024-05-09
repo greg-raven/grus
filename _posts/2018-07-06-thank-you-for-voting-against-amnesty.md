@@ -1,13 +1,7 @@
 ---
-id: 2588
 title: 'Thank you for voting against amnesty'
 date: '2018-07-06T14:34:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2588'
-permalink: /2018/07/thank-you-for-voting-against-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

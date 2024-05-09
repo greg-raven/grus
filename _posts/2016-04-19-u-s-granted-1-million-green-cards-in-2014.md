@@ -1,13 +1,7 @@
 ---
-id: 2314
 title: 'U.S. granted 1 million green cards in 2014'
 date: '2016-04-19T13:09:31-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2314'
-permalink: /2016/04/u-s-granted-1-million-green-cards-in-2014/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -26,4 +20,4 @@ More than 14 million Americans cannot find a full-time job and tens of millions 
 
 I urge you to do all you can to reduce immigration numbers, particularly among those who are granted legal permanent residency based on non-nuclear family ties.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

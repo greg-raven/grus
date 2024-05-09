@@ -1,14 +1,7 @@
 ---
-id: 759
 title: 'Support the SAVE act'
 date: '2012-08-02T21:24:23-08:00'
-author: 'Greg Raven'
-excerpt: 'The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration''s dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler''s SAVE Act, today!'
 layout: post
-guid: 'http://localhost:10004/?p=759'
-permalink: /2012/08/lewis-support-the-save-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -19,7 +12,7 @@ tags:
 
 Representative Jerry Lewis:
 
-The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration’s dangerous “catch and release” program. Please support H.R. 2000, Rep. Heath Shuler’s SAVE Act, today!  
+The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration’s dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler’s SAVE Act, today!  
   
 According to the report released by the Congressional Research Service, criminal illegal aliens released by order of the Obama administration are likely to commit another serious crime.
 

@@ -1,13 +1,7 @@
 ---
-id: 2258
 title: 'End birthright citizenship!'
 date: '2015-08-18T12:46:19-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2258'
-permalink: /2015/08/end-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

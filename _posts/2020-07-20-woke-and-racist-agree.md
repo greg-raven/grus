@@ -1,13 +1,7 @@
 ---
-id: 2824
 title: 'Woke and racist agree'
 date: '2020-07-20T04:34:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2824'
-permalink: /2020/07/woke-and-racist-agree/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 tags:

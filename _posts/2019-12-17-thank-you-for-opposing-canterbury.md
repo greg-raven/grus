@@ -1,13 +1,7 @@
 ---
-id: 2774
 title: 'Thank you for opposing Canterbury'
 date: '2019-12-17T05:42:26-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2774'
-permalink: /2019/12/thank-you-for-opposing-canterbury/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -18,7 +12,7 @@ tags:
     - 'Senator Mike Lee'
 ---
 
-- Nominee to lead ATF supports “red flag” gun confiscation orders.
+- Nominee to lead ATF supports "red flag" gun confiscation orders.
 
 Thank you for your bold defense of the Second Amendment!
 
@@ -26,7 +20,7 @@ Gun Owners of America has highlighted your recent actions which helped to indefi
 
 Canterbury clearly has no idea how the ATF operates, as evidenced by the hearing in July.
 
-But even more concerning to me was his responses to questions for the record which indicated that he would be “happy” to work with Senator Dianne Feinstein on “red flag” gun confiscation!
+But even more concerning to me was his responses to questions for the record which indicated that he would be "happy" to work with Senator Dianne Feinstein on "red flag" gun confiscation!
 
 Not only that, but he also promised Senator Kamala Harris that he would enforce an unconstitutional assault weapons ban.
 

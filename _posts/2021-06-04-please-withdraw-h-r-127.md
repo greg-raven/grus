@@ -1,13 +1,7 @@
 ---
-id: 2895
 title: 'Please withdraw H.R. 127'
 date: '2021-06-04T05:52:52-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2895'
-permalink: /2021/06/please-withdraw-h-r-127/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

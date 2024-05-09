@@ -1,13 +1,7 @@
 ---
-id: 2821
 title: 'Rasmussen immigration poll supports E-Verify'
 date: '2020-07-14T05:35:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2821'
-permalink: /2020/07/rasmussen-immigration-poll-supports-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

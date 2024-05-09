@@ -1,13 +1,7 @@
 ---
-id: 2625
 title: 'Please do NOT sign SB 822 into law'
 date: '2018-09-14T12:56:22-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2625'
-permalink: /2018/09/please-do-not-sign-sb-822-into-law/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

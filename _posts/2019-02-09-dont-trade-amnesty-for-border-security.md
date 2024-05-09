@@ -1,13 +1,7 @@
 ---
-id: 2718
 title: 'Don&#8217;t trade amnesty for border security'
 date: '2019-02-09T05:27:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2718'
-permalink: /2019/02/dont-trade-amnesty-for-border-security/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

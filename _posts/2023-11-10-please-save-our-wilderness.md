@@ -1,13 +1,7 @@
 ---
-id: 3159
 title: 'Please save our wilderness'
 date: '2023-11-10T05:17:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3159'
-permalink: /2023/11/please-save-our-wilderness/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

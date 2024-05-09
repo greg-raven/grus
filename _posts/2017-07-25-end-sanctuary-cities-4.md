@@ -1,13 +1,7 @@
 ---
-id: 2466
 title: 'Support the sanctuary city bill'
 date: '2017-07-25T05:00:38-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2466'
-permalink: /2017/07/end-sanctuary-cities-4/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

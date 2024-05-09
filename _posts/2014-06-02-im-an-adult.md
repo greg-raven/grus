@@ -1,16 +1,15 @@
 ---
-id: 1993
-title: 'I&#8217;m an adult'
+title: "I'm an adult"
 date: '2014-06-02T13:53:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1993'
-permalink: /2014/06/im-an-adult/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Cartoon
-format: image
 ---
 
-![I-am-an-adult](https://www.gregraven.us/_assets/img/2014/06/I-am-an-adult.jpg)
+I think you should pay for your own mortgage, birth control, college loans, food, and cell phones. 
+
+This isn't because I'm Conservative. It's because I'm an adult.
+
+![I am an adult](/assets/img/2014/06/I-am-an-adult.jpg)
+
+Source: [Patriot Post](https://patriotpost.us)

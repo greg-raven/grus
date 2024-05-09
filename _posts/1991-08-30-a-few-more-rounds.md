@@ -1,13 +1,7 @@
 ---
-id: 2856
 title: 'A few more rounds'
 date: '1991-08-30T08:06:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2856'
-permalink: /1991/08/a-few-more-rounds/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

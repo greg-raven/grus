@@ -1,13 +1,7 @@
 ---
-id: 3108
 title: 'Help fix the border by cosponsoring H.R. 29, the Border Safety and Security Act'
 date: '2023-02-06T14:10:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3108'
-permalink: /2023/02/help-fix-the-border-by-cosponsoring-h-r-29-the-border-safety-and-security-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

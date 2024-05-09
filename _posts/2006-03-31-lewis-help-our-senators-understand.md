@@ -1,13 +1,7 @@
 ---
-id: 210
 title: 'Help our senators understand'
 date: '2006-03-31T03:02:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/03/31/lewis-help-our-senators-understand/'
-permalink: /2006/03/lewis-help-our-senators-understand/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

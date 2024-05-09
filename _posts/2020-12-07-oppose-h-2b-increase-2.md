@@ -1,13 +1,7 @@
 ---
-id: 2853
 title: 'Oppose H-2B Increase'
 date: '2020-12-07T07:17:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2853'
-permalink: /2020/12/oppose-h-2b-increase-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2735
 title: 'Oppose gun control'
 date: '1991-04-27T05:17:58-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2735'
-permalink: /1991/04/oppose-gun-control/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

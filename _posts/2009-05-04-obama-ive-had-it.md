@@ -1,13 +1,7 @@
 ---
-id: 113
 title: 'I&#8217;ve had it with you and your administration'
 date: '2009-05-04T12:35:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/05/04/obama-ive-had-it/'
-permalink: /2009/05/obama-ive-had-it/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -24,9 +18,9 @@ I am convinced that you and the members of your administration have the historic
 
 You are so self-righteously offended by the big bankers and the American automobile manufacturers yet do nothing about the real thieves in this situation, Mr. Dodd, Mr. Frank, Franklin Raines, Jamie Gorelic, the Fannie Mae bonuses, and the Freddie Mac bonuses. What do you intend to do about them? Anything? I seriously doubt it.
 
-What about the U.S. House members passing out $9.1 million in bonuses to their staff members — on top of the $2.5 million in automatic pay raises that lawmakers gave themselves? I understand the average House aide got a 17% bonus. You haven’t said anything about that. Who authorized that? I surely didn’t!
+What about the U.S. House members passing out $9.1 million in bonuses to their staff members --- on top of the $2.5 million in automatic pay raises that lawmakers gave themselves? I understand the average House aide got a 17% bonus. You haven’t said anything about that. Who authorized that? I surely didn’t!
 
-Executives at Fannie Mae and Freddie Mac will be receiving $210 million in bonuses over an eighteen-month period, that’s $45 million more than the AIG bonuses. In fact, Fannie and Freddie executives have already been awarded $51 million — not a bad take. Who authorized that and why haven’t you expressed your outrage at this group who are largely responsible for the economic mess we have right now.
+Executives at Fannie Mae and Freddie Mac will be receiving $210 million in bonuses over an eighteen-month period, that’s $45 million more than the AIG bonuses. In fact, Fannie and Freddie executives have already been awarded $51 million --- not a bad take. Who authorized that and why haven’t you expressed your outrage at this group who are largely responsible for the economic mess we have right now.
 
 I resent that you take my fellow citizens and me as brain-dead and not caring about what you idiots do. We are watching what you are doing and we are getting increasingly fed up with all of you. I also want you to know that I personally find just about everything you do and say to be offensive to every one of my sensibilities. I promise you that I will work tirelessly to see that you do not get a chance to spend two terms destroying my beautiful country.
 

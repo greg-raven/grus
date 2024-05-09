@@ -1,13 +1,7 @@
 ---
-id: 2181
 title: 'Help end chain migration'
 date: '2015-03-19T05:50:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2181'
-permalink: /2015/03/help-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

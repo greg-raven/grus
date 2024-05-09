@@ -1,13 +1,7 @@
 ---
-id: 2448
 title: 'Fix vote fraud'
 date: '2017-06-20T14:26:54-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2448'
-permalink: /2017/06/fix-vote-fraud/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,8 +15,8 @@ However, there is an easy solution that severely limits the possibility of vote 
 
 Simply put, have everyone re-register to vote before each election.
 
-Obviously, you retain previous vote registrations for reference, but having everyone re-register for each election should virtually eliminate duplicates, people who have moved without “de-registering,” fraud, etc.
+Obviously, you retain previous vote registrations for reference, but having everyone re-register for each election should virtually eliminate duplicates, people who have moved without "de-registering," fraud, etc.
 
 Please don’t hesitate to contact me if you wish to discuss this.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

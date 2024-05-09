@@ -1,13 +1,7 @@
 ---
-id: 3038
 title: 'Immigration hurts minority workers, especially American descendants of slavery'
 date: '2022-08-25T04:46:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3038'
-permalink: /2022/08/immigration-hurts-minority-workers-especially-american-descendants-of-slavery/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

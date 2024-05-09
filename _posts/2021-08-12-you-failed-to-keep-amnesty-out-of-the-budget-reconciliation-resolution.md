@@ -1,13 +1,7 @@
 ---
-id: 2914
 title: 'You failed to keep amnesty out of the budget reconciliation resolution'
 date: '2021-08-12T13:20:07-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2914'
-permalink: /2021/08/you-failed-to-keep-amnesty-out-of-the-budget-reconciliation-resolution/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

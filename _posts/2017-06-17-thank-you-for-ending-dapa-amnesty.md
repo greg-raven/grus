@@ -1,13 +1,7 @@
 ---
-id: 2445
 title: 'Thank you for ending DAPA amnesty'
 date: '2017-06-17T08:00:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2445'
-permalink: /2017/06/thank-you-for-ending-dapa-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,4 +16,4 @@ While I am glad that these programs have been ended, I am disappointed that you 
 
 Giving any rewards to illegal aliens is just plain wrong and only encourages future illegal immigration. Thank you for ending these programs and please act soon to end the full DACA program.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

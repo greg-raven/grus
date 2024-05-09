@@ -1,13 +1,7 @@
 ---
-id: 1724
 title: 'Vote &#8216;no&#8217; on this latest amnesty'
 date: '2013-06-10T05:46:07-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1724'
-permalink: /2013/06/boxer-feinstein-vote-no-on-this-latest-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -28,4 +22,4 @@ Phone me if you would like to talk about this.
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. No more lies! Secure the border. Evict the illegals already here. Evict the “anchor babies” and their families. Prosecute any remaining illegals under the RICO act. Return to the rule of law!
+P.S. No more lies! Secure the border. Evict the illegals already here. Evict the "anchor babies" and their families. Prosecute any remaining illegals under the RICO act. Return to the rule of law!

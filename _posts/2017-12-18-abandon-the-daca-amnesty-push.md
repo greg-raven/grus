@@ -1,13 +1,7 @@
 ---
-id: 2514
 title: 'Abandon the DACA amnesty push'
 date: '2017-12-18T09:34:52-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2514'
-permalink: /2017/12/abandon-the-daca-amnesty-push/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

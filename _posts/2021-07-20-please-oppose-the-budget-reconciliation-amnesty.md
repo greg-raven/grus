@@ -1,13 +1,7 @@
 ---
-id: 2907
 title: 'Please oppose the budget reconciliation amnesty'
 date: '2021-07-20T12:24:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2907'
-permalink: /2021/07/please-oppose-the-budget-reconciliation-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

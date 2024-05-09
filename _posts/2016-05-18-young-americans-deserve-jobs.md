@@ -1,13 +1,7 @@
 ---
-id: 2324
 title: 'Young Americans deserve jobs'
 date: '2016-05-18T05:56:39-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2324'
-permalink: /2016/05/young-americans-deserve-jobs/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,6 +21,6 @@ I urge you to do all you can to give these young Americans a fighting chance of 
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. Americans first!

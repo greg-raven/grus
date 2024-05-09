@@ -1,13 +1,7 @@
 ---
-id: 2779
 title: 'No impeachment'
 date: '2019-10-29T16:07:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2779'
-permalink: /2019/10/no-impeachment-3/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

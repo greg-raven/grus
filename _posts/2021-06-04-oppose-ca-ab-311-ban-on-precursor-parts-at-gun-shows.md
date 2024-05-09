@@ -1,13 +1,7 @@
 ---
-id: 2886
 title: 'Oppose CA AB 311 &#8212; ban on precursor parts at gun shows'
 date: '2021-06-04T05:45:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2886'
-permalink: /2021/06/oppose-ca-ab-311-ban-on-precursor-parts-at-gun-shows/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 I stand with FPC and I am writing to you today to express my opposition to California AB-311, a bill that would make participation in free trade and free association even more difficult, and without any real benefit.
 
-The premise of AB-311 is to stymy the ability of vendors to deal in what are known as “firearms precursor parts.” Under existing law, vendors must already obtain a license to sell these items to the public. If AB-311 is successfully implemented, it would preclude vendors from engaging in the lawful sale of these parts at other public locations. Anyone in violation of the new law would be disenfranchised from their right to freely associate with others as it would preclude them from even being present at these locations for at least one year.
+The premise of AB-311 is to stymy the ability of vendors to deal in what are known as "firearms precursor parts." Under existing law, vendors must already obtain a license to sell these items to the public. If AB-311 is successfully implemented, it would preclude vendors from engaging in the lawful sale of these parts at other public locations. Anyone in violation of the new law would be disenfranchised from their right to freely associate with others as it would preclude them from even being present at these locations for at least one year.
 
 Free association is one of the cornerstones of our Republic. While from the perspective of some, and under very certain circumstances, it may be desirable to limit association as it applies to criminal behavior, such restrictions have always been frowned upon, from the time of our Nation’s founding to today.
 

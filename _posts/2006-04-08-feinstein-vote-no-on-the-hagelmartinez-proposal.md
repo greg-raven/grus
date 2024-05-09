@@ -1,13 +1,7 @@
 ---
-id: 208
 title: 'Vote no on the Hagel/Martinez proposal'
 date: '2006-04-08T01:58:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/04/08/feinstein-vote-no-on-the-hagelmartinez-proposal/'
-permalink: /2006/04/feinstein-vote-no-on-the-hagelmartinez-proposal/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

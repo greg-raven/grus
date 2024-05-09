@@ -1,13 +1,7 @@
 ---
-id: 2855
 title: 'A sad day for humanity'
 date: '2021-01-20T06:39:42-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2855'
-permalink: /2021/01/a-sad-day-for-humanity/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Commentary
 ---

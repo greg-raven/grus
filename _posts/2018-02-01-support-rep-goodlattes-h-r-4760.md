@@ -1,13 +1,7 @@
 ---
-id: 2532
 title: 'Support Rep. Goodlatte&#8217;s H.R 4760'
 date: '2018-02-01T05:46:29-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2532'
-permalink: /2018/02/support-rep-goodlattes-h-r-4760/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2614
 title: 'Close the Landlord Taskforce'
 date: '2018-08-27T09:49:48-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2614'
-permalink: /2018/08/close-the-landlord-taskforce/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 22
 title: 'Stop &#8216;extra&#8217; visas'
 date: '2012-02-21T11:43:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/21/boxer-feinstein-stop-extra-visas/'
-permalink: /2012/02/boxer-feinstein-stop-extra-visas/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

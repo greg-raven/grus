@@ -1,13 +1,7 @@
 ---
-id: 1909
 title: '&#8216;Comprehensive immigration reform&#8217; will harm Americans'
 date: '2013-12-07T07:39:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://127.0.0.1:8080/wordpress/?p=4'
-permalink: /2013/12/comprehensive-immigration-reform-will-harm-americans/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2888
 title: 'Oppose CA AB-1223 &#8212; taxing gun ownership'
 date: '2021-06-04T05:47:45-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2888'
-permalink: /2021/06/oppose-ca-ab-1223-taxing-gun-ownership/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 I am writing to you today to express my opposition to AB-1223, which would impose an unjust financial burden on working-class Californians by placing a tax on firearms and ammunition sales.
 
-AB-1223 would impose a 10% tax on the sale of a handguns and places an 11% tax on all long guns, rifles, firearm precursor parts and ammunition. Just as poll taxes, a method used to prevent minorities from voting, were found unconstitutional, so is an imposition of taxes to prevent people from the exercise of their other fundamental rights — this includes the right to keep and bear arms.
+AB-1223 would impose a 10% tax on the sale of a handguns and places an 11% tax on all long guns, rifles, firearm precursor parts and ammunition. Just as poll taxes, a method used to prevent minorities from voting, were found unconstitutional, so is an imposition of taxes to prevent people from the exercise of their other fundamental rights --- this includes the right to keep and bear arms.
 
 By placing taxes on guns and ammunition, AB-1223’s author, is saying that working-class Californians do not deserve the right to self-defense. For these reasons I urge you to join me in opposing AB-1223.
 

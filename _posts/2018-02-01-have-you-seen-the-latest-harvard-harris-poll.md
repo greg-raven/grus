@@ -1,13 +1,7 @@
 ---
-id: 2530
 title: 'Have you seen the latest Harvard-Harris poll?'
 date: '2018-02-01T05:43:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2530'
-permalink: /2018/02/have-you-seen-the-latest-harvard-harris-poll/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

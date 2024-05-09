@@ -1,13 +1,7 @@
 ---
-id: 1965
 title: 'Support the Border Security Caucus'
 date: '2014-03-24T15:09:55-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1965'
-permalink: /2014/03/support-the-border-security-caucus/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

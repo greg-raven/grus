@@ -1,13 +1,7 @@
 ---
-id: 2172
 title: 'Please cosponsor legislation to end birthright citizenship'
 date: '2015-03-19T05:44:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2172'
-permalink: /2015/03/please-co-sponsor-legislation-to-end-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,9 +11,9 @@ tags:
 
 An op-ed in a recent edition of USA Today explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation by cosponsoring Rep. Steve King’s H.R. 140.
 
-8 U.S. Code § 1401 currently says that “a person born in the United States, and subject to the jurisdiction thereof shall be nationals and citizens of the United States at birth.” Clearly, the Constitution does not need to be changed in order to prevent the children of illegal aliens from receiving birthright citizenship; a simple piece of legislation will do.
+8 U.S. Code § 1401 currently says that "a person born in the United States, and subject to the jurisdiction thereof shall be nationals and citizens of the United States at birth." Clearly, the Constitution does not need to be changed in order to prevent the children of illegal aliens from receiving birthright citizenship; a simple piece of legislation will do.
 
-The United States is almost the only industrialized nation to still practice jus soli — birthright citizenship. I expect you to help America get with the times by supporting legislation that would change our nation’s laws and prevent the children of illegal aliens from receiving birthright citizenship. When this is done, illegal aliens will have one less anchor keeping them in this country, thereby opening of millions of jobs for America’s unemployed.
+The United States is almost the only industrialized nation to still practice jus soli --- birthright citizenship. I expect you to help America get with the times by supporting legislation that would change our nation’s laws and prevent the children of illegal aliens from receiving birthright citizenship. When this is done, illegal aliens will have one less anchor keeping them in this country, thereby opening of millions of jobs for America’s unemployed.
 
 Phone me if you would like to talk about this,
 

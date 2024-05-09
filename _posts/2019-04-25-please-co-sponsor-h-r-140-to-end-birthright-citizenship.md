@@ -1,13 +1,7 @@
 ---
-id: 2734
 title: 'Please cosponsor H.R. 140 to end birthright citizenship'
 date: '2019-04-25T04:51:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2734'
-permalink: /2019/04/please-co-sponsor-h-r-140-to-end-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

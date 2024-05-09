@@ -1,17 +1,12 @@
 ---
-id: 183
 title: 'Why John McCain?'
 date: '2008-11-06T12:05:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2008/11/06/why-john-mccain/'
-permalink: /2008/11/why-john-mccain/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Opinion
 tags:
     - politics
+    - "Hillary Clinton"
     - 'Senator John McCain'
     - 'world government'
 ---
@@ -23,3 +18,5 @@ Then magically, a couple weeks later, McCain comes bouncing back. He’s got ple
 I can’t prove this, but it seems clear to me that McCain was maneuvered into place as the Republican Party candidate because someone or some group needed a Republican candidate who would lose to Hillary Clinton or Barack Obama, yet be controllable if by some miracle he won the election. That is, he was cannon fodder.
 
 I realize that the implication is that this election was rigged months (years?) ago, but there really is no other explanation as to why such a defective person as John McCain received his party’s nomination.
+
+[Greg Raven](https://www.gregraven.org/), Apple Valley, CA

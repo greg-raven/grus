@@ -1,13 +1,7 @@
 ---
-id: 2878
 title: 'Help stop the Biden amnesty'
 date: '2021-04-21T05:55:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2878'
-permalink: /2021/04/help-stop-the-biden-amnesty-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

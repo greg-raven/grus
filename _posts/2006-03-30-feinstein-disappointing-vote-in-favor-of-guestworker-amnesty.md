@@ -1,13 +1,7 @@
 ---
-id: 211
 title: 'Disappointing vote in favor of guestworker amnesty'
 date: '2006-03-30T15:00:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/03/30/feinstein-disappointing-vote-in-favor-of-guestworker-amnesty/'
-permalink: /2006/03/feinstein-disappointing-vote-in-favor-of-guestworker-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 I am not sure why you believe it is good policy to reward illegal aliens with jobs and legal status, but I am totally opposed to it. I’m disappointed in your vote in favor of amnesty-guestworker.
 
-Perhaps you were not aware of the GAO report that found that U.S. Citizenship and Immigration Services, the agency expected to manage a guest-worker program, “doesn’t have a handle on fraud, doesn’t do enough to deter it, and won’t have a fraud-management system in place until 2011.”
+Perhaps you were not aware of the GAO report that found that U.S. Citizenship and Immigration Services, the agency expected to manage a guest-worker program, "doesn’t have a handle on fraud, doesn’t do enough to deter it, and won’t have a fraud-management system in place until 2011."
 
 Or, perhaps you were not aware of the then-INS data that show illegal immigration spiked after the massive 1986 IRCA amnesty because the amnesty sent the message to hundreds of thousands of potential illegal aliens that the U.S. is not serious about enforcing its immigration laws.
 

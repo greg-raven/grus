@@ -1,13 +1,7 @@
 ---
-id: 3097
 title: 'Vote NO on H.R. 3648, the EAGLE Act'
 date: '2022-12-10T04:42:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3097'
-permalink: /2022/12/vote-no-on-h-r-3648-the-eagle-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

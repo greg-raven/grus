@@ -1,13 +1,7 @@
 ---
-id: 2467
 title: 'Don&#8217;t allow DACA illegal aliens to compete with Americans for government jobs'
 date: '2017-07-25T05:39:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2467'
-permalink: /2017/07/dont-allow-daca-illegal-aliens-to-compete-with-americans-for-government-jobs/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2166
 title: 'Stop Obama&#8217;s illegal executive amnesties'
 date: '2015-03-19T05:39:22-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2166'
-permalink: /2015/03/stop-obamas-illegal-executive-amnesties/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

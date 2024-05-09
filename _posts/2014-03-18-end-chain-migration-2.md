@@ -1,13 +1,7 @@
 ---
-id: 2109
 title: 'End chain migration'
 date: '2014-03-18T14:56:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1958'
-permalink: /2014/03/end-chain-migration-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

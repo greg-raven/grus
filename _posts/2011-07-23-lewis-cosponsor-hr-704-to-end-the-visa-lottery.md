@@ -1,13 +1,7 @@
 ---
-id: 55
 title: 'Cosponsor HR 704 to end the visa lottery'
 date: '2011-07-23T12:44:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2011/07/23/lewis-cosponsor-hr-704-to-end-the-visa-lottery/'
-permalink: /2011/07/lewis-cosponsor-hr-704-to-end-the-visa-lottery/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

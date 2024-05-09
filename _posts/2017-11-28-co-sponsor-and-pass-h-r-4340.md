@@ -1,13 +1,7 @@
 ---
-id: 2503
 title: 'Cosponsor and pass H.R. 4340'
 date: '2017-11-28T13:22:32-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2503'
-permalink: /2017/11/co-sponsor-and-pass-h-r-4340/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

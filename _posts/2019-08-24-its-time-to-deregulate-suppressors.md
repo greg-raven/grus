@@ -1,13 +1,7 @@
 ---
-id: 2752
 title: 'It&#8217;s time to deregulate suppressors'
 date: '2019-08-24T13:38:12-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2752'
-permalink: /2019/08/its-time-to-deregulate-suppressors/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

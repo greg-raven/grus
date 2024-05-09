@@ -1,13 +1,7 @@
 ---
-id: 2337
 title: 'Oppose H-2B foreign worker increases'
 date: '2016-07-02T04:54:58-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2337'
-permalink: /2016/07/oppose-h-2b-foreign-worker-increases/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -28,4 +22,4 @@ Investigative reports have shown that businesses are more than willing to fire A
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

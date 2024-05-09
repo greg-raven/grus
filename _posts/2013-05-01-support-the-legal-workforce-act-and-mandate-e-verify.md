@@ -1,13 +1,7 @@
 ---
-id: 1669
 title: 'Support the Legal Workforce Act and mandate E-Verify'
 date: '2013-05-01T10:45:58-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1669'
-permalink: /2013/05/support-the-legal-workforce-act-and-mandate-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,4 +19,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. We must do everything possible to favor existing U.S. citizens and discourage foreigners — especially illegal foreigners. A nation without borders is not a nation.
+P.S. We must do everything possible to favor existing U.S. citizens and discourage foreigners --- especially illegal foreigners. A nation without borders is not a nation.

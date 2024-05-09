@@ -1,13 +1,7 @@
 ---
-id: 1880
 title: 'Stop preferential treatment of H-1B workers'
 date: '2013-10-02T14:07:39-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1880'
-permalink: /2013/10/stop-preferential-treatment-of-h-1b-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

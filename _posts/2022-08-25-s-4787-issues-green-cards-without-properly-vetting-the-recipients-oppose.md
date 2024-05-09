@@ -1,13 +1,7 @@
 ---
-id: 3041
 title: 'S. 4787 issues green cards without properly vetting the recipients. Oppose.'
 date: '2022-08-25T04:48:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3041'
-permalink: /2022/08/s-4787-issues-green-cards-without-properly-vetting-the-recipients-oppose/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2005
 title: 'Obama&#8217;s accomplishments'
 date: '2014-06-20T04:06:50-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2005'
-permalink: /2014/06/obamas-accomplishments/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Commentary
 tags:
@@ -24,7 +18,7 @@ Here is a list of his impressive accomplishments:
 - First President to violate the War Powers Act.
 - First President to be held in contempt of court for illegally obstructing oil drilling in the Gulf of Mexico.
 - First President to require all Americans to purchase a product from a third party.
-- First President to spend a trillion dollars on “shovel-ready” jobs when there was no such thing as “shovel-ready” jobs.
+- First President to spend a trillion dollars on "shovel-ready" jobs when there was no such thing as "shovel-ready" jobs.
 - First President to abrogate bankruptcy law to turn over control of companies to his union supporters.
 - First President to by-pass Congress and implement the Dream Act through executive fiat.
 - First President to order a secret amnesty program that stopped the deportation of illegal immigrants across the U.S., including those with criminal convictions.
@@ -45,11 +39,11 @@ Here is a list of his impressive accomplishments:
 - First President to golf more than 150 separate times in his five years in office.
 - First President to hide his birth, medical, educational and travel records.
 - First President to win a Nobel Peace Prize for doing NOTHING to earn it.
-- First President to go on multiple “global apology tours” and concurrent “insult our friends” tours.
+- First President to go on multiple "global apology tours" and concurrent "insult our friends" tours.
 - First President to go on over 17 lavish vacations, in addition to date nights and White House parties for his friends paid for by the taxpayers.
 - First President to have personal servants (taxpayer funded) for his wife.
 - First President to keep a dog trainer on retainer for $102,000 a year at taxpayer expense.
 - First President to fly in a personal trainer from Chicago at least once a week at taxpayer expense.
 - First President to side with a foreign nation over one of the American 50 states (Mexico vs Arizona).
-- First President to tell the military men and women that they should pay for their own private insurance because they “volunteered to go to war and knew the consequences.”
+- First President to tell the military men and women that they should pay for their own private insurance because they "volunteered to go to war and knew the consequences."
 - Then he was the First President to tell the members of the military that THEY were UNPATRIOTIC for balking at the last suggestion. (Thank God he didn’t get away with THIS one.)

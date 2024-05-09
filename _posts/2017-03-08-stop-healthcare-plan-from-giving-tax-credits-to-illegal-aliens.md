@@ -1,13 +1,7 @@
 ---
-id: 2416
 title: 'Stop healthcare plan from giving tax credits to illegal aliens'
 date: '2017-03-08T16:32:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2416'
-permalink: /2017/03/stop-healthcare-plan-from-giving-tax-credits-to-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -24,4 +18,4 @@ Americans were made a litany of promises when President Obama announced his heal
 
 Obamacare certainly has its flaws and there is plenty room for improvement. However, making it easier for illegal aliens to receive tax credits and subsidies is not an improvement that needs to be in the Republicans’ health care overhaul. I urge you to oppose any and all efforts to pass this legislation until stringent verification measures are put in place to prevent illegal aliens from receiving health care tax credits or subsidies.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

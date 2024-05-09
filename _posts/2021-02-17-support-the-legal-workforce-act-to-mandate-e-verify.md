@@ -1,13 +1,7 @@
 ---
-id: 2863
 title: 'Support the Legal Workforce Act to mandate E-Verify'
 date: '2021-02-17T06:08:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2863'
-permalink: /2021/02/support-the-legal-workforce-act-to-mandate-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

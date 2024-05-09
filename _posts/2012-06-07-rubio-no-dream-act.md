@@ -1,13 +1,7 @@
 ---
-id: 478
 title: 'No DREAM Act'
 date: '2012-06-07T16:29:50-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=478'
-permalink: /2012/06/rubio-no-dream-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

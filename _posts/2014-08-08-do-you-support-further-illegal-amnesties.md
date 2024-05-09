@@ -1,13 +1,7 @@
 ---
-id: 2021
 title: 'Do you support further illegal amnesties?'
 date: '2014-08-08T13:43:17-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2021'
-permalink: /2014/08/do-you-support-further-illegal-amnesties/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2077
 title: 'Republicans must take concrete action to stop Obama&#8217;s amnesty'
 date: '2015-01-08T07:18:18-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2077'
-permalink: /2015/01/republicans-must-take-concrete-action-to-stop-obamas-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

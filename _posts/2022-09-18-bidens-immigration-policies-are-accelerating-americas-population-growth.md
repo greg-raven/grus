@@ -1,13 +1,7 @@
 ---
-id: 3048
 title: 'Biden&#8217;s immigration policies are accelerating America&#8217;s population growth'
 date: '2022-09-18T13:03:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3048'
-permalink: /2022/09/bidens-immigration-policies-are-accelerating-americas-population-growth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2459
 title: 'Thank you for cosponsoring H.R. 38'
 date: '2017-07-12T06:17:54-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2459'
-permalink: /2017/07/thank-you-for-cosponsoring-h-r-38/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

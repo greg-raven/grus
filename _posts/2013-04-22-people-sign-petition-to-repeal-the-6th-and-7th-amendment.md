@@ -1,13 +1,7 @@
 ---
-id: 1651
 title: 'People sign petition to repeal the 6th and 7th Amendment'
 date: '2013-04-22T16:10:07-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1651'
-permalink: /2013/04/people-sign-petition-to-repeal-the-6th-and-7th-amendment/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 format: video

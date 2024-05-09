@@ -1,13 +1,7 @@
 ---
-id: 172
 title: 'Protect U.S. workers'
 date: '2009-02-04T14:46:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/04/napolitano-protect-u-s-workers/'
-permalink: /2009/02/napolitano-protect-u-s-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

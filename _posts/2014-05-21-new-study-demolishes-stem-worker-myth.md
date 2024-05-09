@@ -1,13 +1,7 @@
 ---
-id: 1988
 title: 'New study demolishes STEM worker myth'
 date: '2014-05-21T21:12:26-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1988'
-permalink: /2014/05/new-study-demolishes-stem-worker-myth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

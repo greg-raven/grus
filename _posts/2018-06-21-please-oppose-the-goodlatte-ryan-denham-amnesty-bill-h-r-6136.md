@@ -1,13 +1,7 @@
 ---
-id: 2579
 title: 'Please oppose the Goodlatte-Ryan-Denham amnesty bill (H.R. 6136)'
 date: '2018-06-21T13:03:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2579'
-permalink: /2018/06/please-oppose-the-goodlatte-ryan-denham-amnesty-bill-h-r-6136/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

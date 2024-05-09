@@ -1,13 +1,7 @@
 ---
-id: 472
 title: 'Oppose S. 3192'
 date: '2012-06-07T16:24:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=472'
-permalink: /2012/06/boxer-feinstein-oppose-s-3192/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

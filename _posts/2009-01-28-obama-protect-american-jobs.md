@@ -1,13 +1,7 @@
 ---
-id: 177
 title: 'Protect American jobs'
 date: '2009-01-28T14:51:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/01/28/obama-protect-american-jobs/'
-permalink: /2009/01/obama-protect-american-jobs/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

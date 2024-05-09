@@ -1,13 +1,7 @@
 ---
-id: 2317
 title: 'Republicans MUST put American workers before illegal aliens'
 date: '2016-04-19T13:12:09-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2317'
-permalink: /2016/04/republicans-must-put-american-workers-before-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -24,4 +18,4 @@ More than 7 million illegal aliens have jobs in the service, construction, and m
 
 Please press the Republican leadership, especially House Speaker Paul Ryan, to bring mandatory E-Verify legislation to the floor so that Republicans can finally show they care about jobless Americans.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

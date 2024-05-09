@@ -1,13 +1,7 @@
 ---
-id: 2359
 title: 'Petition: 10 steps to fix our broken immigration enforcement system'
 date: '2016-08-05T11:40:50-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2359'
-permalink: /2016/08/petition-10-steps-to-fix-our-broken-immigration-enforcement-system/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -33,6 +27,6 @@ I urge you to take legislative steps that strengthen interior enforcement, end p
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. Each of these things must be done.

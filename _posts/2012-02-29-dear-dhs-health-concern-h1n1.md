@@ -1,13 +1,7 @@
 ---
-id: 18
 title: 'Health Concern + H1N1'
 date: '2012-02-29T13:53:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/29/dear-dhs-health-concern-h1n1/'
-permalink: /2012/02/dear-dhs-health-concern-h1n1/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

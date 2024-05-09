@@ -1,13 +1,7 @@
 ---
-id: 2822
 title: 'Support President Trump&#8217;s immigration Executive Order!'
 date: '2020-07-14T05:37:20-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2822'
-permalink: /2020/07/support-president-trumps-immigration-executive-order/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

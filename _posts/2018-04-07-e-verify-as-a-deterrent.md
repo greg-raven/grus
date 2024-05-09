@@ -1,13 +1,7 @@
 ---
-id: 2557
 title: 'E-Verify as a deterrent'
 date: '2018-04-07T03:51:41-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2557'
-permalink: /2018/04/e-verify-as-a-deterrent/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -20,7 +14,7 @@ tags:
 
 E-Verify can act as a major deterrent for future illegal immigration. As long as employers are able to hire illegal workers, foreign nationals will continue to attempt to enter the country illegally, either through illegal border crossings or overstaying a visa.
 
-But aliens who enter “credible fear” claims can apply for a work permit 150 days after they file their asylum application. Therefore, Congress needs to make changes to existing laws in addition to requiring all employers to use E-Verify.
+But aliens who enter "credible fear" claims can apply for a work permit 150 days after they file their asylum application. Therefore, Congress needs to make changes to existing laws in addition to requiring all employers to use E-Verify.
 
 The House Judiciary Committee has already marked up and passed three pieces of legislation that would accomplish these goals:
 

@@ -1,13 +1,7 @@
 ---
-id: 2531
 title: 'Support Rep. Goodlatte&#8217;s Securing America&#8217;s Future Act'
 date: '2018-02-01T05:45:31-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2531'
-permalink: /2018/02/support-rep-goodlattes-securing-americas-future-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

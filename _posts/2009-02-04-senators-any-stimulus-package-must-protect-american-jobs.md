@@ -1,13 +1,7 @@
 ---
-id: 171
 title: 'Any &#8216;stimulus&#8217; package must protect American jobs'
 date: '2009-02-04T14:47:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/04/senators-any-stimulus-package-must-protect-american-jobs/'
-permalink: /2009/02/senators-any-stimulus-package-must-protect-american-jobs/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

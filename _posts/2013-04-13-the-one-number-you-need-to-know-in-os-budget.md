@@ -1,13 +1,7 @@
 ---
-id: 1613
 title: 'The One Number You Need to Know in O&#8217;s Budget'
 date: '2013-04-13T12:15:48-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1613'
-permalink: /2013/04/the-one-number-you-need-to-know-in-os-budget/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Information
 tags:
@@ -19,10 +13,10 @@ By Kevin D. Williamson
 
 Here’s the number to keep in mind: $763 billion.
 
-If enacted, Barack Obama’s latest budget would mean that in just ten years, interest payments alone on the national debt would begin pushing the trillion-dollar mark: $763 billion a year by 2023. That may be a rosy estimate: It assumes that interest rates, currently near historic lows, do not rise a great deal over the next ten years as the Treasury continues to pile up new debt. If interest rates do climb a bit higher — not even to their historical average, but higher than they have been of late — then those interest payments easily could be more than $1 trillion a year.  
+If enacted, Barack Obama’s latest budget would mean that in just ten years, interest payments alone on the national debt would begin pushing the trillion-dollar mark: $763 billion a year by 2023. That may be a rosy estimate: It assumes that interest rates, currently near historic lows, do not rise a great deal over the next ten years as the Treasury continues to pile up new debt. If interest rates do climb a bit higher --- not even to their historical average, but higher than they have been of late --- then those interest payments easily could be more than $1 trillion a year.  
   
 But let’s stay with that $763 billion a year for now. How much money is that? It is more money than the federal government spent on anything in 2011: The largest single spending item in 2011, Social Security, amounted to only $725 billion. Department of Defense spending was only (only!) $700 billion, and all nondefense discretionary spending combined amounted to only $646 billion. If you believe the welfare state is too expensive now, or that we spend too much money on the military, consider that President Obama proposes to spend more than that merely making interest payments on all the debt his budget would help pile up. How much debt? How about $8.5 trillion in new debt over the next decade, for a total of more than $25 trillion in national debt. At 6 percent interest, it would cost us $1.5 trillion a year to service that debt: about the size of President Clinton’s entire proposed budget for 1995.
 
-\[…\]
+\[...\]
 
-Source: [National Review](http://www.nationalreview.com/).
+Source: [National Review](https://www.nationalreview.com/).

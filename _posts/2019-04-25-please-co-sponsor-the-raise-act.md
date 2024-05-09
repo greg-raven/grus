@@ -1,13 +1,7 @@
 ---
-id: 2731
 title: 'Please cosponsor the RAISE Act'
 date: '2019-04-25T04:40:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2731'
-permalink: /2019/04/please-co-sponsor-the-raise-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 3100
 title: 'Restore hope to American workers'
 date: '2022-12-26T04:50:31-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3100'
-permalink: /2022/12/restore-hope-to-american-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

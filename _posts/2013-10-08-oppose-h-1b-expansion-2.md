@@ -1,13 +1,7 @@
 ---
-id: 2105
 title: 'Oppose H-1B expansion'
 date: '2013-10-08T13:57:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1886'
-permalink: /2013/10/oppose-h-1b-expansion-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

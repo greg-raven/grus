@@ -1,13 +1,7 @@
 ---
-id: 451
 title: 'Defeat ACA 27'
 date: '2012-06-07T16:12:10-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=451'
-permalink: /2012/06/perez-defeat-aca-27/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

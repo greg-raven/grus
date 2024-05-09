@@ -1,13 +1,7 @@
 ---
-id: 2273
 title: 'Stop Syrian refugee settlement in the U.S.'
 date: '2015-11-09T15:33:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2273'
-permalink: /2015/11/stop-syrian-refugee-settlement-in-the-u-s/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ I urge you to make the right choice both for Syrian refugees and the United Stat
 
 Sincerely,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

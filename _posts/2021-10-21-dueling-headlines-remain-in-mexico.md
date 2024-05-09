@@ -1,13 +1,7 @@
 ---
-id: 2946
 title: 'Dueling headlines: Remain in Mexico edition'
 date: '2021-10-21T06:06:38-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2946'
-permalink: /2021/10/dueling-headlines-remain-in-mexico/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Information
 tags:
@@ -16,8 +10,12 @@ tags:
 
 Then:
 
-> Donald Trump’s “Remain in Mexico” policy is dangerous, inhumane, and goes against everything we stand for as a nation of immigrants. My administration will end it. <https://t.co/toYzMaPP1Y>— Joe Biden (@JoeBiden) [March 12, 2020](https://twitter.com/JoeBiden/status/1237893066981117956?ref_src=twsrc%5Etfw)
+> Donald Trump’s "Remain in Mexico" policy is dangerous, inhumane, and goes against everything we stand for as a nation of immigrants. My administration will end it.
+>
+> --- Joe Biden (@JoeBiden)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump&#39;s &quot;Remain in Mexico&quot; policy is dangerous, inhumane, and goes against everything we stand for as a nation of immigrants. My administration will end it. <a href="https://t.co/toYzMaPP1Y">https://t.co/toYzMaPP1Y</a></p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1237893066981117956?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Now:
 
-<figure class="wp-block-image size-large">[![](https://www.gregraven.us/wp-content/uploads/2021/10/20211015-remain-in-mexico-1024x219.png)](https://www.gregraven.us/wp-content/uploads/2021/10/20211015-remain-in-mexico.png)</figure>
+![](/assets/img/2021/10/20211015-remain-in-mexico.png)

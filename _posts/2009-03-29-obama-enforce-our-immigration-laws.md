@@ -1,13 +1,7 @@
 ---
-id: 153
 title: 'Enforce our immigration laws'
 date: '2009-03-29T02:01:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/03/29/obama-enforce-our-immigration-laws/'
-permalink: /2009/03/obama-enforce-our-immigration-laws/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

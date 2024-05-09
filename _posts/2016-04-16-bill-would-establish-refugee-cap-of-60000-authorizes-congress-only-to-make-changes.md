@@ -1,13 +1,7 @@
 ---
-id: 2309
 title: 'Bill would establish refugee cap of 60,000, Authorizes Congress, only, to make changes'
 date: '2016-04-16T13:05:03-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2309'
-permalink: /2016/04/bill-would-establish-refugee-cap-of-60000-authorizes-congress-only-to-make-changes/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -31,4 +25,4 @@ The Refugee Program Integrity Restoration Act would:
 
 This legislation would make our country a safer place and, more importantly, put control of the Refugee program back in Congress’ hands. Please push for a House vote on H.R. 4731, the Refugee Program Integrity Restoration Act.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

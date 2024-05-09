@@ -1,13 +1,7 @@
 ---
-id: 38
 title: 'H-1B spouses'
 date: '2012-02-09T21:10:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/feinstein-boxer-lewis-h-1b-spouses/'
-permalink: /2012/02/feinstein-boxer-lewis-h-1b-spouses/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -29,4 +23,4 @@ I’m sure you realize that President Obama’s plan violates the law. Only the 
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 2811
 title: 'Thank you for opposing worker importation &#038; amnesty'
 date: '2020-05-19T05:47:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2811'
-permalink: /2020/05/thank-you-for-opposing-worker-importation-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

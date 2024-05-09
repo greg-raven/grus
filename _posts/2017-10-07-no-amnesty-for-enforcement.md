@@ -1,13 +1,7 @@
 ---
-id: 2488
 title: 'No amnesty for enforcement'
 date: '2017-10-07T04:40:21-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2488'
-permalink: /2017/10/no-amnesty-for-enforcement/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -20,9 +14,9 @@ tags:
     - 'Senator Mitch McConnell'
 ---
 
-I expect you to oppose the SUCCEED Act any effort to trade amnesty for immigration enforcement — it’s simply not enough and won’t stop illegal immigration!
+I expect you to oppose the SUCCEED Act any effort to trade amnesty for immigration enforcement --- it’s simply not enough and won’t stop illegal immigration!
 
-If such a deal happens, illegal aliens will still be able to hold U.S. jobs. Moreover, border security, alone, does nothing to stop visa overstayers — who account for 40% of the illegal alien population — from staying and taking jobs. Mandating E-Verify would go a long way to solving this problem by preventing illegal aliens from obtaining jobs in the U.S. — the primary magnet for illegal immigration.
+If such a deal happens, illegal aliens will still be able to hold U.S. jobs. Moreover, border security, alone, does nothing to stop visa overstayers --- who account for 40% of the illegal alien population --- from staying and taking jobs. Mandating E-Verify would go a long way to solving this problem by preventing illegal aliens from obtaining jobs in the U.S. --- the primary magnet for illegal immigration.
 
 Before any discussion of amnesty, Congress also needs to end chain migration. A new study by the Center for Immigration Studies shows that each illegal alien who receives an amnesty would sponsor, on average, 3.45 family members for green cards.
 

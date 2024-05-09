@@ -1,13 +1,7 @@
 ---
-id: 2461
 title: 'Vote to end sanctuary cities'
 date: '2017-07-13T05:37:33-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2461'
-permalink: /2017/07/vote-to-end-sanctuary-cities/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2785
 title: 'No DACA amnesty; E-Verify instead'
 date: '2020-03-11T05:37:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2785'
-permalink: /2020/03/no-daca-amnesty-e-verify-instead/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

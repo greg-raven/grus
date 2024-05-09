@@ -1,13 +1,7 @@
 ---
-id: 2278
 title: 'Please stop forcing U.S. population growth'
 date: '2015-11-09T15:50:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2278'
-permalink: /2015/11/please-stop-forcing-u-s-population-growth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

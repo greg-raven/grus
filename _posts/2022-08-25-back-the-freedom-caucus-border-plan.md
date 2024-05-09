@@ -1,13 +1,7 @@
 ---
-id: 3042
 title: 'Back the Freedom Caucus&#8217; border plan!'
 date: '2022-08-25T04:50:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3042'
-permalink: /2022/08/back-the-freedom-caucus-border-plan/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

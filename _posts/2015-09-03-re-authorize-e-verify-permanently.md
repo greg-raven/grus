@@ -1,13 +1,7 @@
 ---
-id: 2261
 title: 'Re-authorize E-Verify permanently'
 date: '2015-09-03T13:41:57-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2261'
-permalink: /2015/09/re-authorize-e-verify-permanently/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

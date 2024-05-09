@@ -1,14 +1,7 @@
 ---
-id: 227
 title: 'Support S. 1362'
 date: '2006-02-24T13:17:00-08:00'
-author: 'Greg Raven'
-excerpt: "It is vital that local law enforcement have the ability and funding to work in tandem with federal law enforcement dealing with criminal aliens. That is why I trust you will cosponsor the Homeland Security Enhancement Act of 2005.\r\n"
 layout: post
-guid: 'http://localhost:10004/2006/02/24/senators-support-s-1362/'
-permalink: /2006/02/senators-support-s-1362/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 20
 title: 'Domestic Security'
 date: '2012-02-29T13:52:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/29/dear-dhs-domestic-security/'
-permalink: /2012/02/dear-dhs-domestic-security/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

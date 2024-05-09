@@ -1,13 +1,7 @@
 ---
-id: 2965
 title: 'The promise of work permits encourages illegal immigration'
 date: '2021-11-15T13:58:08-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2965'
-permalink: /2021/11/the-promise-of-work-permits-encourages-illegal-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

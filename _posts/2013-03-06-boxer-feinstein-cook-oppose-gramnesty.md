@@ -1,13 +1,7 @@
 ---
-id: 1533
 title: 'Oppose Gramnesty'
 date: '2013-03-06T01:04:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1533'
-permalink: /2013/03/boxer-feinstein-cook-oppose-gramnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

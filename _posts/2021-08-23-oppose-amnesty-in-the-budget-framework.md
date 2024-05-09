@@ -1,13 +1,7 @@
 ---
-id: 2919
 title: 'Oppose amnesty in the budget framework'
 date: '2021-08-23T07:00:52-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2919'
-permalink: /2021/08/oppose-amnesty-in-the-budget-framework/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

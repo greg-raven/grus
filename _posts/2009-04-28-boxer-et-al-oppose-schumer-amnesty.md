@@ -1,13 +1,7 @@
 ---
-id: 119
 title: 'Oppose Schumer amnesty'
 date: '2009-04-28T01:19:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/28/boxer-et-al-oppose-schumer-amnesty/'
-permalink: /2009/04/boxer-et-al-oppose-schumer-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

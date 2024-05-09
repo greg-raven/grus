@@ -1,22 +1,16 @@
 ---
-id: 2350
 title: 'Inappropriate electioneering'
 date: '2016-07-28T06:20:05-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2350'
-permalink: /2016/07/inappropriate-electioneering/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
     - 'Apple Valley'
 ---
 
-Thanks to Liberty Utilities, the Apple Valley Chamber of Commerce, and the others who worked together to honor and thank our area’s first responders (“Community rallies in support of ‘Public Safety Heroes’,” *Daily Press,* July 27, 2016). Overall it was a wonderful event.
+Thanks to Liberty Utilities, the Apple Valley Chamber of Commerce, and the others who worked together to honor and thank our area’s first responders ("Community rallies in support of ‘Public Safety Heroes’," *Daily Press,* July 27, 2016). Overall it was a wonderful event.
 
-Unfortunately, one of the speakers — Apple Valley Mayor Barb Stanton — took advantage of the gathering to dilute the community’s expression of appreciation with inappropriate electioneering.
+Unfortunately, one of the speakers --- Apple Valley Mayor Barb Stanton --- took advantage of the gathering to dilute the community’s expression of appreciation with inappropriate electioneering.
 
 It was bad enough to inject this element into an assembly meant to honor others, but to do it an an event sponsored in large part by Liberty Utilities was pretty egregious, even for a politician. Worse, though, Stanton was promoting the re-election of two Town council members who are actively working to put Liberty Utilities out of business.
 
@@ -24,4 +18,4 @@ Town representatives are always quick to denigrate Liberty Utilities as being ow
 
 I hope voters remember this sordid behavior on election day. Apple Valley deserves better.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

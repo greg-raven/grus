@@ -1,13 +1,7 @@
 ---
-id: 2400
 title: 'Cosponsor mandatory E-Verify legislation'
 date: '2017-02-07T14:09:35-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2400'
-permalink: /2017/02/cosponsor-mandatory-e-verify-legislation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

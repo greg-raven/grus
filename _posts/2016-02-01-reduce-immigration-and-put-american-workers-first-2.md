@@ -1,13 +1,7 @@
 ---
-id: 2294
 title: 'Reduce immigration and put American workers first!'
 date: '2016-02-01T06:48:48-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2294'
-permalink: /2016/02/reduce-immigration-and-put-american-workers-first-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

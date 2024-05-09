@@ -1,13 +1,7 @@
 ---
-id: 2818
 title: 'Thank you for suspending more work visa categories'
 date: '2020-07-14T05:27:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2818'
-permalink: /2020/07/thank-you-for-suspending-more-work-visa-categories/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

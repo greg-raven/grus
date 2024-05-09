@@ -1,13 +1,7 @@
 ---
-id: 173
 title: 'Protect U.S. jobs'
 date: '2009-02-04T14:45:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/04/feinstein-boxer-protect-u-s-jobs/'
-permalink: /2009/02/feinstein-boxer-protect-u-s-jobs/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

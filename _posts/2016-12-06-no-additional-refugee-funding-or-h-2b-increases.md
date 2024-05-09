@@ -1,13 +1,7 @@
 ---
-id: 2376
 title: 'No additional refugee funding or H-2B increases'
 date: '2016-12-06T06:14:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2376'
-permalink: /2016/12/no-additional-refugee-funding-or-h-2b-increases/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,6 +21,6 @@ Please oppose any efforts to increase refugee resettlement spending from the cur
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. The people have spoken: No additional refugees and no additional immigration until we drain the swamp, figure out who is already here (and what they are doing), secure our border, and can vet newcomers. Our immigration system must serve American interests, not international interests or Obama’s twisted agenda.

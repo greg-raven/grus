@@ -1,13 +1,7 @@
 ---
-id: 2328
 title: 'Please cosponsor and vote for H.R. 4980'
 date: '2016-06-06T10:01:12-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2328'
-permalink: /2016/06/please-co-sponsor-and-vote-for-h-r-4980/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

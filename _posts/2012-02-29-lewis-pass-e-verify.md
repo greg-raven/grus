@@ -1,13 +1,7 @@
 ---
-id: 10
 title: 'Pass E-Verify'
 date: '2012-02-29T22:13:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/29/lewis-pass-e-verify/'
-permalink: /2012/02/lewis-pass-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

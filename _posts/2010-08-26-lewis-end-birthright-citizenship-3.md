@@ -1,13 +1,7 @@
 ---
-id: 87
 title: 'End birthright citizenship'
 date: '2010-08-26T14:22:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/08/26/lewis-end-birthright-citizenship-3/'
-permalink: /2010/08/lewis-end-birthright-citizenship-3/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. There is nothing in our laws that allows “anchor babies,” a loophole used by those who would destroy this country. We must close this loophole explicitly if we hope ever to get our country back.
+P.S. There is nothing in our laws that allows "anchor babies," a loophole used by those who would destroy this country. We must close this loophole explicitly if we hope ever to get our country back.

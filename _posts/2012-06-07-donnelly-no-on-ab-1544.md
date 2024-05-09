@@ -1,13 +1,7 @@
 ---
-id: 476
 title: 'NO on AB 1544'
 date: '2012-06-07T16:28:25-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=476'
-permalink: /2012/06/donnelly-no-on-ab-1544/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2170
 title: 'Thanks for cosponsoring legislation to mandate E-Verify'
 date: '2015-03-19T05:42:56-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2170'
-permalink: /2015/03/thanks-for-co-sponsoring-legislation-to-mandate-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 1394
 title: 'No privileges for illegals'
 date: '2012-08-30T21:50:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1394'
-permalink: /2012/08/brown-no-privileges-for-illegals/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2864
 title: 'We need a pro-worker immigration policy'
 date: '2021-02-17T06:14:49-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2864'
-permalink: /2021/02/we-need-a-pro-worker-immigration-policy/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 3128
 title: 'End human trafficking and smuggling and cosponsor E-Verify bill S. 156'
 date: '2023-05-10T06:30:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3128'
-permalink: /2023/05/end-human-trafficking-and-smuggling-and-cosponsor-e-verify-bill-s-156/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
     - 'Senator Dianne Feinstein'
 ---
 
-Democratic Senator Amy Klobuchar stated: “We must do all we can to prevent human smuggling and trafficking across both our country’s borders.”
+Democratic Senator Amy Klobuchar stated: "We must do all we can to prevent human smuggling and trafficking across both our country’s borders."
 
 E-Verify could go further in preventing human smuggling and trafficking as the primary magnet for illegal immigration is the potential to work in the United States.
 

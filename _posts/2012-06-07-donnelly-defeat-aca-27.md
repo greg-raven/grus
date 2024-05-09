@@ -1,14 +1,7 @@
 ---
-id: 474
 title: 'Defeat ACA 27'
 date: '2012-06-07T16:26:45-08:00'
-author: 'Greg Raven'
-excerpt: 'ACA 27, the amnesty constitutional amendment, is a slap in the face of every unemployed Californian. Constituents like me expect you to vote NO on this unacceptable measure.'
 layout: post
-guid: 'http://localhost:10004/?p=474'
-permalink: /2012/06/donnelly-defeat-aca-27/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2312
 title: 'Keep foreign criminals in jail'
 date: '2016-04-19T13:08:03-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2312'
-permalink: /2016/04/keep-foreign-criminals-in-jail/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,4 +19,4 @@ Countless Americans have been maimed and murdered by criminal illegal aliens. Ka
 
 Passing the Sentencing Reform Act in its current form would put more criminal aliens on our streets. This is avoidable and I am counting on your to prevent it from occurring. Please oppose this legislation until it safeguards Americans from non-citizen criminals.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

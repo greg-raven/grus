@@ -1,13 +1,7 @@
 ---
-id: 157
 title: 'We need E-Verify'
 date: '2009-03-03T14:38:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/03/03/we-need-e-verify/'
-permalink: /2009/03/we-need-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

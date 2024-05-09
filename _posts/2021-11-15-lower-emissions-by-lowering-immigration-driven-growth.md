@@ -1,13 +1,7 @@
 ---
-id: 2964
 title: 'Lower emissions by lowering immigration-driven growth'
 date: '2021-11-15T13:57:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2964'
-permalink: /2021/11/lower-emissions-by-lowering-immigration-driven-growth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

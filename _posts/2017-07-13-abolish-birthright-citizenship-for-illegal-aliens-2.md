@@ -1,13 +1,7 @@
 ---
-id: 2460
 title: 'Abolish birthright citizenship for illegal aliens'
 date: '2017-07-13T05:35:26-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2460'
-permalink: /2017/07/abolish-birthright-citizenship-for-illegal-aliens-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

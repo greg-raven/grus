@@ -1,13 +1,7 @@
 ---
-id: 95
 title: 'No to the Copenhagen Climate Treaty'
 date: '2009-11-10T23:33:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/11/10/feinstein-no-to-the-copenhagen-climate-treaty/'
-permalink: /2009/11/feinstein-no-to-the-copenhagen-climate-treaty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

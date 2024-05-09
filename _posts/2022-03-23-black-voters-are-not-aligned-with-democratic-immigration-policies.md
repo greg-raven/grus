@@ -1,13 +1,7 @@
 ---
-id: 2993
 title: 'Black voters are not aligned with Democratic immigration policies'
 date: '2022-03-23T06:08:53-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2993'
-permalink: /2022/03/black-voters-are-not-aligned-with-democratic-immigration-policies/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

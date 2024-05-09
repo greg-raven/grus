@@ -1,13 +1,7 @@
 ---
-id: 115
 title: 'No to fast-track, no to socialized health care'
 date: '2009-04-30T12:37:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/30/feinstein-no-to-fast-track-no-to-socialized-health-care/'
-permalink: /2009/04/feinstein-no-to-fast-track-no-to-socialized-health-care/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

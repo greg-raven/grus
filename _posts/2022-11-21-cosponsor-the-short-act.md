@@ -1,13 +1,7 @@
 ---
-id: 3090
 title: 'Cosponsor the SHORT Act!'
 date: '2022-11-21T15:22:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3090'
-permalink: /2022/11/cosponsor-the-short-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

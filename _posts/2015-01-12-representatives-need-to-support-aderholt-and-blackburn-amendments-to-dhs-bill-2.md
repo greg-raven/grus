@@ -1,13 +1,7 @@
 ---
-id: 2119
 title: 'Representatives Need to Support Aderholt and Blackburn Amendments to DHS Bill'
 date: '2015-01-12T16:35:27-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2084'
-permalink: /2015/01/representatives-need-to-support-aderholt-and-blackburn-amendments-to-dhs-bill-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

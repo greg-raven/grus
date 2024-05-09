@@ -1,13 +1,7 @@
 ---
-id: 1867
 title: 'Hypocrisy in hiring'
 date: '2013-09-14T15:47:04-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1867'
-permalink: /2013/09/hypocrisy-in-hiring/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -31,4 +25,4 @@ Phone me if you would like to talk about this
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. Stop all immigration, evict the illegals (including “anchor babies”) who are already here, and return to pre-1965 immigration rules!
+P.S. Stop all immigration, evict the illegals (including "anchor babies") who are already here, and return to pre-1965 immigration rules!

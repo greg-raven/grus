@@ -1,13 +1,7 @@
 ---
-id: 1973
 title: 'Help save our environment by reducing immigration'
 date: '2014-04-22T13:43:42-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1973'
-permalink: /2014/04/help-save-our-environment-by-reducing-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

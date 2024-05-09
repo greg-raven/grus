@@ -1,13 +1,7 @@
 ---
-id: 155
 title: 'Protect our unemployed'
 date: '2009-03-29T01:58:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/03/29/obama-protect-our-unemployed/'
-permalink: /2009/03/obama-protect-our-unemployed/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 134
 title: 'Obama: DHS &#8216;extremists&#8217;'
 date: '2009-04-21T01:35:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/21/dhs-extremists/'
-permalink: /2009/04/dhs-extremists/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,13 +16,13 @@ As a tax-paying citizen and American patriot, I am outraged that the Department 
   
 According to your report, even America’s Founding Fathers would be considered right-wing extremists and radicals.
 
-This “intelligence” report is nothing but a government-sponsored smear campaign against any American who believes in the individual rights and state powers guaranteed by our Constitution. This diatribe reveals an agenda that vilifies the United States Constitution and Americans who oppose illegal immigration, massive amounts of Federal spending, and the intrusion of the Federal government into every aspect of our lives.
+This "intelligence" report is nothing but a government-sponsored smear campaign against any American who believes in the individual rights and state powers guaranteed by our Constitution. This diatribe reveals an agenda that vilifies the United States Constitution and Americans who oppose illegal immigration, massive amounts of Federal spending, and the intrusion of the Federal government into every aspect of our lives.
 
 The freedom of association and the freedom of speech are guaranteed to all Americans. We won’t be silenced by your labels because we are standing peacefully and patriotically for what we know is right.
 
 Sincerely,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. How is it that your administration is frenetically boosting the centralization of power, yet refuses to exercise that power to secure our own borders?
 

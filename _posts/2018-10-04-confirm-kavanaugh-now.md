@@ -1,13 +1,7 @@
 ---
-id: 2631
 title: 'Confirm Kavanaugh now'
 date: '2018-10-04T14:30:41-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2631'
-permalink: /2018/10/confirm-kavanaugh-now/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

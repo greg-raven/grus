@@ -1,13 +1,7 @@
 ---
-id: 2339
 title: 'Support mandatory E-Verify'
 date: '2016-07-02T04:56:18-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2339'
-permalink: /2016/07/support-mandatory-e-verify-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,4 +19,4 @@ Clearly, this is an easy and effective way of putting unemployed Americans and l
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 3086
 title: 'H.R. 3648 will displace American workers &#8212; VOTE NO!'
 date: '2022-11-20T13:42:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3086'
-permalink: /2022/11/h-r-3648-will-displace-american-workers-vote-no/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

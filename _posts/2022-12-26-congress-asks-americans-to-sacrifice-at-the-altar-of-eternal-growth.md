@@ -1,13 +1,7 @@
 ---
-id: 3103
 title: 'Congress asks Americans to sacrifice at the altar of eternal growth'
 date: '2022-12-26T04:52:25-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3103'
-permalink: /2022/12/congress-asks-americans-to-sacrifice-at-the-altar-of-eternal-growth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

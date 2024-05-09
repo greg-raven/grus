@@ -1,13 +1,7 @@
 ---
-id: 1685
 title: '$6.3 trillion cost of amnesty'
 date: '2013-05-16T15:34:07-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1685'
-permalink: /2013/05/boxer-feinstein-6-3-trillion-cost-of-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 1570
 title: 'Radar shows more illegal border crossers avoid apprehension than are caught'
 date: '2013-04-05T17:45:15-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1570'
-permalink: /2013/04/radar-shows-more-illegal-border-crossers-avoid-apprehension-than-are-caught/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Information
 ---

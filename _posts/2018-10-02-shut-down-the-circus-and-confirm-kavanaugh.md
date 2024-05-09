@@ -1,13 +1,7 @@
 ---
-id: 2628
 title: 'Shut down the circus and confirm Kavanaugh'
 date: '2018-10-02T04:53:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2628'
-permalink: /2018/10/shut-down-the-circus-and-confirm-kavanaugh/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -18,7 +12,7 @@ tags:
 
 We should brook no further delay of a full Senate confirmation of Judge Brett Kavanaugh’s appointment to the Supreme Court.
 
-The latest delay was the Senate requesting the FBI to investigate “credible allegations.” There are no “credible allegations.”
+The latest delay was the Senate requesting the FBI to investigate "credible allegations." There are no "credible allegations."
 
 Lawbreaking, rule-breaking, violence, and disruption have already marred the public Kavanaugh confirmation hearings. The Senate should shut down this circus and move the Kavanaugh confirmation to a timely vote.
 

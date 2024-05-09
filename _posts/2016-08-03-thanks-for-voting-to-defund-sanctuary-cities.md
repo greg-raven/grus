@@ -1,13 +1,7 @@
 ---
-id: 2357
 title: 'Thanks for voting to defund sanctuary cities'
 date: '2016-08-03T03:07:33-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2357'
-permalink: /2016/08/thanks-for-voting-to-defund-sanctuary-cities/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,4 +17,4 @@ Thank you again for voting to defund sanctuary cities. Please continue to suppor
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

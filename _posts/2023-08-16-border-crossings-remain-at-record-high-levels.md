@@ -1,13 +1,7 @@
 ---
-id: 3135
 title: 'Border crossings remain at record-high levels'
 date: '2023-08-16T09:47:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3135'
-permalink: /2023/08/border-crossings-remain-at-record-high-levels/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

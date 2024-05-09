@@ -1,13 +1,7 @@
 ---
-id: 2297
 title: 'We need E-Verify'
 date: '2016-02-23T05:12:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2297'
-permalink: /2016/02/we-need-e-verify-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

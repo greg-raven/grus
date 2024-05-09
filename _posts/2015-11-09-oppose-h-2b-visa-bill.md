@@ -1,13 +1,7 @@
 ---
-id: 2274
 title: 'Oppose H-2B visa bill'
 date: '2015-11-09T15:36:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2274'
-permalink: /2015/11/oppose-h-2b-visa-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

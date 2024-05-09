@@ -1,13 +1,7 @@
 ---
-id: 455
 title: 'Don&#8217;t support HR 5893'
 date: '2012-06-07T16:14:53-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=455'
-permalink: /2012/06/nunes-dont-support-hr-5893/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

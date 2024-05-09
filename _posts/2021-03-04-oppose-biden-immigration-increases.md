@@ -1,13 +1,7 @@
 ---
-id: 2872
 title: 'Oppose Biden immigration increases'
 date: '2021-03-04T16:30:39-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2872'
-permalink: /2021/03/oppose-biden-immigration-increases/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
     - 'Representative Jay Obernolte'
 ---
 
-The Biden amnesty increases annual immigration by 2.4 million — please oppose it!
+The Biden amnesty increases annual immigration by 2.4 million --- please oppose it!
 
 I cannot understand why Resident Biden wants to amnesty millions of illegal aliens, expand the visa lottery, and add millions of new foreign workers while Americans are still out of work due to the COVID-19 pandemic. In addition to amnestying illegal aliens, his legislation would:
 

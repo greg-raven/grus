@@ -1,13 +1,7 @@
 ---
-id: 2016
 title: 'Poll Shows that More Americans Want Immigration Decrease'
 date: '2014-07-16T16:20:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2016'
-permalink: /2014/07/poll-shows-that-more-americans-want-immigration-decrease/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

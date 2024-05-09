@@ -1,13 +1,7 @@
 ---
-id: 2307
 title: 'Put American workers first by reducing immigration'
 date: '2016-04-13T13:02:47-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2307'
-permalink: /2016/04/put-american-workers-first-by-reducing-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -19,7 +13,7 @@ tags:
 
 As you know, our nation is still recovering from one of its most trying economic times since the Great Depression. Millions of Americans are struggling to find jobs, and the workforce participation rate is at its lowest in decades. But not a day goes by that business groups and labor unions aren’t pushing for more legal immigration.  
   
-The United States gives new work permits to 1.5 million immigrants and other foreign workers each year — not including those given to illegal aliens through Pres. Obama’s executive actions. When our nation is trillions in debt and has a shortage of millions of jobs, there is simply no way to justify these numbers. Taxpayers end up subsidizing the Americans who lose their jobs or can’t find work because of immigration.
+The United States gives new work permits to 1.5 million immigrants and other foreign workers each year --- not including those given to illegal aliens through Pres. Obama’s executive actions. When our nation is trillions in debt and has a shortage of millions of jobs, there is simply no way to justify these numbers. Taxpayers end up subsidizing the Americans who lose their jobs or can’t find work because of immigration.
 
 Recent college grads can’t find jobs. Immigrants who settled here last year can’t find jobs. Americans with a high school degree or less can’t find jobs. Who’s looking out for all these people?
 
@@ -27,4 +21,4 @@ It has been said that during bad times, ‘we the people’ find out what kind o
 
 Unemployed Americans desperately need jobs, and they’re depending on you.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 2923
 title: 'Population growth and drought don&#8217;t mix'
 date: '2021-09-10T12:46:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2923'
-permalink: /2021/09/population-growth-and-drought-dont-mix/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,7 +15,7 @@ Immigration policies exacerbate unsustainable growth of the Southwest.
 
 The Colorado river system has been harnessed to meet the water demands of unlimited population growth. But there have been grave costs, such as ecosystem collapse and the extinction of native species. Now that the U.S. Bureau of Reclamation has declared a water shortage for the Colorado River and Lake Mead, it’s time that our leaders acknowledge the limits to growth.
 
-The U.S. Census Bureau predicts that, at today’s growth rate, America’s population will reach 404 million in 40 years, and more than 90% of this increase will be from Congress’ immigration policies. However, by adopting the recommendations of the bi-partisan Jordan Commission and eliminating so-called “chain migration,” immigration rates can be brought down to more sustainable levels. To avert deeper and more critical water shortages in the future, I’m urging you to push for legislation that reduces our high rates of immigration down to a sustainable level.
+The U.S. Census Bureau predicts that, at today’s growth rate, America’s population will reach 404 million in 40 years, and more than 90% of this increase will be from Congress’ immigration policies. However, by adopting the recommendations of the bi-partisan Jordan Commission and eliminating so-called "chain migration," immigration rates can be brought down to more sustainable levels. To avert deeper and more critical water shortages in the future, I’m urging you to push for legislation that reduces our high rates of immigration down to a sustainable level.
 
 Sincerely,
 

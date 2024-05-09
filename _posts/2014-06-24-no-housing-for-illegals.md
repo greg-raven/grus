@@ -1,13 +1,7 @@
 ---
-id: 2007
 title: 'No housing for illegals!'
 date: '2014-06-24T08:58:54-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2007'
-permalink: /2014/06/no-housing-for-illegals/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,9 +15,9 @@ I cannot understand why the federal government is allowing illegal aliens to flo
 
 Health and Human Services developed secret plans to house illegal aliens captured along the border at St. Paul’s College in Lawrenceville, VA. St. Paul’s was a historically Black college that recently closed. However, once local officials and residents learned of the plan, they became outraged.
 
-“We were stunned,” said Robert F. Pecht III, president of the Lawrenceville Town Council, who learned of the plan Friday evening. “We were told it was a done deal. The lease was signed, and that was it.”
+"We were stunned," said Robert F. Pecht III, president of the Lawrenceville Town Council, who learned of the plan Friday evening. "We were told it was a done deal. The lease was signed, and that was it."
 
-Rep. Robert Hurt wrote to HHS Secretary Sylvia Mathews Burwell on Monday morning demanding she halt the project — which she then did. After the delay was announced, Rep. Hurt said it should be the beginning of a total rethink.
+Rep. Robert Hurt wrote to HHS Secretary Sylvia Mathews Burwell on Monday morning demanding she halt the project --- which she then did. After the delay was announced, Rep. Hurt said it should be the beginning of a total rethink.
 
 I hope you will protect our community like Rep. Hurt did. Please don’t allow DHS or HHS to unload illegal aliens on our state.
 

@@ -1,13 +1,7 @@
 ---
-id: 2262
 title: 'Put Americans first this Labor Day by reducing immigration and ending illegal-alien hiring'
 date: '2015-09-07T14:15:32-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2262'
-permalink: /2015/09/put-americans-first-this-labor-day-by-reducing-immigration-and-ending-illegal-alien-hiring/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

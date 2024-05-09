@@ -1,13 +1,7 @@
 ---
-id: 2823
 title: 'Vote against illegal immigration and for public safety'
 date: '2020-07-22T07:04:17-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2823'
-permalink: /2020/07/vote-against-illegal-immigration-and-for-public-safety/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -16,7 +10,7 @@ tags:
     - 'Representative Paul Cook'
 ---
 
-Vote against H.R. 2214 and H.R. 5581 — they will harm our country!
+Vote against H.R. 2214 and H.R. 5581 --- they will harm our country!
 
 The No BAN Act, H.R. 2214, introduced by Rep. Judy Chu (D-Calif.) would make it increasingly more difficult for the president to suspend immigration for certain classes of individuals where the suspension would serve in the national interest. It was under this authority that President Trump was able to suspend the entry of travelers from certain regions of the world at the onset of the Covid-19 pandemic. The No BAN Act would prevent the president from taking swift action.
 

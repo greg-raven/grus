@@ -1,13 +1,7 @@
 ---
-id: 2072
 title: 'Will Obama&#8217;s new AG reject executive amnesty?'
 date: '2014-12-11T05:49:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2072'
-permalink: /2014/12/will-obamas-new-ag-reject-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
     - 'Senator Dianne Feinstein'
 ---
 
-The Senate will soon have the opportunity to consider a replacement for Attorney General Eric Holder. Many Senators, on both sides of the aisle, have said that they oppose Pres. Obama taking executive action on immigration — actions that Eric Holder helped draft. I urge you to oppose any nominee for Attorney General that doesn’t reject Pres. Obama’s executive actions on immigration.
+The Senate will soon have the opportunity to consider a replacement for Attorney General Eric Holder. Many Senators, on both sides of the aisle, have said that they oppose Pres. Obama taking executive action on immigration --- actions that Eric Holder helped draft. I urge you to oppose any nominee for Attorney General that doesn’t reject Pres. Obama’s executive actions on immigration.
 
 The United States Attorney General is the chief law enforcement officer in the land. It is his job to make sure laws are enforced for the betterment of all Americans. Unfortunately, Eric Holder has failed at this task when it comes to immigration. Instead of making sure immigration laws are enforced, he has told government officials to ignore the law and has sought to allow illegal aliens to remain in the country, to the detriment of all Americans.
 

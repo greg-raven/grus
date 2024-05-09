@@ -1,13 +1,7 @@
 ---
-id: 2414
 title: 'Cotton bill would end chain migration and visa lottery'
 date: '2017-03-08T16:29:45-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2414'
-permalink: /2017/03/cotton-bill-would-end-chain-migration-and-visa-lottery/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -24,4 +18,4 @@ Only 1 out of every 15 foreign workers are on a skills-based visa, meaning that 
 
 Please cosponsor this legislation and work to secure its passage. Immigration needs to serve the national interest, not harm American workers.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

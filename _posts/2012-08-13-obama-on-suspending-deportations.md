@@ -1,13 +1,7 @@
 ---
-id: 1335
 title: 'Obama on suspending deportations'
 date: '2012-08-13T11:13:12-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1335'
-permalink: /2012/08/obama-on-suspending-deportations/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 749
 title: 'Get your security act together'
 date: '2012-07-24T20:16:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=749'
-permalink: /2012/07/napolitano-get-your-security-act-together/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

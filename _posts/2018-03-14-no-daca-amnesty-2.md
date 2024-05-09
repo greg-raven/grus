@@ -1,13 +1,7 @@
 ---
-id: 2548
 title: 'No DACA amnesty!'
 date: '2018-03-14T11:30:54-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2548'
-permalink: /2018/03/no-daca-amnesty-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

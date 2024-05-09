@@ -1,27 +1,32 @@
 ---
-id: 1975
 title: 'Obama photos with explanations'
 date: '2014-05-06T10:04:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1975'
-permalink: /2014/05/obama-photos-with-explanations/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Cartoon
-format: image
 ---
 
-![Obama-01](https://www.gregraven.us/_assets/img/2014/05/Obama-01.jpg)
+!["AND THIS IS WHAT YOULL GET IN FOOD STAMPS AND SECTION 8 ONCE YOU GRADUATE."](/assets/img/2014/05/Obama-01.jpg)
 
-![Obama-02](https://www.gregraven.us/_assets/img/2014/05/Obama-02.jpg)  
-![Obama-03](https://www.gregraven.us/_assets/img/2014/05/Obama-03.jpg)  
-![Obama-04](https://www.gregraven.us/_assets/img/2014/05/Obama-04.jpg)  
-![Obama-05](https://www.gregraven.us/_assets/img/2014/05/Obama-05.jpg)  
-![Obama-06](https://www.gregraven.us/_assets/img/2014/05/Obama-06.jpg)  
-![Obama-08](https://www.gregraven.us/_assets/img/2014/05/Obama-08.jpg)  
-![Obama-09](https://www.gregraven.us/_assets/img/2014/05/Obama-09.jpg)  
-![Obama-11](https://www.gregraven.us/_assets/img/2014/05/Obama-11.jpg)  
-![Obama-12](https://www.gregraven.us/_assets/img/2014/05/Obama-12.jpg)  
-![Obama-13](https://www.gregraven.us/_assets/img/2014/05/Obama-13.jpg)
+!["YA KNOW, I STILL DON'T APPRECIATE YOU PLAYING 'BORN IN THE U.S.A.' AT MY INAUGURATION."](/assets/img/2014/05/Obama-02.jpg)  
+
+!["ARE YOU THE ONE WHO TOOK ALL MY DADDY'S MONEY?"](/assets/img/2014/05/Obama-03.jpg)  
+
+!["I'LL JUST BOOK VACATIONS EVERYWHERE: IT'S NOT LIKE I'M PAYING FOR THEM."](/assets/img/2014/05/Obama-04.jpg)  
+
+!["IT'S OK. WE'LL MAKE THE TAXPAYERS CLEAN IT UP."](/assets/img/2014/05/Obama-05.jpg)  
+
+!["WAIT! JUST ONE MORE LIE!"](/assets/img/2014/05/Obama-06.jpg)  
+
+!["I'M HERE TODAY TO ANNOUNCE MY NEW TAX ON HAPPINESS."](/assets/img/2014/05/Obama-08.jpg)  
+
+!["GET THIS STRAIGHT, BARRY. ARIZONA DOESN'T ALLOW UNDOCUMENTED WORKERS ... SO LET ME SEE YOUR PAPERS!"](/assets/img/2014/05/Obama-09.jpg)  
+
+!["WHERE'S MY FREE SHIT?!"](/assets/img/2014/05/Obama-11.jpg)  
+
+!["GOOD GOING, BARRY. I ONLY SCREWED A WHITE HOUSE AIDE; YOU SCREWED THE ENTIRE COUNTRY."](/assets/img/2014/05/Obama-12.jpg)  
+
+!["... AND THIS IS THE SMOKE AND MIRRORS WE USED TO FLEECE THE TAXPAYERS AND UNJUSTLY ENRICH
+YOUR MOST GENEROUS DONORS!"](/assets/img/2014/05/Obama-13.jpg)
+
+Source: lmaobama.com

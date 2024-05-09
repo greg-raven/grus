@@ -1,13 +1,7 @@
 ---
-id: 71
 title: 'DREAM Act'
 date: '2010-11-25T14:22:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/11/25/feinstein-dream-act/'
-permalink: /2010/11/feinstein-dream-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

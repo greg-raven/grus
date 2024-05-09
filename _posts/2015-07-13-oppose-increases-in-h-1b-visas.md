@@ -1,13 +1,7 @@
 ---
-id: 2241
 title: 'Oppose increases in H-1B visas'
 date: '2015-07-13T13:16:27-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2241'
-permalink: /2015/07/oppose-increases-in-h-1b-visas/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

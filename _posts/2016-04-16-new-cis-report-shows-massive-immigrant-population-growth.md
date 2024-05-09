@@ -1,13 +1,7 @@
 ---
-id: 2308
 title: 'New CIS report shows massive immigrant population growth'
 date: '2016-04-16T13:03:58-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2308'
-permalink: /2016/04/new-cis-report-shows-massive-immigrant-population-growth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -28,4 +22,4 @@ Americans understand the necessity of bringing America’s sky-high immigration 
 
 I hope you will look at the report’s findings and take action to decrease immigration levels.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

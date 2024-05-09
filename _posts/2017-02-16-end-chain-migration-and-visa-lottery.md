@@ -1,13 +1,7 @@
 ---
-id: 2408
 title: 'End chain migration and visa lottery'
 date: '2017-02-16T08:37:45-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2408'
-permalink: /2017/02/end-chain-migration-and-visa-lottery/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

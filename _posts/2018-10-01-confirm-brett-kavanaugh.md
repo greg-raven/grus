@@ -1,13 +1,7 @@
 ---
-id: 2629
 title: 'Confirm Brett Kavanaugh'
 date: '2018-10-01T04:54:02-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2629'
-permalink: /2018/10/confirm-brett-kavanaugh/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

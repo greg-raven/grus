@@ -1,13 +1,7 @@
 ---
-id: 2721
 title: 'Protect the Second Amendment and vote no on H.R. 8 and H.R. 1112'
 date: '2019-02-20T04:47:57-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2721'
-permalink: /2019/02/protect-the-second-amendment-and-vote-no-on-h-r-8-and-h-r-1112/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,4 +17,4 @@ H.R. 1112 adds more undue burdens to law-abiding gun owners. This bill creates a
 
 Please defend the Constitution and protect the Second Amendment. Please stand strong and oppose H.R. 8 and H.R. 1112.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 35
 title: 'Continuing to import foreign workers'
 date: '2012-02-09T21:13:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/obama-continuing-to-import-foreign-workers/'
-permalink: /2012/02/obama-continuing-to-import-foreign-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 Jennifer Wedel brought a problem to you that many Americans face: unemployment. And, unfortunately, you were reluctant to acknowledge that your immigration policies were preventing her husband from finding a job. Only when you freeze the importation of so many unnecessary H-1B workers will highly-trained individuals like Mr. Wedel will get back to work.  
   
-There are hundreds of thousands of technology workers who are either looking for a job or who have simply stopped looking for a job. Do you find this “interesting” as well? Do you find this interesting enough do something about it? During your back and forth with Mrs. Wedel, you promised to help her husband find a job, but you didn’t promise to help all of America’s unemployed tech workers find work. I fear you are more concerned with campaigning than helping Americans at large.
+There are hundreds of thousands of technology workers who are either looking for a job or who have simply stopped looking for a job. Do you find this "interesting" as well? Do you find this interesting enough do something about it? During your back and forth with Mrs. Wedel, you promised to help her husband find a job, but you didn’t promise to help all of America’s unemployed tech workers find work. I fear you are more concerned with campaigning than helping Americans at large.
 
 Your support of legislation that would provide STEM graduates with visas is further proof of your contempt for American workers. American college graduates already have enough trouble finding work without even more competition. These foreign STEM graduates would compete against American graduates for a broad spectrum of jobs and dissuade some American high school graduates from even applying for college. Furthermore, you would be depriving countries around the world of the expertise these STEM graduates could provide to propel them into the 21st century. Not only would you be harming our nation, you would be harming all nations.
 

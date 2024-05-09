@@ -1,13 +1,7 @@
 ---
-id: 167
 title: 'Protect Americans'
 date: '2009-02-27T14:40:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/27/napolitano-protect-americans/'
-permalink: /2009/02/napolitano-protect-americans/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

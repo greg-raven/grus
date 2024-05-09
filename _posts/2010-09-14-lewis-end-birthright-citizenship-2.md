@@ -1,13 +1,7 @@
 ---
-id: 85
 title: 'End birthright citizenship'
 date: '2010-09-14T14:00:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/09/14/lewis-end-birthright-citizenship-2/'
-permalink: /2010/09/lewis-end-birthright-citizenship-2/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 An op-ed in August 31’s USA Today explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation.  
   
-“Birthright citizenship is a major anchor for illegal workers already here who are led to feel that their birthright citizen children may give them a claim to remain. Note that one of the loudest arguments for giving illegal workers permanent work permits is that it would be wrong to make them go back home if they have U.S. citizen children,” argues a USA Today guest op-ed.
+"Birthright citizenship is a major anchor for illegal workers already here who are led to feel that their birthright citizen children may give them a claim to remain. Note that one of the loudest arguments for giving illegal workers permanent work permits is that it would be wrong to make them go back home if they have U.S. citizen children," argues a USA Today guest op-ed.
 
 The op-ed is absolutely true. Many pro-illegal alien, anti-American worker firebrands argue that illegal aliens with U.S.-born children cannot be deported because it would be unfair to separate the family. However, this argument ignores the fact that illegal aliens are gaming the system by exploiting the current birthright citizenship provision in federal law and counting on their children’s being born in the U.S. to keep them from being deported.
 

@@ -1,13 +1,7 @@
 ---
-id: 2533
 title: 'I support ending chain immigration and the visa lottery'
 date: '2018-02-01T05:47:22-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2533'
-permalink: /2018/02/i-support-ending-chain-immigration-and-the-visa-lottery/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

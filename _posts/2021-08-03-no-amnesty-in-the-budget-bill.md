@@ -1,13 +1,7 @@
 ---
-id: 2908
 title: 'NO amnesty in the budget bill'
 date: '2021-08-03T12:19:29-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2908'
-permalink: /2021/08/no-amnesty-in-the-budget-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

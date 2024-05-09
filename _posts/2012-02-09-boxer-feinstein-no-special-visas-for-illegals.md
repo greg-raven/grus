@@ -1,13 +1,7 @@
 ---
-id: 27
 title: 'No special visas for illegals'
 date: '2012-02-09T21:24:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/boxer-feinstein-no-special-visas-for-illegals/'
-permalink: /2012/02/boxer-feinstein-no-special-visas-for-illegals/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2044
 title: 'Oppose Obama&#8217;s amnesty'
 date: '2014-09-08T10:45:04-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2044'
-permalink: /2014/09/oppose-obamas-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -20,7 +14,7 @@ I, along with the 18 million Americans unable to find a full-time job, am please
 
 An amnesty for illegal aliens only helps people who have broken America’s laws and the corrupt businesses that employ them. 18 million Americans cannot find a full-time job, but the president’s determination to amnesty and give work permits to millions of illegal aliens will only serve to drive more Americans from the workforce and drive down wages even more.
 
-Wages have stagnated because there are far too many available workers and because illegal aliens are willing to work for substandard wages — Americans simply cannot compete. With this in mind, it is distressing that President Obama wants to help illegal aliens and their crony capitalist employers at the expense of hard working Americans.
+Wages have stagnated because there are far too many available workers and because illegal aliens are willing to work for substandard wages --- Americans simply cannot compete. With this in mind, it is distressing that President Obama wants to help illegal aliens and their crony capitalist employers at the expense of hard working Americans.
 
 I urge you to use the next two months to convince the president rethink his amnesty plans. Is giving work permits and legal status to millions of illegal aliens worth the damage, pain, and suffering it would inflict on tens of millions of American and legal immigrant workers?
 

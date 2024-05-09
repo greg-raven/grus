@@ -1,13 +1,7 @@
 ---
-id: 2893
 title: 'Support concealed carry reciprocity'
 date: '2021-06-04T05:51:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2893'
-permalink: /2021/06/support-concealed-carry-reciprocity/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

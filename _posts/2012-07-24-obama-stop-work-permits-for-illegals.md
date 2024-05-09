@@ -1,13 +1,7 @@
 ---
-id: 752
 title: 'Stop work permits for illegals'
 date: '2012-07-24T20:21:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=752'
-permalink: /2012/07/obama-stop-work-permits-for-illegals/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,7 +16,7 @@ Resident Obama:
 
 DHS Secretary Janet Napolitano’s testimony before the House Judiciary Committee made it clear that her agency is ill-prepared to handle your politically-motivated and poorly-conceived amnesty.  
   
-It is truly disappointing that you are using a law enforcement agency — a agency who’s job is to protect the American people — to rubber stamp the amnesty applications of millions of illegal aliens who will take Americans jobs and who have no right whatsoever to live or remain in the United States. It only makes matters worse that you are doing this for political gain — to get a bump in the polls and to energize a particular voting block. Shame on you.
+It is truly disappointing that you are using a law enforcement agency --- a agency who’s job is to protect the American people --- to rubber stamp the amnesty applications of millions of illegal aliens who will take Americans jobs and who have no right whatsoever to live or remain in the United States. It only makes matters worse that you are doing this for political gain --- to get a bump in the polls and to energize a particular voting block. Shame on you.
 
 It’s bad enough that you implemented an executive amnesty. It’s far worse that you and your administration didn’t think the program through, as proven by Secretary Napolitano’s lack of answers for Congress’ questions last week, and that it’s riddled with errors and flaws that will put our nation at risk.
 

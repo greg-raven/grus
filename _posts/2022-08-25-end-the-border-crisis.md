@@ -1,13 +1,7 @@
 ---
-id: 3028
 title: 'End the border crisis'
 date: '2022-08-25T04:32:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3028'
-permalink: /2022/08/end-the-border-crisis/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

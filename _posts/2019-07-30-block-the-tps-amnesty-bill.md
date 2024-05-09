@@ -1,13 +1,7 @@
 ---
-id: 2750
 title: 'Block the TPS amnesty bill'
 date: '2019-07-30T13:01:27-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2750'
-permalink: /2019/07/block-the-tps-amnesty-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

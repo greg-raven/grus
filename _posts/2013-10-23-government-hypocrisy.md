@@ -1,18 +1,16 @@
 ---
-id: 1893
 title: 'Government hypocrisy'
 date: '2013-10-23T05:35:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1893'
-permalink: /2013/10/government-hypocrisy/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Cartoon
 tags:
     - 'Ben Stein'
-format: image
+    - Obamacare
 ---
 
-![Government-hypocrisy](https://www.gregraven.us/_assets/img/2013/10/Government-hypocrisy.jpg)
+"Fathom the hypocrisy of a government that requires every citizen to prove they are insured ... But not everyone must prove they are a citizen."
+
+"And now, any of those who  refuse, or are unable, to prove they are citizens will receive free insurance paid for by those who are forced to buy insurance because they are citizens."
+
+![Government hypocrisy](/assets/img/2013/10/Government-hypocrisy.jpg)

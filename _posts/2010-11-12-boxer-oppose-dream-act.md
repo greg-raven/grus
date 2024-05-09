@@ -1,13 +1,7 @@
 ---
-id: 73
 title: 'Oppose DREAM Act'
 date: '2010-11-12T14:27:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/11/12/boxer-oppose-dream-act/'
-permalink: /2010/11/boxer-oppose-dream-act/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

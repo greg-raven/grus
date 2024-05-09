@@ -1,13 +1,7 @@
 ---
-id: 169
 title: 'Support E-Verify'
 date: '2009-02-04T14:49:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/04/senators-support-e-verify/'
-permalink: /2009/02/senators-support-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

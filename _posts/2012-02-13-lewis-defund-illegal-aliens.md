@@ -1,13 +1,7 @@
 ---
-id: 26
 title: 'Defund illegal aliens'
 date: '2012-02-13T22:31:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/13/lewis-defund-illegal-aliens/'
-permalink: /2012/02/lewis-defund-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

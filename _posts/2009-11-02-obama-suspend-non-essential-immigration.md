@@ -1,13 +1,7 @@
 ---
-id: 101
 title: 'Suspend Non-Essential Immigration'
 date: '2009-11-02T16:32:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/11/02/obama-suspend-non-essential-immigration/'
-permalink: /2009/11/obama-suspend-non-essential-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

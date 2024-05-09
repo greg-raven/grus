@@ -1,13 +1,7 @@
 ---
-id: 159
 title: 'Continue to oppose S. 388'
 date: '2009-02-27T14:46:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/27/continue-to-oppose-s-388/'
-permalink: /2009/02/continue-to-oppose-s-388/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Phone me if you would like to talk about this,
 
 Greg Raven
 
-P.S. Uphold your oath of office — protect our borders!
+P.S. Uphold your oath of office --- protect our borders!

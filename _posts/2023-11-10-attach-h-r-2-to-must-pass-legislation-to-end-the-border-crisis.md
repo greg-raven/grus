@@ -1,13 +1,7 @@
 ---
-id: 3161
 title: 'Attach H.R. 2 to must-pass legislation to end the border crisis'
 date: '2023-11-10T05:19:01-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3161'
-permalink: /2023/11/attach-h-r-2-to-must-pass-legislation-to-end-the-border-crisis/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -26,7 +20,7 @@ The ongoing crisis at the U.S. / Mexico border will not end unless Congress take
 - putting a stop to the surges of family units and unaccompanied alien children, protecting them from exploitation and victimization by the cartels and traffickers;
 - putting teeth into efforts to deter visa overstays;
 - reining in the breathtaking and illegal abuse of parole; and
-- instituting mandatory nationwide E-Verify, which would shut off the “jobs magnet” for illegal immigration while protecting jobs for American workers.
+- instituting mandatory nationwide E-Verify, which would shut off the "jobs magnet" for illegal immigration while protecting jobs for American workers.
 
 Giving additional funding to the Department of Homeland Security without passing significant policy changes like those found in H.R. 2 would only serve to worsen the border crisis.
 

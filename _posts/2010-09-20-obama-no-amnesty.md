@@ -1,13 +1,7 @@
 ---
-id: 82
 title: 'No amnesty'
 date: '2010-09-20T13:40:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/09/20/obama-no-amnesty/'
-permalink: /2010/09/obama-no-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. We need to secure our border, evict the illegals and “anchor babies” who are already here, and then return to our pre-1965 immigration policies.
+P.S. We need to secure our border, evict the illegals and "anchor babies" who are already here, and then return to our pre-1965 immigration policies.

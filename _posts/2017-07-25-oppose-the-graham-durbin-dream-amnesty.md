@@ -1,13 +1,7 @@
 ---
-id: 2464
 title: 'Oppose the Graham-Durbin DREAM amnesty'
 date: '2017-07-25T04:53:56-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2464'
-permalink: /2017/07/oppose-the-graham-durbin-dream-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,7 +17,7 @@ The DREAM Act would give out millions of additional work permits at a time when 
 
 Any current or future illegal alien who enters the U.S. before the age of 17 and maintains continuous presence in the U.S. for at least 4, with exceptions, can receive the amnesty
 
-Once they meet criteria, the illegal aliens are given “conditional lawful permanent resident status” and are given an 8-year work permit to compete directly with the millions of Americans who want a full-time job but can’t find one.
+Once they meet criteria, the illegal aliens are given "conditional lawful permanent resident status" and are given an 8-year work permit to compete directly with the millions of Americans who want a full-time job but can’t find one.
 
 Estimates suggest that up to 2 million illegal aliens could legitimately qualify for the opening application, and since the amnesty is open-ended with no numerical limitation, millions more could qualify.
 

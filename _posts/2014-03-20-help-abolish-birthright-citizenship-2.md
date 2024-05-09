@@ -1,13 +1,7 @@
 ---
-id: 2110
 title: 'Help abolish birthright citizenship'
 date: '2014-03-20T15:00:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1960'
-permalink: /2014/03/help-abolish-birthright-citizenship-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

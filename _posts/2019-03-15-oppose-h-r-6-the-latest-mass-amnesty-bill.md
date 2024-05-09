@@ -1,13 +1,7 @@
 ---
-id: 2727
 title: 'Oppose H.R. 6, the latest mass amnesty bill'
 date: '2019-03-15T12:32:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2727'
-permalink: /2019/03/oppose-h-r-6-the-latest-mass-amnesty-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

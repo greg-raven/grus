@@ -1,13 +1,7 @@
 ---
-id: 2858
 title: 'Immigration reform must benefit Americans and legal immigrants!'
 date: '2021-02-17T05:54:52-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2858'
-permalink: /2021/02/immigration-reform-must-benefit-americans-and-legal-immigrants/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

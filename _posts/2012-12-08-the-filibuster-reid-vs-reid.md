@@ -1,13 +1,7 @@
 ---
-id: 1473
 title: 'The Filibuster: Reid vs. Reid'
 date: '2012-12-08T22:12:15-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1473'
-permalink: /2012/12/the-filibuster-reid-vs-reid/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Video
 format: video

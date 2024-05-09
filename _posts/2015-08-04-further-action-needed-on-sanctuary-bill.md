@@ -1,13 +1,7 @@
 ---
-id: 2253
 title: 'Further action needed on Sanctuary bill'
 date: '2015-08-04T12:44:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2253'
-permalink: /2015/08/further-action-needed-on-sanctuary-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

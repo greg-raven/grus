@@ -1,13 +1,7 @@
 ---
-id: 1989
 title: 'Immigration bill is potential amnesty headache'
 date: '2014-05-21T21:15:30-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1989'
-permalink: /2014/05/immigration-bill-is-potential-amnesty-headache/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

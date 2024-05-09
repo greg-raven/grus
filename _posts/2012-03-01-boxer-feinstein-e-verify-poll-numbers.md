@@ -1,13 +1,7 @@
 ---
-id: 7
 title: 'E-Verify poll numbers'
 date: '2012-03-01T13:22:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/03/01/boxer-feinstein-e-verify-poll-numbers/'
-permalink: /2012/03/boxer-feinstein-e-verify-poll-numbers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

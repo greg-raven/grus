@@ -1,13 +1,7 @@
 ---
-id: 2204
 title: 'High immigration caused middle class wages to drop'
 date: '2015-04-30T17:12:29-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2204'
-permalink: /2015/04/high-immigration-caused-middle-class-wages-to-drop/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Please do all you can to pass legislation that brings down immigration numbers. 
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

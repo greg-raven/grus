@@ -1,13 +1,7 @@
 ---
-id: 2288
 title: 'Support a refugee moratorium'
 date: '2016-01-07T08:26:12-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2288'
-permalink: /2016/01/support-a-refugee-moratorium/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -26,6 +20,6 @@ Refugee resettlement needs to be halted until it can be done securely. Please do
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA
 
 P.S. While you’re at it, please consider a complete moratorium on all immigration, secure our border, and evict the illegals already here.

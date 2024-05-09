@@ -1,13 +1,7 @@
 ---
-id: 2871
 title: 'Please withdraw your sponsorship of the U.S. Citizenship Act of 2021'
 date: '2021-03-04T16:28:26-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2871'
-permalink: /2021/03/please-withdraw-your-sponsorship-of-the-u-s-citizenship-act-of-2021/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 150
 title: 'No to the DREAM Act'
 date: '2009-03-31T01:55:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/03/31/no-to-the-dream-act-2/'
-permalink: /2009/03/no-to-the-dream-act-2/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

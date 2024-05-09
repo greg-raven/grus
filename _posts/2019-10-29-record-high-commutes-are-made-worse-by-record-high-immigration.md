@@ -1,13 +1,7 @@
 ---
-id: 2760
 title: 'Record-high commutes are made worse by record-high immigration'
 date: '2019-10-29T06:01:19-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2760'
-permalink: /2019/10/record-high-commutes-are-made-worse-by-record-high-immigration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

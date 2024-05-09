@@ -1,13 +1,7 @@
 ---
-id: 1934
 title: 'Immigration principles'
 date: '2014-01-27T07:44:30-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1934'
-permalink: /2014/01/immigration-principles/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
     - 'Senator Dianne Feinstein'
 ---
 
-I have ready in many newspapers that Congress is coming up with “immigration principles.” This can be a positive development if the correct principles are agreed upon. I hope you will accept this as an immigration principle:  
+I have ready in many newspapers that Congress is coming up with "immigration principles." This can be a positive development if the correct principles are agreed upon. I hope you will accept this as an immigration principle:  
   
 Promoting the National Interest:
 

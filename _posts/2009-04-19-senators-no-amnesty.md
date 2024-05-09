@@ -1,13 +1,7 @@
 ---
-id: 138
 title: 'No amnesty'
 date: '2009-04-19T01:38:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/19/senators-no-amnesty/'
-permalink: /2009/04/senators-no-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

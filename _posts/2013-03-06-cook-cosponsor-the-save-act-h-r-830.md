@@ -1,13 +1,7 @@
 ---
-id: 1530
 title: 'Cosponsor the SAVE Act, H.R. 830'
 date: '2013-03-06T00:57:12-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1530'
-permalink: /2013/03/cook-cosponsor-the-save-act-h-r-830/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

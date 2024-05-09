@@ -1,13 +1,7 @@
 ---
-id: 2739
 title: 'Reduce green card numbers'
 date: '2019-05-10T12:55:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2739'
-permalink: /2019/05/reduce-green-card-numbers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

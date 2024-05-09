@@ -1,13 +1,7 @@
 ---
-id: 2375
 title: 'McCaul border bill won&#8217;t secure the border'
 date: '2016-11-30T13:51:04-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2375'
-permalink: /2016/11/mccaul-border-bill-wont-secure-the-border/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -26,4 +20,4 @@ Congress doesn’t need to take action to fulfill President-elect Trump’s prom
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

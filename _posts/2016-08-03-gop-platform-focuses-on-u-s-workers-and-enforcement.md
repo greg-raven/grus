@@ -1,13 +1,7 @@
 ---
-id: 2358
 title: 'GOP platform focuses on U.S. workers and enforcement'
 date: '2016-08-03T03:09:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2358'
-permalink: /2016/08/gop-platform-focuses-on-u-s-workers-and-enforcement/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -19,9 +13,9 @@ We are glad that the Republican Party, as part of its new platform, has decided 
 
 It is good to see that your party, which far too often puts the wants of big businesses ahead of the needs of American workers, recognizes that the mass importation of foreign labor has a calamitous impact on American workers:
 
-“America’s immigration policy must serve the national interest of the United States, and the interests of American workers must be protected over the claims of foreign nationals seeking the same jobs….
+"America’s immigration policy must serve the national interest of the United States, and the interests of American workers must be protected over the claims of foreign nationals seeking the same jobs....
 
-In light of the alarming levels of unemployment and underemployment in this country, it is indefensible to continue offering lawful permanent residence to more than one million foreign nationals every year. The Supreme Court has correctly recognized that states have the constitutional authority to take steps to reduce illegal immigration. We condemn the Obama Administration’s lawsuits against states that are seeking to reinforce federal law. We support the right of the states to enact laws deterring illegal aliens from residing within their states.”
+In light of the alarming levels of unemployment and underemployment in this country, it is indefensible to continue offering lawful permanent residence to more than one million foreign nationals every year. The Supreme Court has correctly recognized that states have the constitutional authority to take steps to reduce illegal immigration. We condemn the Obama Administration’s lawsuits against states that are seeking to reinforce federal law. We support the right of the states to enact laws deterring illegal aliens from residing within their states."
 
 U.S. businesses bring in far more than 1 million new foreign workers each year even though tens of millions of Americans are either unemployed or have given up looking for work altogether. Most of these foreign workers are not essential, but businesses prefer them because they cost less. Moreover, the E-Verify system must be mandated to ensure illegal aliens cannot take U.S. jobs.
 
@@ -29,4 +23,4 @@ I am glad that the Republican Party understands that immigration needs to be lim
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

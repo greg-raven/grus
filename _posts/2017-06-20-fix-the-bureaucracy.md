@@ -1,13 +1,7 @@
 ---
-id: 2450
 title: 'Fix the bureaucracy'
 date: '2017-06-20T15:17:04-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2450'
-permalink: /2017/06/fix-the-bureaucracy/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -15,7 +9,7 @@ tags:
     - 'President Donald Trump'
 ---
 
-As a candidate, you often made reference to draining the swamp. As laudable as this goal may be, the “swamp” exists because the federal government has become so gigantic, so invasive, and so all-encompassing that anyone who wishes to get anything done in this country must necessarily apply to Washington at some point — either for help or permission. Draining the swamp, therefore, isn’t enough: You must eliminate it completely. Draining it will only create a vacuum, and nature abhors a vacuum.
+As a candidate, you often made reference to draining the swamp. As laudable as this goal may be, the "swamp" exists because the federal government has become so gigantic, so invasive, and so all-encompassing that anyone who wishes to get anything done in this country must necessarily apply to Washington at some point --- either for help or permission. Draining the swamp, therefore, isn’t enough: You must eliminate it completely. Draining it will only create a vacuum, and nature abhors a vacuum.
 
 The obvious first step is to take a chainsaw to entire branches of government that should never have been allowed to come into being. Legally, one could compare each bureaucracy with the Constitution to see if it is mentioned. If not, eliminate it. For starters, this would include:
 

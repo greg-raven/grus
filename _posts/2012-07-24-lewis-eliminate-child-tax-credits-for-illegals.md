@@ -1,13 +1,7 @@
 ---
-id: 746
 title: 'Eliminate child tax credits for illegals'
 date: '2012-07-24T20:13:39-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=746'
-permalink: /2012/07/lewis-eliminate-child-tax-credits-for-illegals/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

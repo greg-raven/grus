@@ -1,13 +1,7 @@
 ---
-id: 108
 title: 'Stop filling our jobs with foreign workers'
 date: '2009-10-01T15:40:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/10/01/obama-stop-filling-our-jobs-with-foreign-workers/'
-permalink: /2009/10/obama-stop-filling-our-jobs-with-foreign-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,7 +16,7 @@ You’re right, the United States needs to create 150,000 jobs each month to kee
 
 Why then do these United States continue to issue 125,000 foreign worker permits each month and 35,000 green cards to foreign workers? This adds up to 160,000 foreign workers per month. Why are we allowing 160,000 foreign workers each month to compete against unemployed Americans when we are facing a monthly jobs deficit of 100,000?
 
-There is no sane or plausible reason for this to continue. The United States does not need more foreign workers. Americans do not need more foreign workers. Americans need jobs — 150,000 per month to be precise. How can we continue to let 160,000 new foreign workers compete against these unemployed Americans? Please act to suspend foreign worker importation until the United States is able to create enough jobs for its own.
+There is no sane or plausible reason for this to continue. The United States does not need more foreign workers. Americans do not need more foreign workers. Americans need jobs --- 150,000 per month to be precise. How can we continue to let 160,000 new foreign workers compete against these unemployed Americans? Please act to suspend foreign worker importation until the United States is able to create enough jobs for its own.
 
 Phone me if you would like to talk about this,
 

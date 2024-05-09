@@ -1,13 +1,7 @@
 ---
-id: 31
 title: 'Support the CLEAR Act'
 date: '2012-02-09T21:17:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/lewis-support-the-clear-act/'
-permalink: /2012/02/lewis-support-the-clear-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

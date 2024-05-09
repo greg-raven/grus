@@ -1,13 +1,7 @@
 ---
-id: 3061
 title: 'H-2B visas harm American workers'
 date: '2022-10-14T06:40:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3061'
-permalink: /2022/10/h-2b-visas-harm-american-workers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

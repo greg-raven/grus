@@ -1,13 +1,7 @@
 ---
-id: 2889
 title: 'Oppose ATF nominee David Chipman'
 date: '2021-06-04T05:48:15-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2889'
-permalink: /2021/06/oppose-atf-nominee-david-chipman/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 103
 title: 'Protect E-Verify'
 date: '2009-10-01T15:46:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/10/01/lewis-protect-e-verify/'
-permalink: /2009/10/lewis-protect-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

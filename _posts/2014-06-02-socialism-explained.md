@@ -1,18 +1,25 @@
 ---
-id: 1995
 title: 'Socialism explained'
 date: '2014-06-02T13:54:29-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1995'
-permalink: /2014/06/socialism-explained/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Cartoon
 tags:
     - socialism
-format: image
 ---
 
-![Socialism-explained](https://www.gregraven.us/_assets/img/2014/06/Socialism-explained.jpg)
+1. America is capitalist and greedy, yet half of the population is subsidized.
+
+2. Half of the population is subsidized, yet they think they are victims.
+
+3. They think they are victims, yet their representatives run the government. 
+
+4. Their representatives run the government, yet the poor keep getting poorer.
+
+5. The poor keep getting poorer, yet they have things that people in other countries can only dream of.
+
+6. They have things that people in other countries can only dream of, yet they want America to be more like those other countries.
+
+![Socialism explained](/assets/img/2014/06/Socialism-explained.jpg)
+
+Source: [Patriot Post](https://patriotpost.us)

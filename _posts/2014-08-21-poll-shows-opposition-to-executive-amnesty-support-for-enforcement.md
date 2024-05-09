@@ -1,13 +1,7 @@
 ---
-id: 2029
 title: 'Poll Shows Opposition to Executive Amnesty, Support for Enforcement'
 date: '2014-08-21T04:26:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2029'
-permalink: /2014/08/poll-shows-opposition-to-executive-amnesty-support-for-enforcement/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

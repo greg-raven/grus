@@ -1,13 +1,7 @@
 ---
-id: 2762
 title: 'Thank you for co-sponsoring H.R. 250'
 date: '2019-10-29T06:05:03-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2762'
-permalink: /2019/10/thank-you-for-co-sponsoring-h-r-250/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2439
 title: 'It&#8217;s time for House Leadership to act on Davis-Oliver'
 date: '2017-06-08T05:49:01-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2439'
-permalink: /2017/06/its-time-for-house-leadership-to-act-on-davis-oliver/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -28,4 +22,4 @@ While delivering a campaign speech on immigration last August, President Trump s
 
 The House Judiciary Committee has done its job. It’s now time for House Leadership to bring this legislation to the floor for a vote.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

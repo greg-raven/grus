@@ -1,13 +1,7 @@
 ---
-id: 3109
 title: 'Cosponsor H.R. 319, the Legal Workforce Act'
 date: '2023-02-06T14:10:28-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3109'
-permalink: /2023/02/cosponsor-h-r-319-the-legal-workforce-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

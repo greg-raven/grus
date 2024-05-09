@@ -1,13 +1,7 @@
 ---
-id: 2051
 title: 'Oppose birthright citizenship'
 date: '2014-10-11T05:52:05-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2051'
-permalink: /2014/10/oppose-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 3119
 title: 'Any border legislation must close asylum loopholes and mandate E-Verify'
 date: '2023-03-21T15:40:19-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3119'
-permalink: /2023/03/any-border-legislation-must-close-asylum-loopholes-and-mandate-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -20,7 +14,7 @@ I cannot understand why you and your Republican colleagues haven’t passed any 
 
 In addition to passing legislation to secure the border and provide additional resources to USCPB and the Border Patrol, the House must pass legislation that closes asylum loopholes, mandates use of the E-Verify system, and reduces the Biden Administration’s ability to parole illegal aliens. In particular, asylum reform is required so that illegal economic migrants can’t game the system and mandating E-Verify remove the jobs magnet that attracts illegal aliens searching for work.
 
-The American people are counting on you and your colleagues to finally take the border crisis seriously — please don’t let us down.
+The American people are counting on you and your colleagues to finally take the border crisis seriously --- please don’t let us down.
 
 Sincerely,
 

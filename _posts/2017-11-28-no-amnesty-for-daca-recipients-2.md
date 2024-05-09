@@ -1,13 +1,7 @@
 ---
-id: 2505
 title: 'No amnesty for DACA recipients'
 date: '2017-11-28T13:24:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2505'
-permalink: /2017/11/no-amnesty-for-daca-recipients-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

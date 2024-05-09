@@ -1,13 +1,7 @@
 ---
-id: 163
 title: 'ICE raids'
 date: '2009-02-27T14:43:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/02/27/napolitano-ice-raids/'
-permalink: /2009/02/napolitano-ice-raids/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,4 +21,4 @@ Phone me if you would like to talk about this,
 
 Greg Raven
 
-P.S. Please uphold your oath of office — protect our borders!
+P.S. Please uphold your oath of office --- protect our borders!

@@ -1,13 +1,7 @@
 ---
-id: 110
 title: 'Stop Obama amnesty'
 date: '2009-09-14T13:59:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/09/14/senators-stop-obama-amnesty/'
-permalink: /2009/09/senators-stop-obama-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

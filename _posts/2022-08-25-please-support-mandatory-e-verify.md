@@ -1,13 +1,7 @@
 ---
-id: 3030
 title: 'Please support mandatory E-Verify'
 date: '2022-08-25T04:34:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3030'
-permalink: /2022/08/please-support-mandatory-e-verify/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

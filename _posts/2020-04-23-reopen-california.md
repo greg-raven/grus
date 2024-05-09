@@ -1,13 +1,7 @@
 ---
-id: 2808
 title: 'Reopen California'
 date: '2020-04-23T13:22:40-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2808'
-permalink: /2020/04/reopen-california/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

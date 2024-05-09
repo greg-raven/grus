@@ -1,13 +1,7 @@
 ---
-id: 81
 title: 'No DREAM Act'
 date: '2010-09-20T13:41:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2010/09/20/boxer-no-dream-act/'
-permalink: /2010/09/boxer-no-dream-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

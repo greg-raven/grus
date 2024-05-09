@@ -1,13 +1,7 @@
 ---
-id: 2963
 title: 'Keep amnesty out of budget reconciliation'
 date: '2021-11-15T13:57:06-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2963'
-permalink: /2021/11/keep-amnesty-out-of-budget-reconciliation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

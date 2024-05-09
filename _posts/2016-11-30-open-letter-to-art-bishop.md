@@ -1,13 +1,7 @@
 ---
-id: 2383
 title: 'Open letter to Art Bishop'
 date: '2016-11-30T16:59:42-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2383'
-permalink: /2016/11/open-letter-to-art-bishop/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -21,4 +15,4 @@ Also, at the *Daily Press* candidate forum you stated that the Town had made num
 
 If you can cast any light on this discrepancy, I’d appreciate it.
 
-— Greg Raven, Apple Valley, CA
+--- [Greg Raven](https://www.gregraven.org), Apple Valley, CA

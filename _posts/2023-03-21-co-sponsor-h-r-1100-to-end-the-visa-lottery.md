@@ -1,13 +1,7 @@
 ---
-id: 3121
 title: 'Co-sponsor H.R. 1100 to end the visa lottery!'
 date: '2023-03-21T15:44:14-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3121'
-permalink: /2023/03/co-sponsor-h-r-1100-to-end-the-visa-lottery/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -16,7 +10,7 @@ tags:
     - 'Representative Jay Obernolte'
 ---
 
-Fifty-two percent of all lottery visas have been awarded to Europeans, who represent 56 percent of all immigrants since 1820, dispelling the notion that true diversity was the goal of the lottery. The United States does not need to admit a single additional immigrant to ensure increasing ethnic and racial diversity in the U.S. — it is a demographic certainty. Additionally, the legal immigration flow of around one million per year and another estimated million coming illegally, 55,000 lottery visas have very little impact on diversity, no matter who the beneficiaries are.
+Fifty-two percent of all lottery visas have been awarded to Europeans, who represent 56 percent of all immigrants since 1820, dispelling the notion that true diversity was the goal of the lottery. The United States does not need to admit a single additional immigrant to ensure increasing ethnic and racial diversity in the U.S. --- it is a demographic certainty. Additionally, the legal immigration flow of around one million per year and another estimated million coming illegally, 55,000 lottery visas have very little impact on diversity, no matter who the beneficiaries are.
 
 Because nationals of virtually every terrorist-sponsoring state are eligible to participate, the visa lottery presents a significant security threat. Department of Homeland Security statistics show that about 54 percent of lottery winners are male, and that about half are single and between the ages of 20 and 34.
 

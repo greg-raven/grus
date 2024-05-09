@@ -1,13 +1,7 @@
 ---
-id: 2471
 title: 'Don&#8217;t sign the Coffman Discharge Petition'
 date: '2017-09-05T12:43:52-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2471'
-permalink: /2017/09/dont-sign-the-coffman-discharge-petition/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -15,7 +9,7 @@ tags:
     - 'Representative Paul Cook'
 ---
 
-Rep. Mike Coffman (R-Colo.) announced last week that he will start a Discharge Petition in the House to force a floor vote on his BRIDGE Act that would make Deferred Action for Childhood Arrivals (DACA) permanent — the unconstitutional Obama executive amnesty that allows younger illegal aliens to receive work permits.
+Rep. Mike Coffman (R-Colo.) announced last week that he will start a Discharge Petition in the House to force a floor vote on his BRIDGE Act that would make Deferred Action for Childhood Arrivals (DACA) permanent --- the unconstitutional Obama executive amnesty that allows younger illegal aliens to receive work permits.
 
 A Discharge Petition is a procedure used, typically by a Member of the minority Party in the House, to force the House Speaker to bring a bill to the floor for a vote. Rarely, does a Member of the Party that controls the House file a Discharge Petition.
 

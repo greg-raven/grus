@@ -1,13 +1,7 @@
 ---
-id: 182
 title: 'Auto industry bailouts'
 date: '2008-11-19T02:46:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2008/11/19/bush-et-al-auto-industry-bailouts/'
-permalink: /2008/11/bush-et-al-auto-industry-bailouts/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -36,8 +30,8 @@ Additionally, because the Paulson TARP plan has abandoned its originally stated 
 
 Since the election, Republicans have talked of returning to their limited government message. This is a chance for you to prove your commitment to free-market capitalism and the freedom philosophy by demonstrating that the Republican Party will be worthy of our trust in the next Congress. A vote for another bailout will send the signal that, despite any lip service paid to limited government principles, Republican talking points of defending them are cheap and little more than campaign rhetoric.
 
-The answers to our economic problems cannot be found in further government intervention. As your constituent, I urge you not to put my tax dollars on the line, to vote “no” on the auto industry bailout, and to get the government out of our lives.
+The answers to our economic problems cannot be found in further government intervention. As your constituent, I urge you not to put my tax dollars on the line, to vote "no" on the auto industry bailout, and to get the government out of our lives.
 
 Sincerely,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

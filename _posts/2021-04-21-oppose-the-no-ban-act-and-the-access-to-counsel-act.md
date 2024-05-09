@@ -1,13 +1,7 @@
 ---
-id: 2880
 title: 'Oppose the No BAN Act and the Access to Counsel Act'
 date: '2021-04-21T06:02:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2880'
-permalink: /2021/04/oppose-the-no-ban-act-and-the-access-to-counsel-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

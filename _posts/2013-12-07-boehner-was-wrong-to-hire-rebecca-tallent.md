@@ -1,13 +1,7 @@
 ---
-id: 1913
 title: 'Boehner was wrong to hire Rebecca Tallent'
 date: '2013-12-07T07:52:08-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://127.0.0.1:8080/wordpress/?p=15'
-permalink: /2013/12/boehner-was-wrong-to-hire-rebecca-tallent/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

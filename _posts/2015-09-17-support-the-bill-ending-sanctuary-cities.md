@@ -1,13 +1,7 @@
 ---
-id: 2266
 title: 'Support the bill ending sanctuary cities'
 date: '2015-09-17T15:27:05-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2266'
-permalink: /2015/09/support-the-bill-ending-sanctuary-cities/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

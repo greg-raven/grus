@@ -1,13 +1,7 @@
 ---
-id: 2434
 title: 'The most outrageous worker importation bill ever'
 date: '2017-05-11T15:15:13-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2434'
-permalink: /2017/05/the-most-outrageous-worker-importation-bill-ever/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,4 +17,4 @@ On top of this, the bill is an amnesty for illegal aliens as people in the count
 
 It’s disappointing that one of your colleagues has introduced legislation that benefits businesses at the expense of millions of American workers. I urge you to oppose Sen. Johnson’s bill and any other bill that harms U.S. workers.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

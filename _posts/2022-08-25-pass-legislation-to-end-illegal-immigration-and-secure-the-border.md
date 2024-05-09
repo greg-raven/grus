@@ -1,13 +1,7 @@
 ---
-id: 3036
 title: 'Pass legislation to end illegal immigration and secure the border'
 date: '2022-08-25T04:43:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3036'
-permalink: /2022/08/pass-legislation-to-end-illegal-immigration-and-secure-the-border/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 37
 title: 'Pushing Americans out of jobs'
 date: '2012-02-09T21:11:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/obama-pushing-americans-out-of-jobs/'
-permalink: /2012/02/obama-pushing-americans-out-of-jobs/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,7 +11,7 @@ tags:
 
 Your recent decision to attempt to extend work authorization to the spouses of H-1B workers is downright disgusting. You are simply pandering to the unscrupulous business hucksters who would rather hire cheap foreign workers instead of paying a living wage to U.S. workers.  
   
-Do you know what the Department of Labor said about the H-1B program? In a recent report, it wrote: “H-1B workers may be hired even when a qualified U.S. worker wants the job, and a U.S. worker can be displaced from the job in favor of the foreign worker.”
+Do you know what the Department of Labor said about the H-1B program? In a recent report, it wrote: "H-1B workers may be hired even when a qualified U.S. worker wants the job, and a U.S. worker can be displaced from the job in favor of the foreign worker."
 
 Furthermore, most H-1B workers are under the age of 30. This, combined with their temporary nature, means they cost far less to hire than American workers of any age, but especially those ages 30 and above. As long as the H-1B program allows employers to put H-1B workers ahead of American workers, no matter the cost, American workers will always lose out.
 

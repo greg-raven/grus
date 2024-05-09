@@ -1,13 +1,7 @@
 ---
-id: 3035
 title: 'Americans need access to untrampled open space'
 date: '2022-08-25T04:42:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3035'
-permalink: /2022/08/americans-need-access-to-untrampled-open-space/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,7 +16,7 @@ Nature-lovers such as myself care most about biodiversity/species extinction and
 
 The sober reality is that at today’s growth rates, the Census Bureau predicts that America will swell to 404 million by the year 2060, and almost 90% of that growth will be from immigration. For our nation to grow by 75 million people in less than 40 years is no trivial matter and will exacerbate all our environmental problems.
 
-Reducing America’s unprecedented immigration rates would make a critical difference in terms of taking the pressure off America’s best open spaces. I am counting on you to support the reduction of America’s immigration rates (e.g., limit chain migration) so that Americans will always be able to witness “America the beautiful.”
+Reducing America’s unprecedented immigration rates would make a critical difference in terms of taking the pressure off America’s best open spaces. I am counting on you to support the reduction of America’s immigration rates (e.g., limit chain migration) so that Americans will always be able to witness "America the beautiful."
 
 Sincerely,
 

@@ -1,13 +1,7 @@
 ---
-id: 2540
 title: 'Oppose all amnesties'
 date: '2018-02-14T14:08:25-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2540'
-permalink: /2018/02/oppose-all-amnesties/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

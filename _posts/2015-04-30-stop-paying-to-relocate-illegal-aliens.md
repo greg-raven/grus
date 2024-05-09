@@ -1,13 +1,7 @@
 ---
-id: 2200
 title: 'Stop paying to relocate illegal aliens'
 date: '2015-04-30T17:09:57-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2200'
-permalink: /2015/04/stop-paying-to-relocate-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -24,4 +18,4 @@ This program is unnecessary and an affront to the American people and the rule o
 
 Sincerely,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

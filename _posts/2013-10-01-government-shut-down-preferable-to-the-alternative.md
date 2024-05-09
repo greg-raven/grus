@@ -1,13 +1,7 @@
 ---
-id: 1878
 title: 'Government shut-down preferable to the alternative'
 date: '2013-10-01T14:28:51-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1878'
-permalink: /2013/10/government-shut-down-preferable-to-the-alternative/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2475
 title: 'Please consider these amendments to the H.R. 3354 spending bill'
 date: '2017-09-06T12:37:37-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2475'
-permalink: /2017/09/please-consider-these-amendments-to-the-h-r-3354-spending-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

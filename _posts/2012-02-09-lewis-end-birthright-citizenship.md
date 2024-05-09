@@ -1,13 +1,7 @@
 ---
-id: 30
 title: 'End birthright citizenship'
 date: '2012-02-09T21:19:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/lewis-end-birthright-citizenship/'
-permalink: /2012/02/lewis-end-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

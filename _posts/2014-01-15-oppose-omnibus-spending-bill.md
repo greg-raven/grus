@@ -1,13 +1,7 @@
 ---
-id: 1925
 title: 'Oppose omnibus spending bill'
 date: '2014-01-15T07:24:24-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1925'
-permalink: /2014/01/oppose-omnibus-spending-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

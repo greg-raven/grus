@@ -1,13 +1,7 @@
 ---
-id: 2338
 title: 'Thanks for voting against military amnesty'
 date: '2016-07-02T04:55:34-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2338'
-permalink: /2016/07/thanks-for-voting-against-military-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -22,4 +16,4 @@ While it is disappointing that the Gosar amendment did not pass, I am glad you v
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

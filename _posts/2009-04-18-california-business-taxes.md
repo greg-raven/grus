@@ -1,13 +1,7 @@
 ---
-id: 142
 title: 'California business taxes'
 date: '2009-04-18T01:38:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/18/california-business-taxes/'
-permalink: /2009/04/california-business-taxes/
-algolia_searchable_posts_records_count:
-    - '2'
 categories:
     - Letters
 tags:
@@ -25,7 +19,7 @@ I’m sending this to you in case you missed it. Didn’t you run for governor o
 > 
 > California has the 4th highest business taxes among U.S. states, according to a Small Business and Entrepreneurship Council report.
 > 
-> The “2009 Business Tax Index: Best to Worst State Tax Systems” ranks states according to the 16 taxes that most impact small companies.
+> The "2009 Business Tax Index: Best to Worst State Tax Systems" ranks states according to the 16 taxes that most impact small companies.
 > 
 > The states with the highest combined business taxes are: New Jersey, Minnesota, Maine, California and New York.
 > 
@@ -33,13 +27,13 @@ I’m sending this to you in case you missed it. Didn’t you run for governor o
 > 
 > The states with the lowest business taxes are: South Dakota, Nevada, Wyoming, Washington and Texas.
 > 
-> “Taxes have been piling up on small-business owners and the cumulative burden is particularly painful in a down economy like we are suffering right now,” says SBE Council Chief Economist Ray Keating. “Unfortunately, state and local officials continue to increase a variety of levies without a firm grasp of the burdens they impose on small businesses and their state’s overall competitiveness.”
+> "Taxes have been piling up on small-business owners and the cumulative burden is particularly painful in a down economy like we are suffering right now," says SBE Council Chief Economist Ray Keating. "Unfortunately, state and local officials continue to increase a variety of levies without a firm grasp of the burdens they impose on small businesses and their state’s overall competitiveness."
 > 
 > The taxes included in the annual index are state personal and corporate income, capital gains, property, inheritance, unemployment, sales, gasoline and diesel, gross receipts, excise and Internet.
 > 
-> \[…\] Our state personal income and capital gains taxes are the highest and gasoline is 3rd highest. \[…\]
+> \[...\] Our state personal income and capital gains taxes are the highest and gasoline is 3rd highest. \[...\]
 
-Too bad you can’t cut “entitlements” (you know, payments to those who are not entitled to the money). Too bad you can cut funding for any of the myriad programs that benefit illegal aliens. Too bad you can’t do anything to force the Federal government to protect our borders. Too bad, in short, that you’re a conservative in name only.
+Too bad you can’t cut "entitlements" (you know, payments to those who are not entitled to the money). Too bad you can cut funding for any of the myriad programs that benefit illegal aliens. Too bad you can’t do anything to force the Federal government to protect our borders. Too bad, in short, that you’re a conservative in name only.
 
 Thanks for nothing,
 

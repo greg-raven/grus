@@ -1,13 +1,7 @@
 ---
-id: 1459
 title: 'Don&#8217;t support Bambam&#8217;s amnesty'
 date: '2012-06-18T14:28:47-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1459'
-permalink: /2012/06/boxer-feinstein-dont-support-bambams-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

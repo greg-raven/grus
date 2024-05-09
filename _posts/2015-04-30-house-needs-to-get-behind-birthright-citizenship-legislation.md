@@ -1,13 +1,7 @@
 ---
-id: 2206
 title: 'House needs to get behind birthright citizenship legislation'
 date: '2015-04-30T17:13:27-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2206'
-permalink: /2015/04/house-needs-to-get-behind-birthright-citizenship-legislation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,4 +17,4 @@ President Obama’s decision to amnesty illegal aliens with U.S.-born children i
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

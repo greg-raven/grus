@@ -1,13 +1,7 @@
 ---
-id: 2502
 title: 'Pass American LAWS Act'
 date: '2017-11-28T13:21:23-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2502'
-permalink: /2017/11/pass-american-laws-act/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

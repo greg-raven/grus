@@ -1,13 +1,7 @@
 ---
-id: 106
 title: 'Veto anti-employment verification legislation'
 date: '2009-10-01T15:43:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/10/01/schwarzenegger-veto-anti-employment-verification-legislation/'
-permalink: /2009/10/schwarzenegger-veto-anti-employment-verification-legislation/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

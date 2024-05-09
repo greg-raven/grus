@@ -1,13 +1,7 @@
 ---
-id: 2396
 title: 'Trump&#8217;s Executive Order enhances national security and establishes refugee limits'
 date: '2017-02-07T14:01:18-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2396'
-permalink: /2017/02/trumps-executive-order-enhances-national-security-and-establishes-refugee-limits/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

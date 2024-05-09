@@ -1,13 +1,7 @@
 ---
-id: 2798
 title: 'Help end the visa lottery'
 date: '2020-03-20T09:27:44-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2798'
-permalink: /2020/03/help-end-the-visa-lottery-3/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

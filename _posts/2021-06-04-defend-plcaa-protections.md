@@ -1,13 +1,7 @@
 ---
-id: 2891
 title: 'Defend PLCAA protections'
 date: '2021-06-04T05:49:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2891'
-permalink: /2021/06/defend-plcaa-protections/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2412
 title: 'No healthcare for illegal aliens'
 date: '2017-03-08T16:16:48-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2412'
-permalink: /2017/03/no-healthcare-for-illegal-aliens/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -26,4 +20,4 @@ Obamacare certainly has its flaws and there is plenty room for improvement. Howe
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 2755
 title: 'Please confirm the President‘s nominees'
 date: '2019-09-04T09:49:42-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2755'
-permalink: /2019/09/please-confirm-the-presidents-nominees/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

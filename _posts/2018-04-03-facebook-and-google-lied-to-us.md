@@ -1,13 +1,7 @@
 ---
-id: 2551
 title: 'Facebook and Google lied to us'
 date: '2018-04-03T12:35:36-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2551'
-permalink: /2018/04/facebook-and-google-lied-to-us/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -27,7 +21,7 @@ Congress is preparing to vote on legislation that would exempt Facebook and Goog
 
 A vote in favor of this measure – the Congressional Review Act (CRA) – is a vote in favor of allowing Facebook and Google to continue blocking and censoring content, stealing our personal information, and selling it to advertisers and politicians.
 
-Instead, Congress should pass real consumer internet protection legislation to ensure that Facebook and Google — or any other company — cannot block and censor the content, exempt themselves from consumer protections, and abuse or manipulate user data.
+Instead, Congress should pass real consumer internet protection legislation to ensure that Facebook and Google --- or any other company --- cannot block and censor the content, exempt themselves from consumer protections, and abuse or manipulate user data.
 
 Sincerely,
 

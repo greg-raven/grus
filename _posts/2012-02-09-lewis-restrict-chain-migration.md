@@ -1,13 +1,7 @@
 ---
-id: 34
 title: 'Restrict chain migration'
 date: '2012-02-09T21:14:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2012/02/09/lewis-restrict-chain-migration/'
-permalink: /2012/02/lewis-restrict-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

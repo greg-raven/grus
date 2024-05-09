@@ -1,13 +1,7 @@
 ---
-id: 51
 title: 'Federal representatives: No more debt!'
 date: '2011-07-29T20:08:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2011/07/29/federal-representatives-no-more-debt/'
-permalink: /2011/07/federal-representatives-no-more-debt/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Information
 tags:

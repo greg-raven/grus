@@ -1,13 +1,7 @@
 ---
-id: 2775
 title: 'Why did you support the farm amnesty bill?'
 date: '2019-12-20T07:24:31-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2775'
-permalink: /2019/12/why-did-you-support-the-farm-amnesty-bill/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 2024
 title: 'No executive amnesty!'
 date: '2014-08-10T14:38:35-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2024'
-permalink: /2014/08/no-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

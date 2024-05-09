@@ -1,13 +1,7 @@
 ---
-id: 2221
 title: 'Combat the push to increase H-1B numbers'
 date: '2015-06-04T05:55:17-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2221'
-permalink: /2015/06/combat-the-push-to-increase-h-1b-numbers/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -25,8 +19,8 @@ The paper’s authors also fail to mention that STEM recruiters, 18 of which pro
 
 Lastly, one of the paper’s coauthors, Yi Xue, works for Palantir, one of the country’s largest H-1B employers. Palantir is a Big Data company and helps design software tools so groups like Fwd.us can lobby Congress for amnesty and more foreign workers. As this wasn’t enough to provide evidence of the group’s aims, one of Palantir’s co-founders, Joe Lonsdale, is a major Fwd.us donor.
 
-These omissions and oversights make the paper and its goals highly suspect and its “findings” must not be taken at face value if you decide to read it.
+These omissions and oversights make the paper and its goals highly suspect and its "findings" must not be taken at face value if you decide to read it.
 
 Phone me if you would like to talk about this,
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.org), Apple Valley, CA

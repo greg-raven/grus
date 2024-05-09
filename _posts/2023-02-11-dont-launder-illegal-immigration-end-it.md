@@ -1,13 +1,7 @@
 ---
-id: 3110
 title: 'Don&#8217;t launder illegal immigration; end it'
 date: '2023-02-11T05:38:56-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3110'
-permalink: /2023/02/dont-launder-illegal-immigration-end-it/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

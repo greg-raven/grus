@@ -1,13 +1,7 @@
 ---
-id: 2799
 title: 'Please cosponsor H.R. 891 to end chain migration'
 date: '2020-03-20T09:30:10-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2799'
-permalink: /2020/03/please-cosponsor-h-r-891-to-end-chain-migration/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

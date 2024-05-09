@@ -1,13 +1,7 @@
 ---
-id: 147
 title: 'No amnesty'
 date: '2009-04-05T01:43:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2009/04/05/obama-no-amnesty-2/'
-permalink: /2009/04/obama-no-amnesty-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -23,7 +17,7 @@ Millions of American families are hurting because one or both of the family’s 
 
 Why, then, are you proposing a mass legalization (amnesty ) of illegal aliens? You must realize (as Vice President Biden does) that this would only harm America’s unemployed and underemployed.
 
-Please do not support any “comprehensive immigration reform!” Such a proposal, if enacted by the Congress and signed by you, would irrevocably harm tens of millions of Americans.
+Please do not support any "comprehensive immigration reform!" Such a proposal, if enacted by the Congress and signed by you, would irrevocably harm tens of millions of Americans.
 
 Phone me if you would like to talk about this,
 

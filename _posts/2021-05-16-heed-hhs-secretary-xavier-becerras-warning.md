@@ -1,13 +1,7 @@
 ---
-id: 2884
 title: 'Heed HHS Secretary Xavier Becerra&#8217;s warning'
 date: '2021-05-16T09:23:23-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2884'
-permalink: /2021/05/heed-hhs-secretary-xavier-becerras-warning/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -17,17 +11,17 @@ tags:
 
 Restore the 15,000 refugee cap; reinstate successful border policies.
 
-I share Secretary Becerra’s frustration at your administration’s “rush to ease a series of immigration guardrails,” as Politico puts it, even when you were warned that doing so would lead to crisis-level border crossings.
+I share Secretary Becerra’s frustration at your administration’s "rush to ease a series of immigration guardrails," as Politico puts it, even when you were warned that doing so would lead to crisis-level border crossings.
 
 The Washington Post reports that your administration ignored warnings and took specific actions that led to the largest border surge in 20 years. Specifically, you took the following actions:
 
 - Ordered a 100-day deportation moratorium
-- Ended the “Remain in Mexico” program, which required asylum-seeking families to wait outside U.S. territory for their claims to be processed, and
+- Ended the "Remain in Mexico" program, which required asylum-seeking families to wait outside U.S. territory for their claims to be processed, and
 - Ended Trump’s pandemic health order to return unaccompanied minors to their home countries.
 
-“Even as border stations and holding cells began to fill with new crossers,” the Post reports, “the Biden administration continued to repeal Trump-era enforcement measures.”
+"Even as border stations and holding cells began to fill with new crossers," the Post reports, "the Biden administration continued to repeal Trump-era enforcement measures."
 
-Every leader makes mistakes. The good ones acknowledge them and make adjustments. So, I’m asking you to restore the programs detailed in the Washington Post report, “At the border, a widely predicted crisis that caught Biden off guard,” and to give HHS the best opportunity to deal with the crisis by also restoring the 15,000 cap on refugee admissions.
+Every leader makes mistakes. The good ones acknowledge them and make adjustments. So, I’m asking you to restore the programs detailed in the Washington Post report, "At the border, a widely predicted crisis that caught Biden off guard," and to give HHS the best opportunity to deal with the crisis by also restoring the 15,000 cap on refugee admissions.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 

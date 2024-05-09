@@ -1,13 +1,7 @@
 ---
-id: 3137
 title: 'End unprecedented parole use and take up H.R. 2'
 date: '2023-08-16T09:48:26-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'https://www.gregraven.us/?p=3137'
-permalink: /2023/08/end-unprecedented-parole-use-and-take-up-h-r-2/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

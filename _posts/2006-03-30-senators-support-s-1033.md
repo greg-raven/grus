@@ -1,13 +1,7 @@
 ---
-id: 212
 title: 'Oppose S. 1033'
 date: '2006-03-30T14:54:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/2006/03/30/senators-support-s-1033/'
-permalink: /2006/03/senators-support-s-1033/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

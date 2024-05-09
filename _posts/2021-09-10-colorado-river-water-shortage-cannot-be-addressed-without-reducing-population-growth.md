@@ -1,13 +1,7 @@
 ---
-id: 2922
 title: 'Colorado River water shortage cannot be addressed without reducing population growth'
 date: '2021-09-10T12:37:08-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2922'
-permalink: /2021/09/colorado-river-water-shortage-cannot-be-addressed-without-reducing-population-growth/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

@@ -1,13 +1,7 @@
 ---
-id: 3000
 title: 'Support the Legal Workforce Act to Mandate E-Verify and Combat ID Theft'
 date: '2022-03-23T06:15:00-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3000'
-permalink: /2022/03/support-the-legal-workforce-act-to-mandate-e-verify-and-combat-id-theft/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

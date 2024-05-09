@@ -1,13 +1,7 @@
 ---
-id: 2468
 title: 'A modest proposal for Google and Facebook'
 date: '2017-08-10T12:33:59-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2468'
-permalink: /2017/08/a-modest-proposal-for-google-and-facebook/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Commentary
 tags:
@@ -22,6 +16,6 @@ Fortunately, there is a simple solution that will address each of these challeng
 
 All they need to do to retain the ability to hire those they really want while meeting the demands of SJWs around the world is to offer a pay raise to each white male employee who agrees to identify as a female and/or person of color.
 
-According to progressives, biology does not matter, so there should be nothing wrong with a white male identifying as — say — a black woman. After identifying as a black woman, this brand new woman would be receiving a higher paycheck than the male she formerly was. Thus, income inequality, gender inequality, and racial inequality are fixed using a wonderfully free-market approach, and best of all, they get to retain (and/or hire) all the white and Asian males they desire.
+According to progressives, biology does not matter, so there should be nothing wrong with a white male identifying as --- say --- a black woman. After identifying as a black woman, this brand new woman would be receiving a higher paycheck than the male she formerly was. Thus, income inequality, gender inequality, and racial inequality are fixed using a wonderfully free-market approach, and best of all, they get to retain (and/or hire) all the white and Asian males they desire.
 
 [Greg Raven](https://www.gregraven.org), Apple Valley, CA

@@ -1,13 +1,7 @@
 ---
-id: 2255
 title: 'An Op-Ed from The Hill you may have missed'
 date: '2015-08-04T12:50:46-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2255'
-permalink: /2015/08/an-op-ed-from-the-hill-you-may-have-missed/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -29,7 +23,7 @@ Please read the attached op-ed and help to make our country safer by helping to 
 > 
 > Federal entities release nearly four times as many criminal aliens as do cities and other local jurisdictions with sanctuary policies. New legislation must include mandatory detainers for criminal aliens as well as mandatory communications between state and local and federal agencies.
 
-([Read the full article here](http://thehill.com/opinion/op-ed/248643-sanctuary-cities-legislation-must-tackle-sanctuary-nation-policies).)
+([Read the full article here](https://thehill.com/opinion/op-ed/248643-sanctuary-cities-legislation-must-tackle-sanctuary-nation-policies).)
 
 Phone me if you would like to talk about this,
 

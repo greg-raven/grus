@@ -1,13 +1,7 @@
 ---
-id: 2164
 title: 'Thanks for opposing Obama&#8217;s illegal executive amnesty'
 date: '2015-03-19T05:37:45-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=2164'
-permalink: /2015/03/thanks-for-opposing-obamas-illegal-executive-amnesty/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

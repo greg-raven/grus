@@ -1,13 +1,7 @@
 ---
-id: 1380
 title: 'End birthright citizenship'
 date: '2012-08-24T13:35:11-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=1380'
-permalink: /2012/08/boxer-feinstein-lewis-end-birthright-citizenship/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:

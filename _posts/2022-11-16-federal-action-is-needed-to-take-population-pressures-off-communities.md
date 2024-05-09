@@ -1,13 +1,7 @@
 ---
-id: 3084
 title: 'Federal action is needed to take population pressures off communities.'
 date: '2022-11-16T07:08:46-08:00'
-author: 'Greg Raven'
 layout: post
-guid: 'http://localhost:10004/?p=3084'
-permalink: /2022/11/federal-action-is-needed-to-take-population-pressures-off-communities/
-algolia_searchable_posts_records_count:
-    - '1'
 categories:
     - Letters
 tags:
@@ -18,7 +12,7 @@ tags:
     - 'Senator Dianne Feinstein'
 ---
 
-I can’t believe how much urban sprawl there’s been in America during the past 20 years — more than 11.5 million acres of open land (an area about the size of New Jersey and New Hampshire combined) has been developed. This trend is being fueled by population growth.
+I can’t believe how much urban sprawl there’s been in America during the past 20 years --- more than 11.5 million acres of open land (an area about the size of New Jersey and New Hampshire combined) has been developed. This trend is being fueled by population growth.
 
 Urban sprawl is chewing away at America’s natural heritage and is driving down the quality of life. Unless America changes course, our nation will endure natural resource depletion, a lack of affordable housing, and more traffic congestion for the indefinite future. According to the U.S. Census Bureau, America’s population will reach 404 million by 2060, another 75 million people, with roughly 90% due to immigration.
 
