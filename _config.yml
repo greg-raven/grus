@@ -11,7 +11,7 @@ description: Correspondence and commentary on current events.
 
 theme: minima
 
-url: https://greg-raven.GitHub.io/grus
+url: https://www.gregraven.us
 
 plugins:
   - jekyll-archives
