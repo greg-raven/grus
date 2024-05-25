@@ -8,7 +8,7 @@ tags:
 - immigration
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
-- taxation
+- taxes
 ---
 
 Senators:
