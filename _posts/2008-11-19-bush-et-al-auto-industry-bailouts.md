@@ -12,8 +12,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I urge you to oppose any bailout of the auto industry, whether by taking existing funds from TARP, revising any previous loans, or making new grants.  
-  
+I urge you to oppose any bailout of the auto industry, whether by taking existing funds from TARP, revising any previous loans, or making new grants.
+
 The auto industry is lobbying hard for taxpayer money when they should be entirely focused on restructuring their companies and recouping their losses. There is no guarantee that a government handout will have any positive effect. In fact, just the opposite: Once the Big 3 receive a bailout, there's no need for them to make any improvements to the way they do business.
 
 Because a bailout will only delay the economic consequences of the Big 3's current predicaments, Congress should allow the market to work so that the fallout can be dealt with and overcome as quickly as possible.

@@ -15,7 +15,7 @@ tags:
 
 - No oversight needed
 
-- Endorsed by unions 
+- Endorsed by unions
 
 For the general destruction of wealth. If you catch a nasty case of free market capitalism, try Hydrogen Barackside --- it will cure you of all your money issues. Our solution is right on the Marx!!
 

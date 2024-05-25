@@ -8,8 +8,8 @@ tags:
 - Representative Jerry Lewis
 ---
 
-Why on Earth would Resident Obama or his appointees at USCIS ever consider using executive actions to amnesty the 12-18 million (lawbreaking) illegal aliens living in the United States? The USCIS memo called "Administrative Alternatives to Comprehensive Immigration Reform" is truly odious.  
-  
+Why on Earth would Resident Obama or his appointees at USCIS ever consider using executive actions to amnesty the 12-18 million (lawbreaking) illegal aliens living in the United States? The USCIS memo called "Administrative Alternatives to Comprehensive Immigration Reform" is truly odious.
+
 The stated purpose of this memo is to: "offer administrative relief options to promote family unity, foster economic growth, achieve significant process improvements and reduce the threat of removal for certain individuals present in the United States without authorization. It includes recommendations regarding timeframes and required resources."
 
 Since when is it the job of the President and his underlings to bypass Congress in order to amnesty the 12-18 million illegal aliens living in the United States? Clearly, it is not.

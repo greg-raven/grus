@@ -7,8 +7,8 @@ tags:
 - government power
 ---
 
-The complete exoneration of the Duke lacrosse team members of rape charges got me thinking about other seemingly similar abuses of government power, as evidenced by prosecutorial zeal.  
-  
+The complete exoneration of the Duke lacrosse team members of rape charges got me thinking about other seemingly similar abuses of government power, as evidenced by prosecutorial zeal.
+
 I realize that we're supposed to cheer the TV cops and prosecutors when they bend the rules to get the "bad guys," but it should be disquieting.
 
 Imagine for a moment what might have happened if there had been one shred of evidence to support the false rape charges. Would the outcome have been any different from those in the prosecutions of Michael Milken, Martha Stewart, or Scooter Libby?

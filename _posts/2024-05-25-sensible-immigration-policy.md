@@ -3,7 +3,7 @@ title: "Sensible immigration policy"
 layout: post
 categories:
 - Letters
-tags: 
+tags:
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Laphonza Butler

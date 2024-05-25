@@ -5,13 +5,13 @@ categories:
 - Letters
 ---
 
-California Rifle and Pistol Association  
+California Rifle and Pistol Association
 Fullerton, CA
 
 Dear Sirs,
 
-The article by Walt Mansell in the December "From the Old Game Warden" (Bridging the Language Barrier, page 16) made me so angry I'm not certain I can be civil in pointing out what bone-headed nonsense it contains. But here goes anyway.  
-  
+The article by Walt Mansell in the December "From the Old Game Warden" (Bridging the Language Barrier, page 16) made me so angry I'm not certain I can be civil in pointing out what bone-headed nonsense it contains. But here goes anyway.
+
 Let's start with must be the foundation of any discussion about immigration: A nation without borders is not a nation (Ronald Reagan). The whole point of having borders is to protect our society and our culture. Failure to protect your own society and/or culture is suicidal. There are reasons why the United States is --- or at least, used to be --- a uniquely great country. Unfortunately, we as a country have not only failed to protect our borders, society, and culture, but in fact have allow those who hate our society and culture to gain control. As a result, the stature of the United States has plummeted, to the delight of the elite and dismay of the average citizen.
 
 So in this miasma, along comes good ol' Walt Mansell, who after writing that he observed Mr. Gomez breaking the law, takes pains to assure the reader that he thinks "farm laborers" are just terrific, the implication being that Mansell doesn't care if someone is in the country illegally, or if he is involved in any number of criminal activities small and large. As long as he says he's a farm laborer and gets his fishing license, we don't need to worry about whether a person entered the country illegally, is working legally in this country, has engaged in identity theft to further his criminal activities, fails to pay taxes, is on public assistance, is by his very presence driving down the labor market to the point that actual citizens cannot compete for farm jobs, drives while drunk, assists others in entering and/or remaining in this country illegally, or engages in any of the myriad of crimes associated with illegal aliens.

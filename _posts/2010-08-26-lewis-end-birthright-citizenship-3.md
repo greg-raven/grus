@@ -8,8 +8,8 @@ tags:
 - Representative Jerry Lewis
 ---
 
-I see the problem of anchor babies as a serious flaw in our immigration law. I am asking you to cosponsor H.R. 1868.  
-  
+I see the problem of anchor babies as a serious flaw in our immigration law. I am asking you to cosponsor H.R. 1868.
+
 As a matter of policy for decades, the Federal government has granted citizenship to babies born to illegal alien mothers. This is a pronounced reward to those parents who have entered or stayed in the United States in violation of immigration laws.
 
 Not only do the mothers immediately get access to a whole array taxpayer-funded social services for their babies, but these illegal aliens get a virtual guarantee that they will never be asked to leave the country.

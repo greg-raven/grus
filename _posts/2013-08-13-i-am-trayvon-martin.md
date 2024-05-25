@@ -9,6 +9,6 @@ tags:
 
 I am Trayvon Martin.
 
-![I am Trayvon Martin](/assets/img/2013/08/I-am-Travon-Martin.png)  
-  
+![I am Trayvon Martin](/assets/img/2013/08/I-am-Travon-Martin.png)
+
 Courtesy Dixon Diaz / Libtards

@@ -23,7 +23,7 @@ tags:
 13. Average household income declined $4,300.
 14. Health insurance increases $1,500 under Obama.
 15. Only President to have U.S. credit downgraded (twice).
-16. Over 100 million people on some form of means tested welfare. 
+16. Over 100 million people on some form of means tested welfare.
 17. $6 trillion added to our debt; more than all other Presidents combined.
 
 ![17 reasons not to vote for Obama](/assets/img/2012/11/17-reasons-not-to-vote-for-Obama.jpg)

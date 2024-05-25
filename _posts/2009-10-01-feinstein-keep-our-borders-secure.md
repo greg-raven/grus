@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I have heard that DHS will be reducing the number of Border Patrol agents on the U.S. – Mexico border. I hope this is not true!  
-  
+I have heard that DHS will be reducing the number of Border Patrol agents on the U.S. – Mexico border. I hope this is not true!
+
 News outlets are reporting that DHS will relocate 384 Border Patrol agents from the U.S. – Mexico border to the U.S. – Canada border. I hope these reports are untrue as our southern border is far from secure.
 
 While I believe our northern border should be secured, it should not be done at the expense of our southern border. Every year, hundreds of thousands of illegal aliens are apprehended trying to illegally enter our country from Mexico, but even more are able to slip through.

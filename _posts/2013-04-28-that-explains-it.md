@@ -9,8 +9,8 @@ tags:
 
 **Bullet train bid rules altered** (4/19/2013)
 
-Changes allowed Tutor Perini to rank as the top firm despite a low technical score.  
-  
+Changes allowed Tutor Perini to rank as the top firm despite a low technical score.
+
 State high-speed rail officials acknowledged Thursday that they changed their rules for selecting a builder for the bullet train's first phase in the Central Valley, a shift that subsequently made it possible for a consortium led by Sylmar-based Tutor Perini to be ranked as the top candidate despite receiving the lowest technical rating.
 
 [Read the full story here](https://web.archive.org/web/20130422105037/https://articles.latimes.com/2013/apr/19/local/la-me-high-speed-bidding-20130419).

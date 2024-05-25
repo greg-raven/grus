@@ -15,7 +15,7 @@ President Obama's amnesties are an affront to the rule of law and funding them s
 Rep. Mick Mulvaney's H. Con. Res. 28 says:
 
 > "Whereas the passage of H.R. 240 to fund the Department of Homeland Security and protect against ongoing terrorist threats could be misconstrued as the consent of Congress to the President's illegal and unconstitutional executive amnesty:
-> 
+>
 > "Now, therefore, be it resolved by the House of Representatives (the Senate concurring), that Congress affirms that the actions taken by the President to implement executive amnesty exceed his constitutional authority, and thus are unlawful."
 
 I hope you will cosponsor H. Con. Res. 28 and prove once more that you are against the president's amnesties.

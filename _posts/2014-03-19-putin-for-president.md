@@ -7,7 +7,7 @@ categories:
 
 He guards his country's borders.
 
-He protects his citizens abroad. 
+He protects his citizens abroad.
 
 He keeps gay propaganda out of schools.
 

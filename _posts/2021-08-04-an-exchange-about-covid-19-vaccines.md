@@ -13,9 +13,9 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 **Editorial**
 
 > One of the primary objections to COVID vaccinations on both the holistic/wellness Left and the "Don't tread on me" Right is that vaccines are "not natural." Nature has given us immune systems, so why not rely on them and some extra vitamin D to battle the coronavirus, rather than on something cooked up by scientists? Let's reflect on that question. SARS-CoV-2, which has killed 4.1 million people, including 610,000 Americans, originated in horseshoe bats in China (whether or not that virus was tweaked in a lab). If you're infected with this bat virus, it breaks into your cells, hijacks their genetic machinery, and churns out billions of copies of itself. This viral army can overwhelm immune defenses and attack blood vessels, the lungs, the heart, and even the brain. You become a coronavirus factory, spewing out clouds of highly contagious virus from your nose and mouth.
-> 
+>
 > You'll probably survive, but many describe COVID as the most agonizing illness of their lives. A substantial percentage wind up in a hospital; to get enough oxygen, some need a ventilator tube pushed down their throat. At least 10 percent of COVID cases turn into long COVID --- lasting fatigue, headaches, pain, and brain fog that make it difficult to exercise or work. Is that "natural"? In one sense, yes: Throughout human history, most people died young, often of viral and bacterial infections. In the mid–19th century, the average life span in Europe was about 40 years. Life spans have doubled largely because science figured out how to prevent infectious diseases. Vaccines have played a critical role, freeing us from smallpox, polio, and many other natural forms of misery and death. So far, we've given nearly 400 million shots of COVID vaccine to Americans; the vaccines work, and serious side effects are vanishingly rare. It's far, far more risky --- and selfish --- to let a bat virus invade your body and turn you into a menace to everyone you meet. Nature is not always your friend.
-> 
+>
 > <cite>William Falk, editor-in-chief, The Week, The "natural" fallacy</cite>
 
 **Response**
@@ -412,7 +412,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 > Have you heard dis information?
 >
 >  [pic.twitter.com/sHljBLYNfq](https://t.co/sHljBLYNfq)
-> 
+>
 > <cite>Elon Musk (@elonmusk) [September 26, 2023](https://twitter.com/elonmusk/status/1706676593261785178?ref_src=twsrc%5Etfw)</cite>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Have you heard dis information? <br> <a href="https://t.co/sHljBLYNfq">pic.twitter.com/sHljBLYNfq</a></p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1706676593261785178?ref_src=twsrc%5Etfw">September 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

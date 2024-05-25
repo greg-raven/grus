@@ -3,7 +3,7 @@ title: "Immigration policies add further strain to groundwater supplies"
 layout: post
 categories:
 - Letters
-tags: 
+tags:
 - Senator Laphonza Butler
 - illegal immigration
 - environment

@@ -11,8 +11,8 @@ tags:
 
 By Joseph Curl --- [The Washington Times](https://www.washingtontimes.com/news/2012/jan/22/curl-the-truly-dismal-state-of-the-union/?page=all#pagebreak), Sunday, January 22, 2012
 
-There is one person --- one American among the 300 million of us --- who is not to blame for the state of the union. Everyone else, each of you, in some small or large way, bears some share of the blame, but not this guy. Not one little bit.  
-  
+There is one person --- one American among the 300 million of us --- who is not to blame for the state of the union. Everyone else, each of you, in some small or large way, bears some share of the blame, but not this guy. Not one little bit.
+
 This guy is Barack Obama. He is not the least bit to blame for the dismal state of the U.S. economy. George W. Bush is, for sure, and that evil Dick Cheney, oh, no doubt. House Speaker John A. Boehner --- evil, too --- is, of course, to blame. But guess what? So is Senate Majority Leader Harry Reid, House Democratic Leader Nancy Pelosi, and every Democrat in the House and Senate.
 
 Now, President Truman made it very clear: The buck stops with him. No passing the buck for that guy. But Mr. Obama blames everyone but himself. Mr. Bush, he says, left the nation in a ditch, a deep ditch, and he's been digging out since he took office. And Congress? Those guys are just plain awful, he says. So mean. Wah, they won't do anything I want done! Mr. Obama feels so sure about it that he's basing his re-election campaign on bashing Capitol Hill.

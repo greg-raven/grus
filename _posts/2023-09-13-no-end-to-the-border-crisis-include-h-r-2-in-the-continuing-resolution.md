@@ -4,6 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
+- child labor
 - illegal aliens
 - illegal immigration
 - Senator Alex Padilla

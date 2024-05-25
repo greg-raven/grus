@@ -9,8 +9,8 @@ tags:
 
 by Ann Coulter
 
-When Republicans start lying like Democrats, you can guess they are pushing an idea that's bad for America. During his William Ginsburg-like tour of the Sunday talk shows last weekend, Sen. Marco Rubio was the Mount Vesuvius of lies about his immigration bill.  
-  
+When Republicans start lying like Democrats, you can guess they are pushing an idea that's bad for America. During his William Ginsburg-like tour of the Sunday talk shows last weekend, Sen. Marco Rubio was the Mount Vesuvius of lies about his immigration bill.
+
 Here is how Rubio explained the powerful border-enforcing mechanism in his bill on "Fox News Sunday," which he denied was merely a meaningless goal:
 
 "Basically, Homeland Security will have five years to meet that goal. If after five years, Homeland Security has not met that number, it will trigger the Border Commission, who will then take over this issue for them."

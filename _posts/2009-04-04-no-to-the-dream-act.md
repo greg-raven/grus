@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Why would you consider sponsoring the DREAM Act amnesty without first eliminating the chain migration categories that would reward the illegal alien parents of the amnestied illegal alien "children?"  
-  
+Why would you consider sponsoring the DREAM Act amnesty without first eliminating the chain migration categories that would reward the illegal alien parents of the amnestied illegal alien "children?"
+
 The DREAM Act is not a small amnesty for a select group of individuals. In fact, it allows illegal "teens" (i.e., anyone under 30) to petition for their parents, leading eventually to their aunts, uncles, grandparents, and cousins, to come to the United States.
 
 In 2007, the big argument for this amnesty is that it is for teenagers who are here illegally because their parents broke the law. Even with the less-than-30 age requirement, this amnesty will apply to more than just teens ("humanitarian" and "family unity" exceptions were added to the age limit). Nonetheless, the argument is that the teenagers should not be punished for the crimes of their parents.

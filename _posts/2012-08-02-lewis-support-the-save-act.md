@@ -11,8 +11,8 @@ tags:
 
 Representative Jerry Lewis:
 
-The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration's dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler's SAVE Act, today!  
-  
+The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration's dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler's SAVE Act, today!
+
 According to the report released by the Congressional Research Service, criminal illegal aliens released by order of the Obama administration are likely to commit another serious crime.
 
 The data provided to the House Judiciary Committee by DHS includes 276,412 records of charges against illegal and criminal immigrants identified by Secure Communities between October 27, 2008 and July 31, 2011. There are 159,286 unique individuals in the database and 205,101 unique arrest incidents.

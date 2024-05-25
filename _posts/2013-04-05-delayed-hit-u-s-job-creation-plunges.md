@@ -5,8 +5,8 @@ categories:
 - Information
 ---
 
-Job creation slowed to a crawl during March, with the U.S. economy creating just 88,000 positions though the unemployment rate fell to 7.6 percent.  
-  
+Job creation slowed to a crawl during March, with the U.S. economy creating just 88,000 positions though the unemployment rate fell to 7.6 percent.
+
 The number was a sharp slide from February's upwardly revised 268,000.
 
 [Read the full story here](https://www.cnbc.com/id/100618938).

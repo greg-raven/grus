@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-How could Resident Obama even consider instructing USCIS to draw up a memorandum entitled "Administrative Alternatives to Comprehensive Immigration Reform?" Does he not believe it is the job of the people's Congress to set immigration policy?  
-  
+How could Resident Obama even consider instructing USCIS to draw up a memorandum entitled "Administrative Alternatives to Comprehensive Immigration Reform?" Does he not believe it is the job of the people's Congress to set immigration policy?
+
 This memo to Alejandro Mayorkas (Director of USCIS), from Denise Vanison (Policy and Strategy), Roxana Bacon (Office of the Chief Counsel), Debra Rogers (Field Operations), and Donald Neufeld (Service Center Operations) is an absolute disgrace. How can the President expect the American people to trust him when he is constantly trying to find ways to circumvent Congress to give amnesty to 12-18 million illegal aliens?
 
 The American people have elected a Congress to set, among other things, our nation's immigration policy. Resident Obama does not have the right --- moral or otherwise --- to overstep his authority and grant an amnesty to the illegal aliens living in the United States (especially when one considers that 15 million Americans are unemployed while 8 million illegal aliens have a job).

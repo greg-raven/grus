@@ -9,8 +9,8 @@ tags:
 - population
 ---
 
-We are glad you pointed out that America needs to create 150,000 new jobs each month simply to employ those Americans entering the workforce. With this in mind why are you allowing businesses to import 125,000 new foreign workers each month?  
-  
+We are glad you pointed out that America needs to create 150,000 new jobs each month simply to employ those Americans entering the workforce. With this in mind why are you allowing businesses to import 125,000 new foreign workers each month?
+
 You're right, the United States needs to create 150,000 jobs each month to keep pace with out own skyrocketing population. According to you we are only creating 50,000 jobs each month. This means that we are creating 100,000 too few jobs each month. That means we are looking at a jobs deficit of 1.2 million over the next year (if the economy keeps improving).
 
 Why then do these United States continue to issue 125,000 foreign worker permits each month and 35,000 green cards to foreign workers? This adds up to 160,000 foreign workers per month. Why are we allowing 160,000 foreign workers each month to compete against unemployed Americans when we are facing a monthly jobs deficit of 100,000?

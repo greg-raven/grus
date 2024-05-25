@@ -5,8 +5,8 @@ categories:
 - Information
 ---
 
-You can almost hear Jay Carney shrugging away the bad news, reminding everyone that this must be what people want because we live in a democracy and this is what people voted for when they re-elected Obama.  
-  
+You can almost hear Jay Carney shrugging away the bad news, reminding everyone that this must be what people want because we live in a democracy and this is what people voted for when they re-elected Obama.
+
 **Work Slowdown? ADP Says Job Creation Slowing**
 
 Private-sector job creation was considerably less than expected in March, indicating that the labor market's improvements could begin stalling.

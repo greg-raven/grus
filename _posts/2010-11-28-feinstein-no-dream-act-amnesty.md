@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-It is reprehensible that Senate Majority Leader Harry Reid wants to force the DREAM Act amnesty on the American people during the lame duck session of Congress. You need to do the right thing and stand up to Sen. Reid and just say "No" to amnesty! Otherwise, your chances of winning reelection in 2012 will look dim.  
-  
+It is reprehensible that Senate Majority Leader Harry Reid wants to force the DREAM Act amnesty on the American people during the lame duck session of Congress. You need to do the right thing and stand up to Sen. Reid and just say "No" to amnesty! Otherwise, your chances of winning reelection in 2012 will look dim.
+
 Please do not pay attention to anyone who says the DREAM Act amnesty would only help innocent "children" who are the victims of their parents' lawbreaking. The DREAM Act is not a narrow amnesty aimed only at children; it would amnesty any illegal alien under the age of 35!
 
 The DREAM Act is not a small amnesty for a select group of individuals. In fact, it allows illegal "teens" (i.e., anyone under 35) to petition for their parents, leading eventually to their aunts, uncles, grandparents, and cousins coming permanently to the United States.

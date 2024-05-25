@@ -7,8 +7,8 @@ tags:
 - abortion
 ---
 
-An epidemic of violence that demands immediate action to nullify the 2nd Amendment and strip law-abiding citizens of their natural rights:  
-  
+An epidemic of violence that demands immediate action to nullify the 2nd Amendment and strip law-abiding citizens of their natural rights:
+
 [Public Mass Shootings in the United States: Selected Implications for Federal Public Health and Safety Policy](https://www.fas.org/sgp/crs/misc/R43004.pdf) --- 547 deaths, 1,073 casualties over a 29-year period (PDF)
 
 Local issue not worthy of coverage by the mainstream media:

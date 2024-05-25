@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Please do whatever you can to oppose S. 1033, a bill by Senators McCain and Kennedy that would result in 25 million more foreign workers and dependents over the next decade.  
-  
+Please do whatever you can to oppose S. 1033, a bill by Senators McCain and Kennedy that would result in 25 million more foreign workers and dependents over the next decade.
+
 The media are reporting that S. 1033 will likely be included in the immigration bill that is considered by the full Senate this week.
 
 Please vote against any amendment and any bill that rewards illegal immigration or that increases the already-too-high importation of foreign workers.

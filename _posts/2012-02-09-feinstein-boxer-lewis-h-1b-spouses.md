@@ -10,8 +10,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Barack Obama's recent decision to attempt to extend work authorization to the spouses of H-1B workers is downright disgusting. He is simply pandering to the unscrupulous business hucksters who would rather hire cheap foreign workers instead of paying a living wage to U.S. workers.  
-  
+Barack Obama's recent decision to attempt to extend work authorization to the spouses of H-1B workers is downright disgusting. He is simply pandering to the unscrupulous business hucksters who would rather hire cheap foreign workers instead of paying a living wage to U.S. workers.
+
 I'm not sure why Obama continues to support the H-1B visa program when there are so many U.S. technology workers who cannot find a full-time job. Doesn't he realize that companies prefer H-1B workers because they are temporary and can be paid less?
 
 Each year, 85,000 H-1B workers are admitted, and these visas are good for three years, and renewable once. So, at any one time, there is a maximum of 510,000 His workers in the United States, displacing American workers.

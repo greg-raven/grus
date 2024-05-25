@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - border control
+- child labor
 - illegal immigration
 - Representative Jay Obernolte
 ---
@@ -15,7 +16,7 @@ People can simply make far more money in the United States than in their home co
 
 It's not crazy to be concerned about the border.
 
-The record border surge has undermined Biden's goals for equity and conservation, and produced spikes in homelessness, a "glam migration" industry with an extensive Uber network, new national security risks and child labor exploitation.
+The record border surge has undermined Biden's goals for equity and conservation, and produced spikes in homelessness, a "glam migration" industry with an extensive Uber network, new national security risks, and child labor exploitation.
 
 Please work with your colleagues to implement sensible border controls, including:
 

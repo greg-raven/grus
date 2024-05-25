@@ -3,7 +3,7 @@ title: "<#title#>"
 layout: post
 categories:
 - <#category#>
-tags: 
+tags:
 - <#tag#>
 ---
 

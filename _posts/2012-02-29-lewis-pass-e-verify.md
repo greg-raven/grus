@@ -10,8 +10,8 @@ tags:
 
 Representative Jerry Lewis
 
-A new poll conducted by Pulse Opinion Research shows that an astounding 94% of Republican voters support mandatory workplace verification. With numbers like these, there is absolutely no reason for the House not to pass a mandatory E-Verify bill and help America's unemployed get back to work.  
-  
+A new poll conducted by Pulse Opinion Research shows that an astounding 94% of Republican voters support mandatory workplace verification. With numbers like these, there is absolutely no reason for the House not to pass a mandatory E-Verify bill and help America's unemployed get back to work.
+
 The results of the poll are clear: American voters support E-Verify. To be specific:
 
 - 78% of all likely voters support mandatory workplace verification;

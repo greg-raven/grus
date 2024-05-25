@@ -8,8 +8,8 @@ tags:
 - Representative Paul Cook
 ---
 
-H.R. 4731, the Refugee Program Integrity Restoration Act would establish a ceiling of 60,000 refugees per year and require Congressional approval to change it. It would also reform America's refugee system and make our country safer. I urge you to push for a House vote on this legislation.  
-  
+H.R. 4731, the Refugee Program Integrity Restoration Act would establish a ceiling of 60,000 refugees per year and require Congressional approval to change it. It would also reform America's refugee system and make our country safer. I urge you to push for a House vote on this legislation.
+
 The Refugee Program Integrity Restoration Act would:
 
 - Set the refugee cap at 60,000 (the average intake of refugees between 2004-13 was just shy of 59,000);

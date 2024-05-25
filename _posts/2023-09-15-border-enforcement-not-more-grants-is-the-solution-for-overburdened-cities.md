@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - border control
+- child labor
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Dianne Feinstein

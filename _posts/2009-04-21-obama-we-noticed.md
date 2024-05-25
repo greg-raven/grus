@@ -10,8 +10,8 @@ tags:
 
 Resident Obama:
 
-Today I read that you signed into law the Edward M. Kennedy Serve America Act, which for the first time includes federal authorization to establish September 11 as an annually recognized National Day of Service and Remembrance. It's time we had a talk.  
-  
+Today I read that you signed into law the Edward M. Kennedy Serve America Act, which for the first time includes federal authorization to establish September 11 as an annually recognized National Day of Service and Remembrance. It's time we had a talk.
+
 During your campaign, Americans watched as you made mockery of our tradition of standing and crossing your heart when the Pledge of Allegiance was spoken. You, out of four people on the stage, were the only one not honoring our tradition.
 
 YES, "We noticed."

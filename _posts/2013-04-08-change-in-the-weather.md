@@ -5,8 +5,8 @@ categories:
 - Opinion
 ---
 
-![Time-The-Coming-Ice-Age](/assets/img/2013/04/Time-The-Coming-Ice-Age.jpg)  
-  
+![Time-The-Coming-Ice-Age](/assets/img/2013/04/Time-The-Coming-Ice-Age.jpg)
+
 The recent acknowledgement by "global warming" climate scientists that temperatures worldwide have dropped over the last 20 years reminds me of the previous predictions of devastating climate change: Global cooling.
 
 In 1969 we used to debate about what to do about the apparent cooling trend in the atmosphere, a trend (if I remember correctly) attributed to the use of fossil fuels, which polluted the air, which blocked sunlight, which was continuing unabated, and which would lead to a worldwide winter that few humans would survive. Our only hope back then was that we were running out of fossil fuels, so there was a slim chance that we would run out of gas and oil "in time" to save the planet. Of course, there was also a chance that an exchange of nuclear warheads between the U.S. and the U.S.S.R. would lead us to a "nuclear winter."

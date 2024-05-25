@@ -8,8 +8,8 @@ tags:
 - Senator Barbara Boxer
 ---
 
-We truly are disappointed that you have decided to support the DREAM Act amnesty. We thought that, given the recent election, you would be opposing, not supporting, an anti-American amnesty bill.  
-  
+We truly are disappointed that you have decided to support the DREAM Act amnesty. We thought that, given the recent election, you would be opposing, not supporting, an anti-American amnesty bill.
+
 I urge you to stop paying attention to anyone who says the DREAM Act amnesty will only help innocent "children" who are the victims of their parents' lawbreaking. The DREAM Act is not a narrow amnesty aimed only at children; it would amnesty any illegal alien under the age of 35!
 
 The DREAM Act is not a small amnesty for a select group of individuals. In fact, it allows illegal "teens" (i.e., anyone under 35) to petition for their parents, leading eventually to their aunts, uncles, grandparents, and cousins coming permanently to the United States.

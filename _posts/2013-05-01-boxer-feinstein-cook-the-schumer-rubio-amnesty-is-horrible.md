@@ -10,8 +10,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-The Gang of Eight's amnesty bill is an amnesty first, enforcement promises bill. The amnesty for illegal aliens comes before any enforcement occurs and there are no hard triggers requiring enforcement. Americans want enforcement first. Please oppose this legislation.  
-  
+The Gang of Eight's amnesty bill is an amnesty first, enforcement promises bill. The amnesty for illegal aliens comes before any enforcement occurs and there are no hard triggers requiring enforcement. Americans want enforcement first. Please oppose this legislation.
+
 This legislation can be called, without a doubt or without fear of misleading anyone, an "amnesty-first, border security and enforcement-probably never" immigration bill. There are no hard triggers, simply promises and the supposed good intentions of the Gang of Eight drafters.
 
 When ICE officer and President of the National ICE Council Chris Crane testified before the Senate Judiciary Committee that the bill had no hard enforcement triggers for the initial amnesty (legalization and work permits), no one on the committee disagreed with or raised a single objection to his assertion. If we learned anything form 1986, it's that enforcement promises in an immigration bill count for little.

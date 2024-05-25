@@ -7,8 +7,8 @@ tags:
 - Federal government
 ---
 
-Enough is enough! It's time for both sides to stop the drama! We do not want tax increases! We do not want to raise the debt ceiling! We do not want more spending! Why is that so difficult for our politicians to understand?  
-  
+Enough is enough! It's time for both sides to stop the drama! We do not want tax increases! We do not want to raise the debt ceiling! We do not want more spending! Why is that so difficult for our politicians to understand?
+
 It is well past time to dramatically and permanently slash the size and scope of the Federal government. Here's how to start:
 
 - Immediately eliminate each of the thousands of agencies and bureaucracies that has no Constitutional support for its existence.

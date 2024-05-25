@@ -8,8 +8,8 @@ tags:
 - Representative Jerry Lewis
 ---
 
-Politico is reporting that soon-to-be former Speaker Nancy Pelosi wants to force a floor vote on the DREAM Act amnesty during the lame duck session of Congress. I hope you oppose any attempt by Rep. Pelosi to force the anti-American worker DREAM Act amnesty on the American people.  
-  
+Politico is reporting that soon-to-be former Speaker Nancy Pelosi wants to force a floor vote on the DREAM Act amnesty during the lame duck session of Congress. I hope you oppose any attempt by Rep. Pelosi to force the anti-American worker DREAM Act amnesty on the American people.
+
 With people up to age 34 qualifying, the DREAM Act amnesty will apply to more than just teens, not to mention its fraud-prone "humanitarian" and "family unity" exceptions.
 
 Once DREAM amnesty citizens are over 21 --- again, many of those who would qualify for amnesty are already that age or older! --- they can bring their immigration law-breaking parents back into the U.S. (or keep them here legally after years of avoiding deportation). The chief criminals will be rewarded after all. And due to chain migration, the amnestied "teens" can petition for their aunts, uncles, cousins and grandparents to get permanent U.S. residency as well.

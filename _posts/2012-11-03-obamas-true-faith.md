@@ -19,7 +19,7 @@ Let's look at the evidence of Obama's true faith.
 	</thead>
 	<tbody>
 		<tr>
-			<td> 
+			<td>
 			<ol>
 				<li>
 					Born to a Muslim father.
@@ -65,7 +65,7 @@ Let's look at the evidence of Obama's true faith.
 				</li>
 			</ol>
 			</td>
-			<td> 
+			<td>
 			<ol>
 				<li>
 					He says he is.

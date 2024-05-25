@@ -8,8 +8,8 @@ tags:
 - Representative Jerry Lewis
 ---
 
-I understand that outgoing House Speaker Nancy Pelosi is trying to force the DREAM Act amnesty through the House during the lame duck session. I hope you realize that the American people have made it loud and clear that we oppose amnesty and we expect Congress to uphold our will.  
-  
+I understand that outgoing House Speaker Nancy Pelosi is trying to force the DREAM Act amnesty through the House during the lame duck session. I hope you realize that the American people have made it loud and clear that we oppose amnesty and we expect Congress to uphold our will.
+
 With people up to age 34 qualifying, the DREAM Act amnesty will apply to more than just teens, not to mention its fraud-prone "humanitarian" and "family unity" exceptions.
 
 Once DREAM amnesty citizens are over 21 --- again, many of those who would qualify for amnesty are already that age or older! --- they can bring their immigration law-breaking parents back into the U.S. (or keep them here legally after years of avoiding deportation). The chief criminals will be rewarded after all. And due to chain migration, the amnestied "teens" can petition for their aunts, uncles, cousins and grandparents to get permanent U.S. residency as well.

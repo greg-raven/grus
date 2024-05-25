@@ -3,7 +3,8 @@ title: "Put American workers first"
 layout: post
 categories:
 - Letters
-tags: 
+tags:
+- child labor
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Laphonza Butler

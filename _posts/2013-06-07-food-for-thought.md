@@ -7,8 +7,8 @@ categories:
 
 By Junius P. Long
 
-If you can get arrested for hunting or fishing without a license, but not for being in the country illegally ... you might live in a country founded by geniuses but run by idiots.  
-  
+If you can get arrested for hunting or fishing without a license, but not for being in the country illegally ... you might live in a country founded by geniuses but run by idiots.
+
 If you have to get your parents' permission to go on a field trip or take an aspirin in school, but not to get an abortion ... you might live in a country founded by geniuses but run by idiots.
 
 If the only school curriculum allowed to explain how we got here is evolution, but the government stops a $15 million construction project to keep a rare spider from evolving to extinction ... you might live in a country founded by geniuses but run by idiots.

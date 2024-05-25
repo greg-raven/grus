@@ -5,8 +5,8 @@ categories:
 - Information
 ---
 
-Horrific day in Boston:  
-  
+Horrific day in Boston:
+
 [Bomb Explosions Kill Two, Injure Dozens at Boston Marathon](https://abcnews.go.com/US/dead-explosions-boston-marathon/story?id=18960374)
 
 Quiet weekend in Chicago:

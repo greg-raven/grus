@@ -28,15 +28,15 @@ What he conveniently omitted from his speech was that his failed policies have d
 | Rate of Mortgage Delinquencies<sup>9</sup> | 6.62% | 10.23% | +55% |
 | U.S. National Debt<sup>10</sup> | $10.6 Trillion | $15.2 Trillion | +43% |
 
-<sup>1</sup> Number of unemployed in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.  
-<sup>2</sup> "Long-term unemployed" means for over 26 weeks; data for January 2009 and December 2011. https://www.bls.gov/data/#unemployment.  
-<sup>3</sup> Unemployment rates in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.  
-<sup>4</sup> "High unemployment" means having a 3-month average unemployment rate of 6% or higher. From the Bureau of Labor Statistics' "Extended Benefits Trigger Notice" for January 18, 2009 and January 22, 2012. https://www.ows.doleta.gov/unemploy/trigger/2009/trig\_011809.html and https://ows.doleta.gov/unemploy/euc\_trigger/2012/euc\_012212.html.  
-<sup>5</sup> The "Misery Index" equals unemployment plus inflation. For January 2009 and December 2012. https://www.miseryindex.us/indexbymonth.asp.  
-<sup>6</sup> Average retail price per gallon, January 2009 week 3 and January 2012 week 4. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=EMM\_EPMR\_PTE\_NUS\_DPG&amp;f=W.  
-<sup>7</sup> U.S. Department of Agriculture, values represent monthly "moderate" cost per family of four for January 2009 and November 2011. https://www.cnpp.usda.gov/USDAFoodCost-Home.htm.  
-<sup>8</sup> U.S. median sales price of existing single-family homes for metropolitan areas for 2008 and 2011 Q3. https://www.realtor.org/research/research/metroprice.  
-<sup>9</sup> Residential mortgage delinquencies (real estate loans) for 2008 Q4 and 2011 Q3. https://www.federalreserve.gov/releases/chargeoff/default.htm.  
+<sup>1</sup> Number of unemployed in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.
+<sup>2</sup> "Long-term unemployed" means for over 26 weeks; data for January 2009 and December 2011. https://www.bls.gov/data/#unemployment.
+<sup>3</sup> Unemployment rates in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.
+<sup>4</sup> "High unemployment" means having a 3-month average unemployment rate of 6% or higher. From the Bureau of Labor Statistics' "Extended Benefits Trigger Notice" for January 18, 2009 and January 22, 2012. https://www.ows.doleta.gov/unemploy/trigger/2009/trig\_011809.html and https://ows.doleta.gov/unemploy/euc\_trigger/2012/euc\_012212.html.
+<sup>5</sup> The "Misery Index" equals unemployment plus inflation. For January 2009 and December 2012. https://www.miseryindex.us/indexbymonth.asp.
+<sup>6</sup> Average retail price per gallon, January 2009 week 3 and January 2012 week 4. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=EMM\_EPMR\_PTE\_NUS\_DPG&amp;f=W.
+<sup>7</sup> U.S. Department of Agriculture, values represent monthly "moderate" cost per family of four for January 2009 and November 2011. https://www.cnpp.usda.gov/USDAFoodCost-Home.htm.
+<sup>8</sup> U.S. median sales price of existing single-family homes for metropolitan areas for 2008 and 2011 Q3. https://www.realtor.org/research/research/metroprice.
+<sup>9</sup> Residential mortgage delinquencies (real estate loans) for 2008 Q4 and 2011 Q3. https://www.federalreserve.gov/releases/chargeoff/default.htm.
 <sup>10</sup> Values for January 21, 2009 and January 23, 2012. https://www.treasurydirect.gov/NP/BPDLogin?application=np.
 
 Source: [House Committee on Ways &amp; Means](https://waysandmeans.house.gov/News/DocumentSingle.aspx?DocumentID=276866)

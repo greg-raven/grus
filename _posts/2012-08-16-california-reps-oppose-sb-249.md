@@ -60,15 +60,15 @@ Thank you for your time and attention.
 ---
 
 > Thank you for contacting me regarding your opposition to SB 249 (Yee), which seeks to significantly change the current statutory definition of "detachable magazine" assault weapons. I share your concerns on this issue and the threats it poses to further weaken our 2nd Amendment rights.
-> 
+>
 > SB 249 changes the current law regarding the definition of a 'detachable magazine,' thus criminalizing the possession of arms that are currently legal to possess in California. The 2nd Amendment and the 14th Amendment were enacted as a direct response to the British seizure of arms at Massachusetts Bay Colony and the widespread seizure of arms from freedmen and abolitionists in the reconstruction South. Ironically, but legally significant, the majority of seizures of firearms from freedmen were of their military rifles given to them in lieu of back pay for fighting for the Union in the Civil War. If there is anything that is longstanding, it is that the central purpose of both amendments was to make sure that government could not seize commonly owned firearms from the people.
-> 
+>
 > The redefinition in this law makes the possession of certain firearms, some without even pistol grips or other regulated features, immediately illegal with no due process, nor compensation for the seizure of the property or even a possibility of modifications.
-> 
+>
 > As a staunch defender of the 2nd Amendment, I can assure you of my opposition to this bill and others like it that seek to undermine our constitutional right to bear arms.
-> 
+>
 > Again, I thank you for correspondence to contact me on this important issue. Should you like to follow the status of this legislation, you may do so by visiting my website https://arc.asm.ca.gov/member/2/. Please do not hesitate to contact me again on this or any other state issue of concern to you at (530) 223-6300. It is an honor to represent you in the California State Assembly.
-> 
+>
 > Respectfully,
-> 
+>
 > Assemblyman Jim Nielsen, 2nd District

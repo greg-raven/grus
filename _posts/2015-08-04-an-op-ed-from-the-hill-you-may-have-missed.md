@@ -17,9 +17,9 @@ Sanctuary cities make our entire country less safe by refusing to hand over ille
 Please read the attached op-ed and help to make our country safer by helping to eliminate sanctuary cities.
 
 > It isn't just cities that release criminal foreign citizens with felony convictions into our local communities, often with tragic results like the ones that recently have caught the public and congressional attention.
-> 
+>
 > Yes, Congress must act to defund sanctuary cities until they cooperate with federal enforcement agencies. But Congress must also address the largest sanctuary jurisdiction of all: the federal government.
-> 
+>
 > Federal entities release nearly four times as many criminal aliens as do cities and other local jurisdictions with sanctuary policies. New legislation must include mandatory detainers for criminal aliens as well as mandatory communications between state and local and federal agencies.
 
 ([Read the full article here](https://thehill.com/opinion/op-ed/248643-sanctuary-cities-legislation-must-tackle-sanctuary-nation-policies).)

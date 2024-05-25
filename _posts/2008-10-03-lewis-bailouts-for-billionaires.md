@@ -10,8 +10,8 @@ tags:
 - Representative Jerry Lewis
 ---
 
-I was very disappointed to hear that you voted for the last "bailout for billionaires" plan. Thank goodness it did not pass.  
-  
+I was very disappointed to hear that you voted for the last "bailout for billionaires" plan. Thank goodness it did not pass.
+
 You have an opportunity to redeem yourself: Vote against the latest "bailout for billionaires" bill, and any subsequent bill along these lines.
 
 Not only is the bailout itself a horrible idea, flawed at its core, but it now has been larded up with other appropriations in an attempt to buy votes.

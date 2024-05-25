@@ -8,7 +8,7 @@ tags:
 ---
 
 > "Once is happenstance. Twice is coincidence. Three times is enemy action."
-> 
+>
 > <cite>Ian Fleming</cite>
 
 I can understand Americans being upset about recent developments in Afghanistan, but I cannot understand the surprise expressed by many.

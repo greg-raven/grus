@@ -60,8 +60,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I work in the technology industry and I can safely say that there is no shortage of workers in my field. This myth is propagated by those who want to have a steady supply of expendable labor they can hire at lower wages. Please act to reduce this surplus of labor so that all American STEM workers can find well-paying jobs.  
-  
+I work in the technology industry and I can safely say that there is no shortage of workers in my field. This myth is propagated by those who want to have a steady supply of expendable labor they can hire at lower wages. Please act to reduce this surplus of labor so that all American STEM workers can find well-paying jobs.
+
 It's clear that policymakers and business owners don't want to pay the high wages and provide the good benefits that American STEM workers deserve. Former Federal Reserve Chairman Alan Greenspan made this clear when he advocated increasing high-skilled immigration:
 
 "Our skilled wages are higher than anywhere in the world. If we open up a significant window for skilled workers, that would suppress the skilled-wage level and end the concentration of income."

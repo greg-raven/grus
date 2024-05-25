@@ -5,7 +5,7 @@ categories:
 - Cartoon
 ---
 
-I think you should pay for your own mortgage, birth control, college loans, food, and cell phones. 
+I think you should pay for your own mortgage, birth control, college loans, food, and cell phones.
 
 This isn't because I'm Conservative. It's because I'm an adult.
 

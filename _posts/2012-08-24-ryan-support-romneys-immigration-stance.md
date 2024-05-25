@@ -12,8 +12,8 @@ tags:
 
 Representative Paul Ryan,
 
-As a swing voter, I am counting on you to support immigration policies that will protect American workers and taxpayers from the effects of uncontrolled immigration.  
-  
+As a swing voter, I am counting on you to support immigration policies that will protect American workers and taxpayers from the effects of uncontrolled immigration.
+
 Mass immigration is inconsistent with a philosophy of shrinking the size of both government and our national debt.
 
 The Heritage Foundation has calculated that an average low-skilled immigrant household costs federal, local, and state governments $19,588 per year more than it pays in all taxes. Furthermore, they have found that for every $1 that illegal aliens contribute to Social Security, they withdraw $10 in government services.

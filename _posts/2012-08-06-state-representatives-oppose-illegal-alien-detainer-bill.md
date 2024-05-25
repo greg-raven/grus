@@ -13,8 +13,8 @@ tags:
 
 Senator Sharon Runner:
 
-I strongly oppose the legislation (AB1081) that would turn down ICE requests for detaining illegal immigrants unless the individuals are serious criminals. Voters like me fear the consequences of such a policy and want you to oppose the measure on concurrence.  
-  
+I strongly oppose the legislation (AB1081) that would turn down ICE requests for detaining illegal immigrants unless the individuals are serious criminals. Voters like me fear the consequences of such a policy and want you to oppose the measure on concurrence.
+
 Limiting detainers allows many criminal illegal immigrants, including those who have not yet been convicted, to escape deportation and return to the streets to commit more crimes.
 
 It is wrong to say that we need this legislation so that illegal immigrants will cooperate with police. Federal law already protects witnesses or crime victims who are unlawfully present in the United States. Congress specifically created a "U" visa so that crime victims could remain in the U.S. to assist law officers.

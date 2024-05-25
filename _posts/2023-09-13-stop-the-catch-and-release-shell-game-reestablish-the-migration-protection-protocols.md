@@ -19,6 +19,6 @@ It is unconscionable that the administration is playing this shell game with our
 I hope you will support efforts to reinstate the Migration Protection Protocols so that asylum seekers are required to remain in a safe third country while their applications are processed. Until this is done and our asylum system is fixed, true border security can never be achieved.
 
 {% include signature.html %}
-  
+
 {% include immigration.html %}
 

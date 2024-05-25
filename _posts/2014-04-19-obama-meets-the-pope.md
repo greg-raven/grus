@@ -8,7 +8,7 @@ tags:
 - Obamacare
 ---
 
-Barack Obama: "Harry Reid said that I should be made a saint because of Obamacare!" 
+Barack Obama: "Harry Reid said that I should be made a saint because of Obamacare!"
 
 The Pope: "That's because if it ever works, it will be a miracle."
 

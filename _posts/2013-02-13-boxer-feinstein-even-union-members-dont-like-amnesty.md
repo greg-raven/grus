@@ -11,8 +11,8 @@ tags:
 
 Senators:
 
-I believe you and your fellow Democrats should take note of a recent Rasmussen poll. It shows that union members are not fond of your party's immigration proposals.  
-  
+I believe you and your fellow Democrats should take note of a recent Rasmussen poll. It shows that union members are not fond of your party's immigration proposals.
+
 Union members were asked: "Do you favor or oppose a proposal to provide a path to U.S. citizenship for illegal immigrants already in this country, penalize employers for hiring illegal immigrants and take other steps to secure the nation's borders?"
 
 While 59% of all Americans supported the proposal, only 40% union members did, while 36% opposed. From these numbers, it's clear that union members are less-than-excited about your party's amnesty plans.

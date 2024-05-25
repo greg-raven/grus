@@ -6,8 +6,8 @@ categories:
 format: video
 ---
 
-"Tell me and I will forget: South Africa 15 years after the Apartheid"  
-  
+"Tell me and I will forget: South Africa 15 years after the Apartheid"
+
 The part from 35 minutes until around 50 minutes paints a pretty grim picture.
 
 <script src="https://pshared.5min.com/Scripts/PlayerSeed.js?sid=203&width=560&height=345&shuffle=0&playList=517357660" type="text/javascript"></script>

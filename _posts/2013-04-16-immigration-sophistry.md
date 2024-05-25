@@ -9,8 +9,8 @@ tags:
 
 by Thomas Sowell
 
-Most laws are meant to stop people from doing something, and to penalize those who disregard those laws. More generally, laws are meant to protect the society from the law breakers.  
-  
+Most laws are meant to stop people from doing something, and to penalize those who disregard those laws. More generally, laws are meant to protect the society from the law breakers.
+
 But our immigration laws are different. Here the whole focus is on the "plight" of those who have broken the laws, and on what can be done to lift the stigma and ease the pressures they feel, so that they can "come out of the shadows" and "normalize" their lives.
 
 Merely using the word "illegal" to describe their breaking the law is considered to be a sign of mean-spiritedness, if not racism. The Associated Press refuses to let their reporters refer to people who sneaked across the border into this country, in violation of American immigration laws, as "illegal immigrants."

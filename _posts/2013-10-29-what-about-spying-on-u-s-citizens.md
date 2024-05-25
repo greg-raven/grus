@@ -10,8 +10,8 @@ tags:
 
 According to the LA Times, you said:
 
-"With respect to NSA collection of intelligence on leaders of U.S. allies --- including France, Spain, Mexico and Germany --- let me state unequivocally: I am totally opposed.  
-  
+"With respect to NSA collection of intelligence on leaders of U.S. allies --- including France, Spain, Mexico and Germany --- let me state unequivocally: I am totally opposed.
+
 "Unless the United States is engaged in hostilities against a country or there is an emergency need for this type of surveillance, I do not believe the United States should be collecting phone calls or emails of friendly presidents and prime ministers."
 
 Source https://www.latimes.com/world/la-fg-spying-phones-20131029,0,3235295.story#axzz2j6xPJ1yN

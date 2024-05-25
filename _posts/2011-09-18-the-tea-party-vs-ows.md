@@ -7,7 +7,7 @@ tags:
 - media bias
 ---
 
-According to the press 
+According to the press
 
 The Tea Party: Racist extremists out to destroy America by demanding less government waste and corruption. Questioning authority during a Democrat administration is radical.
 

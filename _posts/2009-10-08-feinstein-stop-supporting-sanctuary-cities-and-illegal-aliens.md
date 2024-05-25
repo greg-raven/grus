@@ -11,8 +11,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-You were not sent to Washington to protect the interests of illegal aliens! Why did you oppose Sen. Vitter's amendment to H.R. 2847? Do you truly support the notion of "sanctuary cities?"  
-  
+You were not sent to Washington to protect the interests of illegal aliens! Why did you oppose Sen. Vitter's amendment to H.R. 2847? Do you truly support the notion of "sanctuary cities?"
+
 Sanctuary policies encourage illegal immigration by sending a signal across the globe that anyone who manages to enter the United States will be able to stay here as long as they wish --- regardless of their status --- because our government lacks the will to enforce its own laws. These illegal policies have contributed to our current illegal immigration debacle and are an embarrassment to the country.
 
 Likewise, your actions to protect cities that practice these illegal policies are an embarrassment to every law abiding citizen in our state. Your vote in favor of tabling Sen. Vitter's amendment was a vote in favor of illegal aliens.

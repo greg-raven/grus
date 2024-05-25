@@ -9,8 +9,8 @@ tags:
 - Senator John McCain
 ---
 
-I can understand not wanting to vote for John McCain --- he's a deeply flawed (and possibly insane) individual. However, this doesn't explain the cult-like fervor of Obama supporters.  
-  
+I can understand not wanting to vote for John McCain --- he's a deeply flawed (and possibly insane) individual. However, this doesn't explain the cult-like fervor of Obama supporters.
+
 I've spoken with more than my fair share of them, and it is clear they don't know (or can't/won't articulate) why they support him.
 
 Typically, I point out that they don't even know the person they claim to support:

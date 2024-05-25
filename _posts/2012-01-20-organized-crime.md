@@ -7,7 +7,7 @@ tags:
 - corruption
 ---
 
-Son: "Dad, I'm considering a career in organised crime." 
+Son: "Dad, I'm considering a career in organised crime."
 
 Dad: "Government or private sector?"
 

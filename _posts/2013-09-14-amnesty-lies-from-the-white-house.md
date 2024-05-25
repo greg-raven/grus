@@ -8,8 +8,8 @@ tags:
 - Representative Paul Cook
 ---
 
-I completely agree with the Heritage Foundation's assertion that the White House is promulgating falsehoods in an effort to force the Senate's immigration bill on the American people. Please do all you can to prevent this bill from becoming law.  
-  
+I completely agree with the Heritage Foundation's assertion that the White House is promulgating falsehoods in an effort to force the Senate's immigration bill on the American people. Please do all you can to prevent this bill from becoming law.
+
 The White House and other pro-amnesty groups like to tell everyone that the Senate's immigration bill would "reduce the deficit." Nothing could be further from the truth.
 
 According to the Heritage Foundation, a properly functioning immigration system could help our economy grow and act to reduce the deficit. However, the amnesty portion of the Senate's bill would place an enormous cost on American taxpayers. According to Heritage fellow Robert Rector:

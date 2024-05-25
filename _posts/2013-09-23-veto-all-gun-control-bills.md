@@ -8,8 +8,8 @@ tags:
 - gun control
 ---
 
-It is imperative that you VETO all gun control bills, up to and including the following:  
-  
+It is imperative that you VETO all gun control bills, up to and including the following:
+
 AB 48 (Asm. Nancy Skinner) --- Bans magazine rebuild kits (including individual parts).
 
 AB 169 (Asm. Roger Dickinson) --- Bans transfer of handguns not on the "not unsafe handgun" roster.

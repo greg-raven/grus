@@ -8,8 +8,8 @@ tags:
 - Representative Paul Cook
 ---
 
-I believe it's important for Republican Members of Congress to realize that most evangelical Republicans do not approve of comprehensive immigration reform. The polls are clear on this.  
-  
+I believe it's important for Republican Members of Congress to realize that most evangelical Republicans do not approve of comprehensive immigration reform. The polls are clear on this.
+
 A Pulse Opinion Poll asked Republican evangelicals:
 
 "How much moral responsibility do you feel Congress has to help protect the ability of current illegal immigrants to hold a job and support their families without fear of deportation?"

@@ -7,7 +7,7 @@ tags:
 - population
 ---
 
-Prime Minister Viktor Orbán  
+Prime Minister Viktor Orbán
 1357 Budapest, Pf. 6.
 
 Your Excellency,

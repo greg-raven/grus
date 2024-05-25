@@ -9,8 +9,8 @@ tags:
 - Representative Eric Cantor
 ---
 
-The American people proved on November 2nd that we are sick and tired of Congress' refusal to address the current jobs depression. With this in mind, I encourage you to oppose the job-destroying DREAM Act amnesty.  
-  
+The American people proved on November 2nd that we are sick and tired of Congress' refusal to address the current jobs depression. With this in mind, I encourage you to oppose the job-destroying DREAM Act amnesty.
+
 With people up to age 34 qualifying, the DREAM Act amnesty will apply to more than just teens, not to mention its fraud-prone "humanitarian" and "family unity" exceptions.
 
 Once DREAM amnesty citizens are over 21 --- again, many of those who would qualify for amnesty are already that age or older! --- they can bring their immigration law-breaking parents back into the U.S. (or keep them here legally after years of avoiding deportation). The chief criminals will be rewarded after all. And due to chain migration, the amnestied "teens" can petition for their aunts, uncles, cousins and grandparents to get permanent U.S. residency as well.

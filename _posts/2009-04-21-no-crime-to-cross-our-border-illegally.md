@@ -8,8 +8,8 @@ tags:
 - Secretary Janet Napolitano
 ---
 
-I am absolutely appalled by your comments on CNN's "State of the Union" program! Crossing the border without permission is a crime!  
-  
+I am absolutely appalled by your comments on CNN's "State of the Union" program! Crossing the border without permission is a crime!
+
 8 U.S.C. 1325(a) clearly states: "Any alien who (1) enters or attempts to enter the United States at any time or place other than as designated by immigration officers, or (2) eludes examination or inspection by immigration officers, or (3) attempts to enter or obtains entry to the United States by a willfully false or misleading representation or the willful concealment of a material fact, shall, for the first commission of any such offense, be fined under title 18 or imprisoned not more than 6 months, or both, and, for a subsequent commission of any such offense, be fined under title 18, or imprisoned not more than 2 years, or both." What part of this do you not understand?
 
 I fear that your comments on CNN prove that you and the Obama administration do not want DHS to be involved in enforcing our nation's immigration laws. This is an incredibly callous and shallow agenda to push when more than 13 million Americans are unemployed and 7 million illegal aliens have jobs.

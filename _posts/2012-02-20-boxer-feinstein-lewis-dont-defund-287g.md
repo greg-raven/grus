@@ -11,8 +11,8 @@ tags:
 
 Senator Barbara Boxer,
 
-I am outraged that President Obama is so desperate to curry the favor of certain ethnic interest groups that he is willing to cut funding to the 287(g) program. I urge you to make sure that this particularly obscene element of his FY2013 budget does not make its way through Congress.  
-  
+I am outraged that President Obama is so desperate to curry the favor of certain ethnic interest groups that he is willing to cut funding to the 287(g) program. I urge you to make sure that this particularly obscene element of his FY2013 budget does not make its way through Congress.
+
 Let me give you some more information before you consider acceding to President Obama's 287(g)-emasculating wishes:
 
 --- 287(g) provides a significant boost to ICE's ability to identify and remove aliens who have committed crimes. In 2008, the number of 287(g) arrests (45,368) was equal to one-fifth of all criminal aliens identified by ICE in prisons and jails nationwide (221,085); and

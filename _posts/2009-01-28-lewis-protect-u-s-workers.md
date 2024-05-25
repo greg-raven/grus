@@ -9,7 +9,7 @@ tags:
 - visa lottery
 ---
 
-America lets in over 140,000 foreign workers each month. This number is far too high considering our current unemployment numbers.  
+America lets in over 140,000 foreign workers each month. This number is far too high considering our current unemployment numbers.
 
 Resident-elect Obama promised to create millions of jobs for America's unemployed. However, his solution involves spending hundreds of billions of dollars. NumbersUSA and I believe there is an easier and more fiscally responsible solution.
 

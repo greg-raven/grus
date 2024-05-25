@@ -9,8 +9,8 @@ tags:
 - immigration
 ---
 
-I found on-line your declaration of a state of emergency due to our drought conditions. The declaration reads in part:  
-  
+I found on-line your declaration of a state of emergency due to our drought conditions. The declaration reads in part:
+
 "With California facing water shortfalls in the driest year in recorded state history, Governor Edmund G. Brown Jr. today proclaimed a State of Emergency and directed state officials to take all necessary actions to prepare for these drought conditions."
 
 Yet, your own actions belie your commitment to conservation of any kind in California.

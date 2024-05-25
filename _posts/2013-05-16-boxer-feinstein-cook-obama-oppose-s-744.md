@@ -12,8 +12,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Please oppose the S. 744 immigration bill, that would give out a minimum of 33 million lifetime work permits to foreign citizens in the first decade alone.  
-  
+Please oppose the S. 744 immigration bill, that would give out a minimum of 33 million lifetime work permits to foreign citizens in the first decade alone.
+
 The last thing we need when 20 million Americans are unable to find full-time jobs at every level of occupation is for Congress to flood the country with more foreign job-seekers.
 
 S. 744 promises to give work permits to at least 11 million illegal border crossers and visa overstayers. It also would continue the recent elevated flow of 11 million new immigrants a decade. And it would add at least another 11 million the first decade through new immigration categories and increases in existing categories.

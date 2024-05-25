@@ -11,8 +11,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I am writing to urge you to support and vote for the passage of H.R. 822, the "National Right-to-Carry Reciprocity Act of 2011."  
-  
+I am writing to urge you to support and vote for the passage of H.R. 822, the "National Right-to-Carry Reciprocity Act of 2011."
+
 The bill enhances Americans' right to self-defense by enabling millions of permit holders to exercise their Constitutionally-protected right to self-defense while traveling outside their home states. H.R. 822 would require states to recognize each others' lawfully-issued carry permits, just as they recognize driver's licenses, marriages, and carry permits held by armored car guards. Thus, it is fully in line with the full faith and credit clause of Article IV, Section 1.
 
 Since November, the Senate has failed to take any significant action on this bill.

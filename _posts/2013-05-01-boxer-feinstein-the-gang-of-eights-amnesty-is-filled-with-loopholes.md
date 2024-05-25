@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-It is important that you act against the Schumer-McCain amnesty legislation. I agree with the growing chorus who say that the bill will not secure the border and will not stop the flow of illegal aliens. However, it is clear that the bill will provide an easy path to amnesty for illegal aliens.  
-  
+It is important that you act against the Schumer-McCain amnesty legislation. I agree with the growing chorus who say that the bill will not secure the border and will not stop the flow of illegal aliens. However, it is clear that the bill will provide an easy path to amnesty for illegal aliens.
+
 Americans were expecting an "enforcement-first" immigration reform bill. Instead, we were presented with an "amnesty-first, probably no enforcement" immigration bill. Almost immediately, more that ten million illegal aliens receive legal status and work permits, while DHS and other government agencies are given the power to delay, and possibly even prevent, work on border security and interior enforcement measures.
 
 There are no hard triggers in this bill, only promises that the border will be secured and workplace verification will occur. These are the same promises the American people swallowed in 1986. I urge you not to accept these false promises.

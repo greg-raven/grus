@@ -12,8 +12,8 @@ tags:
 
 Senators:
 
-The American people don't need more foreign workers; we need more jobs. With this in mind I urge you to oppose the SMART Jobs Act, S. 3192.  
-  
+The American people don't need more foreign workers; we need more jobs. With this in mind I urge you to oppose the SMART Jobs Act, S. 3192.
+
 Here are just a few reasons why I hope you will oppose this legislation:
 
 1. Two government reports have shown that a major reason that tech employers hire foreign workers is as cheap labor. This results in displacing American workers from high-paying jobs in the tech fields.

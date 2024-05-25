@@ -3,7 +3,7 @@ title: "End birthright citizenship"
 layout: post
 categories:
 - Letters
-tags: 
+tags:
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Laphonza Butler

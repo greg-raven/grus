@@ -11,8 +11,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-As a tax-paying citizen and American patriot, I am outraged that the Department of Homeland Security would label me as a right-wing extremist, apparently as part of an attempt to silence opposition to the ever-burgeoning Federal government, the size and scope of which are being greatly boosted by your Administration's Marxist and anti-American policies.  
-  
+As a tax-paying citizen and American patriot, I am outraged that the Department of Homeland Security would label me as a right-wing extremist, apparently as part of an attempt to silence opposition to the ever-burgeoning Federal government, the size and scope of which are being greatly boosted by your Administration's Marxist and anti-American policies.
+
 According to your report, even America's Founding Fathers would be considered right-wing extremists and radicals.
 
 This "intelligence" report is nothing but a government-sponsored smear campaign against any American who believes in the individual rights and state powers guaranteed by our Constitution. This diatribe reveals an agenda that vilifies the United States Constitution and Americans who oppose illegal immigration, massive amounts of Federal spending, and the intrusion of the Federal government into every aspect of our lives.

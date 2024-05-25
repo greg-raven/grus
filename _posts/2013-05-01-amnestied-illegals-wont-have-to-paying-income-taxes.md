@@ -10,8 +10,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-It is outlandish that amnestied illegal aliens are not forced to pay as part of the Schumer-Rubio-McCain amnesty bill. I hope you will oppose this bill!  
-  
+It is outlandish that amnestied illegal aliens are not forced to pay as part of the Schumer-Rubio-McCain amnesty bill. I hope you will oppose this bill!
+
 Unfortunately, under the terms of the legislation, illegal aliens who have not previously paid any income taxes will not be forced to pay back taxes in order to receive their amnesty. Page 68 of the bill states:
 
 "An alien may not file an application for registered provisional immigrant status under paragraph (1) unless the applicant has satisfied any applicable Federal tax liability...."

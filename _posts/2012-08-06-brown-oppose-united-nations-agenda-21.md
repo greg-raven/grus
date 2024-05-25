@@ -12,8 +12,8 @@ tags:
 
 Governor Jerry Brown,
 
-I am writing to urge you to do everything in your power to expose the United Nations' Agenda 21 and prevent its implementation at all levels of government in your state.  
-  
+I am writing to urge you to do everything in your power to expose the United Nations' Agenda 21 and prevent its implementation at all levels of government in your state.
+
 The United Nations' Agenda 21 was developed 20 years ago as an attempt to impose the extreme environmentalist agenda globally --- including in every state, city and town in the United States. Masked as a "green initiative" focused "sustainable development," it seeks to dictate and control every aspect of our lives.
 
 Specifically, at risk from Agenda 21 are, among other things:

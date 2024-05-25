@@ -11,8 +11,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I oppose the Senate Gang of Eight's amnesty proposal to legalize millions of illegal immigrants.  
-  
+I oppose the Senate Gang of Eight's amnesty proposal to legalize millions of illegal immigrants.
+
 Combined with current laws, the legalization would be a pathway to massive new welfare expenditures, job competition, chain migration, and more illegal immigration.
 
 1. It would cost trillions of dollars in extra government spending on social services.

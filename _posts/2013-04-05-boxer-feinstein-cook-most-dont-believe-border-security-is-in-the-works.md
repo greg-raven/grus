@@ -10,8 +10,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I find it disturbing that according to Rasmussen, only 9% of Americans believe it is "very likely" that the government "would actually secure the border and prevent illegal immigration" if Congress passes comprehensive immigration reform legislation. It is equally disturbing that Chris Crane, the head of ICE's union, said that the border could never be secured if Congress passes immigration reform before ensuring that the border is secured. We urge you to postpone passage of an amnesty for illegal aliens so that the border can be secured once and for all.  
-  
+I find it disturbing that according to Rasmussen, only 9% of Americans believe it is "very likely" that the government "would actually secure the border and prevent illegal immigration" if Congress passes comprehensive immigration reform legislation. It is equally disturbing that Chris Crane, the head of ICE's union, said that the border could never be secured if Congress passes immigration reform before ensuring that the border is secured. We urge you to postpone passage of an amnesty for illegal aliens so that the border can be secured once and for all.
+
 Rasmussen asked the following question:
 
 "If a law was passed to secure the border, prevent future illegal immigration, and allow those who entered the country illegally to stay, how likely is it that the federal government would actually secure the border and prevent illegal immigration?"

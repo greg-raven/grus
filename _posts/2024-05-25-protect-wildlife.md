@@ -3,7 +3,7 @@ title: "Protect wildlife with H.R. 2 and H.R. 7833"
 layout: post
 categories:
 - Letters
-tags: 
+tags:
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Laphonza Butler

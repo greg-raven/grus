@@ -5,8 +5,8 @@ categories:
 - Information
 ---
 
-Do you know who this is?  
-  
+Do you know who this is?
+
 ![trayvon-martin-at-17](/assets/img/2013/03/trayvon-martin-at-17.jpg)
 
 It is sweet little Trayvon Martin ... at 17 yrs of age.

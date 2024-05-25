@@ -12,8 +12,8 @@ tags:
 
 Governor Jerry Brown:
 
-I am a California voter who wants you to veto AB1081 if it reaches your desk. It is wrong to tie the hands of police and ICE agents by limiting detainers to illegal immigrants who committed serious offenses.  
-  
+I am a California voter who wants you to veto AB1081 if it reaches your desk. It is wrong to tie the hands of police and ICE agents by limiting detainers to illegal immigrants who committed serious offenses.
+
 Limiting detainers allows many criminal illegal immigrants, including those who have not yet been convicted, to escape deportation and return to the streets to commit more crimes.
 
 It is wrong to say that we need this legislation so that illegal immigrants will cooperate with police. Federal law already protects witnesses or crime victims who are unlawfully present in the United States. Congress specifically created a "U" visa so that crime victims could remain in the U.S. to assist law officers.

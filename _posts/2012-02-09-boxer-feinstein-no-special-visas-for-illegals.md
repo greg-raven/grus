@@ -10,8 +10,8 @@ tags:
 
 Senator Barbara Boxer,
 
-Please oppose Sen. Brown's bill to import more foreign workers from Ireland.  
-  
+Please oppose Sen. Brown's bill to import more foreign workers from Ireland.
+
 The U.S. isn't expected to reach full employment again for a number of years. We need more jobs, not more workers. Yet Sen. Brown's bill would increase legal immigration by 10,500 visas every year.
 
 Sen. Brown's bill is just for Irish workers, no other group would be eligible. There is no justification for this kind of favoritism either.

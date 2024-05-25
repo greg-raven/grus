@@ -34,11 +34,11 @@ A nationwide ad campaign portrays the numbers behind this environmental tragedy 
 Roy Beck conveyed his sadness about the betrayal of the Earth Day dreamer in the introduction for "Re-Charting America's Future," the book he wrote for high school debate teams whose national topic in the 1994-95 year was immigration:
 
 > "But Congress all the while has been flooding the nation with unprecedented waves of foreign workers and their relatives. U.S population growth has surged.
-> 
+>
 > "Now ... Americans are faced with a heartbreaking conclusion: Washington has canceled out much of the environmental and social benefits that their choice of small families could have provided.
-> 
+>
 > "In effect, Congress has re-charted the future that Americans thought they were creating.
-> 
+>
 > "Since 1972, American women have averaged about two children each, a rate that produces no long-term population expansion. But Congress has used immigration to drive population growth higher than it was during the Baby Boom."
 
 On this Earth Day, the clear ecological arguments for limiting immigration into the U.S. continue to be sidelined, or worse ignored, by those elected to represent us in Congress.

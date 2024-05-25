@@ -8,8 +8,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I truly am disappointed, and more than a little shocked, that you have decided to support the DREAM Act amnesty. I would have thought that, given the recent election, you would be looking ahead to 2012 and would be opposing, not supporting, an anti-American amnesty bill.  
-  
+I truly am disappointed, and more than a little shocked, that you have decided to support the DREAM Act amnesty. I would have thought that, given the recent election, you would be looking ahead to 2012 and would be opposing, not supporting, an anti-American amnesty bill.
+
 Size, scope, and lack of credibility are all reasons to vote against the DREAM Act should Sen. Reid force the bill to the floor during the lame duck session of Congress.
 
 The American people have great sympathy for illegal alien children who know no other country as home, but the DREAM Act would give eventual citizenship to young adults who have spent very little of their lives in the United States. DREAM amnesty recipients can then sponsor adult relatives of their extended family, including the people who initially smuggled them into the U.S.

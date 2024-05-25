@@ -9,8 +9,8 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-The U.S. Senate will hold a motion to proceed with S. 744, the Gang of Eight's immigration bill --- I urge you to strongly oppose it. The legislation does not secure our nation's borders and gives protected status and work permits to millions of illegal aliens; this bill is a repeat of 1986. Immigration reform is necessary and must occur, but this bill is not the answer. Please oppose this bill on Tuesday and start with again with an open process.  
-  
+The U.S. Senate will hold a motion to proceed with S. 744, the Gang of Eight's immigration bill --- I urge you to strongly oppose it. The legislation does not secure our nation's borders and gives protected status and work permits to millions of illegal aliens; this bill is a repeat of 1986. Immigration reform is necessary and must occur, but this bill is not the answer. Please oppose this bill on Tuesday and start with again with an open process.
+
 One big flaw with Gang of Eight's bill is that this bill won't stop future illegal immigration. Unfortunately, the border security promised in the bill are "plans" for border security, not concrete promises. Even border security "promises" don't mean much, as the American people learned in 1986.
 
 Future illegal aliens will be able to keep their U.S. jobs during the 5-year phase in of E-Verify. It is likely that millions will be enticed to enter illegally because after 5 years (when E-Verify is mandatory for new hires) there are no provisions allowing employers to check the work authorization of existing employees. This would also mean that illegal aliens who didn't have their amnesty applications approved would be able to keep their jobs and remain in the country.

@@ -37,7 +37,7 @@ Enforce our immigration laws and return visa overstays.
 - Strengthen law enforcement by hiring 10,000 more ICE officers and 300 Federal prosecutors.
 - End visa overstays by establishing reforms to ensure their swift removal.
 - Stop catch-and-release by correcting judicial actions that prevent ICE from keeping dangerous aliens in custody pending removal and expanding the criteria for expedited removal.
-- Prevent gang members from receiving immigration benefits.  
+- Prevent gang members from receiving immigration benefits.
     Protect U.S. workers by requiring E-Verify and strengthening laws to stop employment discrimination against U.S. workers.
 - Improve visa security by expanding State Department's authority to combat visa fraud, ensuring funding of the Visa Security Program, and expanding it to high-risk posts.
 

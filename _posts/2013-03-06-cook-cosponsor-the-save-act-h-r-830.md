@@ -10,8 +10,8 @@ tags:
 
 Representative Paul Cook:
 
-Rep. Sam Graves just introduced the SAVE Act, H.R. 830. Please get in touch with his office so you can become a cosponsor and help make sure that illegal aliens can't take U.S. jobs.  
-  
+Rep. Sam Graves just introduced the SAVE Act, H.R. 830. Please get in touch with his office so you can become a cosponsor and help make sure that illegal aliens can't take U.S. jobs.
+
 The SAVE Act, among its many provisions, would:
 
 - require all employers to run their current and future employees through the E-Verify employment verification system;

@@ -11,7 +11,7 @@ tags:
 
 2. Half of the population is subsidized, yet they think they are victims.
 
-3. They think they are victims, yet their representatives run the government. 
+3. They think they are victims, yet their representatives run the government.
 
 4. Their representatives run the government, yet the poor keep getting poorer.
 

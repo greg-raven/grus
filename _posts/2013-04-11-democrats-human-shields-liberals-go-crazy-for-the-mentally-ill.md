@@ -5,8 +5,8 @@ categories:
 - Information
 ---
 
-Ann Coulter links mass public shootings with freeing of the deranged from institutions  
-  
+Ann Coulter links mass public shootings with freeing of the deranged from institutions
+
 Obama has been draping himself in families of the children murdered in Newtown.
 
 \[...\]
