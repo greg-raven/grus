@@ -30,7 +30,9 @@ layout: base
     {{ content }}
   </div>
 
-  Topic(s): {%- include post-categories.html -%}
+  Category(s): {%- include post-categories.html -%}
+
+  Tags(s): {%- include post-tags.html -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
