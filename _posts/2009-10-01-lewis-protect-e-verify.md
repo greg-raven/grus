@@ -18,4 +18,4 @@ It is very likely that Obama, Reid, and Pelosi will try to do the same thing to 
 
 Phone me if you would like to talk about this,
 
-Mr. [Greg Raven](https://www.gregraven.org/)
+Mr. {% include signature.html %}

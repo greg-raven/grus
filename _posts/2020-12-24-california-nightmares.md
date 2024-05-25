@@ -23,4 +23,4 @@ Finally, the general tone of your article is that somehow the transition to elec
 
 I expect better from *Car and Driver.*
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -24,4 +24,4 @@ For all of these reasons, I believe that Xavier Becerra is also unfit to serve a
 
 I also oppose the anti-gun Judge Merrick Garland to lead the Department of Justice as Attorney General.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,4 +17,4 @@ The result of all this uncontrolled migration is that our nation is undergoing i
 
 You can help to solve this problem by co-sponsoring H.R. 891, the Nuclear Family Priority Act. I hope you will do so today.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

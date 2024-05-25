@@ -23,6 +23,6 @@ This a back-door amnesty for the parents of these illegal "teens," and a chain m
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. How about supporting this country and its citizens for a change? Deport all illegals, secure our borders, and return to pre-1965 immigration policies.

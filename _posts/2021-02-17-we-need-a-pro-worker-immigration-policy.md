@@ -25,4 +25,4 @@ Guest Worker Programs should be reduced or eliminated. It is well documented tha
 
 Having a just and humane immigration system is critical for our nation. At the same time, immigration policy should not run counter to enabling American workers, families, and students to sustain themselves and thrive.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

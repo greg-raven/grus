@@ -27,4 +27,4 @@ Please pledge to tackle the following priorities in the next Congress in order t
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -19,6 +19,6 @@ I know you care just as much about these Americans as Sen. Sessions does. I hope
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Stop all immigration now!

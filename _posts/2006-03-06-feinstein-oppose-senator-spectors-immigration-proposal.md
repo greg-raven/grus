@@ -17,6 +17,6 @@ Americans do not want more cheap foreign labor driving down their wages. Neither
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. We must start protecting our borders, no ifs, ands, or buts.

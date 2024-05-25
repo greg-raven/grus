@@ -23,4 +23,4 @@ The obvious answer is that government is less efficient than private industry, p
 
 A quick look at the roads in Bullhead City should be enough to convince anyone that the city should concentrate on doing what only it can do, and leave the rest to private industry. Any other approach is a slow-motion disaster.
 
- [Greg Raven](https://www.gregraven.org/)
+ {% include signature.html %}

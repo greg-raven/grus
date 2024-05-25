@@ -18,6 +18,4 @@ We must know what is happening with our money, and the Federal Reserve must come
 
 Please cosponsor HR 1207, The Federal Reserve Transparency Act of 2009, and do everything in your power to see this bill through to a passing vote.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

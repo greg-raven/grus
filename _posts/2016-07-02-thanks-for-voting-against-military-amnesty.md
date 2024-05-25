@@ -15,4 +15,4 @@ While it is disappointing that the Gosar amendment did not pass, I am glad you v
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

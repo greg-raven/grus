@@ -14,4 +14,4 @@ H.R. 6800, the American job-destroying HEROES Act, is a terrible bill and I'm gl
 
 Thank you for opposing this bill and please do all you can to help jobless Americans get back to work.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -16,4 +16,4 @@ The second bill scheduled to receive a vote next week, H.R. 1573, would clog our
 
 I hope you will oppose these two bills when they receive votes next week.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

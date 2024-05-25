@@ -29,6 +29,4 @@ I want you to know that gun owners stand with you in this important fight for ou
 
 Thank you, again. Keep up the great work, and please resist any and all arm-twisting by the administration to get you to change your vote!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

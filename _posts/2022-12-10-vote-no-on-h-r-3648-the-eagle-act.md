@@ -15,6 +15,4 @@ The EAGLE Act makes clear that the intention is not to train and employ American
 
 Reject H.R. 3648.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

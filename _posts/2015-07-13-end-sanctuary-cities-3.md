@@ -16,8 +16,6 @@ The Obama Administration's recent decision to end the Secure Communities program
 
 But Congress shares the blame as well. For years, bills have been introduced to end "sanctuary cities", but lawmakers have done nothing. I urge you to prevent future tragedies committed by criminal illegal aliens and support the Davis-Oliver Act that would end "sanctuary cities" once and for all!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. If the Feds can go after Arizona for trying to help enforce immigration laws, then the Feds can certainly go after sanctuary cities for trying to break it!

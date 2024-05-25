@@ -20,4 +20,4 @@ I agree with Gun Owners of America that there will be huge political ramificatio
 
 Obey Article 1, Section 8, Clause 17 of our Constitution, vote against H.R. 51 --- the Washington, D.C. Admissions Act --- and protect our constitutional republic.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

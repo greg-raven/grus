@@ -20,4 +20,4 @@ I know you care about unemployed Americans as much as I do. Please cosponsor the
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

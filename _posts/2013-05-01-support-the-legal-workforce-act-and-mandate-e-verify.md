@@ -16,6 +16,6 @@ Simply put, this bill is an easy and cheap way of putting millions of Americans 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. We must do everything possible to favor existing U.S. citizens and discourage foreigners --- especially illegal foreigners. A nation without borders is not a nation.

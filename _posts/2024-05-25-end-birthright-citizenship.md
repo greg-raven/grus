@@ -14,8 +14,7 @@ tags:
 
 The United States is almost the only industrialized nation to still practice birthright citizenship. I expect you to help America get with the times by supporting legislation that would change our nation's laws and prevent the children of illegal economic migrants from receiving birthright citizenship. Doing so will help to end the crisis at the U.S. / Mexico border as illegal economic migrants will have one less reason to come, stay, and work in the United States.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

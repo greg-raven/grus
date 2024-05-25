@@ -20,4 +20,4 @@ I hope you urge Speaker Boehner to reconsider his statement. Now is not the time
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

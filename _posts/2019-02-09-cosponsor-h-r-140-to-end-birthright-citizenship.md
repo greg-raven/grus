@@ -14,4 +14,4 @@ Australia did it in 2007, New Zealand in 2006, Ireland in 2005, Germany in 1999,
 
 Please cosponsor H.R. 140 and help to end this practice.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

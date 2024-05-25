@@ -15,7 +15,6 @@ Organizations whose members are tasked with keeping Americans safe are opposed t
 
 - The National Narcotic Officers' Associations' Coalition;
 
-
 - The Federal Bureau of Investigation Agents Association;
 
 - The Federal Law Enforcement Officers Association;
@@ -30,6 +29,4 @@ These groups oppose H.R. 3713 because it would release criminal aliens back onto
 
 I urge you to oppose any effort to bring this legislation to the House floor.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org)
+{% include signature.html %}

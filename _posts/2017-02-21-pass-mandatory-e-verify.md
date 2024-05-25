@@ -22,4 +22,4 @@ I hope you will do all you can to support Secretary Kelly's actions, including m
 
 Call me if you want to discuss this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

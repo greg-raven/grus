@@ -37,6 +37,4 @@ I am sending this to you in case you missed it:
 > 
 > She, not he, is the future of the GOP.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

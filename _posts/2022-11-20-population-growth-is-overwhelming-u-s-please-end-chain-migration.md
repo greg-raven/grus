@@ -16,8 +16,6 @@ Urban sprawl is relentlessly consuming America's wide array of natural resources
 
 The best way to save our remaining wilderness and wildlife is to reduce our high immigration rates (e.g., by limiting chain migration). Congress must create a humane immigration system that allows America's population to stabilize and save our nation's dwindling open spaces and wildlife. Future generations will be grateful for your leadership.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

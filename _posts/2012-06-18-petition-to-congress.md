@@ -13,6 +13,4 @@ And we DO NOT want President Obama's back door Amnesty plans!
 
 Pass the H.A.L.T. Act today!
 
-Sincerely,
-
 Greg Raven

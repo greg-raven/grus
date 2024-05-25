@@ -62,8 +62,6 @@ I'm sending you this in case you missed it:
 > 
 > I guarantee you that the Obama administration's non-response to the Ft. Hood attack will mock the memory of our dead.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 Source: https://americanpowerblog.blogspot.com/2009/11/ralph-peters-fort-hoods-911.html

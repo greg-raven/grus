@@ -19,6 +19,6 @@ Please stand up for American workers and oppose this potential disaster for hard
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. I want NO new immigrants, and NO guest worker plan. Secure our border NOW and evict the criminals who are already here!

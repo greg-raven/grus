@@ -16,4 +16,4 @@ Your legislation is a disgusting violation of the U.S. Constitution and an infri
 
 Therefore, I ask that you immediately withdraw this treasonous bill!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

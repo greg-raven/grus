@@ -20,4 +20,4 @@ With this in mind, I cannot understand why President Biden just closed down the 
 
 American STEM workers are irrevocably harmed by less-expensive foreign workers, including those with an OPT visa. I hope you will encourage the Biden administration to reverse its decision to close the unit.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

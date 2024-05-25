@@ -16,4 +16,4 @@ Public charge exclusions are among the first and most consistent immigration law
 
 Now, Congressional action may be the only way to ensure that the Public Charge rule is implemented and enforced. Please support legislation that puts disadvantaged Americans first, and support the Administration's expanded public charge rule.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

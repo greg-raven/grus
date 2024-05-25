@@ -15,4 +15,4 @@ Aside from the slanted presentation of the basic information, you have wonder ab
 
 You see this when you visit Hawaii, too, this bizarre reverence for stone age peoples and culture, alongside a distain for Western Civilization and culture. For that matter, you probably find this at most colleges and universities here in the United States, which is why I normally stay well clear of such institutions to the extent that it is possible to do so.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

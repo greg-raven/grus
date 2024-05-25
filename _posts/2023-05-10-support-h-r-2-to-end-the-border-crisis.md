@@ -22,8 +22,6 @@ Reps. Tom McClintock and Mario Diaz-Balart have introduced H.R. 2, the Secure th
 
 As you can see, H.R. 2 is an incredibly important piece of legislation that would help to end the crisis at the U.S. – Mexico border. Please support it and do all you can to get it passed and signed into law.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

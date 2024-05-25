@@ -14,4 +14,4 @@ It is vital that you and your fellow Republicans do not bow to pressure and incl
 
 President Trump has made it clear that a DACA amnesty shouldn't be in the December spending bill and Speaker Ryan has said that the spending bill won't be used to amnesty DACA recipients. I urge you to make sure that the bill isn't used to reward illegal aliens.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

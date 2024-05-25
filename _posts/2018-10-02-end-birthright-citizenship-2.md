@@ -19,4 +19,4 @@ I urge you to get behind legislation that would end this outdated practice once 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

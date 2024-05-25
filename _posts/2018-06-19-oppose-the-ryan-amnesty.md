@@ -25,4 +25,4 @@ Border Security ... maybe --- The Ryan Amnesty plan includes $25 billion for imp
 
 The Goodlatte bill is the only proposal in Congress that would prevent future amnesties by requiring employers to use E-Verify and immediately reduce the number of green cards issued to foreign workers each year. We must stop the Ryan Amnesty plan from passing the House!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

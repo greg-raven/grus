@@ -18,4 +18,4 @@ By banning the lawful sale of firearms precursor parts by licensed vendors, the 
 
 AB-311 creates criminal activity rather than discouraging it, and serves no purpose other than as a barrier to the exercise of constitutionally-protected rights. For all of these reasons I respectfully urge you to join me in opposing AB-311.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

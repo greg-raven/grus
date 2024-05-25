@@ -48,4 +48,4 @@ Establish reforms that protect American workers and promote financial success.
 - End extended-family chain migration by limiting family-based green cards to include spouses and minor children.
 - Establish a points-based system for green cards to protect U.S. workers and taxpayers.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

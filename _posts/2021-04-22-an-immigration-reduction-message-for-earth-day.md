@@ -19,6 +19,6 @@ A far more sustainable immigration level would be around half-million a year rec
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. We need to go back to making immigration, refugee, and other decisions based on what is good for the American people, not on what may be good for those in other countries.

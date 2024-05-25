@@ -19,4 +19,4 @@ I hope that what Sen. Reid wrote represents his true feelings and that he has de
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

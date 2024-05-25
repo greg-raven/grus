@@ -18,4 +18,4 @@ Clearly, this is an easy and effective way of putting unemployed Americans and l
 
 Phone me if you want to talk about this.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

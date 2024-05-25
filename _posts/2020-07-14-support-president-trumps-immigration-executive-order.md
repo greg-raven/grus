@@ -16,4 +16,4 @@ I am glad that the president is taking concrete steps to help jobless Americans 
 
 I hope you agree that President Trump's executive order will have a positive impact on countless Americans and their families. I hope you and your colleagues will pass legislation that prevents businesses from hiring low-cost foreign workers instead of jobless Americans.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

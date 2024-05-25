@@ -14,4 +14,4 @@ Preventing ICE from enforcing the law sets a dangerous precedent and will encour
 
 Please do all you can to stop the Democrats' outrageous and dangerous budget reconciliation amnesty and enforcement freeze!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

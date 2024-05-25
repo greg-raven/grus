@@ -20,7 +20,7 @@ Third, you hinted that maybe the U.S. would pull out of the United Nations and N
 
 It is vital to the survival of our country that Donald Trump the President act as Donald Trump the candidate promised he would.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 ---
 

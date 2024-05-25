@@ -16,8 +16,6 @@ For example: The urban heat island effect, where the sprawl of asphalt, concrete
 
 Attach The Secure the Border Act to the continuing resolution or send the bill on its own to President Biden to sign.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

@@ -18,8 +18,7 @@ Just as worrying as the security impact of the visa lottery are the economic imp
 
 Please help secure our nation and protect jobs for unemployed Americans by cosponsoring H.R. 1100 to end the visa lottery.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

@@ -12,4 +12,4 @@ H.R. 5038, the so-called Farm Workforce Modernization Act, is a terrible bill th
 
 I am bitterly disappointed that you voted in favor of this legislation. American workers are harmed by this bill and illegal workers and renegade business owners are rewarded. In the future, please consider the ramifications of such bills before you support them.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

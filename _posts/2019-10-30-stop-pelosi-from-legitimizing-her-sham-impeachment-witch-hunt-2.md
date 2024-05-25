@@ -28,4 +28,5 @@ This is totally unfair and just the latest in a series of failed attempts to und
 
 I urge you to see this sham for the political circus that it is and OPPOSE Nancy Pelosi's Impeachment Crusade.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, C:
+{% include signature.html %}
+, Apple Valley, C:

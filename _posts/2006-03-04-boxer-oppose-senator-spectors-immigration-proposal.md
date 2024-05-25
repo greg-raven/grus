@@ -21,7 +21,6 @@ Ultimately, isn't the real question --- the obvious question --- that we need to
 
 Phone me if you would like to talk about this,
 
-Greg Raven  
-Apple Valley, CA
+{% include signature.html %}
 
 P.S. I'm counting on you to help protect our nation.

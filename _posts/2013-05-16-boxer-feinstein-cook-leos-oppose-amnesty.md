@@ -20,4 +20,4 @@ I am just as disappointed as the law enforcement officials with the government's
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

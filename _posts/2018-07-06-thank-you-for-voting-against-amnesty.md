@@ -12,4 +12,4 @@ I am glad that you voted against the Goodlatte-Ryan-Denham amnesty. This bill wo
 
 I hope you will oppose all no-strings amnesty and only support a DACA amnesty if it ends chain migration and mandates use of the E-Verify system.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,8 +17,7 @@ Requiring employers to run new hires through the Chamber of Commerce-supported E
 
 Clearly, this is an easy and effective way of putting unemployed Americans and legal immigrants in jobs currently held by illegal aliens while also shutting off the jobs magnet that lures so many to come to the U.S. illegally.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

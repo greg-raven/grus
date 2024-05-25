@@ -18,6 +18,4 @@ Moreover, the House leadership also promised after the passage of H.R. 38 that F
 
 I stand with the 1.5 million members and supporters of Gun Owners of America who are opposed to Fix NICS ... and who, instead, want to see concealed carry reciprocity and the repeal of gun-free zones.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -13,4 +13,4 @@ As you know, the House of Representatives just voted for TWO pieces of anti-gun 
 
 More gun control has been passed in this Congress than any other in decades. Stand up for my rights and do not allow H.R. 6538 to pass or any gun control to be included in the Senate NDAA.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

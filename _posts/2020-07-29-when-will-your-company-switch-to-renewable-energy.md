@@ -46,7 +46,7 @@ In the seventies, we were told that we would be running out of oil any minute. T
 
 Despite what the government and activists tell you, these things cannot be rushed. The conversion from fossil fuels to other energy sources will take place when the time is right, as long as the government isn't distorting the marketplace. A good parallel is the conversion from horse-powered transportation to cars and trucks. It happened after fossil-fuel-powered vehicles became viable alternatives to horses and oxen. We enjoy the many benefits of this transition to this day. However, it would have done no good in 1885 for the government to mandate that only horseless carriages would allowed by 1895 because the technology simply wasn't ready.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 **Addendum 1:**
 

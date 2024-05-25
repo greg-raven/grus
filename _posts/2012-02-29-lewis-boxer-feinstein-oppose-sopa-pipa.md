@@ -20,6 +20,4 @@ If the government takes the power to regulate the internet and shut down informa
 
 For these reasons I, as your constituent, urge you to oppose SOPA (H.R. 3261) in the House and Protect IP (S. 968) in the Senate, and preserve internet freedom.
 
-Sincerely,
-
 Greg Raven

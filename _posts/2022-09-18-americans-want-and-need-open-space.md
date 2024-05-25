@@ -16,6 +16,4 @@ But the demands of our rapid population growth are outstripping the supply of Am
 
 Please support efforts that would reduce our burgeoning population growth, namely legislation that would create a humane immigration system that respects the dignity of every person while conserving our nation's open space by allowing for America's population to stabilize.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

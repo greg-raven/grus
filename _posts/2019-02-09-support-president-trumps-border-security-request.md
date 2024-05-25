@@ -22,4 +22,4 @@ It is important that Congress passes the necessary legislation to secure our sou
 
 Contact me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

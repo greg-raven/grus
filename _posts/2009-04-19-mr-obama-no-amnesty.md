@@ -22,6 +22,6 @@ The lives of millions of vulnerable workers will be severely impacted by your im
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Never forgive, never forget --- No amnesty!

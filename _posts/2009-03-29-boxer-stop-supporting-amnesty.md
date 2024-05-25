@@ -20,4 +20,4 @@ I urge you to support legislation that helps unemployed Americans, not harm them
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

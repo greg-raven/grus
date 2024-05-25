@@ -23,6 +23,6 @@ I urge you to oppose any attempt to give legal status or green cards to illegal 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Reagan fell for this once. There's no need to repeat this mistake.

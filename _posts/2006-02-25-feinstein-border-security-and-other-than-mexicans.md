@@ -16,6 +16,5 @@ You have pointed out that "Other Than Mexicans" caught crossing the border has j
 
 I do hope that you will make border security a top priority this year.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA

@@ -20,6 +20,6 @@ Please do the right thing and oppose Speaker Pelosi's attempts to force the DREA
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. My dream is to return to pre-1965 immigration policies. Let's make it happen!

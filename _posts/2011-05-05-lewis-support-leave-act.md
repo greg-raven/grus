@@ -17,6 +17,4 @@ We need to take an enforcement-first approach to solve the problems caused by il
 
 Please, do the right thing: support HR 1196, the "Loophole Elimination and Verification Enforcement Act," or "LEAVE Act" --- now! Thank you.
 
-Sincerely,
-
 Greg Raven

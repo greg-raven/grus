@@ -14,6 +14,4 @@ I'll make this short and to the point, as a recital of the flaws of this bill --
 
 **You must absolutely, positively, vote NO on the "bailout for billionaires" bill, and any others like it.**
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

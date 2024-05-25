@@ -40,4 +40,4 @@ These last two actions in particular could have made a huge difference in Orland
 
 <span style="line-height: 1.7;">Please feel free to contact me to discuss any of these issues.</span>
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

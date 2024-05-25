@@ -18,4 +18,4 @@ One of the most outdated public policies is to raise immigration rates so that t
 
 We can no longer afford to ignore the impact that our high immigration rates are having on America's workers and the environment. We need leaders like you to change course from our relentless and unsustainable population growth. Please work with Congress to eliminate chain migration and reduce America's immigration rates.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

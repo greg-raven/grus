@@ -17,8 +17,6 @@ Former Secretary of Labor Robert Reich has accurately assessed and stated on Sub
 Democrats should be concerned about pull factors --- including jobs --- that are the root cause of our border crisis. This crisis is undermining U.S. workers forced to compete with migrants willing to accept lower wages.  
 It is troubling that there are currently no Democratic bills to make E-Verify mandatory.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

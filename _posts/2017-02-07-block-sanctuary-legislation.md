@@ -26,6 +26,6 @@ Please stand up for sanity and stop SB 54. There's just too much at stake.
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Let's get into compliance with Federal immigration law for a change.

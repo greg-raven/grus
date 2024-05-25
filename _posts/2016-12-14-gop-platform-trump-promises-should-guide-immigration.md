@@ -23,6 +23,6 @@ I hope you and your fellow Republicans will use the 115th Congress to turn Presi
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Just like Bill Clinton promised in his 1995 State of the Union address.

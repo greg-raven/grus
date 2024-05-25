@@ -17,8 +17,6 @@ This bill would would circumvent the current H-1B visa cap, make American worker
 
 Please protect American workers and protect the temporary nature of nonimmigrant visa programs by opposing H.R. 3648, the EAGLE Act.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. Make E-Verify mandatory.

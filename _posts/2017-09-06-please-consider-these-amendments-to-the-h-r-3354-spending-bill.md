@@ -31,4 +31,4 @@ Please vote NO on these amendments:
 | Joaquin Castro | 13 | DHS | Prevents DHS from using privatized immigration detention facilities |
 | Pramila Jayapal | 62 | DHS | Prevents funding for expanding or building new detention facilities |
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

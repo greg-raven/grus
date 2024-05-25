@@ -22,4 +22,4 @@ Just as the First Amendment would be of little value if I could not speak for my
 
 Oppose the "Untraceable Firearms Act" (H.R. 3088/S. 1558).
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

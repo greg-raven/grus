@@ -17,4 +17,4 @@ The CEQ has long ignored the effects of immigration-driven population growth on 
 
 The vast majority of U.S. population growth is attributable to immigration, with immigration projected to account for 88% of the U.S. population increase or 103 million people, to a still growing population of 441 million by the year 2065. The effects of this population growth on the U.S. environment is of such a magnitude that no reasonable interpretation of NEPA would exempt immigration policies from an environmental impact study. The intent of NEPA is to allow the public to hear and weigh the evidence of how public policy affects the U.S. environment. The CEQ has this opportunity to ensure NEPA is properly applied to immigration, and that the American people will be properly served by the law.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

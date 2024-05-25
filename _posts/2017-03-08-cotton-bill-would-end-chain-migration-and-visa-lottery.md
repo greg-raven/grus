@@ -18,4 +18,4 @@ Only 1 out of every 15 foreign workers are on a skills-based visa, meaning that 
 
 Please cosponsor this legislation and work to secure its passage. Immigration needs to serve the national interest, not harm American workers.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

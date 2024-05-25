@@ -16,6 +16,4 @@ Not only do H-2B visas deny American workers job opportunities, they also repres
 
 The Government Accountability Office uncovered massive fraud and abuse associated with the H-2B visa program. Doubling the visas is a mistake.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

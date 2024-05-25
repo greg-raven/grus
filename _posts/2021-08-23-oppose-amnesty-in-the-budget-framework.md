@@ -18,4 +18,4 @@ However, House Speaker Nancy Pelosi (D-Calif.) is working with a thin Democratic
 
 A House vote on the budget reconciliation blueprint could come as soon as tomorrow. Please oppose adding an amnesty to budget reconciliation.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

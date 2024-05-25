@@ -15,8 +15,7 @@ I am very disturbed by Leader Schumer's speech in front of the Capitol on Novemb
 
 What he is describing is a Ponzi scheme in which America's biodiversity is destroyed by perpetual population growth, driven by federal immigration policy, so that the U.S. government can privatize the profit and socialize the costs of ensuring a labor surplus for the investment class. That may please your corporate donors, but Democrats must do better than selling out the environment and disadvantaged workers.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

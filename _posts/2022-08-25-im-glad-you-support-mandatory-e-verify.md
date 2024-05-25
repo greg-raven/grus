@@ -16,8 +16,6 @@ E-Verify is safe, accurate, and easy to use, and it's use is even supported by t
 
 Thank you for cosponsoring H.R. 78 to mandate use of the E-Verify system!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

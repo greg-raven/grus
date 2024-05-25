@@ -16,4 +16,4 @@ The only explanation I can think of is that, in this case, the middle name does 
 
 Perhaps if Obama had more substance, frivolities such as this wouldn't matter as much.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -22,6 +22,4 @@ There are serious questions about whether or not Barack Obama is eligible to be 
 
 This is so important that I request that you put aside any and all other business before you and resolve it immediately.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

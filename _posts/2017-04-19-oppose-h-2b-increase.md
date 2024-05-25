@@ -19,4 +19,4 @@ H-2B visas don't provide workers for jobs Americans won't do, they provide worke
 
 Call me if you want to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

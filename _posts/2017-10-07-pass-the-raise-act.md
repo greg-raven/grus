@@ -21,4 +21,4 @@ Please stand up for American workers by supporting the RAISE Act!
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

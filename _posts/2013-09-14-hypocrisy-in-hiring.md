@@ -22,6 +22,6 @@ I was sickened to learn that companies that have laid off thousands of American 
 
 Phone me if you would like to talk about this
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Stop all immigration, evict the illegals (including "anchor babies") who are already here, and return to pre-1965 immigration rules!

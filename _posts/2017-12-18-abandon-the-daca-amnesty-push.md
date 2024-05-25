@@ -15,4 +15,4 @@ Your decision to sign a letter in support of passing a no-strings-attached amnes
 
 President Trump has made it clear that March is the deadline for dealing with DACA recipients, so there is no need to rush an amnesty into the year-end spending bill.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

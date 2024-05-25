@@ -11,7 +11,6 @@
 $sol-is-auto: true !default;
 $sol-is-dark: false !default;
 
-
 // Color scheme
 // ------------
 // The inline comments show the canonical L*a*b values for each color.
@@ -33,7 +32,6 @@ $sol-blue:     #268bd2;  // 55 -10 -45
 $sol-cyan:     #2aa198;  // 60 -35 -05
 $sol-green:    #859900;  // 60 -20  65
 
-
 // Mixed colors
 // ------------
 // While not part of the original Solarized base tones, these derived tones
@@ -46,7 +44,6 @@ $sol-light-mix3:  mix($sol-base2, $sol-base3);
 $sol-dark-mix1:   mix($sol-base01, $sol-base03);
 $sol-dark-mix2:   mix($sol-blue, $sol-base0);
 $sol-dark-mix3:   mix($sol-base02, $sol-base03);
-
 
 // Mode selection
 // --------------
@@ -106,7 +103,6 @@ $sol-mix3:     $sol-light-mix3;
   $sol-mix3:   var(--solarized-mix3);
 }
 
-
 // Minima color variables
 // ----------------------
 
@@ -133,7 +129,6 @@ $table-zebra-color:     $sol-mix3 !default;
 $table-header-bg-color: $sol-mono2 !default;
 $table-header-border:   $sol-mono1 !default;
 $table-border-color:    $sol-mono1 !default;
-
 
 // Syntax highlighting styles
 // --------------------------

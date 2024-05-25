@@ -16,4 +16,4 @@ On top of this, the bill is an amnesty for illegal aliens as people in the count
 
 It's disappointing that one of your colleagues has introduced legislation that benefits businesses at the expense of millions of American workers. I urge you to oppose Sen. Johnson's bill and any other bill that harms U.S. workers.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

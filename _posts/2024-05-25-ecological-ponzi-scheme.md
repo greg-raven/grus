@@ -17,12 +17,6 @@ In America, historically high rates of legal immigration are now being eclipsed 
 
 Stop the relentless, unsustainable plunder of nature.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
-
 {% include signature.html %}
 
 {% include immigration.html %}

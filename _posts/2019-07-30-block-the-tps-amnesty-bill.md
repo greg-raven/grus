@@ -16,4 +16,4 @@ I know that Sen. Lee blocked the bill passing by unanimous consent. I hope you w
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

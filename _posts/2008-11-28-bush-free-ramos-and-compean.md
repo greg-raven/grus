@@ -32,6 +32,4 @@ Given these facts, I believe clemency is warranted for Agents Ramos and Compean.
 
 While this case has generated strong emotions on both sides, I do not believe that justice will be served by Agents Ramos and Compean spending over a decade in prison. I urge you to commute their prison sentences immediately, as you have with other, less deserving, persons recently.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

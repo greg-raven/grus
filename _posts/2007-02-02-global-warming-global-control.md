@@ -14,4 +14,4 @@ There is no evidence that man has more than an insignificant effect on "global w
 
 We can only hope that this goes the way of the U.N. efforts to tax international money transfers, and take over the Internet.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

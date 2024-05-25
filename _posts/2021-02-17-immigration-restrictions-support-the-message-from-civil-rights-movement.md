@@ -22,4 +22,4 @@ In the decades following Randolph's successful lobbying to tighten immigration, 
 
 Tight labor conditions always have been good for Black Americans. What a fitting tribute to MLK Day if members of Congress would commit to making all immigration decisions based on how they will tighten --- rather than loosen --- the labor market.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

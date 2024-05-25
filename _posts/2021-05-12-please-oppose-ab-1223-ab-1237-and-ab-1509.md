@@ -17,4 +17,4 @@ AB 1237 mandates that state data, including personally identifying information, 
 
 AB 1509 reduces penalties and enhancements for the criminal misuse of firearms, ensuring that criminals are not held fully accountable for their actions and allowing them to continue menacing our communities.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

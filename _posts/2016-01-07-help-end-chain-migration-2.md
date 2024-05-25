@@ -18,4 +18,4 @@ Please cosponsor H.R. 604, the Nuclear Family Priority Act, and help solve Ameri
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

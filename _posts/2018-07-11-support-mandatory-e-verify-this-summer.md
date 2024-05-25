@@ -28,4 +28,4 @@ Mandatory E-Verify will UNDO much harm from decades of open-borders policies.
 
 I have heard that Congress will vote on mandatory legislation before the end of the summer --- I urge you to support it!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

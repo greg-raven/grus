@@ -15,8 +15,6 @@ Unsurprisingly, more people have attempted to cross the border in 2021 than any 
 
 I sincerely hope that Democrats in Congress will realize that conditions in sending countries will remain less attractive than in the United States for the foreseeable future. While we seek greater equality between nations we have a responsibility to manage immigration clearly and credibly, to protect Americans and migrants. Please, don't attach any rewards for illegal immigration to the Build Back Better bill, or any other legislation.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.

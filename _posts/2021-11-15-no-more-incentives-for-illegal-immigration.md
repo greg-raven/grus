@@ -15,8 +15,6 @@ Your deeply-flawed border strategy has failed. Nearly 2 million border apprehens
 
 We need oversight from Congress, which should not be offering new incentives for illegal immigration in the reconciliation bill or anywhere else.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Mass immigration is a weapon of mass destruction.

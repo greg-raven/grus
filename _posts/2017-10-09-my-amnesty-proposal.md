@@ -17,6 +17,4 @@ Obviously, this "amnesty" would only apply to those who have committed no (as in
 
 Don't let them do to you what they did to Reagan, et al.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -18,6 +18,6 @@ It is clear that the jobs stimulus cannot even keep up with the monthly influx o
 
 Phone me if you would like to talk about this,
 
-Mr. [Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Get the government out of our lives and protect our borders! By the way, the story about you in the November 9, 2009, Globe certainly seems to be on the money from where I stand.

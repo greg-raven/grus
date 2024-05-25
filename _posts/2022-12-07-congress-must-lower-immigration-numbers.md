@@ -21,8 +21,6 @@ Today The New York Times reported on a troubling and harmful long term trend of 
 
 With millions out of labor force, immigration must be tightened.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. Make E-Verify mandatory.

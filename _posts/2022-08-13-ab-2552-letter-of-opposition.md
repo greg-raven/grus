@@ -16,4 +16,4 @@ There are literally thousands of vendors who sell their products at gun shows th
 
 I stand with Gun Owners of California in opposition to AB 2552.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

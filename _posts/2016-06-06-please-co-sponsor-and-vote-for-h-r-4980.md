@@ -16,6 +16,4 @@ That's why Congressman Tom Emmer has introduced H.R. 4980, the Firearm Due Proce
 
 Please cosponsor and vote for H.R. 4980, the Firearm Due Process Protection Act.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

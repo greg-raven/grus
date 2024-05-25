@@ -35,4 +35,4 @@ This is why Kelly Ayotte is no longer in the Senate, as she lost by 1,017 votes 
 
 So unless you want to destroy the Republican base, please oppose this anti-gun legislation.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

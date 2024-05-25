@@ -24,4 +24,4 @@ It is false to claim that sanctuary policies are needed to protect witnesses or 
 
 Advocates for SB 54 are on the wrong side of the law and the wrong side of voters such as my wife and myself. Please stop SB 54 from passing, and communicate our wishes to Speaker Rendon.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

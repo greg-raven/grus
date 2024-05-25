@@ -20,4 +20,4 @@ Actually, there is one other extremely remote possibility: If someone can establ
 
 \* This has to happen before the inauguration because there seems to be no mechanism to remove a sitting President who does not meet the qualifications for becoming President, and certainly a Democrat-controlled legislative branch is not going to impeach Obama on such a trivial technicality.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

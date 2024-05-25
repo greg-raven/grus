@@ -19,6 +19,4 @@ H.R. 3314 would:
 
 It is high time that states and localities are forced to observe immigration detainers and this legislation would make that happen. Please help to save American lives by cosponsoring H.R. 3314.
 
-Sincerely,
-
 Greg Raven

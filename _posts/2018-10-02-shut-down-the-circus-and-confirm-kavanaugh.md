@@ -19,4 +19,4 @@ Will the Senate allow its confirmation process to be turned into a search-and-de
 
 We urge you to confirm Judge Kavanaugh to the Supreme Court NOW.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -14,4 +14,4 @@ It is really important that Congress pass legislation to mandate the use of the 
 
 Please do all you can to get E-Verify use mandated so that Americans can get back to work and illegal immigration reduced.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

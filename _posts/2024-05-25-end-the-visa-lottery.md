@@ -15,8 +15,7 @@ Our nation currently allows 50,000 immigrants to come to the United States throu
 
 Don't you think that eliminating this program is a good way of helping jobless Americans find work? I sure do. Please take firm action to end the visa lottery!
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

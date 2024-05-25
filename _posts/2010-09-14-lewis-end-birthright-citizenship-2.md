@@ -20,6 +20,6 @@ With this in mind, I encourage you to cosponsor H.R. 1868, the Birthright Citize
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. The U.S. is the only first-world country that allows this insane practice, and it's not legal, ethical, or moral to do so. We must end birthright citizenship immediately, and make it enforceable retroactively.

@@ -19,6 +19,6 @@ I'm aware that you have been generally supportive of amnesties and legalizations
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. I'm pretty certain you are as hopeless on this issue as you are on virtually every other issue, but I'm asking pro-forma. Obviously, you and Obama need an amnesty so Obama can stay in this country.

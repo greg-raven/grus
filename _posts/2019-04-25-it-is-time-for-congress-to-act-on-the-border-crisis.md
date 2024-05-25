@@ -18,4 +18,4 @@ The crisis at the Southern border is getting worse and Congress' intransigence o
 
 You can help the brave men and women working to keep out country safe by supporting legislation to fund more detention beds, fund more immigration judges, close the asylum loophole by strengthening the credible fear standard, and reform the credible fear standard. Our country is counting on you and your colleagues; please don't let us down.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -27,4 +27,4 @@ Because family-based migration would be limited to spouses and minor children, t
 
 Passing the RAISE Act would fulfill several of the recommendations of the bipartisan Jordan Commission on Immigration Reform by making immigration serve the national interest and ensuring that American workers are not harmed by immigration. Please cosponsor and help to pass this legislation so that less-educated and lower-skilled Americans have a good chance of finding work and a decent wage.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

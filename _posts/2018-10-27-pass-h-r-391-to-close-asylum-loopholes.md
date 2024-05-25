@@ -14,4 +14,4 @@ H.R. 391, the Asylum Reform and Border Protection Act, would close this loophole
 
 I urge you to support this legislation and do all you can to get it passed!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

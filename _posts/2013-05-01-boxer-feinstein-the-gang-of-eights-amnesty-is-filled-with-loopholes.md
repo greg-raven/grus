@@ -17,6 +17,6 @@ There are no hard triggers in this bill, only promises that the border will be s
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. What we need is an enforcement-only immigration reform bill. No admission to illegals. Evict the illegals already here. No public assistance for illegals. No special consideration for illegals. Get them out of our country and keep them out. Then, return to the pre-1965 immigration laws.

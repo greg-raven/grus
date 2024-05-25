@@ -18,6 +18,6 @@ I am counting on you to support H.R. 1868 to address this important issue. I loo
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. There is nothing in our laws that allows "anchor babies," a loophole used by those who would destroy this country. We must close this loophole explicitly if we hope ever to get our country back.

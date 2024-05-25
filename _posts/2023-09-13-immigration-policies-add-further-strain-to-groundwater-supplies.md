@@ -18,8 +18,7 @@ In light of America's widespread mining of nonrenewable resources (e.g., ancient
 
 There are plenty of ways to humanely reduce immigration rates, e.g., limited chain migration, E-Verify, and better law enforcement to stop the abuses of parole and asylum which lately have been rampant. Your constituents, like me, expect you to safeguard America's groundwater supplies, rather than push growth throughout the country with little regard for future generations.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

@@ -18,4 +18,4 @@ In addition to exceeding constitutional authority, this bill would have no pract
 
 For all of these reasons, I urge you to join me in opposing House Resolution 167. Thank you for your time and consideration.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

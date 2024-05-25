@@ -17,5 +17,4 @@ Finally, many community colleges are already full. They not only don't need more
 
 Like each of Obama's other grand plans, this represents just another redistribution of wealth, and a blow against meritocracy.
 
-Greg Raven  
-Apple Valley, CA
+{% include signature.html %}

@@ -19,4 +19,4 @@ Tomorrow marks the one-year anniversary of Kate Steinle's death, but over the ye
 
 Your support for each of these bills is critical. It's time to end sanctuary cities once and for all!
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

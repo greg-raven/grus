@@ -20,6 +20,6 @@ I urge you to do all you can to give these young Americans a fighting chance of 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Americans first!

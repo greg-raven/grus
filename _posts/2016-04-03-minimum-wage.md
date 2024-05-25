@@ -25,4 +25,4 @@ Sixth, the minimum wage is inflationary because a number of unions in the servic
 
 The only successful societies have been meritocracies. Raising the minimum wage discounts merit in exchange for the false promise that things will be better if we reward people for underachieving.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -24,4 +24,4 @@ Please cosponsor the bi-partisan H.R. 704 to end the visa lottery.
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

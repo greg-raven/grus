@@ -18,6 +18,6 @@ Last month, Politico reported on H-1B visa recipient turned U.S. citizen Salil C
 
 Please help end this exploitation and cosponsor H. R. 6026, the American Tech Workforce Act of 2021.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. I know you're a tech guy, but I hope you agree with me that American companies should hire American workers.

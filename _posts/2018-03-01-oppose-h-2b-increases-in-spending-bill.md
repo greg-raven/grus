@@ -19,4 +19,4 @@ The H-2B program often abused. A recent BuzzFeed expose highlights the misuse of
 
 Increasing H-2B numbers is bad policy and bad for vulnerable American workers. Please do all you can to ensure the program isn't expanded in any upcoming spending bill.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

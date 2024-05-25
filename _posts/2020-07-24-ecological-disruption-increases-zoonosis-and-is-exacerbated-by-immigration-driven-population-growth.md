@@ -24,4 +24,4 @@ Congress needs to turn this trend around, and it needs leaders like you to steer
 
 So as to reduce the unrelenting pressures on the resilience of our natural areas, please work to stabilize the U.S. population, which can only be done by reducing immigration levels. As the 2020 election nears, I'll be looking at how candidates view high rates of immigration as a proxy for how serious they are about protecting America's public health and the environment.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -20,6 +20,6 @@ I'm sure we both agree that any attempt by the Resident to circumvent Congress i
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Resident Obama must be opposed at every turn, lest he be allowed to destroy this country further. Do not let Obama grant himself amnesty!

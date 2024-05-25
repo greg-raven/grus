@@ -15,4 +15,4 @@ While I am glad that these programs have been ended, I am disappointed that you 
 
 Giving any rewards to illegal aliens is just plain wrong and only encourages future illegal immigration. Thank you for ending these programs and please act soon to end the full DACA program.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

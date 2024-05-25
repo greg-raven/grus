@@ -16,8 +16,6 @@ The DHS Appropriations Bill must be opposed when the House votes on its passage.
 
 Passing the appropriations bill with these provisions will only make it more difficult for vulnerable Americans to find work. Please vote NO and convince your colleagues to do the same.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

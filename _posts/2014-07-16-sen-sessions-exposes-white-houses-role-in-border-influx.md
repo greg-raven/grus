@@ -22,6 +22,6 @@ Please tell the White House to start enforcing the laws and securing the borders
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Illegal aliens are criminals. Treat them as such!

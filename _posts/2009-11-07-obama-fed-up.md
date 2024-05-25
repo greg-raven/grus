@@ -21,6 +21,4 @@ I'm putting you on notice and holding you accountable not only for my financial 
 
 As an American, I am committed to exposing your failing plan and taking back my nation from the brink of economic destruction.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

@@ -22,4 +22,4 @@ California will lose in the courts using a Tenth Amendment argument. One of the 
 
 Block SB 54.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

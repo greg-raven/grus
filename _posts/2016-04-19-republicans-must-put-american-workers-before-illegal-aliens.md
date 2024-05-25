@@ -17,4 +17,4 @@ More than 7 million illegal aliens have jobs in the service, construction, and m
 
 Please press the Republican leadership, especially House Speaker Paul Ryan, to bring mandatory E-Verify legislation to the floor so that Republicans can finally show they care about jobless Americans.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

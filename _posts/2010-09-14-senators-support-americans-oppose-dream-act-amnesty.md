@@ -19,4 +19,4 @@ Many people argue that children should not be forced to pay the sins of their pa
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

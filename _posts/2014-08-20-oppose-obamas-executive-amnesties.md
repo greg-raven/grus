@@ -15,6 +15,6 @@ I am e-mailing you today to ask that you take three important actions to oppose 
 
 Thank you.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 \* Senators Sessions (AL), Cruz (TX), McConnell (KY), Shelby (AL), Moran (KS), Coats (IN), Vitter (LA), and Hoeven (SD) have already done this.

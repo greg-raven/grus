@@ -25,4 +25,4 @@ And, oh yes, if it were successful, my name would have already been sent to NICS
 
 So again, please OPPOSE S. 7 and do NOT cosponsor this bill.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

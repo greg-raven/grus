@@ -19,4 +19,4 @@ You and his other critics know all of this, which is why you are talking about p
 
 I again urge you to vote to confirm Judge Kavanaugh as our next justice of the Supreme Court.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

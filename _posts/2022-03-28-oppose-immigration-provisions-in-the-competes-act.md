@@ -25,4 +25,4 @@ It's clear that these provisions would harm American workers of all education le
 
 Please oppose the Senate version of H.R. 4521, the America COMPETES Act, if these provisions are included.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

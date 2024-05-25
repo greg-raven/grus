@@ -21,6 +21,6 @@ I urge you to oppose amnesty of any form (comprehensive or otherwise). Amnesty w
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. At least twice, you have taken an oath of office to protect the United States from foreign invasion by other illegal aliens. Do your duty!

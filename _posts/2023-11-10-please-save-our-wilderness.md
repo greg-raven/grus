@@ -20,8 +20,6 @@ Unfortunately, current immigration policy accelerates the loss of America's wild
 
 The most practical way for America to achieve a more sustainable immigration policy is to stop the abuses of parole and asylum which have been rampant under the Biden administration. Please include H.R. 2, The Secure The Border Act, in the next Federal funding bill.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

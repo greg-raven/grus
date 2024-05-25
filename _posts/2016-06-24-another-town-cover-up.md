@@ -15,4 +15,4 @@ During this time frame, the Town put up big signs at our boundaries that read, "
 
 So when the Town tells you, "Please know that our number one goal is the safety and security of our community," just know that this is eye-wash for those who are not paying attention. Kerry Henard has [a series of videos on YouTube](https://www.youtube.com/channel/UCc6SgzEbgzqcaVK-ueHqDiw) that show just the opposite. I urge every resident of Apple Valley to view them.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

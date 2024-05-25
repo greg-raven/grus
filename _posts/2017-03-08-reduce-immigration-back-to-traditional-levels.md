@@ -18,4 +18,4 @@ For the first 200 years of its existence, the United States admitted about 250,0
 
 I implore you to look at the numbers. You will find that America is indeed taking in far too many immigrants than it can handle. You and your friends and colleagues in Congress can act to reduce these numbers so that America's unemployed and underemployed have a decent chance of finding a job.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

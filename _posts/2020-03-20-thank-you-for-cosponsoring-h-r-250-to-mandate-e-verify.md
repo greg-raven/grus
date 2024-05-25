@@ -14,4 +14,4 @@ The Legal Workforce Act would not only require employers to run new hires throug
 
 Simply put, this bill is an easy and cheap way of putting millions of Americans back to work. Thanks again for cosponsoring H.R. 250 to mandate the use of the E-Verify system!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

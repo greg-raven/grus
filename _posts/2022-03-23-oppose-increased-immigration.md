@@ -17,4 +17,4 @@ The visa programs in the omnibus bill will continue with the status quo of vulne
 
 The people we all want to help the most, including minorities, are the ones being harmed the most by these unprecedented immigration numbers. I am asking that you confront how immigration has historically harmed Black communities and work towards fostering change that will create more just policies.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

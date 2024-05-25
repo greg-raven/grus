@@ -20,6 +20,6 @@ Comprehensive immigration reform that legalizes illegal workers made no economic
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. NO rewards for illegal immigrants. Secure our borders NOW!

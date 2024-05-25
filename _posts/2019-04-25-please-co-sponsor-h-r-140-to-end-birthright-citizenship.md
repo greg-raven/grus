@@ -14,4 +14,4 @@ Australia did it in 2007, New Zealand in 2006, Ireland in 2005, Germany in 1999,
 
 The United States' birthright citizenship law was meant for the children of settlers and those passing through Ellis Island, not for the children of illegal aliens and birth tourists. The times have changed and our laws need to catch up. U.S. citizenship is a privilege and should not benefit those who have broken our laws. Please cosponsor H.R. 140 and help to end this practice.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

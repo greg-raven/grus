@@ -14,4 +14,4 @@ I wish, though, that you hadn't apologized afterwards. It would have been great 
 
 Sincerely yours,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

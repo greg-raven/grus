@@ -22,6 +22,6 @@ Simply put, the DREAM Act is a very poorly written bill that would do far more h
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. I don't understand why you liberals hate the United States so much. You disgust me.

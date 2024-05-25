@@ -24,6 +24,6 @@ Please do all you can to stop efforts to quadruple H-2B visa numbers as part of 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Unions oppose H-2B increases. You should, too.

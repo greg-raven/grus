@@ -20,4 +20,4 @@ It has been said that during bad times, 'we the people' find out what kind of le
 
 Unemployed Americans desperately need jobs, and they're depending on you.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

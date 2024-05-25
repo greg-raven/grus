@@ -18,4 +18,4 @@ Furthermore, it allows DACA recipients to obtain jobs in with the federal govern
 
 While much of this spending bill has nothing to do with immigration, these provisions would significantly hamper the government's ability to secure the border, and I urge you to vote no!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

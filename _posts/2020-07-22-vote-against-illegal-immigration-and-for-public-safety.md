@@ -21,4 +21,4 @@ I also hope you will vote against H.R. 5581, the Access to Counsel Act, when the
 
 I hope you will oppose these two bills when each comes up for a vote later this week.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

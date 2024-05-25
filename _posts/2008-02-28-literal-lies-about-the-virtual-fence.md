@@ -15,4 +15,4 @@ With news pouring out of Arizona that newly passed laws at the state level are c
 
 As it is, their (in)actions speak much louder than their words.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

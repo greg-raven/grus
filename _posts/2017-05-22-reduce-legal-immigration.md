@@ -17,4 +17,4 @@ Sen. Tom Cotton's RAISE Act would cut legal immigration by 50% and accomplish th
 
 Call me if you want to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

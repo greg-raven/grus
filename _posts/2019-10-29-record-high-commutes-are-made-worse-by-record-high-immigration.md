@@ -21,4 +21,4 @@ The current level of immigration is the reason the U.S. population is growing so
 
 Many voters like myself recognize that bigger is not always better. Does Congress?
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -15,4 +15,4 @@ As the saying goes, you can vote yourself into socialism but you have to shoot y
 
 I hope I'm wrong, but I can see no indications that this well end well.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

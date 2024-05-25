@@ -28,4 +28,4 @@ Sometime between now and the end of Congress, there will come a time when curren
 
 Gun Owners of America will keep me informed as to what happens on this important issue.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

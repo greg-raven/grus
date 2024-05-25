@@ -20,4 +20,4 @@ Please do all you can to make sure the president is not granted fast track autho
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

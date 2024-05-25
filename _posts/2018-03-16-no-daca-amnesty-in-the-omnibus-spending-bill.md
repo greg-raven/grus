@@ -21,4 +21,4 @@ We must secure our borders, remove the bad actors who are already here, and retu
 
 Logic, sanity, and your oath of office demand nothing less.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

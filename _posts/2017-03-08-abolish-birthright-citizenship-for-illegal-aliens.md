@@ -17,4 +17,4 @@ Birthright citizenship is an outdated practice that lures foreign nationals to t
 
 The United States is almost the only industrialized nation to still practice jus soli --- birthright citizenship. I expect you to help America get with the times by supporting legislation that would change our nation's laws and prevent the children of illegal aliens from receiving birthright citizenship. When this is done, illegal aliens will have one less anchor keeping them in this country, thereby opening up millions of jobs for America's unemployed.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

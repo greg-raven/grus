@@ -20,4 +20,4 @@ Your vote to protect our county's precious resources and people will be greatly 
 
 Respectfully,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

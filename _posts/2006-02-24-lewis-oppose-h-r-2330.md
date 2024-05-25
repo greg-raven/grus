@@ -18,6 +18,4 @@ Isn't it time that we learn from our mistakes and begin to pursue policies that 
 
 Please consider legislation that would increase interior enforcement rather than H.R. 2330 to reward illegal immigration.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

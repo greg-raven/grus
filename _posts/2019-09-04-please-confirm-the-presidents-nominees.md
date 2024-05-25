@@ -25,4 +25,4 @@ And while I'm happy that they were confirmed, I'm incredibly frustrated that it'
 
 Instead of waiting until the last minute before a vacation, I'm asking you and your Senate colleagues to stay in session a little bit longer each week and confirm these well-qualified nominees.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

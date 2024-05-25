@@ -16,4 +16,4 @@ President Obama's decision to amnesty illegal aliens with U.S.-born children is 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

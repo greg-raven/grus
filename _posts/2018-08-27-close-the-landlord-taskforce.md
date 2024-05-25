@@ -14,4 +14,4 @@ For background, see:
 
 https://www.judicialwatch.org/blog/2018/08/u-s-creates-landlord-task-force-to-strong-arm-property-owners-into-renting-to-the-poor/
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

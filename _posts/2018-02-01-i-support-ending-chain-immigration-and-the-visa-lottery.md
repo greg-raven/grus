@@ -18,4 +18,4 @@ Ending Chain Migration and the Visa Lottery in exchange for a DACA amnesty shoul
 
 Please include an end to Chain Migration and the Visa Lottery along with mandatory E-Verify as part of your DACA proposal!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

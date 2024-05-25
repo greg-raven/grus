@@ -15,8 +15,6 @@ President Biden's Border Crisis shows no signs of abating and the Republican-led
 
 Please encourage your party's leaders to allow legislation to bring the situation at the U.S.-Mexico border under control to move forward. And to truly fix the crisis, this legislation must include measures to mandate use of the E-Verify system and to end asylum fraud and abuse.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

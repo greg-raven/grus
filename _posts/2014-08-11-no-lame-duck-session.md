@@ -18,4 +18,4 @@ If this were to be done, it would be underhanded and an affront to democracy. Pl
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

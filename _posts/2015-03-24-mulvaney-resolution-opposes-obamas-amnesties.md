@@ -22,4 +22,4 @@ I hope you will cosponsor H. Con. Res. 28 and prove once more that you are again
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

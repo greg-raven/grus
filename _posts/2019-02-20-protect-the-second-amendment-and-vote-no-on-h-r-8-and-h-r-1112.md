@@ -16,4 +16,4 @@ H.R. 1112 adds more undue burdens to law-abiding gun owners. This bill creates a
 
 Please defend the Constitution and protect the Second Amendment. Please stand strong and oppose H.R. 8 and H.R. 1112.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

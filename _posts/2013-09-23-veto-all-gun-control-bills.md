@@ -52,5 +52,4 @@ Thank you very much for your time, consideration, and VETO.
 
 Respectfully,
 
-Greg Raven  
-Apple Valley, CA
+{% include signature.html %}

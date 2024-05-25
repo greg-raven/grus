@@ -51,4 +51,4 @@ Typically, I point out that they don't even know the person they claim to suppor
 
 I have a feeling that many current Obama supporters are going to be disappointed when reality rears its head, some because they can't believe they fell for his promises, and others because they can't believe he's not keeping his promises.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

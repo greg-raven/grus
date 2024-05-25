@@ -25,8 +25,6 @@ Giving additional funding to the Department of Homeland Security without passing
 
 Please attach H.R. 2 to must-pass legislation, such as any upcoming spending bills, so that it can be passed by Congress and signed into law by the president.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

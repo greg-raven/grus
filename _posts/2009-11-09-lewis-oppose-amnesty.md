@@ -18,6 +18,6 @@ I urge you oppose any "comprehensive immigration reform" program because it woul
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Stop trying to stamp out the middle class!

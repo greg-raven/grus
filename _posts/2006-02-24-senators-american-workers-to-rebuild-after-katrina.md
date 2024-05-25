@@ -17,6 +17,4 @@ The Rev. Jesse Jackson decried the situation by saying "What must be clear --- m
 
 This is what happens when the cheap labor advocates and corporate lobbyists get their way: Our most vulnerable Americans lose their wages, benefits, and security. This is wrong. You have a duty to protect our most vulnerable Americans and you must vote against a guest worker program.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

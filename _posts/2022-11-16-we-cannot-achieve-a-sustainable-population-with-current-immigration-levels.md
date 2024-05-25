@@ -17,8 +17,6 @@ The real problem is too many people. There are few environmental problems not ex
 
 Given that immigration is driving almost all U.S. population growth, immigration must be reduced to well below current levels. To relieve the growing pressures on our environment, please work to stabilize the U.S. population by reducing immigration (e.g., limit "chain migration").
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

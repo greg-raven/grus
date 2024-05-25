@@ -15,4 +15,4 @@ The American people are against any rewards for illegal aliens, especially if th
 
 You and your fellow Democrats need to prove that you are prioritizing jobless Americans and those struggling to make ends meet instead of putting illegal aliens first.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

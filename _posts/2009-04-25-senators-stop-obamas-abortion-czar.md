@@ -21,6 +21,4 @@ The Kansas State Legislature overwhelmingly passed a bill requiring health inspe
 
 STOP Obama's "Abortion Czar!" Vote NO on this dangerous nomination that would punish every unborn child. I will be watching your votes on this matter very closely. Thank you.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

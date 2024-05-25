@@ -14,4 +14,4 @@ Your policies are creating hundreds of thousands of new jobs each month. This ha
 
 Please work to reduce legal immigration so that American workers benefit the most from them.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

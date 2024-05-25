@@ -14,4 +14,4 @@ To make matters worse, the budget doesn't include one extra cent in border secur
 
 I hope you will stand up for our national security by opposing the Democrats' budget.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

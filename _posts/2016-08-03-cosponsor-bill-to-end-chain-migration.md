@@ -19,6 +19,6 @@ You can help to solve this problem by cosponsoring H.R. 604, the Nuclear Family 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. If family unity is the goal, then we should ship each of them back to his country of origin.

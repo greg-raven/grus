@@ -33,4 +33,4 @@ The House proposal is not an effective way to reduce our prison population and I
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

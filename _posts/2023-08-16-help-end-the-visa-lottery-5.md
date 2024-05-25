@@ -17,8 +17,7 @@ Moreover, the Office of the Inspector General has said that the visa lottery pos
 
 Please cosponsor H.R. 1100, the SAFE for America Act, and help to end the visa lottery.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

@@ -21,8 +21,6 @@ Instead, we should work to stem immigration that undercuts and undervalues U.S. 
 
 Please support the E-Verify bill S. 156 that will help eliminate the illegal jobs market and make jobs available for our sidelined workers.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

@@ -23,6 +23,4 @@ Opponents of giving local police the tools to pick up illegal aliens falsely cla
 
 The real reason that most people oppose having local police participate in immigration enforcement is that they want illegal aliens to be able to work and live in violation of the law without any fear of prosecution.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

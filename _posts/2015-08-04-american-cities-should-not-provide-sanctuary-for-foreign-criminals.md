@@ -16,6 +16,4 @@ The Obama Administration's recent decision to end the Secure Communities program
 
 But Congress shares the blame as well. For years, bills have been introduced to end "sanctuary cities", but lawmakers have done nothing. I urge you to prevent future tragedies committed by criminal illegal aliens and support S.1842, introduced by Sens. Jeff Sessions and Ron Johnson, that would end "sanctuary jurisdictions" once and for all!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

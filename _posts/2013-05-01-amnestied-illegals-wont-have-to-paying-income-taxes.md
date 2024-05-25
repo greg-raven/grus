@@ -22,6 +22,6 @@ It's clear that this bill was written in such a way so that illegal aliens have 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. These amnesties are on the path to national suicide. We must return to pre-1965 immigration law, secure our borders, and evict those who should not be here, including "anchor babies."

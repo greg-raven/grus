@@ -26,6 +26,4 @@ Once upon a time, you seemed concerned about these issues, and about putting Ame
 
 We thank our Founding Fathers for a Constitution that allows us to address you and we thank you for battling each day for our nation. We insist that you stand strong by rescinding DACA and never giving in to the open-border demagogues. I thank you from the bottom of my heart for your sacrifices and will continue to include you in my daily prayers.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

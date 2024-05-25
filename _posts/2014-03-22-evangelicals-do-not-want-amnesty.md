@@ -22,4 +22,4 @@ I agree with these sentiments and agree with the immigration views of evangelica
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

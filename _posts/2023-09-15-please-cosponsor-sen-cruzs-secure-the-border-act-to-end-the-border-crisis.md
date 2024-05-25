@@ -20,8 +20,6 @@ Sen. Ted Cruz has introduced the Senate version of the House-passed H.R. 2, the 
 
 As you can see, the Secure the Border Act is an incredibly important piece of legislation that would help to end the crisis at the U.S. / Mexico border. Please cosponsor this bill!
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

@@ -22,4 +22,4 @@ A new op-ed in the Hill explains why the H-2B is travesty for American working m
 
 It's past time for you and your fellow Republican Members of Congress to prove your care about working Americans by passing legislation to reform the H-2B program. Visa programs should benefit our nation as a whole, not just business owners who don't want to pay jobless Americans a living wage.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

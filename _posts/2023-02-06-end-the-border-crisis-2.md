@@ -21,8 +21,6 @@ I urge you to immediately pass legislation that would:
 
 These three actions aren't the only ones needed to stop future surges, but all three will go a long way in ending the current border surge and preventing future ones.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

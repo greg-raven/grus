@@ -27,4 +27,4 @@ When I voted for Donald Trump, I suspected he was not perfect but believed he wo
 
 I urge you in the strongest possible terms to stop this insanity immediately.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

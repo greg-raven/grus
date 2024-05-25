@@ -17,8 +17,6 @@ Our open spaces are worth protecting, but we will fail as long as we add another
 
 Given that the Census Bureau projects nearly all future population growth to be determined by federal immigration policies, I urge you to adopt the recommendations of former President Clinton's Task Force on Population and Consumption, and reduce immigration to a level that will allow our population to stabilize.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Make E-Verify mandatory. End birthright citizenship. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

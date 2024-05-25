@@ -20,4 +20,4 @@ I wanted to tell you about a new Harvard-Harris poll of registered voters. It fo
 
 It is clear that American voters are against any efforts to increase immigration or give DACA recipients a deal that doesn't end chain migration or the visa lottery. I urge you to take heed of this poll and refuse to accept a DACA deal that doesn't end chain migration or the visa lottery.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -19,4 +19,4 @@ The only "good" news is that you can recycle each of your campaign promises from
 
 God help us all if you don't have the mother of all October Surprises coming.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

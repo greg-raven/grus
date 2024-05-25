@@ -18,7 +18,4 @@ This is what the advocates of raising H-1B caps are fighting for. The Senate mus
 
 Unless Senators begin to realize how radical and anti-American these statements are, you are going to make immigration decisions that will eventually lead to your removal from Congress by the voters you are supposed to represent.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)  
-Apple Valley, CA
+{% include signature.html %}

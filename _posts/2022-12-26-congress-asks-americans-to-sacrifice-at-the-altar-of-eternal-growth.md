@@ -19,8 +19,7 @@ Congress could have resolved these issues had they adopted the recommendations o
 
 Even before the recent rush of illegal immigration, the U.S. Census Bureau projected that by 2060 America's population would swell by 75 million people, with over 90% due to immigration. We need courageous leadership to steer our nation away from environmental ruin, and toward a sensible, sustainable course. Please work to reduce America's rapid population growth, namely legislation that would reduce immigration (e.g., stricter limits on chain migration).
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

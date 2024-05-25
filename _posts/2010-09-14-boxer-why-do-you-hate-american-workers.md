@@ -16,6 +16,6 @@ I urge you to reconsider your support for the DREAM Act amnesty during these try
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Your policies have the U.S. going over a cliff. Can't you at least take your foot off the gas? Your actions seem treasonous.

@@ -24,4 +24,4 @@ Aside from the fact that our elected officials have set aside for themselves a s
 
 It's difficult for me to approach this level of high-handedness, corruption, and lack of accountability dispassionately. Fortunately, [Nicki Fellenzer has done an excellent job on her blog](https://thelibertyzone.com/2008/11/08/arent-you-glad-you-gave-the-democrats-all-that-power.aspx).
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

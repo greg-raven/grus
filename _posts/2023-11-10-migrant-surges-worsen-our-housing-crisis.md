@@ -23,8 +23,6 @@ The House-passed H.R. 2, the Secure the Border Act (along with its Senate compan
 
 Please address our migrant and housing crises by including H.R. 2 in its upcoming funding legislation to keep the government open.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

@@ -20,4 +20,4 @@ Immigration courts have a 300% backlog and detention centers are full, forcing I
 
 You and your colleagues must pass legislation to und more detention beds, fund more immigration judges, close the asylum loophole by strengthening the credible fear standard, and reform the credible fear standard.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,8 +17,6 @@ The Democratic Party needs to get back to its traditional values of protecting A
 
 America's only realistic hope for a sustainable future is to take steps to reduce our high immigration rates. Please support immigration legislation (e.g., limit "chain migration") that would lower America's rapid population growth and help our country achieve authentic sustainability.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict all those illegals here!

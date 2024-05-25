@@ -20,4 +20,4 @@ It seems that the Republican Party is always trying to win a greater share of th
 
 It's clear that President Trump's failure to support an amnesty for illegal aliens hasn't hurt his standing among Latino voters. I hope your party doesn't try to pick up even more of the Latino vote by supporting amnesty.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

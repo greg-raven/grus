@@ -21,8 +21,6 @@ The House Freedom Caucus has released a plan to tackle the crisis. The plan's hi
 
 The Biden Border Crisis will not solve itself. Please help to protect our nation by taking firm steps to implement the Freedom Caucus' plan.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

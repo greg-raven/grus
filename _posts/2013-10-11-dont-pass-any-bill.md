@@ -34,6 +34,6 @@ The letter reads as follows:
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Please help keep Boehner on the straight and narrow. He seems to like to wander off onto the Dark Side whenever possible. Thanks.

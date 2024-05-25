@@ -16,8 +16,6 @@ This legislation is able to coax out these illegal workers by telling employers 
 
 Please support, H.R. 319, the Legal Workforce Act and help Americans get back to work and help employers stay on the right side of the law.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

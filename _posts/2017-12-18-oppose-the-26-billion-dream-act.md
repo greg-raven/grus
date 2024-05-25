@@ -20,4 +20,4 @@ The CBO also found that the DREAM Act would increase chain migration numbers:
 
 I oppose the DREAM Act and urge you to do the same.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

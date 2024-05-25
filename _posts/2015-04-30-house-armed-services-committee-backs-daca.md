@@ -16,4 +16,4 @@ Thank you for voting against this amendment and I hope you will continue to oppo
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

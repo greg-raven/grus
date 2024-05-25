@@ -16,8 +16,6 @@ Instead of securing the borders and enforcing our immigration laws, President Ob
 
 Please make sure the government doesn't try to house illegal aliens in our state. The Obama administration needs to secure the border and stop illegal immigration, not welcome illegal aliens with open arms.
 
-Sincerely,
-
 Greg Raven
 
 P.S. As long as the government is willing to move them, let's make certain that they move them back across the border!

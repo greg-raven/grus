@@ -27,4 +27,4 @@ Gun control is a political loser. So please oppose the three gun bills that were
 
 Instead, support concealed carry reciprocity (H.R. 38) and repeal gun-free school zones (H.R. 3200).
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

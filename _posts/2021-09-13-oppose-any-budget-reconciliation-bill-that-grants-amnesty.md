@@ -15,6 +15,6 @@ Our country is suffering from the effects of the COVID-19 pandemic and the ongoi
 
 Please do all you can to strip the immigration provisions out of the final reconciliation bill, or to vote against the final passage!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders now, evict from the country anyone who does not belong here, and institute a 20-year moratorium on all new immigration including refugees.

@@ -14,4 +14,4 @@ These extremely anti-gun and unconstitutional bills are meant to seem "reasonabl
 
 I therefore urge you to vote NO on the above proposed violations of the Second Amendment and our U.S. Constitution.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

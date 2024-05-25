@@ -21,4 +21,4 @@ Specifically, this legislation harms Americans in the following ways:
 
 H.R. 4916 does not benefit American or legal immigrant workers in any way and must be stopped. I urge you to oppose this legislation when the House of Representatives votes on it.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

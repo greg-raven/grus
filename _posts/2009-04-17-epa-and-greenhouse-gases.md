@@ -31,6 +31,4 @@ An endangerment finding would lead to destructive regulatory schemes that Congre
 
 Because EPA has a choice, your administration cannot truthfully say, "The Court made us do it." If EPA issues an endangerment finding, your administration will bear responsibility for any increase in consumer energy costs, unemployment, and GDP losses resulting from CAA regulation of CO2.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

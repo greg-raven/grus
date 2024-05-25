@@ -16,6 +16,4 @@ Unless America can achieve a stable population, we will continue to see the irre
 
 America's accelerating and unsustainable population growth will continue to exacerbate our environmental problems. I urge you to work to reduce immigration-driven population growth (e.g., eliminate chain migration) to safeguard our environment as well as our quality of life, including that of future generations.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,4 +17,4 @@ Mandating the use of the E-Verify system will remove illegal aliens from the wor
 
 I urge you to support all of President Trump's immigration principles --- especially mandating E-Verify and ending chain migration.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

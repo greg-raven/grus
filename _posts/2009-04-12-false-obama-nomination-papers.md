@@ -20,6 +20,4 @@ Your duty as State Attorney General requires you to fully and faithfully enforce
 
 Thank you.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

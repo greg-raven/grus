@@ -24,6 +24,6 @@ This a back-door amnesty for the parents of these illegal "teens," and a chain m
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org)
+{% include signature.html %}
 
 P.S. Just one month ago the American people voted against all this cr\*p. You and the other members of the treason lobby won't get away with this!

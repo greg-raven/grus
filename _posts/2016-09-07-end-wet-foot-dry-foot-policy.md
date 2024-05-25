@@ -18,4 +18,4 @@ This abuse of our welfare and immigration laws, and the burden placed on Latin A
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

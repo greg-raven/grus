@@ -19,6 +19,6 @@ I urge you to consider the ramifications a mass amnesty would have for unemploye
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. And this comes at a time when 138,000 More foreign workers received work permits. Stop the insanity!

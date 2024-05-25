@@ -28,6 +28,4 @@ Working-class voters are challenged now with inflation and recession and layoff 
 
 Please work with your colleagues and stop pushing for mass immigration that undermines worker gains.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

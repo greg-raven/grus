@@ -20,4 +20,4 @@ The current system does not benefit American workers. Passing legislation to bri
 
 Phone me if you would like to talk about this.
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

@@ -20,4 +20,4 @@ The approaching caravan of economic migrants is proof of this. H.R. 4760 would f
 
 Please do all you can to get this legislation passed!
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

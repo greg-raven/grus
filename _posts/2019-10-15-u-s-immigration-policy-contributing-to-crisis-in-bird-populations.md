@@ -19,4 +19,4 @@ As the Times article illustrates, there is an inverse relationship between human
 
 I know that politicians prefer to avoid discussion about responsible immigration numbers, but we now know that silence has consequences. Let's show some courage before we lose another species.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

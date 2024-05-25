@@ -19,4 +19,4 @@ The OPT program (or "Optional Practical Training") gives employers who hire fore
 
 The government can't pretend that offering employers a tax break to not hire Americans doesn't create a perverse incentive to deny opportunities to our fellow Americans. I'm counting on you to end the destructive and discriminatory OPT program.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -15,4 +15,4 @@ Allowing countries such as India to dominate employment-based visas will have a 
 
 I hope you will consider the impact of legislation on American workers whenever you are voting on immigration bills.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

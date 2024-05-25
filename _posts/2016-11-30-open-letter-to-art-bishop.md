@@ -14,4 +14,4 @@ Also, at the *Daily Press* candidate forum you stated that the Town had made num
 
 If you can cast any light on this discrepancy, I'd appreciate it.
 
---- [Greg Raven](https://www.gregraven.org), Apple Valley, CA
+--- {% include signature.html %}

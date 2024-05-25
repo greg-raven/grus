@@ -28,4 +28,5 @@ The support of these news agencies will be a substantial financial boon to Hunga
 
 Whatever you think of this proposal, I wish to thank you for standing up for Europe, and for western civilization.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA 92307
+{% include signature.html %}
+ 92307

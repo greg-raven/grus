@@ -19,9 +19,7 @@ This "intelligence" report is nothing but a government-sponsored smear campaign 
 
 The freedom of association and the freedom of speech are guaranteed to all Americans. We won't be silenced by your labels because we are standing peacefully and patriotically for what we know is right.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. How is it that your administration is frenetically boosting the centralization of power, yet refuses to exercise that power to secure our own borders?
 

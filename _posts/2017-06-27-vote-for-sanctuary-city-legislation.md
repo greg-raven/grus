@@ -14,4 +14,4 @@ While this legislation is a great first step, more must be done to truly strengt
 
 Please vote for H.R. 3003 when it comes up for a vote this week and please do all you can to make sure the Davis-Oliver Act receives one as well.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

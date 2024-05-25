@@ -15,8 +15,6 @@ New analysis from Democratic political consultant David Shor indicates that Demo
 
 I have a better suggestion: adopt more popular positions. Why not champion an immigration policy that exerts upward pressure on wages and reduces stress on the environment? That was the Democratic position not long ago, and it should be again.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Mass immigration is a weapon of mass destruction.

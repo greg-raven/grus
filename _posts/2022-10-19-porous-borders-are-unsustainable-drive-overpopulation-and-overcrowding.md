@@ -14,8 +14,6 @@ Northern U.S. cities such as New York, Chicago, Washington D.C. cannot keep up w
 
 According to a recent Harvard-Harris poll, immigration is a top issue for Americans during this record border crisis, but it doesn't even rank in the top ten for Democrats in Washington. The border issue isn't going away. We need to try something new – or old – to stop illegal immigration.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders now and evict all illegals currently in the country.

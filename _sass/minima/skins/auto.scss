@@ -6,7 +6,6 @@
 $color-scheme-auto: true !default;
 $color-scheme-dark: false !default;
 
-
 // Light mode
 // ----------
 
@@ -33,7 +32,6 @@ $lm-table-zebra-color:     lighten($lm-brand-color, 46%) !default;
 $lm-table-header-bg-color: lighten($lm-brand-color, 43%) !default;
 $lm-table-header-border:   lighten($lm-brand-color, 37%) !default;
 $lm-table-border-color:    $lm-border-color-01 !default;
-
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
 // ----------------------------------------------------------------------------
@@ -102,7 +100,6 @@ $lm-table-border-color:    $lm-border-color-01 !default;
   }
 }
 
-
 // Dark mode
 // ---------
 
@@ -129,7 +126,6 @@ $dm-table-zebra-color:     lighten($dm-background-color, 4%) !default;
 $dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
 $dm-table-header-border:   lighten($dm-background-color, 21%) !default;
 $dm-table-border-color:    $dm-border-color-01 !default;
-
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
 // List of tokens: https://github.com/rouge-ruby/rouge/wiki/List-of-tokens
@@ -202,10 +198,8 @@ $dm-table-border-color:    $dm-border-color-01 !default;
   }
 }
 
-
 // Mode selection
 // --------------
-
 
 // Classic skin (always light mode)
 // Assign outside of the if construct to establish global variable scope
@@ -233,7 +227,6 @@ $table-zebra-color: $lm-table-zebra-color;
 $table-header-bg-color: $lm-table-header-bg-color;
 $table-header-border: $lm-table-header-border;
 $table-border-color: $lm-table-border-color;
-
 
 @if $color-scheme-auto {
 
@@ -321,7 +314,6 @@ $table-border-color: $lm-table-border-color;
   $table-header-border: var(--minima-table-header-border);
   $table-border-color: var(--minima-table-border-color);
 
-
 } @else if $color-scheme-dark {
 
   // Dark skin (always dark mode)
@@ -351,7 +343,6 @@ $table-border-color: $lm-table-border-color;
   $table-border-color: $dm-table-border-color;
 
   @include dm-highlight;
-
 
 } @else {
 

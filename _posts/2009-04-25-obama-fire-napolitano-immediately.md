@@ -19,6 +19,4 @@ This leaked DHS security assessment is so repulsive that rational, freedom-lovin
 
 I demand that DHS Secretary Janet Napolitano be FIRED without delay!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

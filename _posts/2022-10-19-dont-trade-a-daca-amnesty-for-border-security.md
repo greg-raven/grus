@@ -17,8 +17,6 @@ The Biden administration has created the current border crisis and Congressional
 
 Your top priority should be passing legislation to close asylum loopholes, to improve border infrastructure, and to mandate use of the E-Verify system.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders now and evict all illegals currently in the country, including DACA law-breakers.

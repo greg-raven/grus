@@ -14,4 +14,4 @@ Newly-released data from the Bureau of Labor Statistics shows that U.S.-born wor
 
 Call me if you want to discuss this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -12,6 +12,4 @@ I am concerned that lame duck Democrats will try to force an illegal alien amnes
 
 You and your Republican colleagues must block any legislation that amnesties or otherwise rewards illegal aliens. There is a crisis at the border and an amnesty for illegal aliens would only encourage more people to illegally enter the United States.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

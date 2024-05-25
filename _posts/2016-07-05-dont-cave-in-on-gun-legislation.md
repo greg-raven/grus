@@ -37,4 +37,4 @@ And while they are all aimed at stopping GUN PURCHASES --- thus restricting Seco
 
 Any gun control will concede Obama's argument that "guns are the problem," and will position the anti-gun Left for its next set of gun control demands.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

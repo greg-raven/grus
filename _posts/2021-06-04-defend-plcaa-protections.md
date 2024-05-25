@@ -20,4 +20,4 @@ This is an attack on the liberty and property of American gun owners by trying t
 
 I urge you in the strongest terms to support the PLCAA. Vote no on (H.R. 2814/S. 1338)!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

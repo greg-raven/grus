@@ -16,6 +16,6 @@ I can't understand why the legislature is taking California down the exact oppos
 
 Phone me if you would like to talk about this,
 
-Mr. [Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Didn't you run for office on the promise to make California more friendly to business? What the heck happened to you?

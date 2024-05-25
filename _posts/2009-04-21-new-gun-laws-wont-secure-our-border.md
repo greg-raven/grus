@@ -58,4 +58,4 @@ I won't get into your lie about 90 percent of the guns in the hands of Mexican d
 
 Sincerely yours,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

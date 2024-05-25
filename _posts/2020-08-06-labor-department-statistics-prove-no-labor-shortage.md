@@ -16,4 +16,4 @@ The current 18.1 million unemployed and the worrying 55.1 million working-age Am
 
 Please support legislation that reduces overall immigration to give Americans a fair shake in our current labor market; there are no jobs Americans won't do.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

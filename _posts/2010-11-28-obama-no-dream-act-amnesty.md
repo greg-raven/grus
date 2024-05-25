@@ -18,6 +18,6 @@ I urge you to do the right thing for the American people and urge Sen. Reid and 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. I realize that as an illegal alien yourself, you find honor and commitment difficult concepts, and as a Marxist, your utterances have little relation with the truth. You are a sorry excuse for a human being, and you certainly are no American.

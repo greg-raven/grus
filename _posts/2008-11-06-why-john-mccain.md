@@ -18,4 +18,4 @@ I can't prove this, but it seems clear to me that McCain was maneuvered into pla
 
 I realize that the implication is that this election was rigged months (years?) ago, but there really is no other explanation as to why such a defective person as John McCain received his party's nomination.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -18,6 +18,4 @@ In reality, the size of a country's economy does not dictate the well-being of i
 
 The U.S. Census Bureau predicts that, at today's growth rate, America's population will reach 404 million in 40 years, and more than 90% of this increase will be from immigration. I urge you to resist calls for perpetual population growth, and work to reduce America's high immigration rates.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

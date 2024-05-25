@@ -21,4 +21,4 @@ But Garland let his true colors show when, concerning the semi-auto ban, Garland
 
 So again, thank you for casting your vote against such a dangerous nominee.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

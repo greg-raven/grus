@@ -19,8 +19,6 @@ Communities are facing a harsh reality --- the sharp lack of affordable homes, s
 
 As you must know, illegal immigration has been hitting historic highs (twice as high as legal). We need leaders like you to fight for the homeless and those facing impossible housing costs. A critical step toward stabilizing our housing demands would be to include H.R. 2, The Secure The Border Act, in any future funding bill.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

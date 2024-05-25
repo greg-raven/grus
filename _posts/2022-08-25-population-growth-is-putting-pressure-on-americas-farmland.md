@@ -17,8 +17,6 @@ Congress should abide by the findings of President Clinton's 1996 "Population an
 
 We need leaders like you to change our nation's course from the relentless trend of farmland loss. Please support efforts that would reduce America's rapid population growth, namely legislation that would reduce immigration (e.g., stricter limits on chain migration).
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

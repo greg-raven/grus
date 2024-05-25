@@ -11,4 +11,4 @@ With record snowfalls and freezing temperatures across the planet, this whole gl
   
 What this means is the hysterical claims of man-made global warming will become ever-more shrill, as even the pretext that once seemed to support those claims evaporates.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

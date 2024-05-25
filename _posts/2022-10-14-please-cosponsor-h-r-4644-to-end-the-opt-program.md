@@ -15,6 +15,4 @@ The OPT program incentivizes the hiring of foreign graduates over American and l
 
 The OPT program is harming American STEM grads by giving companies a financial incentive to hire temporary foreign workers, even though the government is actively encouraging American students study for STEM degrees. I hope you cosponsor H.R. 4644, the Fairness for High-Skilled Americans Act, to end the OPT program.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

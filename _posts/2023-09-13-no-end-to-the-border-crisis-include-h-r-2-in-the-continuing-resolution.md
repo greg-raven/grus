@@ -18,8 +18,7 @@ The CBS News article "Illegal border crossings rose by 33% in July, fueled by in
 
 H.R. 2 includes parole and asylum abuse reforms, child labor protections and E-Verify that would help communities overwhelmed with large numbers of migrants arriving daily.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

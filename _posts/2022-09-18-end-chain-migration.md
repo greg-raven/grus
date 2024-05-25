@@ -15,6 +15,4 @@ Black abolitionists and civil rights leaders have been unapologetic about puttin
 
 We don't need a moratorium to achieve a more-just immigration system. Congress needs only to limit family-based immigration to spouses and minor children, and require employers to verify that their employees are authorized to work in the United States.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

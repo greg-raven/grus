@@ -24,4 +24,4 @@ I hope you will do all you can to support less-educated and lower-skilled Americ
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

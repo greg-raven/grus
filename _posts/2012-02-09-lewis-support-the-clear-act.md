@@ -19,4 +19,4 @@ SCAAP has broad bipartisan support and it needs to be reauthorized. Please do al
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

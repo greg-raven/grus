@@ -29,8 +29,6 @@ Title: "Planned economy or planned destruction?"
 > 
 > Side note: "It worked in Russia!"
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 Source: https://3.bp.blogspot.com/_8aN4krk1nsk/Se-FtRPEBzI/AAAAAAAAALA/lehbZI5PFIo/s1600-h/redredred.jpg

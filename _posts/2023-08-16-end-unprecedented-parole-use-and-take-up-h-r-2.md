@@ -23,8 +23,6 @@ Our communities will continue to be overwhelmed and our workers will continue to
 
 I urge you to develop and support a companion bill to the House-passed bill H.R. 2, the Secure the Border Act, and support the E-Verify bill S. 156, the Accountability Through Electronic Verification Act.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

@@ -19,6 +19,4 @@ So in addition to work permits, Social Security cards, and quasi-legal status, i
 
 The president's actions are not fair for the millions of hard-working, taxpaying, law-abiding Americans. I hope you will put Americans and first and do all you can to stop the president's overreach.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

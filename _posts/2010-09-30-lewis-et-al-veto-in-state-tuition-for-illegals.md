@@ -18,6 +18,6 @@ I supported the prior vetoes of bills that provide in-state tuition and financia
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. If we are to save California, we must control our borders and evict the illegals already in the country. In the meantime, we Must eliminate the factors that draw illegals here in the first place, namely, giveaways such as this one. We should Not be adding to the list of giveaways!

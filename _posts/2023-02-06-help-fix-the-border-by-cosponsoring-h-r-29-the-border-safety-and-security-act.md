@@ -16,8 +16,7 @@ I hope you will cosponsor H.R. 29, Rep. Chip Roy's Border Safety and Security Ac
 
 Please help end the border crisis by cosponsoring H.R. 29, the Border Safety and Security Act!
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

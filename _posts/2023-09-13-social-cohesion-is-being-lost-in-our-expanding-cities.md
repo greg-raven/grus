@@ -16,8 +16,7 @@ As America's population grows, towns and cities also are becoming more densely p
 
 With illegal immigration now surpassing legal immigration, please work to end asylum and parole abuse, as well as supporting legislation such as limiting chain migration to spouses and minor children, and/or establishing a nationwide E-Verify system. This action is the best way to protect Americans' housing choices.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

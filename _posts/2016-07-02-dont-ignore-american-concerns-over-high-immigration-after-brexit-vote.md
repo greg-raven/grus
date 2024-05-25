@@ -22,4 +22,4 @@ I urge Congress to listen to the economic concerns coming from the American peop
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

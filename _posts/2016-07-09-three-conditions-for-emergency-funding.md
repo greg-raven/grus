@@ -21,4 +21,4 @@ These three conditions will send a strong message to foreign citizens that illeg
 
 Please ensure each one of these conditions are included in any emergency funding bill before casting your vote.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

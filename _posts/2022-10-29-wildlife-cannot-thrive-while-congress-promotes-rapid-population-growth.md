@@ -17,8 +17,6 @@ It would be far more sustainable to cut immigration levels in half to a half-mil
 
 To protect our environment and biodiversity of life, we need to lower America's growth rate. I'm urging you to reduce immigration-driven population growth (e.g., eliminate chain migration) through a humane system that respects the dignity of every person.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

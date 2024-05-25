@@ -15,4 +15,4 @@ Apprehensions at the border are at a 20 year high, apprehensions of unaccompanie
 
 Yet the $3.5 trillion budget reconciliation bill includes zero dollars to address the depressing numbers above. Instead, it allocates more money to make them worse. Please strip the immigration provisions from the bill, or vote "no."
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

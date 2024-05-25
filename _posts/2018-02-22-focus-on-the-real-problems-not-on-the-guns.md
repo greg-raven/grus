@@ -31,4 +31,4 @@ And by all means, we absolutely have to eliminate gun-free zones, where the only
 
 I'm calling on you to reject every new "gun control" proposal and to pass H.R. 34 (or something like it) repealing the legislation that established gun-free school zones in the first place.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

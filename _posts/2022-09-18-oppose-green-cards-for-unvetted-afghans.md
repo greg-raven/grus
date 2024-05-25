@@ -16,6 +16,4 @@ S. 4787 would give these unvetted Afghan evacuees green cards even though they d
 
 Please oppose S. 4787 which would essentially "rubber stamp" the Biden Administration's abuse of executive parole.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

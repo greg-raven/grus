@@ -16,4 +16,4 @@ Punishing law-abiding gun owners by passing gun control won't stop crime but it 
 
 I look forward to hearing from you and will consider your response and any votes the next time I head to the polls.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

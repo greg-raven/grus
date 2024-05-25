@@ -15,4 +15,4 @@ I cannot understand why the president and some Republican Members of Congress ar
 
 I hope you, your Republican colleagues, and President Trump will not violate the trust that American voters have shown. Please do not support any legislation to amnesty illegal aliens or expand guest worker programs.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

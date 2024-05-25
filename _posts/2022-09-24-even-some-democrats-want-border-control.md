@@ -20,8 +20,6 @@ Democratic-led El Paso, Texas is responding to record crossing at the border by 
 Low-income Americans now have to compete with the migrants for shelter, jobs and resources. Please end asylum abuse by clarifying that an alien is  
 ineligible for asylum in the U.S. if they traversed a safe third country.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. No more immigrants. No more refugees. No more asylum-seekers. Secure the border, eject those already here illegally, and see how much better things will be in 60 years.

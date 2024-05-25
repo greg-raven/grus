@@ -17,8 +17,6 @@ Urban sprawl is chewing away at America's natural heritage and is driving down t
 
 America's only hope for a sustainable future is to take steps to reduce our high immigration rates (e.g., limit chain migration to immediate family). Such an effort would create a humane immigration system that respects the dignity of every person while allowing for America's population to stabilize and save our nation's dwindling open spaces. Future generations will be grateful for your leadership.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

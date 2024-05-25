@@ -22,6 +22,6 @@ I urge you to reconsider the impacts of your actions on American workers and sto
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Not that you care about America or Americans, being an illegal alien yourself, and a gluttonous, ungrateful one at that.

@@ -20,8 +20,6 @@ Communities should not be stretched thin in investing in their constituents beca
 
 I urge you to work with your fellow members of Congress to include provisions in H.R. 2, the Secure the Border Act, in the CR. H.R. 2 includes parole and asylum abuse reforms, child labor protections and E-Verify to end our migrant crisis.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

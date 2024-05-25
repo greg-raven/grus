@@ -20,6 +20,6 @@ You ran on a platform of securing the border and ending illegal immigration. I a
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. This is why we voted for you!

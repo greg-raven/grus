@@ -17,4 +17,4 @@ All they need to do to retain the ability to hire those they really want while m
 
 According to progressives, biology does not matter, so there should be nothing wrong with a white male identifying as --- say --- a black woman. After identifying as a black woman, this brand new woman would be receiving a higher paycheck than the male she formerly was. Thus, income inequality, gender inequality, and racial inequality are fixed using a wonderfully free-market approach, and best of all, they get to retain (and/or hire) all the white and Asian males they desire.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

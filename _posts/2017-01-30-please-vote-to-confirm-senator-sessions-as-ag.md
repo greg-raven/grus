@@ -13,4 +13,4 @@ For more than two decades, Senator Sessions has been the Senate's leading voice 
 
 As the nation's chief law enforcement officer, Senator Sessions would uphold the U.S. Constitution and the rule of law by pursuing local jurisdictions that protect illegal workers from federal immigration agents and encouraging the enforcement of immigration laws passed by Congress.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

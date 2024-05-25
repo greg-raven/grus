@@ -15,4 +15,4 @@ According to data from the Bureau of Labor Statistics, nearly half of all workin
 
 Please do all you can to make sure that these visa numbers are not increased
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

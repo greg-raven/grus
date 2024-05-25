@@ -24,6 +24,4 @@ Raise the credible fear standard, so that migrants can no longer claim evidencel
 - Mandate the Migration Protection Protocols ("Remain in Mexico") to end the incentive of falsely claiming asylum in order to be released into the U.S.
 - Require the Department of Homeland Security to reject asylum claims from migrants who have already passed through a safe country on their way to the United States.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

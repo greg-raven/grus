@@ -21,4 +21,4 @@ Society is safer when the criminal don't know who is armed, a fact amply support
 
 The president, the attorney general of the United States, the DHS, the DEA, and the ATF seem perfectly happy to supply guns to Mexican criminals, and to launder the proceeds of their illegal activities. All I'm asking for is recognition of my Constitutional rights
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

@@ -18,4 +18,4 @@ It's also false to claim that sanctuary policies are needed to protect witnesses
 
 S.B. 54 advocates are on the wrong side of the law and the wrong side of voters like me. Block S.B. 54 from passage.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

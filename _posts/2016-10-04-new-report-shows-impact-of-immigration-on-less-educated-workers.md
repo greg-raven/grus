@@ -19,4 +19,4 @@ The study proves that most immigrants do not work jobs that "American's won't do
 
 I urge you to read the NAS report and act on its findings. Americans are being irreparably harmed by millions of foreign workers and Congress must act to reduce immigration to sustainable levels.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -27,7 +27,6 @@ her wealth.
 
 - INFRASTRUCTURE
 
-
 **DEMOCRAT 2018 PLATFORM** 
 
 - Hate Trump.

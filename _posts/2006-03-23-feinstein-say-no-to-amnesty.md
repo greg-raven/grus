@@ -18,6 +18,6 @@ I know you have said you oppose a guestworker program. That is why I hope you wi
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Any elected official who does not work to protect our borders is violating his oath of office at the very least. I'm counting on you to keep your word.

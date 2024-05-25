@@ -36,4 +36,4 @@ Too bad you can't cut "entitlements" (you know, payments to those who are not en
 
 Thanks for nothing,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

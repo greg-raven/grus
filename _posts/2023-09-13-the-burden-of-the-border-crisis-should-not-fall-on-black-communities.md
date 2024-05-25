@@ -22,8 +22,6 @@ The border crisis should be stopped now by ending parole and asylum abuse. For m
 
 Additional actions to be taken now: Require businesses to use the free E-Verify system to ensure that they are hiring lawful residents, including the Freedmen population, instead of illegal workers. Restore our immigration system to a more honorable tradition by limiting chain migration as recommended by the bipartisan U.S. Commission on Immigration Reform.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

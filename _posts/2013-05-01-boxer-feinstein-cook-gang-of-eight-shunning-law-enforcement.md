@@ -24,6 +24,6 @@ I hope you'll make sure that these fine men and women helping to guarantee the p
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. We need to demand an enforcement-only immigration policy until we clear the swamp. Secure the borders, and put American citizens first.

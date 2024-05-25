@@ -15,4 +15,4 @@ Clearly, the solution is NOT to go back to the way things were, but rather, to g
 
 How about this: On the birth of any non-white in the U.S., give the infant $100,000, a high school diploma, a college degree, a house, a car, welfare, Medicare, food stamps, a cell phone, and an iPod. Would that do it, or should we throw in some "bling?"
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

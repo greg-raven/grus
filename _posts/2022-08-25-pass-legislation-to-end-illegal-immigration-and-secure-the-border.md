@@ -26,8 +26,6 @@ Due to the actions (or inaction) of the Biden administration, the border is out 
 
 I know you and your colleagues understand the seriousness of the problem and I trust you to take all necessary steps to address it.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

@@ -17,6 +17,4 @@ It truly is outrageous that some special interest groups (and a even a few Congr
 
 During this May Day-week, you might be hearing from a variety of groups who are calling for a mass amnesty. I urge you to oppose their calls for amnesty. Any amnesty, no matter how small, would devastate millions of American workers. How can you or any Congressman support an amnesty when 13 million Americans are unemployed and more than 7 million illegal aliens have non-agricultural jobs?
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

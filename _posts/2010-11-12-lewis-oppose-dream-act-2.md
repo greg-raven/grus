@@ -20,6 +20,6 @@ Please do the right thing and oppose Speaker Pelosi's attempts to force the DREA
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Don't make me regret voting for you.

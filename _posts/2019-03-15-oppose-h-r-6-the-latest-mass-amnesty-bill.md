@@ -25,4 +25,4 @@ I urge you to oppose this and any other amnesty bill. Instead, we need a wall, m
 
 I hope you will do all you can to stop H.R. 6!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -16,4 +16,4 @@ WHEREAS: If you and I don't fight back now to protect our Second Amendment freed
 
 THEREFORE: I urge my Congressman, U.S. Senators, as well as my politicians to stand against using COVID-19 as an excuse to impose unconstitutional gun control measures.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

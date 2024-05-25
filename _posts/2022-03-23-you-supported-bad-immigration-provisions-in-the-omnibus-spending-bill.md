@@ -21,4 +21,4 @@ In its report "Claims of labor shortages in H-2B industries don't hold up to scr
 
 I wish you would have done the right thing and opposed the H-2B visa expansions in the omnibus.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

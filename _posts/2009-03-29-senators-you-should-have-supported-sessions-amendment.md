@@ -21,6 +21,6 @@ I urge you to look deep inside yourself and determine if you can continue to har
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. We need our elected officials to represent American citizens for a change. This means you!

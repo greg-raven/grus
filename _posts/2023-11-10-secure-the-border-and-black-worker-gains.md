@@ -24,8 +24,7 @@ The current exploitation of migrant labor in the meat processing industry revers
 
 H.R. 2 includes loophole closures on migrant child releases and E-Verify to end the abuse of migrant labor that undercuts Black American workers.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

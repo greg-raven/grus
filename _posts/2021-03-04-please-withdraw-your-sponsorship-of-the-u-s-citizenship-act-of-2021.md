@@ -19,4 +19,4 @@ This immigration bill benefits unscrupulous employers who hire illegally, illega
 
 I didn't vote for this, and I'd like you to withdraw your co-sponsorship from the U.S. Citizenship Act.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

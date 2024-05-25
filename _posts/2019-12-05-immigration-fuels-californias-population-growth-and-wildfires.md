@@ -19,4 +19,4 @@ CNBC's John W. Schoen reports in "Warming climate, population sprawl threaten Ca
 
 So why shouldn't we set immigration at a level that would allow for the U.S. population to stabilize?
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -15,4 +15,4 @@ A recent Harvard-Harris poll found that more than 80% of Americans want immigrat
 
 If there's to be any DACA deal, please do all you can to make sure it's H.R. 4760!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

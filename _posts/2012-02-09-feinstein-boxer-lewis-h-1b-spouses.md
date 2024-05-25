@@ -22,4 +22,4 @@ I'm sure you realize that President Obama's plan violates the law. Only the Cong
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

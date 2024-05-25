@@ -21,6 +21,4 @@ I believe that you, as a United States Senator, must follow the wishes of the ma
 
 Vote NO!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

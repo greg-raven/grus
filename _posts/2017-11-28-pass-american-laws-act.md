@@ -18,4 +18,4 @@ Mandating the use of the E-Verify system would help to remove the roughly 7 mill
 
 I hope you and your colleagues in leadership and on the immigration task force will get this bill to the House floor and get it passed as soon as possible.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

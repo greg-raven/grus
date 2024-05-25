@@ -20,4 +20,4 @@ Please stand up for our Second Amendment rights and reject any and all calls for
 
 Thank you, and I await your response on this important issue.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

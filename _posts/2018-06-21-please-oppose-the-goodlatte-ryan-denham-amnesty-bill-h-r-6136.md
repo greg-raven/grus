@@ -18,4 +18,4 @@ The Goodlatte-Ryan-Denham amnesty, H.R. 6136, not only fails to fulfill the orig
 
 No amnesty. Not now, not ever!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

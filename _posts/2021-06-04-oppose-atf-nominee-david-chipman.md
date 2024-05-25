@@ -14,4 +14,4 @@ Chipman was a career ATF agent who immediately turned to anti-gun activism after
 
 I urge you to oppose Chipman in the strongest manner possible.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

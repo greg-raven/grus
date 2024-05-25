@@ -15,8 +15,6 @@ Please read "Bill Clinton Saved His Presidency. Here's How Biden Can, Too." (*Th
 
 The House version of Build Back Better is fatally flawed with what would be the largest amnesty in U.S. history. Penn and Stein remind us that Obama voters flipped to Trump over immigration, but Bill Clinton saved his presidency by standing up to the radical fringe of his party and moving toward the center. Don't wait for the House to make this tragic mistake. Speak up in opposition now.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.

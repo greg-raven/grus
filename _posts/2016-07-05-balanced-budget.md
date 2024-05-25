@@ -16,4 +16,4 @@ To put it another way, if the Town really was doing well financially, it wouldn'
 
 The Apple Valley Town Council likes to present itself as being conservative, but their readiness, willingness, and ability to wreak havoc equals that of free-spending progressives.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

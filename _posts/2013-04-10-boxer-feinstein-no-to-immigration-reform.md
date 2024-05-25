@@ -20,6 +20,6 @@ Please say no to amnesty and comprehensive immigration reform.
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Instead of amnesty for criminals, how about evicting all illegals and securing our borders? It's a pretty sorry day for the nation when I have to recommend to my senators to follow the law!

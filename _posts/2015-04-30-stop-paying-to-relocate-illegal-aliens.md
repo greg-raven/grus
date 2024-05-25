@@ -15,6 +15,4 @@ First, the Obama administration encouraged the border surge and current illegal 
 
 This program is unnecessary and an affront to the American people and the rule of law. I urge you to take steps to stop this misuse of taxpayer dollars.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

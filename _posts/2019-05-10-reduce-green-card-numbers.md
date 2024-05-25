@@ -21,4 +21,4 @@ Reducing the number of green cards issued each year would tighten the labor mark
 
 American voters and workers want immigration reduced; I hope you will take steps to make it happen.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

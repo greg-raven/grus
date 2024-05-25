@@ -25,6 +25,6 @@ I urge you to break your habit of supporting illegal alien workers over unemploy
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Protect our country from alien invaders!

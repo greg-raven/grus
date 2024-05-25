@@ -17,8 +17,6 @@ While admitting to having no evidence linking "right wing" citizens to actual te
 
 Unfortunately, Napolitano and your administration continue to stand behind this flawed report. That is why Napolitano must go and you must apologize to millions of patriotic Americans who have been wrongly profiled by this report.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S.: If you keep Napolitano, have her do a "threat assessment" on the dangers of an illegal alien occupying the office of the President of the United States.

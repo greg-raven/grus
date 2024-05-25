@@ -17,6 +17,4 @@ Employers bypass domestic workers for alternatives who are deemed more efficient
 
 Please work with your colleagues to fulfill the Jordan Commission recommendations of investing in American workers and talent, ending chain migration and reducing immigration numbers.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

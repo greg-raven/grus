@@ -19,6 +19,6 @@ Secretary Johnson told the House Homeland Security Committee on March 16:
 
 The attacks in Paris and elsewhere highlight the need to secure our country's refugee system and ensure terrorists are not admitted. Please do all you can to pass H.R. 4731, legislation that would allow for recurrent vetting of refugees and prevent DHS from waiving admissibility requirements.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. When talking about "gun control" for American citizens, Barack Obama says background checks do not work. When talking about admitting tens of thousands of foreign refugees, however, Obama says that a background check will protect our country. Clearly, he is wrong on both counts.

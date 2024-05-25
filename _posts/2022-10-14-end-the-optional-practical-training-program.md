@@ -18,6 +18,4 @@ I ask you: What is the purpose of Congress defining visa categories at all if th
 
 End the Optional Practical Training program. End the OPT program.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

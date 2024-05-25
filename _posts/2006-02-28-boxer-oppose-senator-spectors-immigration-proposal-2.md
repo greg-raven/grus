@@ -17,6 +17,6 @@ In fact, virtually all of the 10.2 million illegal aliens estimated to be in the
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. No more amnesties! Secure the border! Start interpreting the 14th Amendment correctly! Save our country!

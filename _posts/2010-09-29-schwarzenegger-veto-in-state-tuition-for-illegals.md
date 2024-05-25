@@ -16,6 +16,6 @@ I supported your prior vetoes of bills that provide in-state tuition and financi
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Despite your lies to the contrary, illegal aliens and anchor babies are massive drain on our economy. Secure our border and evict the illegals and anchor babies already here, before they completely destroy the rest of California!

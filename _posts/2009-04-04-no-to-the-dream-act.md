@@ -23,6 +23,6 @@ Please renounce your support for the DREAM Act amnesty. There are more than 12 m
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. You really, really need to start representing the interests of Americans, rather than of foreigners. You swore an oath to do so!

@@ -15,4 +15,4 @@ According to Michelle Lovato's book *Apple Valley,* African-Americans received l
 
 If alleged racism from 30 years ago really is an important component of this story, the very least you could do is tie it to present-day racism, as exhibited by [members of the Apple Valley Town Council](https://waterwedoing.website/docs/2007/20070508-DP-Barb-Stanton-fired-from-radio-show.php).
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

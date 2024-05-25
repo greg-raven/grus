@@ -34,4 +34,4 @@ On the race issue, Lincoln [pretty much hated negroes and any thought of race-mi
 
 Maybe Obama feels akin to Lincoln because he feels he has good intentions, so the end results don't really matter. Buy your waders now, because as this typically Liberal mindset takes even more hold of our body politic, there will be blood in the streets.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

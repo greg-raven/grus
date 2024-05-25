@@ -20,4 +20,4 @@ AB-1237 mandates that the California Department of Justice (DOJ) supply informat
 
 AB-1509 reduces the penalties for criminal misuse of firearms, ironic as the California legislature targets every-day citizens and firearms owners while seeming to favor aggressive criminals.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

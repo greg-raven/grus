@@ -16,4 +16,4 @@ Despite the fact that Republicans campaigned against amnesty and for putting the
 
 Please vote NO vote on H.R. 6136!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

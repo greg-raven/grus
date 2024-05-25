@@ -23,6 +23,4 @@ Executives at Fannie Mae and Freddie Mac will be receiving $210 million in bonus
 
 I resent that you take my fellow citizens and me as brain-dead and not caring about what you idiots do. We are watching what you are doing and we are getting increasingly fed up with all of you. I also want you to know that I personally find just about everything you do and say to be offensive to every one of my sensibilities. I promise you that I will work tirelessly to see that you do not get a chance to spend two terms destroying my beautiful country.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

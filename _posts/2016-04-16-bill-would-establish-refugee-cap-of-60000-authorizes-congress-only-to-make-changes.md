@@ -24,4 +24,4 @@ The Refugee Program Integrity Restoration Act would:
 
 This legislation would make our country a safer place and, more importantly, put control of the Refugee program back in Congress' hands. Please push for a House vote on H.R. 4731, the Refugee Program Integrity Restoration Act.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

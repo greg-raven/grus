@@ -20,4 +20,4 @@ These are commonsense solutions that have broad support among the American peopl
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

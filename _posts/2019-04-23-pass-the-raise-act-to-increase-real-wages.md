@@ -22,4 +22,4 @@ Many of your Congressional colleagues are saying the same thing, but if there we
 
 Americans need a raise, I hope you will make that happen by helping to push the RAISE Act through Congress.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

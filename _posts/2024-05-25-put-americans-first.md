@@ -16,8 +16,7 @@ These same businesses are mainly looking for any means to exploit cheaper labor.
 
 I urge you to support U.S. wages and job quality with legislation aimed to at stopping immigration increases and enforcing existing immigration laws to reduce the current illegal immigrant population.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

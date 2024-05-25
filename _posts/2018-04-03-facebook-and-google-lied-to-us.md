@@ -22,9 +22,7 @@ A vote in favor of this measure – the Congressional Review Act (CRA) – is a 
 
 Instead, Congress should pass real consumer internet protection legislation to ensure that Facebook and Google --- or any other company --- cannot block and censor the content, exempt themselves from consumer protections, and abuse or manipulate user data.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 ---
 

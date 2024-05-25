@@ -20,6 +20,6 @@ The visa lottery encourages illegal immigration and promotes origin-based bias i
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. You need to do everything in your power to reduce the number of immigrants entering the country, and to remove the illegal immigrants already here.

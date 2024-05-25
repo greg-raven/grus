@@ -13,6 +13,4 @@ I'm deeply concerned about the Biden Administration's continued abuse of executi
 
 A group of Senators have introduced S. 4787 to give these Afghan parolees green cards. Please oppose this legislation and any effort to add it to the must-pass spending bills that will come for a vote this fall. Given the government's well-established inability to properly vet, the chances that the AAA, if it became law, would be carried out as written are slim.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

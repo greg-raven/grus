@@ -51,6 +51,4 @@ I'm sending you this article in case you missed it:
 
 To view this WorldNetDaily item online, visit https://www.worldnetdaily.com/news/article.asp?ARTICLE\_ID=49482
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

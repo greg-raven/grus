@@ -18,4 +18,4 @@ I am writing to urge you: Do not sign Coffman's petition. Do not cosponsor it, o
 
 End DACA, end special favors for illegals, end special favors that elevate one class above others, and end the attacks on legal American workers.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

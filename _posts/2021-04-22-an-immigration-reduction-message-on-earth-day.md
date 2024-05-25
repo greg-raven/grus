@@ -20,4 +20,4 @@ To relieve the steady degradation of America's environment, please work to stabi
 
 Phone me if you would like to talk about this.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

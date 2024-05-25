@@ -28,4 +28,4 @@ Our forefathers founded America based on the timeless idea that all men are crea
 
 Our children and grandchildren depend on us as stewards of these principles. I ask you to act in their defense.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

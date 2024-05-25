@@ -24,4 +24,4 @@ We must know who enters this country and who leaves it.
 
 I urge you to do all you can to get a biometric entry/exit system implemented.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -19,4 +19,4 @@ The solution to fixing our system is not an amnesty that adds trillions to the n
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

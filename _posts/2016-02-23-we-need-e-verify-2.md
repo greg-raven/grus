@@ -19,6 +19,4 @@ In 2013, E-Verify checked the worker eligibility for nearly 24 million new hires
 
 As you can see, E-Verify is popular with employers and would be the single greatest deterrent in reducing illegal immigration. I urge you to support legislation that would require all employers to use it.
 
-Sincerely,
-
 Greg Raven

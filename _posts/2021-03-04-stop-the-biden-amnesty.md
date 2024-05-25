@@ -25,6 +25,6 @@ I urge you to support American workers by opposing the U.S. Citizenship Act of 2
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P. S. We need to secure our borders, stop all immigration for at least ten years, and remove from the country anyone who is in the country illegally.

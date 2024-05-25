@@ -18,4 +18,4 @@ Rep. Glenn Grothman (R-Wisc.) has authored a letter to President Joe Biden urgin
 
 Please add your name to this important letter.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

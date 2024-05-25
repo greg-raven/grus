@@ -17,8 +17,6 @@ The sober reality is that at today's growth rates, the Census Bureau predicts th
 
 Reducing America's unprecedented immigration rates would make a critical difference in terms of taking the pressure off America's best open spaces. I am counting on you to support the reduction of America's immigration rates (e.g., limit chain migration) so that Americans will always be able to witness "America the beautiful."
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

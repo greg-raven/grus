@@ -18,6 +18,6 @@ Secretary of State John Kerry must refuse to certify El Salvador as taking steps
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Stop rewarding illegal behavior!

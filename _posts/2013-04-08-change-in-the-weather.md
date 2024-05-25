@@ -21,4 +21,4 @@ Like "global winter" before it, "global warming" is reverting to the mean. At fi
 
 It makes you wonder how much longer before we'll again be seeing allusions to the threat of global cooling?
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

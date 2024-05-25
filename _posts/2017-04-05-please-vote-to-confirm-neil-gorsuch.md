@@ -17,4 +17,4 @@ This is exactly what we need --- a Justice who will follow the Constitution!
 
 Again, I hope that you will reject any filibuster of Gorsuch's nomination and vote for him as the Supreme Court's next Justice.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

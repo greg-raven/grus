@@ -21,4 +21,4 @@ A country that cannot control its borders is not really a country. A country tha
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

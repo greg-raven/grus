@@ -14,4 +14,4 @@ These extreme gun-control bills will make criminals out of law-abiding Americans
 
 Again, I appreciate you standing strong in defense of the Second Amendment.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

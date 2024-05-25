@@ -18,4 +18,4 @@ The 1997 Flores Settlement prevents youths from being detained for more than 20 
 
  Closing the credible fear loophole and modifying the Flores Settlement will do much to contain the current border crisis. I hope you will cosponsor H.R. 586, the Fix the Immigration Loopholes Act, and help to fix our immigration system.
 
- [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+ {% include signature.html %}

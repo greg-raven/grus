@@ -18,6 +18,6 @@ Simply put, having too many highly-skilled foreign workers is not a boon, it is 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Just because you as an illegal alien found a job here in the U.S., doesn't mean that others haven't been hurt by your actions.

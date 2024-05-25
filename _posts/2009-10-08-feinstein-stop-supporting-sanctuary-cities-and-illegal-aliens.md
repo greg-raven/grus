@@ -21,6 +21,6 @@ Please reconsider your support of illegal aliens and illegal immigration. The pr
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Just what do you think your grandchildren are going to do with the country that you're working so hard to flush down the drain? Have you no shame whatsoever?

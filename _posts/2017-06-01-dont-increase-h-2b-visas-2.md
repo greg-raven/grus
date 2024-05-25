@@ -16,6 +16,4 @@ Reports have also shown a history of abuse within the H-2B visa program. In FY20
 
 In his Joint Address to Congress, President Trump made it clear that his Administration would be different and put the forgotten American workers first. Increasing the number of H-2B visas only benefits the abusive employers who profit from cheap foreign labor at the expense of these forgotten Americans. I urge you to keep the President's promise that every decision made on immigration will "be made to benefit American workers and American families" and decline the opportunity to expand the H-2B visa program.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

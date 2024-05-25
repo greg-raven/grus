@@ -15,8 +15,6 @@ The Fifth Circuit's ruling prompted calls for Congress to pass the Dream Act amn
 
 Congress should instead focus on reinstating Remain in Mexico, strengthening the credible fear process to reduce fraudulent asylum claims, and ending the Biden Administration's abuse of advanced parole during the lame-duck session.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict all those currently here illegally!

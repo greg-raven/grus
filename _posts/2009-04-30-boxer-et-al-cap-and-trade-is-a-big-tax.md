@@ -17,6 +17,4 @@ I am writing to ask you to vote NO on any cap and trade bill that comes up for a
 
 Please vote no on cap and tax.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

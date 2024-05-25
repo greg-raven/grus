@@ -35,4 +35,4 @@ H.R. 6 is full of waivers for those who have broken the law. For example, TPS re
 
 This legislation does nothing to benefit the United States, law enforcement, the Border Patrol or USCIS, or the American people; it only benefits those who have broken our laws. Its passage would only serve to make the crisis at the border exponentially worse. I urge you to oppose H.R. 6 when it is voted on later this week.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

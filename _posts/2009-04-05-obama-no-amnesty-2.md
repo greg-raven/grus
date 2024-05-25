@@ -20,6 +20,6 @@ Please do not support any "comprehensive immigration reform!" Such a proposal, i
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. And this at a time when 138,000 More foreign workers received work permits!

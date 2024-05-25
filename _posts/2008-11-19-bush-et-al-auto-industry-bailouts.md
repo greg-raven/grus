@@ -31,6 +31,4 @@ Since the election, Republicans have talked of returning to their limited govern
 
 The answers to our economic problems cannot be found in further government intervention. As your constituent, I urge you not to put my tax dollars on the line, to vote "no" on the auto industry bailout, and to get the government out of our lives.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

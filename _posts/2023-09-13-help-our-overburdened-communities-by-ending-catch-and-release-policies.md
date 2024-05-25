@@ -20,6 +20,7 @@ Meanwhile, as more and more migrants are released, communities across the United
 
 I urge you to support reforms to end catch-and-release. I also urge you to introduce a companion bill to the House-passed H.R. 2, the Secure the Border Act. and cosponsor the E-Verify bill S. 156, the Accountability Through Electronic Verification Act.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}
+

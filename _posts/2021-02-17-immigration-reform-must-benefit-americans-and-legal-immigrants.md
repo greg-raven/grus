@@ -19,4 +19,4 @@ When considering immigration legislation, Congress must make ending illegal immi
 
 Immigration should benefit the American people, particularly during mass-unemployment events like COVID-19. I hope you will ensure that any immigration legislation passed by Congress doesn't harm Americans or legal immigrant workers.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

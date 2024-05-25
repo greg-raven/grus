@@ -19,6 +19,6 @@ I encourage you to support the enforcement-only bill that Senate Majority Leader
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. No amnesties! No guest-worker programs! Seal the border and evict the illegals already here. We must do this Now!

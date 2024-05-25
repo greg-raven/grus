@@ -16,4 +16,4 @@ The Associated Press has a new report out that focuses on some of the backlash a
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

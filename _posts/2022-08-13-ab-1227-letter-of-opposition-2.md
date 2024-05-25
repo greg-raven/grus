@@ -20,4 +20,4 @@ I am writing in strong opposition to AB 1227, which seeks to impose an excise ta
 
 I stand with Gun Owners of California in opposition to AB 1227.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

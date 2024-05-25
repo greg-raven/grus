@@ -18,6 +18,6 @@ I urge you to right this tremendous wrong by working to reform America's ineffec
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. If you don't stop this insanity, we will soon cease to exist as a country.

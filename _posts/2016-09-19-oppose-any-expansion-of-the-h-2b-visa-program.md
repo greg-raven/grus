@@ -13,4 +13,4 @@ I urge you to oppose any expansion of the H-2B low-skilled guest worker program 
 
 Pres. Obama is demanding that Congress fund the resettlement of 110,000 refugees in FY2017 despite warnings from FBI Director James Comey that refugees from terrorist-sponsoring nations cannot be fully vetted. Please include a moratorium on refugee resettlement from terrorist-sponsoring nations in the upcoming continuing resolution until an assessment of the national security risks they present can be completed.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

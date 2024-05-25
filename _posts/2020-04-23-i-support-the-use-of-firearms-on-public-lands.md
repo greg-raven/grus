@@ -26,4 +26,4 @@ Additionally, the Corps made the correct determination among the various alterna
 
 For all these reasons, we thank you for proposing to bring your regulations into compliance with the 2009 amendment and urge you to finalize the Preferred Alternative regulation revision proposed in docket COE- 2018-0008.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

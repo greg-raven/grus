@@ -55,7 +55,7 @@ SB 249 is neither a fair nor just bill. I ask you to uphold your oath of office 
 
 Thank you for your time and attention.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 ---
 

@@ -38,6 +38,4 @@ In announcing Kavanaugh's nomination, President Trump said:
 
 I agree. Please work to confirm Judge Kavanaugh to fill the vacancy on the Supreme Court.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

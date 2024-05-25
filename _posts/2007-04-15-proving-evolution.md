@@ -17,4 +17,4 @@ I couldn't help but think of all the hoopla these days about how kids are gettin
 
 It's difficult to decide which position is more amazing.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

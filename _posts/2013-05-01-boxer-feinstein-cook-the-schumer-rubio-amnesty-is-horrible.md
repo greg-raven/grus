@@ -24,6 +24,6 @@ I urge you to oppose this amnesty legislation. It doesn't secure the border, but
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. No amnesty. Not now, not ever! Secure our borders, and evict the illegals.

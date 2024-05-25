@@ -21,4 +21,4 @@ Americans understand the necessity of bringing America's sky-high immigration nu
 
 I hope you will look at the report's findings and take action to decrease immigration levels.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

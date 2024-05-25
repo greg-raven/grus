@@ -31,4 +31,4 @@ When a former ATF Director so forcefully opposes Chipman, you can be sure that C
 
 Please oppose the Chipman nomination.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

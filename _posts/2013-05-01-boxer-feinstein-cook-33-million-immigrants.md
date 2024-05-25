@@ -21,6 +21,6 @@ Please oppose this bill. The amnesty provisions are bad enough, but the legal im
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. These amnesties are on the path to national suicide. We must return to pre-1965 immigration law, secure our borders, and evict those who should not be here, including "anchor babies."

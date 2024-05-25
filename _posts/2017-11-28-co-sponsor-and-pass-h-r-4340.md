@@ -18,4 +18,4 @@ Mandating the use of the E-Verify system would help to remove the roughly 7 mill
 
 I hope you will do all you can to help these at-risk Americans. You can start by cosponsoring H.R. 4340!
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -16,6 +16,4 @@ I demand that you stand up against such moves, pushing instead for greater trans
 
 Say "no" to so-called fast-track measures. Say "no" to socialized healthcare.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

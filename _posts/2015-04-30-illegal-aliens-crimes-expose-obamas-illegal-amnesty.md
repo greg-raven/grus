@@ -28,4 +28,4 @@ We hope you will read the article we have attached. It is written by the Washing
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

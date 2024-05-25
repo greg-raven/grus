@@ -19,6 +19,4 @@ Five things you need to know about Fake Net Neutrality:
 - Signing SB 822 undermines any chance of real net neutrality protections.
 - In my humble opinion, SB 822 is an attempt to demonize the very businesses that enable us to have working Internet in the first place, while enabling widespread tyranny, censorship, and interference in our political process at the hands of the of big tech companies such as Facebook, Google, and Twitter, who practice anything but neutrality.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

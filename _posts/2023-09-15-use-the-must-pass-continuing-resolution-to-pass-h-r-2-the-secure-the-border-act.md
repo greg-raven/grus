@@ -21,8 +21,6 @@ The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the S
 
 As you can see, H.R. 2 is an incredibly important piece of legislation that would help to end the crisis at the U.S. / Mexico border. Please get H.R. 2 passed by attaching it to the Continuing Resolution!
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

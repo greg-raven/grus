@@ -20,6 +20,6 @@ Please introduce legislation similar to H.R. 1868 to protect jobless citizens an
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. The U.S. is the only first-world country that allows this, and it's not even legal! We Must end this practice immediately, and retroactively if possible.

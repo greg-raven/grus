@@ -16,4 +16,4 @@ In the short-run and in the longer run. Overall numbers have to go down. Visas c
 
 Please do all you can to reduce immigration numbers!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,4 +17,4 @@ Millennials are struggling and are most likely the group to be affected by this 
 
 I hope you'll do the right thing and help get this provision stripped from the bill before it's passed by the House.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

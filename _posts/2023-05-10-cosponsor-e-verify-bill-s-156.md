@@ -20,8 +20,6 @@ NBC News warned on April 27 that:
 
 The worsening border crisis could be stopped with mandatory E-Verify. I urge you to cosponsor S. 156.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

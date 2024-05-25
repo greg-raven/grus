@@ -21,4 +21,4 @@ Moreover, Politifact stated that America's population would continue to grow aft
 
 I hope you will read Pew's research and accept that America doesn't need mass immigration to thrive.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

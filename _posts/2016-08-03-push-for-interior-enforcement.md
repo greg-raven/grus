@@ -18,6 +18,6 @@ All murders are tragic, but the murder of Kate Steinle in San Fransisco was sens
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. We cannot preserve our country if we do not preserve the rule of law.

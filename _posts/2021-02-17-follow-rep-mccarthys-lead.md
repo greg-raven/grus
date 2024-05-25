@@ -18,4 +18,4 @@ In response to President Biden's plan to amnesty millions of illegal aliens, Rep
 
 I agree with Minority Leader McCarthy; the United States cannot afford to give a blanket amnesty to millions of illegal aliens. Doing so would irrevocably harm jobless Americans, reward those who broke the law to come to the United States, and encourage millions more to come to the United States illegally. I hope you will follow your colleague's example and oppose the Biden amnesty.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

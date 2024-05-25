@@ -18,6 +18,6 @@ I am somewhat reassured by the New York Times report that Republicans will proba
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Never forgive, never forget: No amnesty!

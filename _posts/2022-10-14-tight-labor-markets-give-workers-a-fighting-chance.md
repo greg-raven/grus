@@ -20,6 +20,4 @@ The current record border crisis and asylum application abuse will undermine wor
 
 I urge you to work with your colleagues to moderate legal immigration, secure the border and mandate E-Verify.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

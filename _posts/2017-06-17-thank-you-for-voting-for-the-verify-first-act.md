@@ -13,7 +13,7 @@ Thank you for voting for the Verify First Act. It is ridiculous that anyone coul
 
 I hope you will continue to support legislation that dissuades illegal aliens from coming to the United States and will do all you can to secure the border and make sure our immigration laws are enforced.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 ---
 

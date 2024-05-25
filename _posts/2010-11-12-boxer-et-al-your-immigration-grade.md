@@ -53,6 +53,6 @@ However, all is not lost and the situation can be rectified. This is the United 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Then we can return to pre-1965 immigration policies.

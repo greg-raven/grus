@@ -32,6 +32,6 @@ To complete the legislation, immigration enforcement would be frozen to ensure i
 
 The Democrats' amnesty plan would make our country less secure and harm the livelihoods of millions of Americans; please oppose the budget reconciliation bill if it includes this mass amnesty.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders now, evict from the country anyone who does not belong here, and institute a 20-year moratorium on all new immigration including refugees.

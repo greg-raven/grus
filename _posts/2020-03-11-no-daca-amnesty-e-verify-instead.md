@@ -19,4 +19,4 @@ We can only hope that DACA recipients are not allowed to stay in the country and
 
 Channel Dianne Feinstein's immigration position of 1994 and secure our borders!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

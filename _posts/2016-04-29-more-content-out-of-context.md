@@ -15,4 +15,4 @@ It turns out that the whole claim of racism rests on the shaky foundation of a "
 
 I realize freedom of association is no longer in vogue for whites, even though it is is supposedly protected by the same Amendment to the Constitution that ensures freedom of the press, but if you are going to offer to talk about history --- controversial or otherwise --- please include all the facts, not just those that fit the meme du jour. This I find to be a much better approach than presuming to judge the actions of those in the past by the conventions of the present.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

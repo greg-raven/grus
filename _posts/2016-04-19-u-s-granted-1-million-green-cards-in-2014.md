@@ -19,4 +19,4 @@ More than 14 million Americans cannot find a full-time job and tens of millions 
 
 I urge you to do all you can to reduce immigration numbers, particularly among those who are granted legal permanent residency based on non-nuclear family ties.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

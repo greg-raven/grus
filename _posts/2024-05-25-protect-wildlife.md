@@ -17,8 +17,7 @@ Our nation's relentless population growth has led to the development of millions
 
 That's why I'm urging you to support both the Secure the Border Act (H.R. 2) and the Nuclear Family Priority Act (H.R. 7833), which are critically important to regain control over our nation's unprecedented, and unsustainable, rate of immigration.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include immigration.html %}
 
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

@@ -22,6 +22,4 @@ I realize that our political elite has been promising us that we do need it, but
 
 You must absolutely, positively, vote NO on this bill, and any others like it.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

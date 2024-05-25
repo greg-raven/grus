@@ -17,6 +17,4 @@ Government control of healthcare is immoral, corrosive of the fabric of our soci
 
 If you really want to reform healthcare in America, you don't need 1,990 pages of country-destroying text. All you need to do is outlaw medical insurance and give tax write-offs for medical savings plans. The fact that Obama, Pelosi, and Reid are not going this route is proof that they have no intention of "reforming" health care; they're after total control of all aspects of our society by the federal government.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

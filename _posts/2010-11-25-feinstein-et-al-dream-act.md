@@ -23,4 +23,4 @@ Please do the right thing and oppose the attempts of anti-American worker Member
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

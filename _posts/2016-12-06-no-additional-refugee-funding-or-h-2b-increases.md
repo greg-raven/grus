@@ -20,6 +20,6 @@ Please oppose any efforts to increase refugee resettlement spending from the cur
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. The people have spoken: No additional refugees and no additional immigration until we drain the swamp, figure out who is already here (and what they are doing), secure our border, and can vet newcomers. Our immigration system must serve American interests, not international interests or Obama's twisted agenda.

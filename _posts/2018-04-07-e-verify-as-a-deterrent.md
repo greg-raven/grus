@@ -25,4 +25,4 @@ Portions of all three bills are contained in Rep. Bob Goodlatte's H.R. 4760, the
 
 Whichever approach you take, please ensure that mandatory E-Verify is included. Jobs in America should be filled by American citizens.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

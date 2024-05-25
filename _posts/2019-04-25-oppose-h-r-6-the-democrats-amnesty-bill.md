@@ -25,4 +25,4 @@ H.R. 6 does not benefit present or future American workers and it makes our nati
 
 I hope you will do all you can to stop H.R. 6!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

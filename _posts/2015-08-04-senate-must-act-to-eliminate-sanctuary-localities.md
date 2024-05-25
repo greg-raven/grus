@@ -21,4 +21,4 @@ The Davis-Oliver Act, S. 1640, would rectify the situation by blocking SCAAP and
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

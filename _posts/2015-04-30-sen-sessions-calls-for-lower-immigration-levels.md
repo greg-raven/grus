@@ -23,4 +23,4 @@ It is time for Congress to have an honest discussion about why the U.S. should b
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

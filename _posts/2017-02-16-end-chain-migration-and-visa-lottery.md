@@ -22,7 +22,6 @@ The Jordan Commission concluded that immigration must serve the national interes
 
 Phone me if you would like to talk about this,
 
-Greg Raven  
-Apple Valley, CA
+{% include signature.html %}
 
 P.S. American citizens must be the priority, not immigrants, and certainly not refugees.

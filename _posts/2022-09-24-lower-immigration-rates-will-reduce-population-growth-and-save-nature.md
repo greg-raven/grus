@@ -16,8 +16,6 @@ Early in his residency, Resident Biden issued an executive order directing feder
 
 The U.S. Census Bureau predicts that, at today's growth rate, America's population will reach 404 million in 40 years, and more than 90% of this increase will be from immigration. That's why I am urging you to support measures for reducing our high immigration rates (e.g., limit chain migration) so that our open spaces can stay that way for generations to come.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. No more immigrants. No more refugees. No more asylum-seekers. Secure the border, eject those already here illegally, and see how much better things will be in 60 years.

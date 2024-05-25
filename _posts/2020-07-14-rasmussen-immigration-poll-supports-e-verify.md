@@ -22,4 +22,4 @@ Moreover, 66% of voters think Congress should require U.S. employers to use the 
 
 It's clear that as the economy reopens, Americans believe that jobs should go to jobless Americans instead of illegal aliens and new foreign workers. I hope you will help to make this happen.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

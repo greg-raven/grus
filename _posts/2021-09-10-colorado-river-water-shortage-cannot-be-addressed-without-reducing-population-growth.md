@@ -16,6 +16,6 @@ Unsustainable population growth has finally come head to head with mother nature
 
 In this country, 90% of our population growth is due to immigration. Federal immigration policies will add another 79 million to our population between the years 2016 and 2060. I am saying nothing negative about immigrants as people, who play an important role in our country, but the hard truth is that too many people relying on a limited water source is a recipe for disaster. Please use common sense and bring immigration down to a sustainable level.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders now, evict from the country anyone who does not belong here, and institute a 20-year moratorium on all new immigration including refugees.

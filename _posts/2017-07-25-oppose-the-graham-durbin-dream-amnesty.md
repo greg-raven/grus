@@ -28,6 +28,6 @@ Why, at this time of high unemployment for Millennials, is Congress considering 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. How about we stop all immigration until we figure out who is already here, and remove the ones who shouldn't be?

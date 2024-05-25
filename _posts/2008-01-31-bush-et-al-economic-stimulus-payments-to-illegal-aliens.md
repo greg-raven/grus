@@ -17,6 +17,4 @@ I urge you NOT to sign any legislation that rewards illegal aliens in any way, s
 
 We have suffered enough from the illegal aliens infesting our country --- no more hand-outs for illegal aliens!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

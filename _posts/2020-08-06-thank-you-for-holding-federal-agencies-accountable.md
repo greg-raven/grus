@@ -12,4 +12,4 @@ Thank you for your recent executive order holding federal agencies accountable f
 
 Your memorandum goes a long way to protect America's federal employees from losing their jobs to senseless outsourcing. I look forward to seeing what further H-1B reforms your administration will take to preserve and extoll the American workforce. Thank you for continuing to follow through with your America First campaign promise.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -16,6 +16,4 @@ When will all this growth slow down? Population growth is mostly a government ch
 
 We need leaders like you to change our course from constant property destruction and rebuilding from extreme weather events, which only get worse with population growth. Please work to eliminate chain migration and reduce America's immigration rates.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

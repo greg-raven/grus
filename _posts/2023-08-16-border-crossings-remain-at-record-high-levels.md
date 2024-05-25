@@ -22,8 +22,6 @@ In sum, roughly the same number of migrants are entering the country each month.
 
 I urge you to support parole and asylum abuse reforms and cosponsor the E-Verify bill S. 156, the Accountability Through Electronic Verification Act.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

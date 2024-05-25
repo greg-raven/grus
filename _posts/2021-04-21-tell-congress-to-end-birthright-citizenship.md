@@ -16,4 +16,4 @@ I urge you to get behind legislation that would end this outdated practice once 
 
 Sincerely
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

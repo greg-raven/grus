@@ -15,4 +15,4 @@ Clinton's meta-gripe is essentially that people shouldn't like Obama when he use
 
 I'm not defending Obama's plagiarism. Here's a man who has done virtually nothing with his life, yet found it incumbent upon himself to write two autobiographies. Yikes! With nothing of his own, he must have developed a finely-tuned antenna for picking up good-sounding bits and pieces to mimic, to get as far in life as he has.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

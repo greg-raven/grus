@@ -25,4 +25,4 @@ As stated in The Wall Street Journal recently:
 
 Thank you again for your support of this important legislation.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

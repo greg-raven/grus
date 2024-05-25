@@ -21,4 +21,4 @@ Third, you must make good on your campaign promise to end Obama's DACA amnesty a
 
 Please don't hesitate to contact me if you wish to discuss this.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -15,6 +15,4 @@ Further government intervention in health care will drive costs even higher than
 
 The very thinking behind H.R. 3962 is OUTRAGEOUS, and you MUST STOP it. Please, do the RIGHT thing --- REJECT H.R. 3962, the "Affordable Health Care for America Act," or any OTHER attempt to force socialized health care or government-mandated health insurance on Americans. Thank you.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

@@ -27,6 +27,4 @@ Whereas, the so-called "Fairness Doctrine" --- either under that name, or using 
 
 I, the undersigned, assert my rights as a citizen of California in demanding that Congress immediately drop all legislative efforts to re-impose the so-called "Fairness Doctrine," whether on printed media, TV, radio, or the Internet, and that the president of the United States veto any so-called "Fairness Doctrine" legislation approved by Congress and that the U.S. Supreme Court overturn as unconstitutional any so-called "Fairness Doctrine" legislation approved by Congress and signed by the resident.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

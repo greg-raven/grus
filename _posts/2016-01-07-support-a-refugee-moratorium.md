@@ -19,6 +19,6 @@ Refugee resettlement needs to be halted until it can be done securely. Please do
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. While you're at it, please consider a complete moratorium on all immigration, secure our border, and evict the illegals already here.

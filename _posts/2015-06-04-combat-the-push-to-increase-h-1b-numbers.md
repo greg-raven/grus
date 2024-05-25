@@ -22,4 +22,4 @@ These omissions and oversights make the paper and its goals highly suspect and i
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

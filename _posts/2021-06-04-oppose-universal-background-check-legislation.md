@@ -19,4 +19,4 @@ As criminals do not submit to background checks, all this proposed legislation w
 
 That's why I respectfully urge you to vote NO on any attempt to pass H.R. 8, H.R. 1446 or S. 529.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

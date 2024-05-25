@@ -15,4 +15,4 @@ I recommend that we demand that our local officials direct local law enforcement
 
 This would allow state and local officers to receive training and work under the supervision of U.S. Immigration and Customs Enforcement. Then, local law enforcement would have the authorization to identify, process, and detain immigration offenders they encounter during their regular, daily law-enforcement activity.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

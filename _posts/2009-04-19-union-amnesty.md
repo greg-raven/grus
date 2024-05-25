@@ -20,6 +20,6 @@ I urge you to do all you can to fight any attempt by anti-American worker politi
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. America first!

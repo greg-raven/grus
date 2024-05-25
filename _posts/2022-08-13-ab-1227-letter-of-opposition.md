@@ -16,4 +16,4 @@ According to the 2019 U.S. Department of Justice Report on the "Source and Use o
 
 This is yet another ineffective approach to solving the problem of firearm misuse. I strongly oppose AB 1227.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

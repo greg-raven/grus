@@ -14,6 +14,4 @@ Your vote for a budget resolution that offers a reward to millions of people who
 
 The damage wrought by this rash act is going to linger.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

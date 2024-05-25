@@ -16,4 +16,4 @@ A special counsel should immediately be appointed because the Justice Department
 
 I, the undersigned citizen of the U.S., Greg Raven, residing in Apple Valley, CA, hereby demand that a special counsel be named to investigate all the facts, evidence, and credible allegations related to overseas "pay-to-play" corruption involving Hunter Biden and his father, Resident Joe Biden.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

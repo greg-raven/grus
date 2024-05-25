@@ -14,4 +14,4 @@ OPPOSE --- Assembly Bill 2888 would expand the list of those eligible to file gu
 
 I respectfully ask that you OPPOSE AB 2888.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

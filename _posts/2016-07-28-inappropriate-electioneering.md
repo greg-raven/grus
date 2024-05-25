@@ -17,4 +17,4 @@ Town representatives are always quick to denigrate Liberty Utilities as being ow
 
 I hope voters remember this sordid behavior on election day. Apple Valley deserves better.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

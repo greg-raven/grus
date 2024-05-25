@@ -20,4 +20,4 @@ Investigative reports have shown that businesses are more than willing to fire A
 
 Please do all you can to protect these American workers by opposing any effort to increase H-2B visas.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

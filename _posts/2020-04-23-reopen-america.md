@@ -18,6 +18,6 @@ Public health and safety depend on more than dedicated doctors and nurses. They 
 
 Please, President Trump, I urge you to think about the countless Americans in our country, struggling to provide for their families. I urge you to reject the Fake News Media and keep up the fight to reopen America.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Please keep these key principles in mind as we move to reopen our economy and save America: https://bit.ly/3bdsxLY

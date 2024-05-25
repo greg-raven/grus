@@ -19,4 +19,4 @@ There is nothing progressive about giving big business another tool to suppress 
 
 Leonhardt is a voice that should be heeded.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

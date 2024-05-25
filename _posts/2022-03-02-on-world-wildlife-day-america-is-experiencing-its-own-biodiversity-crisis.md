@@ -16,4 +16,4 @@ Congress should be abiding by the findings of President Clinton's 1996 "Populati
 
 We need leaders like you to change our nation's course from the relentless loss of wildlife habitat to a future with robust biodiversity. Please support efforts that would reduce America's rapid population growth, namely legislation that would reduce immigration (e.g., stricter limits on chain migration).
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

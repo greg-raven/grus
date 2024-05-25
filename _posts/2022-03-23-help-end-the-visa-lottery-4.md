@@ -17,4 +17,4 @@ Don't you think that eliminating this program is a good way of helping jobless A
 
 Please cosponsor H.R. 413, the SAFE for America Act, and help to end the visa lottery.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

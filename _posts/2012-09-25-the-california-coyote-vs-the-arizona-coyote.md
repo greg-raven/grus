@@ -40,4 +40,4 @@ The Governor of Arizona is jogging with her dog along a nature trail. A Coyote j
 
 And that, my friends, is why California is broke and Arizona is not.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

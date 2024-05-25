@@ -16,8 +16,6 @@ There are plenty of downsides to our unsustainable growth. Every year, more and 
 
 We need leaders like you to change our nation's course from the relentless loss of open space to a sustainable future. Please support efforts that would reduce America's rapid population growth, namely legislation that would reduce immigration (e.g., stricter limits on chain migration).
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

@@ -21,6 +21,6 @@ Please do the right thing and oppose the attempts of anti-American worker Member
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org)
+{% include signature.html %}
 
 P.S. Just one month ago the American people voted against all this cr\*p. Don't let the treason lobby get away with this!

@@ -23,4 +23,4 @@ Dr. King's dream is still alive and I hope you will honor it by working to furth
 
 Phone me if you would like to talk about this.
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

@@ -15,4 +15,4 @@ A DACA-for-border funding deal is a bad deal. Any DACA deal must end chain migra
 
 I urge you to reconsider your willingness to make a DACA-for-border funding deal. There is no need to rush into a bad deal that doesn't solve our problems.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

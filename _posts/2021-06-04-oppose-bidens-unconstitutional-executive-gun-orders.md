@@ -21,4 +21,4 @@ I oppose each of the following actions:
 
 I strongly encourage you to raise oppositions to these actions with the Biden administration! Congress *must* assert itself as a co-equal branch against Resident Biden's unprecedented use of executive actions.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

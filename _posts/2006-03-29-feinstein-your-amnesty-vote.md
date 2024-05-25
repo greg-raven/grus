@@ -29,6 +29,4 @@ Did you not watch the TV coverage of the protests in Los Angeles yesterday? Firs
 
 You took an oath of office on becoming a senator, and part of that oath of office was to protect the United States from its enemies, both foreign and domestic. Yesterday, you utterly violated your oath.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -20,8 +20,6 @@ The number of immigrants we welcome to the U.S. should not be so high as to unde
 
 Please support mandatory E-Verify, and the ending of chain migration and birthright citizenship.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally.

@@ -21,6 +21,6 @@ I urge you not to jeopardize national security over petty politics. Republicans 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. We must defend our borders to protect our country, our culture, and our lifestyle.

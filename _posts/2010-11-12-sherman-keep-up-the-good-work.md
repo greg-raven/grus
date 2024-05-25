@@ -16,6 +16,6 @@ Thank you for recognizing that this situation is unjust and that the Democratic 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. You are definitely in the minority. Good work! No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Then we can return to pre-1965 immigration policies.

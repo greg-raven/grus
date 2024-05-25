@@ -18,4 +18,4 @@ An amnesty for illegal aliens will only make it more difficult, not easier, for 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

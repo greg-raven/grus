@@ -16,6 +16,6 @@ I hope you and your colleagues will oppose the budget reconciliation bill if it 
 
 Sincerely
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. We need as much border control as we can possibly get, both to protect this country and to protect its legal workforce.

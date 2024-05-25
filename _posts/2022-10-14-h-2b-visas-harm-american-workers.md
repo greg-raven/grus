@@ -16,6 +16,4 @@ Moreover, the most recent labor participation rate is only 62.3%, which is below
 
 Please oppose reauthorizing additional H-2B visas as part of the upcoming omnibus spending bill!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

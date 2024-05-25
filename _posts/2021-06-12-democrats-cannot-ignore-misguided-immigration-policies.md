@@ -16,4 +16,4 @@ America cannot take in the world. President Biden's plan could spark an historic
 
 What will you do to urge the administration to close asylum loopholes and restore confidence in our immigration system?
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

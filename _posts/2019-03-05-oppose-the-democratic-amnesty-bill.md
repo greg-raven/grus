@@ -14,4 +14,4 @@ I was disturbed to learn that your Democratic colleagues will soon introduce leg
 
 I hope you will do all you can to oppose this legislation.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

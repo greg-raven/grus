@@ -18,6 +18,6 @@ I hope you and your colleagues will oppose the budget reconciliation bill if it 
 
 Sincerely
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Here in California we are out of water and our electrical grid is strained to the limit. Why is anyone even mentioned bringing in more people at a time like this?

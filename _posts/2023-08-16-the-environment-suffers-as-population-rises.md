@@ -16,8 +16,6 @@ Unfortunately, our leaders are in a constant state of denial. For example, the D
 
 Please work to reduce today's unprecedented rates of immigration by limiting chain migration (to immediate family), as well as implementing a nationwide E-Verify system. We must "follow the science" --- infinite population growth is not possible.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

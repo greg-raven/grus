@@ -18,4 +18,4 @@ Make no mistake ... this is a clear effort to pass a clean DACA amnesty with no 
 
 I urge you NOT to sign this petition and instead work for sensible immigration solutions that have the support of American voters.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

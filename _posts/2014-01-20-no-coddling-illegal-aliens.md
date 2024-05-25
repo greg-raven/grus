@@ -29,6 +29,6 @@ Legalizing criminals does NOT make our country more safe, and in fact does not b
 
 Phone me if you would like to talk about this.
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. "A nation without borders is not a nation." --- Ronald Reagan

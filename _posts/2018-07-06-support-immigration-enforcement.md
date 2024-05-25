@@ -23,4 +23,4 @@ How insane is this? Not only do these individuals want to reward and encourage t
 
 I urge you to stand up for all Americans --- for all members of our national community --- and fight this quixotic, ill-conceived effort to eliminate our national community and sacrifice our nation's most vulnerable.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

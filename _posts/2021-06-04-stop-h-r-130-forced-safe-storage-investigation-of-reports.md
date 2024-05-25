@@ -14,4 +14,4 @@ It is nobody's business how I choose to protect my family but my own, and I will
 
 Therefore, I once again stand with Firearms Policy Coalition in DEMANDING that you withdraw H.R. 130!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

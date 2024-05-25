@@ -26,6 +26,6 @@ I urge you to take legislative steps that strengthen interior enforcement, end p
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Each of these things must be done.

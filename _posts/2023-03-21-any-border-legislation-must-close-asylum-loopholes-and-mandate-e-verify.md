@@ -15,8 +15,6 @@ In addition to passing legislation to secure the border and provide additional r
 
 The American people are counting on you and your colleagues to finally take the border crisis seriously --- please don't let us down.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

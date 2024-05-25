@@ -19,4 +19,4 @@ Increasing H-2B visa numbers will only keep more Americans unemployed and outsid
 
 Further unfairly impacted by the pandemic, Black Americans, Hispanic Americans, and Americans with a high school education or less have been hit the hardest, and increasing H-2B numbers will only escalate the burden. Please ensure the omnibus spending bill doesn't raise the H-2B cap or authorize DHS to raise the cap.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

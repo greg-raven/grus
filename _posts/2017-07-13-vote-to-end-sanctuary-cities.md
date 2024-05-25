@@ -17,4 +17,4 @@ If a jurisdiction in our state refuses to cooperate with federal immigration enf
 
 I urge you to do the right thing by supporting H.R. 3003 should it reach the Senate floor for a vote.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

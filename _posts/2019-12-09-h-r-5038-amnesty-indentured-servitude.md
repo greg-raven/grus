@@ -53,6 +53,6 @@ are authorized to work in the United States---but ONLY for agricultural employer
 
 No more amnesties. Secure our borders. Evict those who should not be here.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 (h/t: NumbersUSA.com)

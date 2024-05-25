@@ -16,6 +16,6 @@ I can't understand why the legislature is taking California down the exact oppos
 
 Phone me if you would like to talk about this,
 
-Mr. [Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. We must do everything we can to get California back on track.

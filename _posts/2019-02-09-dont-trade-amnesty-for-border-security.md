@@ -18,4 +18,4 @@ Please support legislation to construct additional border fencing, increase the 
 
 Contact me if you want to talk about this.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

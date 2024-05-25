@@ -19,6 +19,6 @@ There are 22 millions who cannot find a job and the Congress should not consider
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country!

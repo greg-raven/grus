@@ -16,4 +16,4 @@ This draconian bill is a blatant attack on our Constitutional right to build and
 
 H.R. 1454 violates the Second Amendment and should therefore be *rejected* by the Congress. I respectfully urge your **no** vote on this legislation.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

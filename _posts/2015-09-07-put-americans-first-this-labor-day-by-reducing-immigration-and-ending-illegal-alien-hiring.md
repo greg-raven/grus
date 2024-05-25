@@ -18,6 +18,4 @@ How can anyone, particularly Members of Congress, look at these numbers and say 
 
 Please honor America's workers this Labor Day weekend by working to reduce immigration numbers.
 
-Sincerely,
-
 Greg Raven

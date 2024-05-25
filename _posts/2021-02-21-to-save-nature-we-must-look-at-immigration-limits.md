@@ -15,4 +15,4 @@ We lose a football field worth of nature every 30 seconds in the United States. 
 
 An ethical immigration policy must consider our responsibility to nature as well as to each other and future generations. Congress has set immigration levels so high --- more than one million per year --- that we are on a path toward 400 million Americans by 2060. The Census Bureau and Pew Research agree that immigration will drive approximately 90 percent of that growth. In the time it has taken you to read this, we have already lost another football field worth of open space and natural habitat. Please join the effort to establish responsible immigration limits that will save millions of acres of nature from destruction. We don't have 30 seconds to lose.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

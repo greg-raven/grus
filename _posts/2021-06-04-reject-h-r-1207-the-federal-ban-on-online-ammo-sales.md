@@ -16,4 +16,4 @@ H.R. 1207 would further require that gun dealers report bulk purchases of ammo -
 
 This legislation is an infringement on the People's fundamental right to keep and bear arms, and I therefore must urge you to vote NO on H.R. 1207.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

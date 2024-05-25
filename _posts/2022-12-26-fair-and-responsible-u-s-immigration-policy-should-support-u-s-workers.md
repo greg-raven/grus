@@ -20,8 +20,6 @@ The Washington Post published opinion columnist Heather Long's article "'Soft la
 
 With unemployment possibly reaching 5 percent soon, Congress should adopt sensible immigration policy that is fair to U.S. workers and their families.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

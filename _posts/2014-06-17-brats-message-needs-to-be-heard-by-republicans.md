@@ -19,4 +19,4 @@ Republicans can capitalize on this message by passing legislation to cut foreign
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

@@ -18,6 +18,6 @@ I hope you are as outraged by these actions (or, in some cases, non-actions) as 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Don't let the illegal alien in the White House control our immigration policy!

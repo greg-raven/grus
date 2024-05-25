@@ -23,4 +23,4 @@ The Biden amnesty does nothing for American and legal immigrant workers. Instead
 
 I urge you to support American workers by opposing the U.S. Citizenship Act of 2021!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

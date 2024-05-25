@@ -17,8 +17,6 @@ Nature's power to rejuvenate the human spirit has been known for many generation
 
 We need leaders like you to protect our nation's dwindling open spaces. Please support legislation that limits chain migration to spouses and minor children, and/or establishes a nationwide E-Verify system. By reducing our population growth, we can guarantee that future generations will have access to our open spaces.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

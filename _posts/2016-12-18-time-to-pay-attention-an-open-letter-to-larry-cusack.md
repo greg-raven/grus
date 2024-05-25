@@ -26,7 +26,7 @@ If any of this is news to you, you need to fire Town staff immediately and get s
 
 Additionally, feel free to contact me should you need accurate information.
 
---- [Greg Raven](https://www.gregraven.org), Apple Valley, CA
+--- {% include signature.html %}
 
 ---
 

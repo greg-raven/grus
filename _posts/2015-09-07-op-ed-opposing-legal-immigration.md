@@ -56,4 +56,4 @@ Mark Krikorian has written an op-ed for the National Review detailing the danger
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

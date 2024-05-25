@@ -20,6 +20,6 @@ I would ask you if this is something you want on your conscience, but based on p
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. This is just one of the problems our nation has seen since having an illegal alien usurp the office of the president.

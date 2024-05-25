@@ -24,4 +24,4 @@ Keep in mind, this bill does NOTHING to prevent future illegal immigration and f
 
 Please do everything you can to defeat this bill.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

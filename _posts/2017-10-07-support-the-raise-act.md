@@ -17,4 +17,4 @@ The new RAISE Act would also benefit American workers and boost the economy by e
 
 The late Barbara Jordan said our immigration system should serve the national interest and these reforms would help achieve that. Please put American workers ahead of the special interest groups by supporting the RAISE Act!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -16,4 +16,4 @@ Advocates for SB 54 are on the wrong side of the law and the wrong side of voter
 
 Block SB 54.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

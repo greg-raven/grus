@@ -17,6 +17,4 @@ This maneuver is classic political misdirection that silences the opposition, an
 
 I urge you to take a strong stand against the so-called fast-track measures being employed to keep the public in the dark on these vital issues!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

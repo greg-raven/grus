@@ -17,8 +17,6 @@ America must confront water shortages like these by reckoning with its populatio
 
 We need leaders like you to change our nation's course from depleting limited resources to a future where the well-being of Americans is protected. Please don't make things worse by adding immigration increases and rewards for illegal immigration to the budget reconciliation.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.

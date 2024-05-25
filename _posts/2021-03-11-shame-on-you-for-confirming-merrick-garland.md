@@ -23,4 +23,4 @@ It defies logic as to why you would support a candidate that is so committed to 
 
 GOA said that they are scoring the Garland vote, which means that your grade with them just dropped.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,4 +17,4 @@ During the interview with Donald Trump, Matthews said:
 
 Chris Matthews is absolutely right. As long as businesses are not prevented from hiring illegal labor, illegal immigration will continue and American workers will be unable to find work. I hope the Democrats will step up on this issue and force Republicans in Congress to hold a vote on mandatory E-Verify legislation.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

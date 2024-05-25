@@ -13,4 +13,4 @@ As Mr. Sullum pointed, the current rhetoric tends to obscure the fact that the f
 
 We can only hope that ultimately the current push for gun control will meet the same fate as the British.
 
-Greg Raven, Los Angeles, CA
+<a href="https://www.gregraven.org">Greg Raven</a>, Los Angeles, CA

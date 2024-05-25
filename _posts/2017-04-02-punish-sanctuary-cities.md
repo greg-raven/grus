@@ -16,6 +16,4 @@ Therefore, I demand that the United States Congress immediately pass legislation
 
 Furthermore, I demand that Congress attach such penalties to the legislation as to make non-compliance exceptionally costly to "sanctuary cities."
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

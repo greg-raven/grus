@@ -14,8 +14,6 @@ I am dismayed that some anti-American worker and anti-legal immigrant worker Dem
 
 It has been reported that a deal on the legislation is close and President Biden wants Congress to hold a vote next week. Please oppose any efforts to include an illegal aliens amnesty in the budget reconciliation bill and oppose the bill if the anti-American worker Members of Congress prevail and an amnesty is included in the legislation.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.

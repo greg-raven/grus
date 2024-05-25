@@ -20,4 +20,4 @@ This legislation would simply throw money at the ongoing crisis, requiring Congr
 
 Vote NO on H.R. 3401. Instead, demand a vote on H.R. 3056!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

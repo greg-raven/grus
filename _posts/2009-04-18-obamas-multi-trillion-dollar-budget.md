@@ -19,6 +19,4 @@ Your budget means bigger government, and bigger government always translates int
 
 For these reasons, I, as a legal U.S. citizen urge you to take back your $3.6 trillion budget and instead cut the size of the Federal government and the Federal budget by at least three-quarters.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

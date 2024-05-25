@@ -72,4 +72,4 @@ Please look into this situation. Highly-trained American workers deserve to be f
 
 Phone me if you would like to talk about this
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

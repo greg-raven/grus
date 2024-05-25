@@ -19,6 +19,6 @@ This is not the future our nation needs. Our nation does not need 33 million mor
 
 Phone me if you would like to talk about this.
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. No more lies! Secure the border. Evict the illegals already here. Evict the "anchor babies" and their families. Prosecute any remaining illegals under the RICO act. Return to the rule of law!

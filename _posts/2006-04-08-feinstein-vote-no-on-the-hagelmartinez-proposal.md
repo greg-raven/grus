@@ -15,6 +15,4 @@ I am very disappointed to hear that you voted YEA on yesterday's S. Amdt. 3192 t
 
 The Hagel/Martinez bill offers an amnesty path to citizenship for nearly every illegal alien in this country, rewarding criminal behavior. This must be opposed at all costs. A vote for cloture is a vote for your constituents, and for America.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

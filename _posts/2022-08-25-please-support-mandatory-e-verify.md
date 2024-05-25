@@ -18,6 +18,4 @@ E-Verify is easy to use and has the highest satisfaction rates of any government
 
 More importantly, 81% of likely voters, including me, support E-Verify. I urge you to support it, too!
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

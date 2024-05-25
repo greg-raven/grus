@@ -17,8 +17,6 @@ Clearly growth like we've had is not sustainable. There are plenty of downsides 
 
 We need leaders like you to change our nation's course from a future of expanding cities lacking resilience and livability to one of sustainability. Please support efforts that would reduce America's rapid population growth, namely legislation that would reduce immigration (e.g., stricter limits on chain migration).
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

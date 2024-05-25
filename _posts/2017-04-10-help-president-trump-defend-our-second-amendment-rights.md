@@ -16,5 +16,4 @@ This includes working to confirm President Donald Trump's political appointees a
 
 Thank you.
 
-Greg Raven  
-Apple Valley, CA
+{% include signature.html %}

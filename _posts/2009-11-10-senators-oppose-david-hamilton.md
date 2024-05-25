@@ -23,6 +23,4 @@ We therefore request you OPPOSE AND FILIBUSTER the nomination of the anti-life, 
 
 I hope you will oppose Judge Hamilton.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

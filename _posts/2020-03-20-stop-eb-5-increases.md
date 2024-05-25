@@ -18,4 +18,4 @@ The May 8, 2017 editorial by The Washington Post is correct: "ending EB-5 should
 
 Do not allow any increases in the EB-5 program to slip into a coronavirus package or anywhere else.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

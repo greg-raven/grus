@@ -17,4 +17,4 @@ Now, of course, the liberal conservationists are saying that we must spend trill
 
 What's striking about the liberal conservationists is not their insistance that man is the cause of all the Earth's problems, but their willful stupidity about the way things are and have been for millions of years. So self-centered are they that they pick themselves as the frame of reference from which to judge every other era, no matter how limited that frame of reference is. I call this the "Salton Sea fallacy."
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

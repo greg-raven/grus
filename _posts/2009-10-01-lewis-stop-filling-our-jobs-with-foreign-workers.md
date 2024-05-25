@@ -21,6 +21,6 @@ There is no sane or plausible reason for this to continue. The United States doe
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Get the government out of our lives so our businesses can grow and hire Americans again!

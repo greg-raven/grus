@@ -21,4 +21,4 @@ Investigative reports have shown that businesses are more than willing to fire A
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -18,4 +18,4 @@ I urge you to support all of President Trump's immigration principles --- especi
 
 Contact me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

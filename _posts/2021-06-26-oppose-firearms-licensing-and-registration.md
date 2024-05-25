@@ -16,4 +16,4 @@ Any registration and licensing scheme advantages the wealthy and powerful who ha
 
 I urge you to OPPOSE H.R. 3740, and ALL other firearms licensing or registration bills that may be unjustly filed.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

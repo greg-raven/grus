@@ -25,4 +25,4 @@ Each of these cases, I think, shows evidence of an disturbing abuse of governmen
 
 I see this as more evidence of the United States turning from a representative democracy to some bizarre form of aristocracy where becoming elected automatically transfers to you a special status, such that the rule of law no longer applies to you. The really troublesome aspect of this is that it isn't restricted just to those at the top of the heap, such as King George (Bush), as even mayors and counsel members in small towns arrogate to themselves special privileges and immunities. Being elected to office now suddenly elevates one above the hoi polloi. Those of us who are not in office are rapidly losing our status as citizens, as we become evermore subjects.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -23,6 +23,6 @@ The bill is also filled with "safeguards" which make life easier for those in th
 
 Phone me if you would like to talk about this.
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. No more lies! Secure the border. Evict the illegals already here. Evict the "anchor babies" and their families. Prosecute any remaining illegals under the RICO act. Return to the rule of law!

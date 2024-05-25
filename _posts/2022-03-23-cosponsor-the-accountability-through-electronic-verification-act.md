@@ -21,4 +21,4 @@ I believe Democrats are losing voters by not supporting American workers through
 
 Your support for E-Verify is crucial, as we are experiencing a devastating border crisis with no end in sight. Our border patrol is overwhelmed, and cartels, smugglers, and exploitative employers are the ones reaping the benefits.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

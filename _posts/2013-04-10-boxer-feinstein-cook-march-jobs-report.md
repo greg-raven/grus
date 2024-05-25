@@ -20,6 +20,6 @@ Far too many Americans are out of work and more and more are leaving the workfor
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Evict the illegal invaders and secure our borders!

@@ -21,4 +21,4 @@ While delivering a campaign speech on immigration last August, President Trump s
 
 The House Judiciary Committee has done its job. It's now time for House Leadership to bring this legislation to the floor for a vote.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

@@ -10,4 +10,4 @@ tags:
 
 I'm shocked that the House has yet to vote on H.R. 3056, the Border Crisis Supplemental Appropriations Act, to deal with the ongoing border crisis. I urge you to demand an immediate floor vote on this badly needed spending package! This crisis has gone on long enough, and it's time for Congress to act!
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -16,4 +16,4 @@ Currently, gun owners face a confusing patchwork of concealed carry reciprocity,
 
 Thank you for your time and consideration. Please support S. 1522.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -18,4 +18,4 @@ Businesses, including foreign companies opening new facilities in the United Sta
 
 I hope you will reconsider your support for anti-American worker companies and will do all you can to reduce immigration numbers.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

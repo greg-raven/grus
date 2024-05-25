@@ -18,9 +18,7 @@ It is unconscionable that the administration is playing this shell game with our
 
 I hope you will support efforts to reinstate the Migration Protection Protocols so that asylum seekers are required to remain in a safe third country while their applications are processed. Until this is done and our asylum system is fixed, true border security can never be achieved.
 
-Sincerely,
+{% include signature.html %}
+  
+{% include immigration.html %}
 
-[Greg Raven](https://www.gregraven.org/)  
-Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

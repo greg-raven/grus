@@ -18,4 +18,4 @@ Quite simply, the EB-5 visa program is the selling of U.S. citizenship. It's rid
 
 Please oppose any efforts to slip an EB-5 increase into the economic stimulus package. Congress should not be supporting bad immigration policy, especially not by burying it into emergency bills.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -21,4 +21,4 @@ The border surge didn't resolve itself while you were on August recess and it's 
 
 Until this happens, the Border Patrol and other government agencies will continue to be frustrated in their attempts to stop the border surge. Please help the brave men and women protecting our borders by passing legislation to end the surge.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

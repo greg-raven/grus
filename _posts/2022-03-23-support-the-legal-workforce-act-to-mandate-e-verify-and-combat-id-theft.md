@@ -14,4 +14,4 @@ The Legal Workforce Act would not only require employers to run new hires throug
 
 Simply put, this bill is an easy and cheap way of putting millions of Americans back to work. Please help combat ID theft and the hiring of illegal aliens by cosponsoring, H.R. 78, the Legal Workforce Act.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

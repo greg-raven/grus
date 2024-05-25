@@ -20,4 +20,4 @@ Please do all you can to pass legislation that brings down immigration numbers. 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

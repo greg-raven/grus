@@ -20,4 +20,4 @@ Americans understand there is a crisis, but Congress ignores the problem and hop
 
 I hope you will take this poll's findings seriously and start passing legislation to address the border crisis. If Congress doesn't act to address this crisis we will elect legislators who will.
 
- [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+ {% include signature.html %}

@@ -26,4 +26,4 @@ Please read the attached op-ed and help to make our country safer by helping to 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

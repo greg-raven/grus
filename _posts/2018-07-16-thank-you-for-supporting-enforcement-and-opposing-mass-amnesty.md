@@ -15,4 +15,4 @@ Thank you for supporting H.R. 4760, the Securing America's future act! This legi
 
 Thank you again and please continue to support immigration enforcement and sensible immigration changes and be sure to oppose terrible immigration bills such as the Ryan "compromise."
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

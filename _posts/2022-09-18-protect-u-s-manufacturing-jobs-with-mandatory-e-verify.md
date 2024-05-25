@@ -21,6 +21,4 @@ Your support for E-Verify is crucial so that the U.S. workforce reaps the benefi
 
 Please work with your colleagues to support U.S. workers and pass E-Verify. In addition, as the Barbara Jordan Commission under Clinton envisioned, ending chain migration will also help ensure that there are well-paid U.S. manufacturing jobs for our workers.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

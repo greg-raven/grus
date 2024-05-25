@@ -28,4 +28,4 @@ Furthermore, this bill would be a pathway to higher chain migration and massive 
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}

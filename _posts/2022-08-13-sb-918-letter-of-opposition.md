@@ -14,4 +14,4 @@ Lawful CCW holders are not killing, injuring, or traumatizing individuals with a
 
 I strongly oppose SB 918.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

@@ -17,8 +17,6 @@ The best way to end the border crisis is to change the underlying policy. The Ho
 
 Every policy change enacted by the White House has led to an increase in illegal immigration and an increase of the chaos at the U.S. / Mexico border. Please pass H.R. 2 to end the chaos and restore sanity and legality to our immigration system.
 
-Sincerely,
+{% include signature.html %}
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
-
-PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.
+{% include immigration.html %}

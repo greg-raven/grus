@@ -16,8 +16,6 @@ The Real Clear Policy article, "Our De Facto Open Border Makes Inflation &amp; C
 
 Reasonable solutions are available, from restoring the Migration Protections Protocols, to raising the "credible fear" standard. I am very sorry to witness this Congress's and this administration's utter failure to act, or even acknowledge the depth of this crisis, the worst in U.S. history.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict all those illegals here!

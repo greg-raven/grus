@@ -16,8 +16,6 @@ The sad reality is that right now before Congress there are legislative proposal
 
 Our best hope for a sustainable future is to reduce America's rapid population growth by lowering immigration rates. As someone personally committed to reducing emissions, I'm opposed to the efforts by Democrats to accelerate immigration-driven population growth and urge you to keep immigration increases out of any upcoming bills.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.

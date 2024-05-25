@@ -18,6 +18,6 @@ Please do not even consider supporting the DREAM Act amnesty. The Congress shoul
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. We need to secure our border, evict the illegals and "anchor babies" who are already here, and then return to our pre-1965 immigration policies.

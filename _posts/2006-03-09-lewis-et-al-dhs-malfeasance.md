@@ -20,6 +20,6 @@ Please immediately look into this security concern.
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. This is further proof that giving up our freedom is not gaining us "security." We must secure our borders and evict illegals!

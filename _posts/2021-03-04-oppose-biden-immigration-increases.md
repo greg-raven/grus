@@ -22,4 +22,4 @@ I cannot understand why Resident Biden wants to amnesty millions of illegal alie
 
 This legislation would be a bad idea in the best of economic times, but would be extraordinarily damaging to American workers during the current pandemic. I urge you to oppose the Biden amnesty.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

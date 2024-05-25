@@ -22,6 +22,6 @@ The Washington Post reports that your administration ignored warnings and took s
 
 Every leader makes mistakes. The good ones acknowledge them and make adjustments. So, I'm asking you to restore the programs detailed in the Washington Post report, "At the border, a widely predicted crisis that caught Biden off guard," and to give HHS the best opportunity to deal with the crisis by also restoring the 15,000 cap on refugee admissions.
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our border, stop all immigration and emigration, and evict the illegals who are already here.

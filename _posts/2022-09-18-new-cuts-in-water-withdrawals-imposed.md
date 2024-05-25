@@ -16,6 +16,4 @@ According to a recent (8/21/22) newscast by NBC News, the Colorado River Basin g
 
 If you are serious about addressing the water crisis of the Southwest, then I urge you to help by supporting efforts to reduce America's rapid population growth, namely legislation that would lower immigration rates --- simple and fair measures like putting stricter limits on chain migration.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

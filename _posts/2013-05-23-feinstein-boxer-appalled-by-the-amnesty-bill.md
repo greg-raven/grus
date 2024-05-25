@@ -19,6 +19,6 @@ Obviously. this bill is a farce designed to ensure the amnestying of all illegal
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Every promise about this bill has been broken. There is to be no enforcement. Illegals will get welfare. There will be no substantive screening. Secure our border, and evict the illegals already here. Change our immigration policy back to what it was before 1965! You MUST do these things to save our country.

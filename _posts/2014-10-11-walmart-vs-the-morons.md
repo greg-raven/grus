@@ -57,4 +57,4 @@ You have failed in every "government service" you have shoved down our throats w
 
 And you want us to believe you can be trusted with a government-run health care system?
 
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

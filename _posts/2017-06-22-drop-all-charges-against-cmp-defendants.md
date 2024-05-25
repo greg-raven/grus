@@ -16,4 +16,4 @@ Furthermore, bringing charges in this specific case gives the appearance that th
 
 The benchmark for performance of your office was set extremely low by your predecessor. It should be easy for you to do better.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

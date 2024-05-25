@@ -17,8 +17,6 @@ The iconic monarch butterfly serves as a tragic example, as a group of scientist
 
 The U.S. Census Bureau predicts that, at today's growth rate, America's population will reach 404 million in 40 years, and more than 90% of this increase will be from immigration. So as to reduce population pressures on our wildlife and wilderness, please take pass immigration legislation that would lower America's rapid population growth.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

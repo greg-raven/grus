@@ -19,6 +19,6 @@ For starters, Congress could finally fulfill the late Rep. Barbara Jordan's reco
 
 Phone me if you would like to talk about this,
 
-[Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. Never forgive, never forget: No amnesty!

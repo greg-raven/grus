@@ -16,6 +16,4 @@ Among other things, an expanding human population degrades ecosystem services, w
 
 In light of this recent lawsuit, I urge you to support reducing immigration to numbers that would allow the U.S. population to stabilize, as well as strict enforcement of immigration laws, so that our nation can achieve environmental sustainability.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}

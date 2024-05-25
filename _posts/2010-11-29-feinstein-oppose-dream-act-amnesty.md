@@ -18,6 +18,6 @@ All this is in addition to the fact that amnesty is not only complete wrong but 
 
 Phone me if you would like to talk about this,
 
-[Mr. Greg Raven](https://www.gregraven.org/)
+{% include signature.html %}
 
 P.S. If you don't start thinking and acting pro-America, soon there will be no America left. You might want to start thinking about where you're going to take your ill-gotten millions after you destroy this country.

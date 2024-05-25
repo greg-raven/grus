@@ -17,8 +17,6 @@ We know what is causing this wholesale assault on our wildlife --- America's run
 
 Please support efforts that would reduce our rapid population growth, namely legislation that would create a humane immigration system that respects the dignity of every person while protecting our nation's dwindling biodiversity by allowing for America's population to stabilize.
 
-Sincerely,
-
-[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+{% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.

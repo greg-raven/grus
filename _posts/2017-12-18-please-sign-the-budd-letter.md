@@ -20,4 +20,4 @@ Rep. Budd is right on point because the problem he identifies is exactly what Re
 
 I would urge you, in the strongest terms, to sign the Budd letter.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}

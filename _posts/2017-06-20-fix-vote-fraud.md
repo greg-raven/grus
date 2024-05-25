@@ -18,4 +18,4 @@ Obviously, you retain previous vote registrations for reference, but having ever
 
 Please don't hesitate to contact me if you wish to discuss this.
 
-[Greg Raven](https://www.gregraven.org), Apple Valley, CA
+{% include signature.html %}
