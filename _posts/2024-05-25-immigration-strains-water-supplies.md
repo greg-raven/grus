@@ -5,6 +5,10 @@ categories:
 - Letters
 tags: 
 - Senator Laphonza Butler
+- illegal immigration
+- environment
+- immigration
+- E-Verify
 ---
 
 America's underground water supplies are being severely depleted (*The New York Times,* 8/28/23). The "mining" of groundwater causes critical problems and is happening across America, especially in arid areas with runaway urban sprawl.
