@@ -1,5 +1,5 @@
 ---
-title: 'Facebook can&#8217;t prove worker shortage'
+title: "Facebook can't prove worker shortage"
 layout: post
 categories:
 - Letters

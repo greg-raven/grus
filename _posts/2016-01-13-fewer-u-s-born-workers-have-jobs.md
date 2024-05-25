@@ -1,5 +1,5 @@
 ---
-title: 'Fewer U.S.-Born Workers Have Jobs'
+title: "Fewer U.S.-Born Workers Have Jobs"
 layout: post
 categories:
 - Letters

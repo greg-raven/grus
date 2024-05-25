@@ -1,5 +1,5 @@
 ---
-title: 'Biden&#8217;s immigration policies are accelerating America&#8217;s population growth'
+title: "Biden's immigration policies are accelerating America's population growth"
 layout: post
 categories:
 - Letters

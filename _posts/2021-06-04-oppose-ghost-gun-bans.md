@@ -1,5 +1,5 @@
 ---
-title: 'Oppose 'ghost gun&#8217; bans'
+title: "Oppose 'ghost gun' bans"
 layout: post
 categories:
 - Letters

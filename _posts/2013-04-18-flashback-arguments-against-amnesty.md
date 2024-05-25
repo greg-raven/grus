@@ -1,5 +1,5 @@
 ---
-title: 'Flashback: Arguments against amnesty'
+title: "Flashback: Arguments against amnesty"
 layout: post
 categories:
 - Information

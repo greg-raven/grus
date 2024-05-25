@@ -1,5 +1,5 @@
 ---
-title: 'Here&#8217;s one reason why you might need a gun that holds more than ten rounds'
+title: "Here's one reason why you might need a gun that holds more than ten rounds"
 layout: post
 categories:
 - Information

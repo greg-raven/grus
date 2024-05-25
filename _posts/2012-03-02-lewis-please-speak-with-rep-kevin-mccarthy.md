@@ -1,5 +1,5 @@
 ---
-title: 'Please speak with Rep. Kevin McCarthy'
+title: "Please speak with Rep. Kevin McCarthy"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Block passage of SB 54'
+title: "Block passage of SB 54"
 layout: post
 categories:
 - Letters

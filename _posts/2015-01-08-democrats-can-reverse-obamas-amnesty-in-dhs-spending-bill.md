@@ -1,5 +1,5 @@
 ---
-title: 'Democrats can reverse Obama&#8217;s amnesty in DHS spending bill'
+title: "Democrats can reverse Obama's amnesty in DHS spending bill"
 layout: post
 categories:
 - Letters

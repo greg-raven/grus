@@ -1,5 +1,5 @@
 ---
-title: 'Stimulus failure'
+title: "Stimulus failure"
 layout: post
 categories:
 - Letters

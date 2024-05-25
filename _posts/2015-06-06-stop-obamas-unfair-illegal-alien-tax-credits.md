@@ -1,5 +1,5 @@
 ---
-title: 'Stop Obama&#8217;s unfair, illegal-alien tax credits'
+title: "Stop Obama's unfair, illegal-alien tax credits"
 layout: post
 categories:
 - Letters

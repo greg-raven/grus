@@ -1,5 +1,5 @@
 ---
-title: 'The Gang of Eight&#8217;s Amnesty Lie: It&#8217;s worse than we feared'
+title: "The Gang of Eight's Amnesty Lie: It's worse than we feared"
 layout: post
 categories:
 - Information

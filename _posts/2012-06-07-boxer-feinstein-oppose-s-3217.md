@@ -1,5 +1,5 @@
 ---
-title: 'Oppose S. 3217'
+title: "Oppose S. 3217"
 layout: post
 categories:
 - Letters

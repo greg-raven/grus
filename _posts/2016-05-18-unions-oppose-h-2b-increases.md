@@ -1,5 +1,5 @@
 ---
-title: 'Unions oppose H-2B increases'
+title: "Unions oppose H-2B increases"
 layout: post
 categories:
 - Letters

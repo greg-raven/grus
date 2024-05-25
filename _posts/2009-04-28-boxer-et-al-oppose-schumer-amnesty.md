@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Schumer amnesty'
+title: "Oppose Schumer amnesty"
 layout: post
 categories:
 - Letters

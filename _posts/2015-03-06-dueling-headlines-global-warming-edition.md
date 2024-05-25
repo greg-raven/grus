@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Global warming edition'
+title: "Dueling headlines: Global warming edition"
 layout: post
 categories:
 - Information

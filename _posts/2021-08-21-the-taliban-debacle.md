@@ -1,5 +1,5 @@
 ---
-title: 'The Taliban debacle'
+title: "The Taliban debacle"
 layout: post
 categories:
 - Commentary

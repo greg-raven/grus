@@ -1,5 +1,5 @@
 ---
-title: 'EPA and greenhouse gases'
+title: "EPA and greenhouse gases"
 layout: post
 categories:
 - Letters

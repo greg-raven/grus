@@ -1,5 +1,5 @@
 ---
-title: 'Democrats cannot ignore misguided immigration policies'
+title: "Democrats cannot ignore misguided immigration policies"
 layout: post
 categories:
 - Letters

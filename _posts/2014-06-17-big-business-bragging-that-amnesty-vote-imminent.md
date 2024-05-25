@@ -1,5 +1,5 @@
 ---
-title: 'Big business bragging that amnesty vote imminent'
+title: "Big business bragging that amnesty vote imminent"
 layout: post
 categories:
 - Letters

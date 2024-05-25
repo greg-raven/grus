@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for cosponsoring legislation to mandate E-Verify'
+title: "Thanks for cosponsoring legislation to mandate E-Verify"
 layout: post
 categories:
 - Letters

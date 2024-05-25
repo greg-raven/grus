@@ -1,5 +1,5 @@
 ---
-title: 'Meadows/Jordan Amendments would fund border security and prevent future caravans'
+title: "Meadows/Jordan Amendments would fund border security and prevent future caravans"
 layout: post
 categories:
 - Letters

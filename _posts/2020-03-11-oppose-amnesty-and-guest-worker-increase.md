@@ -1,5 +1,5 @@
 ---
-title: 'Oppose amnesty and guest worker increase'
+title: "Oppose amnesty and guest worker increase"
 layout: post
 categories:
 - Letters

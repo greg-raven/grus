@@ -1,5 +1,5 @@
 ---
-title: 'Democrats need to back American workers by passing E-Verify'
+title: "Democrats need to back American workers by passing E-Verify"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'The OPT program is harmful to U.S. workers seeking employment'
+title: "The OPT program is harmful to U.S. workers seeking employment"
 layout: post
 categories:
 - Letters

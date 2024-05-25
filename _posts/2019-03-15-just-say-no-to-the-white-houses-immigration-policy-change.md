@@ -1,5 +1,5 @@
 ---
-title: 'Just say 'no&#8217; to the White House&#8217;s immigration policy change'
+title: "Just say 'no' to the White House's immigration policy change"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Please oppose new gun control legislation'
+title: "Please oppose new gun control legislation"
 layout: post
 categories:
 - Letters

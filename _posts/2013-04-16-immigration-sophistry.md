@@ -1,5 +1,5 @@
 ---
-title: 'Sowell: Immigration Sophistry'
+title: "Sowell: Immigration Sophistry"
 layout: post
 categories:
 - Information

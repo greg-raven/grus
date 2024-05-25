@@ -1,5 +1,5 @@
 ---
-title: 'Illegals do NOT have the right to work'
+title: "Illegals do NOT have the right to work"
 layout: post
 categories:
 - Letters

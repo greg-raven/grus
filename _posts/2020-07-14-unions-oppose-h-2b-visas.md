@@ -1,5 +1,5 @@
 ---
-title: 'Unions oppose H-2B visas'
+title: "Unions oppose H-2B visas"
 layout: post
 categories:
 - Letters

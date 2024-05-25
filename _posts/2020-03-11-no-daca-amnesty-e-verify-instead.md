@@ -1,5 +1,5 @@
 ---
-title: 'No DACA amnesty; E-Verify instead'
+title: "No DACA amnesty; E-Verify instead"
 layout: post
 categories:
 - Letters

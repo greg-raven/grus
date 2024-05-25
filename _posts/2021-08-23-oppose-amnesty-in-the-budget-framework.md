@@ -1,5 +1,5 @@
 ---
-title: 'Oppose amnesty in the budget framework'
+title: "Oppose amnesty in the budget framework"
 layout: post
 categories:
 - Letters

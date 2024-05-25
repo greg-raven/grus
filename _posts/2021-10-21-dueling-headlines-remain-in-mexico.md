@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Remain in Mexico edition'
+title: "Dueling headlines: Remain in Mexico edition"
 layout: post
 categories:
 - Information

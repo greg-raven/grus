@@ -1,5 +1,5 @@
 ---
-title: 'What &#8216;gun show loophole&#8217;?'
+title: "What 'gun show loophole'?"
 layout: post
 categories:
 - Information

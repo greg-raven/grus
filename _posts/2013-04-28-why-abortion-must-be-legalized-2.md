@@ -1,5 +1,5 @@
 ---
-title: 'Why abortion must be legalized'
+title: "Why abortion must be legalized"
 layout: post
 categories:
 - Information

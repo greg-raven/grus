@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s time to end the border crisis: Demand a vote on H.R. 3056!'
+title: "It's time to end the border crisis: Demand a vote on H.R. 3056!"
 layout: post
 categories:
 - Letters

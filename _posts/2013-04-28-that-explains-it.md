@@ -1,5 +1,5 @@
 ---
-title: 'That explains it'
+title: "That explains it"
 layout: post
 categories:
 - Information

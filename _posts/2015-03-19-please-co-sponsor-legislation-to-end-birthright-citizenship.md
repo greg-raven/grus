@@ -1,5 +1,5 @@
 ---
-title: 'Please cosponsor legislation to end birthright citizenship'
+title: "Please cosponsor legislation to end birthright citizenship"
 layout: post
 categories:
 - Letters

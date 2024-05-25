@@ -1,5 +1,5 @@
 ---
-title: 'Pass H.R. 391 to close asylum loopholes!'
+title: "Pass H.R. 391 to close asylum loopholes!"
 layout: post
 categories:
 - Letters

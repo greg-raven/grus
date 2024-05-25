@@ -1,5 +1,5 @@
 ---
-title: 'Your amnesty vote'
+title: "Your amnesty vote"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'No new legislation needed to complete border fence'
+title: "No new legislation needed to complete border fence"
 layout: post
 categories:
 - Letters

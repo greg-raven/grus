@@ -1,5 +1,5 @@
 ---
-title: 'Government shut-down preferable to the alternative'
+title: "Government shut-down preferable to the alternative"
 layout: post
 categories:
 - Letters

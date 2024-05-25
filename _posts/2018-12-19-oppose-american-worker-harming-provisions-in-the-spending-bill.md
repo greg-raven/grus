@@ -1,5 +1,5 @@
 ---
-title: 'Oppose American-worker-harming provisions in the spending bill'
+title: "Oppose American-worker-harming provisions in the spending bill"
 layout: post
 categories:
 - Letters

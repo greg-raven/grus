@@ -1,5 +1,5 @@
 ---
-title: 'Oppose omnibus spending bill'
+title: "Oppose omnibus spending bill"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'No special visas for illegals'
+title: "No special visas for illegals"
 layout: post
 categories:
 - Letters

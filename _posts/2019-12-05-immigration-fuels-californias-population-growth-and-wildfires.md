@@ -1,5 +1,5 @@
 ---
-title: 'Immigration fuels California&#8217;s population growth and wildfires'
+title: "Immigration fuels California's population growth and wildfires"
 layout: post
 categories:
 - Letters

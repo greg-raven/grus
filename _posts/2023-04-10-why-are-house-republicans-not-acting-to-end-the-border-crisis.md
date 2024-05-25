@@ -1,5 +1,5 @@
 ---
-title: 'Why are House Republicans not acting to end the border crisis?'
+title: "Why are House Republicans not acting to end the border crisis?"
 layout: post
 categories:
 - Letters

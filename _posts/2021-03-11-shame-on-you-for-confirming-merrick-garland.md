@@ -1,5 +1,5 @@
 ---
-title: 'Shame on you for confirming Merrick Garland'
+title: "Shame on you for confirming Merrick Garland"
 layout: post
 categories:
 - Letters

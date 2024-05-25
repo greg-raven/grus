@@ -1,5 +1,5 @@
 ---
-title: 'Follow Rep. McCarthy&#8217;s Lead'
+title: "Follow Rep. McCarthy's Lead"
 layout: post
 categories:
 - Letters

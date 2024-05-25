@@ -1,5 +1,5 @@
 ---
-title: 'Wildlife cannot thrive while Congress promotes rapid population growth.'
+title: "Wildlife cannot thrive while Congress promotes rapid population growth."
 layout: post
 categories:
 - Letters

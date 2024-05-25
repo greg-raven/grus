@@ -1,5 +1,5 @@
 ---
-title: 'House needs to get behind birthright citizenship legislation'
+title: "House needs to get behind birthright citizenship legislation"
 layout: post
 categories:
 - Letters

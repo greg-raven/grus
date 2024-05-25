@@ -1,5 +1,5 @@
 ---
-title: 'No amnesty!'
+title: "No amnesty!"
 layout: post
 categories:
 - Letters

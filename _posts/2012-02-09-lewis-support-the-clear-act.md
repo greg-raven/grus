@@ -1,5 +1,5 @@
 ---
-title: 'Support the CLEAR Act'
+title: "Support the CLEAR Act"
 layout: post
 categories:
 - Letters

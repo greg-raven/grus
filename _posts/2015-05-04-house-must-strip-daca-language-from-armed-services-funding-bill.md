@@ -1,5 +1,5 @@
 ---
-title: 'House must strip DACA language from Armed Services Funding Bill'
+title: "House must strip DACA language from Armed Services Funding Bill"
 layout: post
 categories:
 - Letters

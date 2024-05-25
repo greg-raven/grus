@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Gramnesty'
+title: "Oppose Gramnesty"
 layout: post
 categories:
 - Letters

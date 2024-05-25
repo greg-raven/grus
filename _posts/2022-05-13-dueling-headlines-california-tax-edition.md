@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: California tax edition'
+title: "Dueling headlines: California tax edition"
 layout: post
 categories:
 - Information

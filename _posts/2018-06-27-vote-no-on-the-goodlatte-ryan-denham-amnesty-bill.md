@@ -1,5 +1,5 @@
 ---
-title: 'Vote no on the Goodlatte-Ryan-Denham Amnesty bill'
+title: "Vote no on the Goodlatte-Ryan-Denham Amnesty bill"
 layout: post
 categories:
 - Letters

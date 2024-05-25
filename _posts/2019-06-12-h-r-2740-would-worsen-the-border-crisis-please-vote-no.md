@@ -1,5 +1,5 @@
 ---
-title: 'H.R. 2740 would worsen the border crisis &#8212; please vote NO!'
+title: "H.R. 2740 would worsen the border crisis --- please vote NO!"
 layout: post
 categories:
 - Letters

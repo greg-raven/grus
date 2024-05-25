@@ -1,5 +1,5 @@
 ---
-title: 'Protect U.S. jobs'
+title: "Protect U.S. jobs"
 layout: post
 categories:
 - Letters

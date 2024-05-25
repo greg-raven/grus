@@ -1,5 +1,5 @@
 ---
-title: 'Five facts for socialists'
+title: "Five facts for socialists"
 layout: post
 categories:
 - Information

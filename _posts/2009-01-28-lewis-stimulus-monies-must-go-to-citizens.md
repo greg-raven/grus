@@ -1,5 +1,5 @@
 ---
-title: 'Stimulus monies must go to citizens'
+title: "Stimulus monies must go to citizens"
 layout: post
 categories:
 - Letters

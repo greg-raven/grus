@@ -1,5 +1,5 @@
 ---
-title: 'Stop Obama&#8217;s &#8216;Abortion Czar&#8217;'
+title: "Stop Obama's 'Abortion Czar'"
 layout: post
 categories:
 - Letters

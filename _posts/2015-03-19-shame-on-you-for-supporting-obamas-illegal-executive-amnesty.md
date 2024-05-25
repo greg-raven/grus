@@ -1,5 +1,5 @@
 ---
-title: 'Shame on you for supporting Obama&#8217;s illegal executive amnesty'
+title: "Shame on you for supporting Obama's illegal executive amnesty"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Reopen California'
+title: "Reopen California"
 layout: post
 categories:
 - Letters

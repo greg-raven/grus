@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t trade amnesty for border security'
+title: "Don't trade amnesty for border security"
 layout: post
 categories:
 - Letters

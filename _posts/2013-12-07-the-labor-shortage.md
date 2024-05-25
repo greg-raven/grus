@@ -1,5 +1,5 @@
 ---
-title: 'The &#8216;labor shortage&#8217;'
+title: "The 'labor shortage'"
 layout: post
 categories:
 - Letters

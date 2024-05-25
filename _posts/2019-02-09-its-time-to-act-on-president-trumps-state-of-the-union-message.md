@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s time to act on President Trump&#8217;s State of the Union message'
+title: "It's time to act on President Trump's State of the Union message"
 layout: post
 categories:
 - Letters

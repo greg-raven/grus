@@ -1,5 +1,5 @@
 ---
-title: 'Co-sponsor bill to end chain migration'
+title: "Co-sponsor bill to end chain migration"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Defund amnesty'
+title: "Defund amnesty"
 layout: post
 categories:
 - Letters

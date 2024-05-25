@@ -1,5 +1,5 @@
 ---
-title: 'Inappropriate electioneering'
+title: "Inappropriate electioneering"
 layout: post
 categories:
 - Letters

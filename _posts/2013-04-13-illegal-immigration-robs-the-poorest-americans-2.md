@@ -1,5 +1,5 @@
 ---
-title: 'Illegal immigration robs the poorest Americans'
+title: "Illegal immigration robs the poorest Americans"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: 'Border crisis is making housing demand even worse'
+title: "Border crisis is making housing demand even worse"
 layout: post
 categories:
 - Letters

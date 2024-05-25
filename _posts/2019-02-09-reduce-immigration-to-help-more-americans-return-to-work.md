@@ -1,5 +1,5 @@
 ---
-title: 'Reduce immigration to help more americans return to work'
+title: "Reduce immigration to help more americans return to work"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'The new face of healthcare'
+title: "The new face of healthcare"
 layout: post
 categories:
 - Cartoon

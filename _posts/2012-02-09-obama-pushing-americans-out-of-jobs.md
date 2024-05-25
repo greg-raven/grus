@@ -1,5 +1,5 @@
 ---
-title: 'Pushing Americans out of jobs'
+title: "Pushing Americans out of jobs"
 layout: post
 categories:
 - Letters

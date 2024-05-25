@@ -1,5 +1,5 @@
 ---
-title: 'The One Number You Need to Know in O&#8217;s Budget'
+title: "The One Number You Need to Know in O's Budget"
 layout: post
 categories:
 - Information

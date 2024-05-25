@@ -1,5 +1,5 @@
 ---
-title: 'Is Obama a citizen?'
+title: "Is Obama a citizen?"
 layout: post
 categories:
 - Letters

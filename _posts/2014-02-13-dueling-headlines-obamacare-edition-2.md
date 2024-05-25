@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Obamacare edition'
+title: "Dueling headlines: Obamacare edition"
 layout: post
 categories:
 - Commentary

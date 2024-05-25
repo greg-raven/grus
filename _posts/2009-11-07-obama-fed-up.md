@@ -1,5 +1,5 @@
 ---
-title: 'Fed up with spending and debt'
+title: "Fed up with spending and debt"
 layout: post
 categories:
 - Letters

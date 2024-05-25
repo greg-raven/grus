@@ -1,5 +1,5 @@
 ---
-title: 'Labor Department statistics prove no 'labor shortage&#8217;'
+title: "Labor Department statistics prove no 'labor shortage'"
 layout: post
 categories:
 - Letters

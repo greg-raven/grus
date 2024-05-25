@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for supporting the Second Amendment'
+title: "Thank you for supporting the Second Amendment"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Cuellar/Cornyn border bill'
+title: "Oppose Cuellar/Cornyn border bill"
 layout: post
 categories:
 - Letters

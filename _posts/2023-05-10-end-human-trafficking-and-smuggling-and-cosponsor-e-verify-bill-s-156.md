@@ -1,5 +1,5 @@
 ---
-title: 'End human trafficking and smuggling and cosponsor E-Verify bill S. 156'
+title: "End human trafficking and smuggling and cosponsor E-Verify bill S. 156"
 layout: post
 categories:
 - Letters

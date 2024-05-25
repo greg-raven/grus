@@ -1,5 +1,5 @@
 ---
-title: 'Urge Congress to defund sanctuary cities'
+title: "Urge Congress to defund sanctuary cities"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Support S. 1362'
+title: "Support S. 1362"
 layout: post
 categories:
 - Letters

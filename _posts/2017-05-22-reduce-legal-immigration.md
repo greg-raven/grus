@@ -1,5 +1,5 @@
 ---
-title: 'Reduce legal immigration'
+title: "Reduce legal immigration"
 layout: post
 categories:
 - Letters

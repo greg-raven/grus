@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor legislation to close immigration loopholes'
+title: "Cosponsor legislation to close immigration loopholes"
 layout: post
 categories:
 - Letters

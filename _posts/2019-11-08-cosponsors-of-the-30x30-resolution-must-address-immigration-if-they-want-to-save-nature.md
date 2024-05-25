@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsors of the 30&#215;30 resolution must address immigration if they want to save nature'
+title: "Cosponsors of the 30&#215;30 resolution must address immigration if they want to save nature"
 layout: post
 categories:
 - Letters

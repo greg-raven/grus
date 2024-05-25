@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for voting to defund sanctuary cities'
+title: "Thanks for voting to defund sanctuary cities"
 layout: post
 categories:
 - Letters

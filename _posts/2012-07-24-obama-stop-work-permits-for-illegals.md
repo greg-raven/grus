@@ -1,5 +1,5 @@
 ---
-title: 'Stop work permits for illegals'
+title: "Stop work permits for illegals"
 layout: post
 categories:
 - Letters

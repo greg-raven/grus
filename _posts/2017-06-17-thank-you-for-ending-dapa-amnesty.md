@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for ending DAPA amnesty'
+title: "Thank you for ending DAPA amnesty"
 layout: post
 categories:
 - Letters

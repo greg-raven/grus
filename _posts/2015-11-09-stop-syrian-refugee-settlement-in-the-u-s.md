@@ -1,5 +1,5 @@
 ---
-title: 'Stop Syrian refugee settlement in the U.S.'
+title: "Stop Syrian refugee settlement in the U.S."
 layout: post
 categories:
 - Letters

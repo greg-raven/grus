@@ -1,5 +1,5 @@
 ---
-title: 'I support ending chain immigration and the visa lottery'
+title: "I support ending chain immigration and the visa lottery"
 layout: post
 categories:
 - Letters

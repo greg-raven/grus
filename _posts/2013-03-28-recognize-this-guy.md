@@ -1,5 +1,5 @@
 ---
-title: 'Recognize this guy?'
+title: "Recognize this guy?"
 layout: post
 categories:
 - Information

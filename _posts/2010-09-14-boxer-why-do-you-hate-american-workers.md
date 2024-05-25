@@ -1,5 +1,5 @@
 ---
-title: 'Why do you hate American workers?'
+title: "Why do you hate American workers?"
 layout: post
 categories:
 - Letters

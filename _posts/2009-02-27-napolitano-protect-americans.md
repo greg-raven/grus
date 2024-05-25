@@ -1,5 +1,5 @@
 ---
-title: 'Protect Americans'
+title: "Protect Americans"
 layout: post
 categories:
 - Letters

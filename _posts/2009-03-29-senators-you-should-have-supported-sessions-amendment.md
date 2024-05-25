@@ -1,5 +1,5 @@
 ---
-title: 'You should have supported Sessions&#8217; amendment'
+title: "You should have supported Sessions' amendment"
 layout: post
 categories:
 - Letters

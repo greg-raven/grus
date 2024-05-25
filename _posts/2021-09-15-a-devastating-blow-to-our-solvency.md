@@ -1,5 +1,5 @@
 ---
-title: 'A devastating blow to our solvency'
+title: "A devastating blow to our solvency"
 layout: post
 categories:
 - Letters

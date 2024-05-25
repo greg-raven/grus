@@ -1,5 +1,5 @@
 ---
-title: 'No DACA amnesty!'
+title: "No DACA amnesty!"
 layout: post
 categories:
 - Letters

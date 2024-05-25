@@ -1,5 +1,5 @@
 ---
-title: 'America needs The Secure the Border Act'
+title: "America needs The Secure the Border Act"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose SB 249'
+title: "Oppose SB 249"
 layout: post
 categories:
 - Letters

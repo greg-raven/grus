@@ -1,5 +1,5 @@
 ---
-title: 'Amnesty vs. veterans'
+title: "Amnesty vs. veterans"
 layout: post
 categories:
 - Cartoon

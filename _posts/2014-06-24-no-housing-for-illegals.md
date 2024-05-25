@@ -1,5 +1,5 @@
 ---
-title: 'No housing for illegals!'
+title: "No housing for illegals!"
 layout: post
 categories:
 - Letters

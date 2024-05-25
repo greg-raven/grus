@@ -1,5 +1,5 @@
 ---
-title: '2nd Amendment: Guaranteeing all our other freedoms'
+title: "2nd Amendment: Guaranteeing all our other freedoms"
 layout: post
 categories:
 - Information

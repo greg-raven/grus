@@ -1,5 +1,5 @@
 ---
-title: 'Support underpaid U.S. workers by limiting immigration'
+title: "Support underpaid U.S. workers by limiting immigration"
 layout: post
 categories:
 - Letters

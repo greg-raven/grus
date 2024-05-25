@@ -1,5 +1,5 @@
 ---
-title: 'Gun control works great ...'
+title: "Gun control works great ..."
 layout: post
 categories:
 - Opinion

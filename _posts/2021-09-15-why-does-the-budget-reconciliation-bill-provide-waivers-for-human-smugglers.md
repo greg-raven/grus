@@ -1,5 +1,5 @@
 ---
-title: 'Why does the budget reconciliation bill provide waivers for human smugglers?'
+title: "Why does the budget reconciliation bill provide waivers for human smugglers?"
 layout: post
 categories:
 - Letters

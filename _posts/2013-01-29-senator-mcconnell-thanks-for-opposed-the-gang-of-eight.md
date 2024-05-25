@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for opposing the Gang of Eight'
+title: "Thanks for opposing the Gang of Eight"
 layout: post
 categories:
 - Letters

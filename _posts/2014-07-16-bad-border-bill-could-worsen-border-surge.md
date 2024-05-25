@@ -1,5 +1,5 @@
 ---
-title: 'Bad Border Bill Could Worsen Border Surge'
+title: "Bad Border Bill Could Worsen Border Surge"
 layout: post
 categories:
 - Letters

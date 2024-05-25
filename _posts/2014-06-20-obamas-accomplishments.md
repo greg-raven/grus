@@ -1,5 +1,5 @@
 ---
-title: 'Obama&#8217;s accomplishments'
+title: "Obama's accomplishments"
 layout: post
 categories:
 - Commentary

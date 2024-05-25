@@ -1,5 +1,5 @@
 ---
-title: 'Oppose gun control'
+title: "Oppose gun control"
 layout: post
 categories:
 - Letters

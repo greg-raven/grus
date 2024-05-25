@@ -1,5 +1,5 @@
 ---
-title: 'Push E-Verify legislation'
+title: "Push E-Verify legislation"
 layout: post
 categories:
 - Letters

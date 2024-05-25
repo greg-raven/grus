@@ -1,5 +1,5 @@
 ---
-title: 'Oppose CA AB-1223 &#8212; taxing gun ownership'
+title: "Oppose CA AB-1223 --- taxing gun ownership"
 layout: post
 categories:
 - Letters

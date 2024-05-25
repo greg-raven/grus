@@ -1,5 +1,5 @@
 ---
-title: 'Support Rep. Goodlatte&#8217;s H.R 4760'
+title: "Support Rep. Goodlatte's H.R 4760"
 layout: post
 categories:
 - Letters

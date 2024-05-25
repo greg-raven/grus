@@ -1,5 +1,5 @@
 ---
-title: 'Obama&#8217;s unsustainable course for our economy'
+title: "Obama's unsustainable course for our economy"
 layout: post
 categories:
 - Video

@@ -1,5 +1,5 @@
 ---
-title: 'I hold these truths to be self-evident'
+title: "I hold these truths to be self-evident"
 layout: post
 categories:
 - Commentary

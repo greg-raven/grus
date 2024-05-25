@@ -1,5 +1,5 @@
 ---
-title: 'Stop &#8216;extra&#8217; visas'
+title: "Stop 'extra' visas"
 layout: post
 categories:
 - Letters

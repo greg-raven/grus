@@ -1,5 +1,5 @@
 ---
-title: 'Vote NO on H.R. 3648, the EAGLE Act'
+title: "Vote NO on H.R. 3648, the EAGLE Act"
 layout: post
 categories:
 - Letters

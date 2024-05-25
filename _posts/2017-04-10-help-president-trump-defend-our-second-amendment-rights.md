@@ -1,5 +1,5 @@
 ---
-title: 'Help President Trump defend our Second Amendment rights'
+title: "Help President Trump defend our Second Amendment rights"
 layout: post
 categories:
 - Letters

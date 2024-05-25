@@ -1,5 +1,5 @@
 ---
-title: 'Fix vote fraud'
+title: "Fix vote fraud"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'No state benefits for illegals'
+title: "No state benefits for illegals"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose immigration increases in emergency spending bills'
+title: "Oppose immigration increases in emergency spending bills"
 layout: post
 categories:
 - Letters

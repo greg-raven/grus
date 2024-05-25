@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Illegal-Alien Detainer Bill'
+title: "Oppose Illegal-Alien Detainer Bill"
 layout: post
 categories:
 - Letters

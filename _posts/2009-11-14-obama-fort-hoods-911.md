@@ -1,5 +1,5 @@
 ---
-title: 'Fort Hood&#8217;s 9/11'
+title: "Fort Hood's 9/11"
 layout: post
 categories:
 - Letters

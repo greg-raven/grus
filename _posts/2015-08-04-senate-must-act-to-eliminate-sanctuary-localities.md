@@ -1,5 +1,5 @@
 ---
-title: 'Senate must act to eliminate sanctuary localities'
+title: "Senate must act to eliminate sanctuary localities"
 layout: post
 categories:
 - Letters

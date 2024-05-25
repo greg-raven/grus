@@ -1,5 +1,5 @@
 ---
-title: 'Oppose green cards for unvetted Afghans'
+title: "Oppose green cards for unvetted Afghans"
 layout: post
 categories:
 - Letters

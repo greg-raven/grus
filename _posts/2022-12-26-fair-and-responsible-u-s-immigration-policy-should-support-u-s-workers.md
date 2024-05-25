@@ -1,5 +1,5 @@
 ---
-title: 'Fair and responsible U.S. immigration policy should support U.S. workers'
+title: "Fair and responsible U.S. immigration policy should support U.S. workers"
 layout: post
 categories:
 - Letters

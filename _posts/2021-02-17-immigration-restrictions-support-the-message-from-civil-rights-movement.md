@@ -1,5 +1,5 @@
 ---
-title: 'Immigration restrictions support the message from Civil Rights movement'
+title: "Immigration restrictions support the message from Civil Rights movement"
 layout: post
 categories:
 - Letters

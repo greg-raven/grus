@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Boehner on amnesty'
+title: "Oppose Boehner on amnesty"
 layout: post
 categories:
 - Letters

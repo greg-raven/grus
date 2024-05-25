@@ -1,5 +1,5 @@
 ---
-title: 'Pass legislation to end illegal immigration and secure the border'
+title: "Pass legislation to end illegal immigration and secure the border"
 layout: post
 categories:
 - Letters

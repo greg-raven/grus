@@ -1,5 +1,5 @@
 ---
-title: 'Population growth and drought don&#8217;t mix'
+title: "Population growth and drought don't mix"
 layout: post
 categories:
 - Letters

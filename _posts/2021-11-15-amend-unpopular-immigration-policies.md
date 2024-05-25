@@ -1,5 +1,5 @@
 ---
-title: 'Amend unpopular immigration policies'
+title: "Amend unpopular immigration policies"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Syrian refugee edition'
+title: "Dueling headlines: Syrian refugee edition"
 layout: post
 categories:
 - Information

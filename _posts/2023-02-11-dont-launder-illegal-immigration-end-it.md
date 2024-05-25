@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t launder illegal immigration; end it'
+title: "Don't launder illegal immigration; end it"
 layout: post
 categories:
 - Letters

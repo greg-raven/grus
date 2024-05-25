@@ -1,5 +1,5 @@
 ---
-title: 'Mulvaney resolution opposes Obama&#8217;s amnesties'
+title: "Mulvaney resolution opposes Obama's amnesties"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Immigration reform must benefit Americans and legal immigrants!'
+title: "Immigration reform must benefit Americans and legal immigrants!"
 layout: post
 categories:
 - Letters

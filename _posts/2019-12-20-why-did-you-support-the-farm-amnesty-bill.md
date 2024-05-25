@@ -1,5 +1,5 @@
 ---
-title: 'Why did you support the farm amnesty bill?'
+title: "Why did you support the farm amnesty bill?"
 layout: post
 categories:
 - Letters

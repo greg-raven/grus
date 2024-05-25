@@ -1,5 +1,5 @@
 ---
-title: 'Democrats should not use immigration to cut wages'
+title: "Democrats should not use immigration to cut wages"
 layout: post
 categories:
 - Letters

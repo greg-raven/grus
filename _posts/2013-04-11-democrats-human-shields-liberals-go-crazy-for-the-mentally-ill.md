@@ -1,5 +1,5 @@
 ---
-title: 'Democrats&#8217; human shields: Liberals go crazy for the mentally ill'
+title: "Democrats' human shields: Liberals go crazy for the mentally ill"
 layout: post
 categories:
 - Information

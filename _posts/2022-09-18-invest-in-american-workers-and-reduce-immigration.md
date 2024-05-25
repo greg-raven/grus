@@ -1,5 +1,5 @@
 ---
-title: 'Invest in American workers and reduce immigration'
+title: "Invest in American workers and reduce immigration"
 layout: post
 categories:
 - Letters

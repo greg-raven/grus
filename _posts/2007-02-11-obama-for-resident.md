@@ -1,5 +1,5 @@
 ---
-title: 'Obama for Resident'
+title: "Obama for Resident"
 layout: post
 categories:
 - Opinion

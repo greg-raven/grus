@@ -1,5 +1,5 @@
 ---
-title: 'Sen. Sessions Exposes White House&#8217;s Role in Border Influx'
+title: "Sen. Sessions Exposes White House's Role in Border Influx"
 layout: post
 categories:
 - Letters

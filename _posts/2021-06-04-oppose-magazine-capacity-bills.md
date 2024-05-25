@@ -1,5 +1,5 @@
 ---
-title: 'Oppose magazine capacity bills'
+title: "Oppose magazine capacity bills"
 layout: post
 categories:
 - Letters

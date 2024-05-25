@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the Graham-Durbin DREAM amnesty'
+title: "Oppose the Graham-Durbin DREAM amnesty"
 layout: post
 categories:
 - Letters

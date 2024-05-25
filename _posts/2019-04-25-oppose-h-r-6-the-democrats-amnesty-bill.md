@@ -1,5 +1,5 @@
 ---
-title: 'Oppose H.R.6, the Democrats' amnesty bill'
+title: "Oppose H.R.6, the Democrats' amnesty bill"
 layout: post
 categories:
 - Letters

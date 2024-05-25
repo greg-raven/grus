@@ -1,5 +1,5 @@
 ---
-title: '&#8216;American Center&#8217; opposes amnesty'
+title: "'American Center' opposes amnesty"
 layout: post
 categories:
 - Letters

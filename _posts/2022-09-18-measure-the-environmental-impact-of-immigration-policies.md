@@ -1,5 +1,5 @@
 ---
-title: 'Measure the environmental impact of immigration policies'
+title: "Measure the environmental impact of immigration policies"
 layout: post
 categories:
 - Letters

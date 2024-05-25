@@ -1,5 +1,5 @@
 ---
-title: 'American workers to rebuild after Katrina'
+title: "American workers to rebuild after Katrina"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Amnesty harms American workers'
+title: "Amnesty harms American workers"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Will Obama&#8217;s new AG reject executive amnesty?'
+title: "Will Obama's new AG reject executive amnesty?"
 layout: post
 categories:
 - Letters

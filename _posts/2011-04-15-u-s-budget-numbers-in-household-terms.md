@@ -1,5 +1,5 @@
 ---
-title: 'U.S. budget numbers in household terms'
+title: "U.S. budget numbers in household terms"
 layout: post
 categories:
 - Information

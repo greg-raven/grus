@@ -1,5 +1,5 @@
 ---
-title: 'That&#8217;s a good reason why they shouldn&#8217;t be residents in the first place'
+title: "That's a good reason why they shouldn't be residents in the first place"
 layout: post
 categories:
 - Letters

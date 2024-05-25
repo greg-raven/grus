@@ -1,5 +1,5 @@
 ---
-title: 'Obama photos with explanations'
+title: "Obama photos with explanations"
 layout: post
 categories:
 - Cartoon

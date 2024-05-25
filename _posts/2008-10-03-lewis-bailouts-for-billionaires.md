@@ -1,5 +1,5 @@
 ---
-title: 'Bailouts for billionaires'
+title: "Bailouts for billionaires"
 layout: post
 categories:
 - Letters

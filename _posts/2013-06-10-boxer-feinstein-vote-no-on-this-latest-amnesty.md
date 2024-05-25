@@ -1,5 +1,5 @@
 ---
-title: 'Vote &#8216;no&#8217; on this latest amnesty'
+title: "Vote 'no' on this latest amnesty"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'DHS: Refugee influx could bring terrorists'
+title: "DHS: Refugee influx could bring terrorists"
 layout: post
 categories:
 - Letters

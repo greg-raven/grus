@@ -1,5 +1,5 @@
 ---
-title: 'Gang of Eight shunning law enforcement'
+title: "Gang of Eight shunning law enforcement"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Concealed carry reciprocity'
+title: "Concealed carry reciprocity"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'The Senator formerly known as Hussein'
+title: "The Senator formerly known as Hussein"
 layout: post
 categories:
 - Opinion

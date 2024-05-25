@@ -1,5 +1,5 @@
 ---
-title: 'People sign petition to repeal the 6th and 7th Amendment'
+title: "People sign petition to repeal the 6th and 7th Amendment"
 layout: post
 categories:
 - Video

@@ -1,5 +1,5 @@
 ---
-title: 'The Idiot Elite: Rep. Diana Degette'
+title: "The Idiot Elite: Rep. Diana Degette"
 layout: post
 categories:
 - Video

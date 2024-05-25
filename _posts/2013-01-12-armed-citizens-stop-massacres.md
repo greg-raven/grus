@@ -1,5 +1,5 @@
 ---
-title: 'Armed citizens stop massacres'
+title: "Armed citizens stop massacres"
 layout: post
 categories:
 - Information

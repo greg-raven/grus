@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s time for House Leadership to act on Davis-Oliver'
+title: "It's time for House Leadership to act on Davis-Oliver"
 layout: post
 categories:
 - Letters

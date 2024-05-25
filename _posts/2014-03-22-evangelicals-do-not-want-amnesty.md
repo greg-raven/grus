@@ -1,5 +1,5 @@
 ---
-title: 'Evangelicals do NOT want amnesty'
+title: "Evangelicals do NOT want amnesty"
 layout: post
 categories:
 - Letters

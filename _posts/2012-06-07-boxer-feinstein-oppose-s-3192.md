@@ -1,5 +1,5 @@
 ---
-title: 'Oppose S. 3192'
+title: "Oppose S. 3192"
 layout: post
 categories:
 - Letters

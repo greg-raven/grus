@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for opposing the Alien Health Care Bill'
+title: "Thanks for opposing the Alien Health Care Bill"
 layout: post
 categories:
 - Letters

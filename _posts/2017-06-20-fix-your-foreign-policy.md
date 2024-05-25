@@ -1,5 +1,5 @@
 ---
-title: 'Fix your foreign policy'
+title: "Fix your foreign policy"
 layout: post
 categories:
 - Letters

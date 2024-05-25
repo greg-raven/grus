@@ -1,5 +1,5 @@
 ---
-title: 'Good to know before making charitable donations'
+title: "Good to know before making charitable donations"
 layout: post
 categories:
 - Information

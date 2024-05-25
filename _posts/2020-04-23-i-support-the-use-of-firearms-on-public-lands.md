@@ -1,5 +1,5 @@
 ---
-title: 'I support the use of firearms on public lands'
+title: "I support the use of firearms on public lands"
 layout: post
 categories:
 - Letters

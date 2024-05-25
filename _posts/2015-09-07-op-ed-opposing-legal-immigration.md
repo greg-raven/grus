@@ -1,5 +1,5 @@
 ---
-title: 'Op-ed opposing legal immigration'
+title: "Op-ed opposing legal immigration"
 layout: post
 categories:
 - Letters

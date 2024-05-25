@@ -1,5 +1,5 @@
 ---
-title: 'From the Old Game Warden'
+title: "From the Old Game Warden"
 layout: post
 categories:
 - Letters

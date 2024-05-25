@@ -1,5 +1,5 @@
 ---
-title: 'Wilson: Calling a liar a liar'
+title: "Wilson: Calling a liar a liar"
 layout: post
 categories:
 - Letters

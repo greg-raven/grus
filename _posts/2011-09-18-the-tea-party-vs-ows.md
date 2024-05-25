@@ -1,5 +1,5 @@
 ---
-title: 'The Tea Party vs Occupy Wall Street'
+title: "The Tea Party vs Occupy Wall Street"
 layout: post
 categories:
 - Cartoon

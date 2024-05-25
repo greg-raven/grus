@@ -1,5 +1,5 @@
 ---
-title: 'Stop Obama&#8217;s illegal executive amnesties'
+title: "Stop Obama's illegal executive amnesties"
 layout: post
 categories:
 - Letters

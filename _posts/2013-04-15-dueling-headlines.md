@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Violence'
+title: "Dueling headlines: Violence"
 layout: post
 categories:
 - Information

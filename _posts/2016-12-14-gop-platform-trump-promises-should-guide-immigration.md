@@ -1,5 +1,5 @@
 ---
-title: 'GOP platform &#038; Trump promises should guide immigration'
+title: "GOP platform &#038; Trump promises should guide immigration"
 layout: post
 categories:
 - Letters

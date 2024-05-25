@@ -1,5 +1,5 @@
 ---
-title: 'Keep your cotton-pickin&#8217; hands off!'
+title: "Keep your cotton-pickin' hands off!"
 layout: post
 categories:
 - Memes

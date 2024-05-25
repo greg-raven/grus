@@ -1,5 +1,5 @@
 ---
-title: 'Kill ObamaCare Bill H.R. 3962'
+title: "Kill ObamaCare Bill H.R. 3962"
 layout: post
 categories:
 - Letters

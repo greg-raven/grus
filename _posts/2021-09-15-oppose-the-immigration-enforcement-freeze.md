@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the immigration enforcement freeze'
+title: "Oppose the immigration enforcement freeze"
 layout: post
 categories:
 - Letters

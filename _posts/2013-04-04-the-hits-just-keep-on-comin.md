@@ -1,5 +1,5 @@
 ---
-title: 'The hits just keep on comin&#8217;'
+title: "The hits just keep on comin'"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: '&#8216;Union&#8217; amnesty'
+title: "'Union' amnesty"
 layout: post
 categories:
 - Letters

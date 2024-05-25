@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Citizens can be jailed indefinitely, illegal aliens never'
+title: "Dueling headlines: Citizens can be jailed indefinitely, illegal aliens never"
 layout: post
 categories:
 - Information

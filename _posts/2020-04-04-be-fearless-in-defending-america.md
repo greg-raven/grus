@@ -1,5 +1,5 @@
 ---
-title: 'Be fearless in defending America'
+title: "Be fearless in defending America"
 layout: post
 categories:
 - Letters

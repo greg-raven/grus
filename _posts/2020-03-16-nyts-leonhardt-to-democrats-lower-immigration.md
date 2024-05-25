@@ -1,5 +1,5 @@
 ---
-title: 'NYT&#8217;s Leonhardt to Democrats: Lower immigration'
+title: "NYT's Leonhardt to Democrats: Lower immigration"
 layout: post
 categories:
 - Letters

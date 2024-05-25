@@ -1,5 +1,5 @@
 ---
-title: 'Where we get our rights'
+title: "Where we get our rights"
 layout: post
 categories:
 - Cartoon

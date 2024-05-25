@@ -1,5 +1,5 @@
 ---
-title: 'No additional refugee funding or H-2B increases'
+title: "No additional refugee funding or H-2B increases"
 layout: post
 categories:
 - Letters

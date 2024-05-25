@@ -1,5 +1,5 @@
 ---
-title: 'Why John McCain?'
+title: "Why John McCain?"
 layout: post
 categories:
 - Opinion

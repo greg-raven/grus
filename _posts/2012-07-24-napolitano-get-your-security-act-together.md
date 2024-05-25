@@ -1,5 +1,5 @@
 ---
-title: 'Get your security act together'
+title: "Get your security act together"
 layout: post
 categories:
 - Letters

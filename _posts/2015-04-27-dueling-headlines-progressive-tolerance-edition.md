@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Progressive tolerance edition'
+title: "Dueling headlines: Progressive tolerance edition"
 layout: post
 categories:
 - Information

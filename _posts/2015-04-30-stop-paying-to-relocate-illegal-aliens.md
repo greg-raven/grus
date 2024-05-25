@@ -1,5 +1,5 @@
 ---
-title: 'Stop paying to relocate illegal aliens'
+title: "Stop paying to relocate illegal aliens"
 layout: post
 categories:
 - Letters

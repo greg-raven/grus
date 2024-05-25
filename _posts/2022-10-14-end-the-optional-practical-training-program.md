@@ -1,5 +1,5 @@
 ---
-title: 'End the 'Optional Practical Training&#8217; program'
+title: "End the 'Optional Practical Training' program"
 layout: post
 categories:
 - Letters

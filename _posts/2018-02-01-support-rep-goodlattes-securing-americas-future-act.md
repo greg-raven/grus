@@ -1,5 +1,5 @@
 ---
-title: 'Support Rep. Goodlatte&#8217;s Securing America&#8217;s Future Act'
+title: "Support Rep. Goodlatte's Securing America's Future Act"
 layout: post
 categories:
 - Letters

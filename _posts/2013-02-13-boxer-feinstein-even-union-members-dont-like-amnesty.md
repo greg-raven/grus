@@ -1,5 +1,5 @@
 ---
-title: 'Even union members don&#8217;t like amnesty'
+title: "Even union members don't like amnesty"
 layout: post
 categories:
 - Letters

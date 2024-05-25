@@ -1,5 +1,5 @@
 ---
-title: 'Block attacks on freedom of speech'
+title: "Block attacks on freedom of speech"
 layout: post
 categories:
 - Letters

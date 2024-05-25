@@ -1,5 +1,5 @@
 ---
-title: 'Resist the media&#8217;s relentless drumbeat for unsustainable growth'
+title: "Resist the media's relentless drumbeat for unsustainable growth"
 layout: post
 categories:
 - Letters

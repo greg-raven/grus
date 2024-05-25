@@ -1,5 +1,5 @@
 ---
-title: 'Sen. Sessions calls for lower immigration levels'
+title: "Sen. Sessions calls for lower immigration levels"
 layout: post
 categories:
 - Letters

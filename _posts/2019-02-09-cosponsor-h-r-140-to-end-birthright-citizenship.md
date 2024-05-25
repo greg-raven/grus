@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor H.R. 140 to end birthright citizenship'
+title: "Cosponsor H.R. 140 to end birthright citizenship"
 layout: post
 categories:
 - Letters

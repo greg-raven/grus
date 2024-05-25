@@ -1,5 +1,5 @@
 ---
-title: 'Please pass H.R. 3003, the No Sanctuary for Criminals Act'
+title: "Please pass H.R. 3003, the No Sanctuary for Criminals Act"
 layout: post
 categories:
 - Letters

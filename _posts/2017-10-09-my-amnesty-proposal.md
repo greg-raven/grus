@@ -1,5 +1,5 @@
 ---
-title: 'My 'amnesty&#8217; proposal'
+title: "My 'amnesty' proposal"
 layout: post
 categories:
 - Letters

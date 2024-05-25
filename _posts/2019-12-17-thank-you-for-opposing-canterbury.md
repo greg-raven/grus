@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for opposing Canterbury'
+title: "Thank you for opposing Canterbury"
 layout: post
 categories:
 - Letters

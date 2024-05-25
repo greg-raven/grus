@@ -1,5 +1,5 @@
 ---
-title: 'The burden of the border crisis should not fall on black communities'
+title: "The burden of the border crisis should not fall on black communities"
 layout: post
 categories:
 - Letters

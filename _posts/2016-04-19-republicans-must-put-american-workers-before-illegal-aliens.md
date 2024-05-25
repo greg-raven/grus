@@ -1,5 +1,5 @@
 ---
-title: 'Republicans MUST put American workers before illegal aliens'
+title: "Republicans MUST put American workers before illegal aliens"
 layout: post
 categories:
 - Letters

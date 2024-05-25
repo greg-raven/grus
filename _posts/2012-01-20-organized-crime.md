@@ -1,5 +1,5 @@
 ---
-title: 'Organized crime'
+title: "Organized crime"
 layout: post
 categories:
 - Cartoon

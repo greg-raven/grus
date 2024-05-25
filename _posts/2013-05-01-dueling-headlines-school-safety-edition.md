@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: School safety edition'
+title: "Dueling headlines: School safety edition"
 layout: post
 categories:
 - Information

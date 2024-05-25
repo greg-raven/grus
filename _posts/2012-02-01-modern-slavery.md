@@ -1,5 +1,5 @@
 ---
-title: 'Modern slavery'
+title: "Modern slavery"
 layout: post
 categories:
 - Cartoon

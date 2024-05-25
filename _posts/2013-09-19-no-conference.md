@@ -1,5 +1,5 @@
 ---
-title: '&#8216;No Conference&#8217;'
+title: "'No Conference'"
 layout: post
 categories:
 - Letters

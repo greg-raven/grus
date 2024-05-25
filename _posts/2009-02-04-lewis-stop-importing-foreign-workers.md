@@ -1,5 +1,5 @@
 ---
-title: 'Stop importing foreign workers'
+title: "Stop importing foreign workers"
 layout: post
 categories:
 - Letters

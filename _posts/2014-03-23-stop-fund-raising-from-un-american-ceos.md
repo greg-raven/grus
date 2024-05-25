@@ -1,5 +1,5 @@
 ---
-title: 'Stop fund-raising from un-American CEOs'
+title: "Stop fund-raising from un-American CEOs"
 layout: post
 categories:
 - Letters

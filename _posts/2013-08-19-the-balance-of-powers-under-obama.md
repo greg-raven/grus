@@ -1,5 +1,5 @@
 ---
-title: 'The balance of powers under Obama'
+title: "The balance of powers under Obama"
 layout: post
 categories:
 - Cartoon

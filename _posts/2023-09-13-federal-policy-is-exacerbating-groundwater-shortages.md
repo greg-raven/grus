@@ -1,5 +1,5 @@
 ---
-title: 'Federal policy is exacerbating groundwater shortages'
+title: "Federal policy is exacerbating groundwater shortages"
 layout: post
 categories:
 - Letters

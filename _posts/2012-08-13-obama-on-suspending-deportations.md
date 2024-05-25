@@ -1,5 +1,5 @@
 ---
-title: 'Obama on suspending deportations'
+title: "Obama on suspending deportations"
 layout: post
 categories:
 - Video

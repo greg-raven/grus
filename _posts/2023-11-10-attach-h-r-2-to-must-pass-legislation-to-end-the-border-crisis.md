@@ -1,5 +1,5 @@
 ---
-title: 'Attach H.R. 2 to must-pass legislation to end the border crisis'
+title: "Attach H.R. 2 to must-pass legislation to end the border crisis"
 layout: post
 categories:
 - Letters

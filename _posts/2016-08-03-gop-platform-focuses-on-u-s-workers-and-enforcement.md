@@ -1,5 +1,5 @@
 ---
-title: 'GOP platform focuses on U.S. workers and enforcement'
+title: "GOP platform focuses on U.S. workers and enforcement"
 layout: post
 categories:
 - Letters

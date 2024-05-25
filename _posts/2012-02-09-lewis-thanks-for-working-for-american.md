@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for working for America'
+title: "Thanks for working for America"
 layout: post
 categories:
 - Letters

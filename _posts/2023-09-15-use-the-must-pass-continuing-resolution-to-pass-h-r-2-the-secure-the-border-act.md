@@ -1,5 +1,5 @@
 ---
-title: 'Use the must-pass Continuing Resolution to pass H.R. 2, the Secure the Border Act'
+title: "Use the must-pass Continuing Resolution to pass H.R. 2, the Secure the Border Act"
 layout: post
 categories:
 - Letters

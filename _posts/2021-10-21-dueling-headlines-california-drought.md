@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: California drought edition'
+title: "Dueling headlines: California drought edition"
 layout: post
 categories:
 - Information

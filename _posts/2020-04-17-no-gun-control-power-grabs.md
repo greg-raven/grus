@@ -1,5 +1,5 @@
 ---
-title: 'No gun control power grabs'
+title: "No gun control power grabs"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for supporting free speech'
+title: "Thanks for supporting free speech"
 layout: post
 categories:
 - Letters

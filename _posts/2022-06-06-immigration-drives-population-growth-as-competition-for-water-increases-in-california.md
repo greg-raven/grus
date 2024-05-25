@@ -1,5 +1,5 @@
 ---
-title: 'Immigration drives population growth as competition for water increases in California'
+title: "Immigration drives population growth as competition for water increases in California"
 layout: post
 categories:
 - Letters

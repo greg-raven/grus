@@ -1,5 +1,5 @@
 ---
-title: 'Poll Shows Opposition to Executive Amnesty, Support for Enforcement'
+title: "Poll Shows Opposition to Executive Amnesty, Support for Enforcement"
 layout: post
 categories:
 - Letters

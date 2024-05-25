@@ -1,5 +1,5 @@
 ---
-title: 'Support Trump&#8217;s immigration principles'
+title: "Support Trump's immigration principles"
 layout: post
 categories:
 - Letters

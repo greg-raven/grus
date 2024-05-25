@@ -1,5 +1,5 @@
 ---
-title: 'Put U.S. citizens in U.S. jobs'
+title: "Put U.S. citizens in U.S. jobs"
 layout: post
 categories:
 - Letters

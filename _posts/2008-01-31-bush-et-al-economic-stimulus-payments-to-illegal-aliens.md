@@ -1,5 +1,5 @@
 ---
-title: '&#8216;Economic stimulus&#8217; payments to illegal aliens'
+title: "'Economic stimulus' payments to illegal aliens"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'An immigration-reduction message for Earth Day'
+title: "An immigration-reduction message for Earth Day"
 layout: post
 categories:
 - Letters

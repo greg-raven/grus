@@ -1,5 +1,5 @@
 ---
-title: 'Tell the RNC establishment &#8212; no amnesty!'
+title: "Tell the RNC establishment --- no amnesty!"
 layout: post
 categories:
 - Letters

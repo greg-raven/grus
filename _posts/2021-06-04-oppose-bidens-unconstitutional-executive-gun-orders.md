@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Biden&#8217;s unconstitutional executive gun orders'
+title: "Oppose Biden's unconstitutional executive gun orders"
 layout: post
 categories:
 - Letters

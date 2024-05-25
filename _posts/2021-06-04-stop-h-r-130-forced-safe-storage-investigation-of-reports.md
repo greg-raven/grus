@@ -1,5 +1,5 @@
 ---
-title: 'Stop H.R. 130 &#8212; Forced Safe Storage, Investigation of Reports'
+title: "Stop H.R. 130 --- Forced Safe Storage, Investigation of Reports"
 layout: post
 categories:
 - Letters

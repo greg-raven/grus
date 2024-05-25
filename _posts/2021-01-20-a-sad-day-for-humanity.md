@@ -1,5 +1,5 @@
 ---
-title: 'A sad day for humanity'
+title: "A sad day for humanity"
 layout: post
 categories:
 - Commentary

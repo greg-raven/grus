@@ -1,5 +1,5 @@
 ---
-title: 'Reject Pelosi&#8217;s &#8216;un-Americanism&#8217;'
+title: "Reject Pelosi's 'un-Americanism'"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Eliminate child tax credits for illegals'
+title: "Eliminate child tax credits for illegals"
 layout: post
 categories:
 - Letters

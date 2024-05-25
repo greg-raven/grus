@@ -1,5 +1,5 @@
 ---
-title: 'Reject taxpayer-funded lawyers for illegal aliens'
+title: "Reject taxpayer-funded lawyers for illegal aliens"
 layout: post
 categories:
 - Letters

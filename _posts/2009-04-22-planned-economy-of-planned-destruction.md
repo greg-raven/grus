@@ -1,5 +1,5 @@
 ---
-title: 'Planned economy or planned destruction?'
+title: "Planned economy or planned destruction?"
 layout: post
 categories:
 - Letters

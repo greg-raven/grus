@@ -1,5 +1,5 @@
 ---
-title: 'I am Trayvon Martin'
+title: "I am Trayvon Martin"
 layout: post
 categories:
 - Cartoon

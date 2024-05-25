@@ -1,5 +1,5 @@
 ---
-title: 'NO on AB 1544'
+title: "NO on AB 1544"
 layout: post
 categories:
 - Letters

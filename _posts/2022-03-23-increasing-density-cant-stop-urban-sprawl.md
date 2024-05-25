@@ -1,5 +1,5 @@
 ---
-title: 'Increasing Density can&#8217;t stop Urban Sprawl'
+title: "Increasing Density can't stop Urban Sprawl"
 layout: post
 categories:
 - Letters

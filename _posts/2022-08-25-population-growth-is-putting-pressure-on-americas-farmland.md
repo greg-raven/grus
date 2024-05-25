@@ -1,5 +1,5 @@
 ---
-title: 'Population growth is putting pressure on America&#8217;s farmland'
+title: "Population growth is putting pressure on America's farmland"
 layout: post
 categories:
 - Letters

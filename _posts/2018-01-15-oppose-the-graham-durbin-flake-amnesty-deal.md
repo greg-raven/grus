@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the Graham-Durbin-Flake amnesty deal'
+title: "Oppose the Graham-Durbin-Flake amnesty deal"
 layout: post
 categories:
 - Letters

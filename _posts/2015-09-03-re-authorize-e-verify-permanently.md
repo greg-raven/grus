@@ -1,5 +1,5 @@
 ---
-title: 'Re-authorize E-Verify permanently'
+title: "Re-authorize E-Verify permanently"
 layout: post
 categories:
 - Letters

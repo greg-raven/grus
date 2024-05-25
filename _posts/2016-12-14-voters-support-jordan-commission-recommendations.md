@@ -1,5 +1,5 @@
 ---
-title: 'Voters support Jordan Commission recommendations'
+title: "Voters support Jordan Commission recommendations"
 layout: post
 categories:
 - Letters

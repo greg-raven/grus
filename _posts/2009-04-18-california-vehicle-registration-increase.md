@@ -1,5 +1,5 @@
 ---
-title: 'California vehicle registration increase'
+title: "California vehicle registration increase"
 layout: post
 categories:
 - Letters

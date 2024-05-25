@@ -1,5 +1,5 @@
 ---
-title: 'Opting out of sanctuary laws'
+title: "Opting out of sanctuary laws"
 layout: post
 categories:
 - Letters

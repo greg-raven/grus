@@ -1,5 +1,5 @@
 ---
-title: 'John McCain&#8217;s Senate replacement'
+title: "John McCain's Senate replacement"
 layout: post
 categories:
 - Letters

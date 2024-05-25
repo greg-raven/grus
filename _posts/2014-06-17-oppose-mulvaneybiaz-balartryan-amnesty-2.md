@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Mulvaney/Biaz-Balart/Ryan Amnesty'
+title: "Oppose Mulvaney/Biaz-Balart/Ryan Amnesty"
 layout: post
 categories:
 - Letters

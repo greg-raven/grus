@@ -1,5 +1,5 @@
 ---
-title: 'Why vote for Obama?'
+title: "Why vote for Obama?"
 layout: post
 categories:
 - Opinion

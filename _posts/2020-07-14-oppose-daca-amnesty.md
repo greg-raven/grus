@@ -1,5 +1,5 @@
 ---
-title: 'Oppose DACA Amnesty'
+title: "Oppose DACA Amnesty"
 layout: post
 categories:
 - Letters

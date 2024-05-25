@@ -1,5 +1,5 @@
 ---
-title: 'Ban all utility-scale renewable energy projects'
+title: "Ban all utility-scale renewable energy projects"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'When will your company switch to renewable energy?'
+title: "When will your company switch to renewable energy?"
 layout: post
 categories:
 - Letters

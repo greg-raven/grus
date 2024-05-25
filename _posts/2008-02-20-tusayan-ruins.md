@@ -1,5 +1,5 @@
 ---
-title: 'Tusayan ruins'
+title: "Tusayan ruins"
 layout: post
 categories:
 - Opinion

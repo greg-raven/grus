@@ -1,5 +1,5 @@
 ---
-title: 'A potential security risk: Oppose S. 4787'
+title: "A potential security risk: Oppose S. 4787"
 layout: post
 categories:
 - Letters

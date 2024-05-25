@@ -1,5 +1,5 @@
 ---
-title: 'Support a refugee moratorium'
+title: "Support a refugee moratorium"
 layout: post
 categories:
 - Letters

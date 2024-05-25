@@ -1,5 +1,5 @@
 ---
-title: 'Call out the National Guard'
+title: "Call out the National Guard"
 layout: post
 categories:
 - Letters

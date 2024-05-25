@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t make Garcia&#8217;s mistake'
+title: "Don't make Garcia's mistake"
 layout: post
 categories:
 - Letters

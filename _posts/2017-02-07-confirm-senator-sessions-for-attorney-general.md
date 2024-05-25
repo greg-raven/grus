@@ -1,5 +1,5 @@
 ---
-title: 'Confirm Senator Sessions for Attorney General'
+title: "Confirm Senator Sessions for Attorney General"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'AP: Backlash against foreign tech workers'
+title: "AP: Backlash against foreign tech workers"
 layout: post
 categories:
 - Letters

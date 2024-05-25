@@ -1,5 +1,5 @@
 ---
-title: 'Fix the bureaucracy'
+title: "Fix the bureaucracy"
 layout: post
 categories:
 - Letters

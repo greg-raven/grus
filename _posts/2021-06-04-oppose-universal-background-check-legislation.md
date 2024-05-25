@@ -1,5 +1,5 @@
 ---
-title: 'Oppose universal background check legislation'
+title: "Oppose universal background check legislation"
 layout: post
 categories:
 - Letters

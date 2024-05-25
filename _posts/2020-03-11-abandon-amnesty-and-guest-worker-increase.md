@@ -1,5 +1,5 @@
 ---
-title: 'Abandon amnesty and guest worker increase'
+title: "Abandon amnesty and guest worker increase"
 layout: post
 categories:
 - Letters

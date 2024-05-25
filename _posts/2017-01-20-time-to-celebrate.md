@@ -1,5 +1,5 @@
 ---
-title: 'Time to celebrate'
+title: "Time to celebrate"
 layout: post
 categories:
 - Commentary

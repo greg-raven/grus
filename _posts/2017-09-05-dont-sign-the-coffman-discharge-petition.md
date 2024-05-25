@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t sign the Coffman Discharge Petition'
+title: "Don't sign the Coffman Discharge Petition"
 layout: post
 categories:
 - Letters

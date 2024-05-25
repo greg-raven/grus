@@ -1,5 +1,5 @@
 ---
-title: 'Please sign the Budd Letter'
+title: "Please sign the Budd Letter"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Lower immigration rates will reduce population growth and save nature.'
+title: "Lower immigration rates will reduce population growth and save nature."
 layout: post
 categories:
 - Letters

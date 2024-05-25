@@ -1,5 +1,5 @@
 ---
-title: 'Black voters are not aligned with Democratic immigration policies'
+title: "Black voters are not aligned with Democratic immigration policies"
 layout: post
 categories:
 - Letters

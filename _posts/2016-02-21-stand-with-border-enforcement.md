@@ -1,5 +1,5 @@
 ---
-title: 'Stand with border enforcement'
+title: "Stand with border enforcement"
 layout: post
 categories:
 - Letters

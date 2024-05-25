@@ -1,5 +1,5 @@
 ---
-title: 'I can&#8217;t believe Resident Biden plans to do nothing about the border'
+title: "I can't believe Resident Biden plans to do nothing about the border"
 layout: post
 categories:
 - Letters

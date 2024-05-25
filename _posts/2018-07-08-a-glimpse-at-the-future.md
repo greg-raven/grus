@@ -1,5 +1,5 @@
 ---
-title: 'A glimpse at the future'
+title: "A glimpse at the future"
 layout: post
 categories:
 - Uncategorized

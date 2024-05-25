@@ -1,5 +1,5 @@
 ---
-title: 'Stop Obama amnesty'
+title: "Stop Obama amnesty"
 layout: post
 categories:
 - Letters

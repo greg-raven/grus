@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Obama on gun violence'
+title: "Dueling headlines: Obama on gun violence"
 layout: post
 categories:
 - Information

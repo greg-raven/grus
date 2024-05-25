@@ -1,5 +1,5 @@
 ---
-title: 'Oppose foreign worker increases in DHS spending bill'
+title: "Oppose foreign worker increases in DHS spending bill"
 layout: post
 categories:
 - Letters

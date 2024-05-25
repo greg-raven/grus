@@ -1,5 +1,5 @@
 ---
-title: 'Ex uno plures'
+title: "Ex uno plures"
 layout: post
 categories:
 - Information

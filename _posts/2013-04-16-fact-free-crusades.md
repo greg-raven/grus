@@ -1,5 +1,5 @@
 ---
-title: 'Sowell: Fact-Free Crusades'
+title: "Sowell: Fact-Free Crusades"
 layout: post
 categories:
 - Information

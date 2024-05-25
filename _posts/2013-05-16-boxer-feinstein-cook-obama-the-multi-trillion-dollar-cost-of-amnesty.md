@@ -1,5 +1,5 @@
 ---
-title: 'The multi-trillion dollar cost of amnesty'
+title: "The multi-trillion dollar cost of amnesty"
 layout: post
 categories:
 - Letters

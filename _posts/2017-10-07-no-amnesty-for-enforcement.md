@@ -1,5 +1,5 @@
 ---
-title: 'No amnesty for enforcement'
+title: "No amnesty for enforcement"
 layout: post
 categories:
 - Letters

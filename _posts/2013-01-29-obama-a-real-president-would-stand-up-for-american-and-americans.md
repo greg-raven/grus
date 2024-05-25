@@ -1,5 +1,5 @@
 ---
-title: 'A real president would stand up for American and Americans'
+title: "A real president would stand up for American and Americans"
 layout: post
 categories:
 - Letters

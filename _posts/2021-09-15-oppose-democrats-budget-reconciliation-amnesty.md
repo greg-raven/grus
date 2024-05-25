@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Democrats&#8217; budget reconciliation amnesty'
+title: "Oppose Democrats' budget reconciliation amnesty"
 layout: post
 categories:
 - Letters

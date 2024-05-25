@@ -1,5 +1,5 @@
 ---
-title: 'Another Town cover-up'
+title: "Another Town cover-up"
 layout: post
 categories:
 - Letters

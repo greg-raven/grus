@@ -1,5 +1,5 @@
 ---
-title: 'Drop all charges against CMP defendants'
+title: "Drop all charges against CMP defendants"
 layout: post
 categories:
 - Letters

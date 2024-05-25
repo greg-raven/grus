@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Biden&#8217;s radical, anti-gun picks for Attorney General and HHS Director'
+title: "Oppose Biden's radical, anti-gun picks for Attorney General and HHS Director"
 layout: post
 categories:
 - Letters

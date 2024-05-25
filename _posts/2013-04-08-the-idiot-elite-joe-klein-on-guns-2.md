@@ -1,5 +1,5 @@
 ---
-title: 'The idiot elite: Joe Klein on guns'
+title: "The idiot elite: Joe Klein on guns"
 layout: post
 categories:
 - Video

@@ -1,5 +1,5 @@
 ---
-title: 'Please stop forcing U.S. population growth'
+title: "Please stop forcing U.S. population growth"
 layout: post
 categories:
 - Letters

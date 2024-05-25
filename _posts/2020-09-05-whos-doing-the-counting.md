@@ -1,5 +1,5 @@
 ---
-title: 'Who&#8217;s doing the counting?'
+title: "Who's doing the counting?"
 layout: post
 categories:
 - Memes

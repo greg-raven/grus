@@ -1,5 +1,5 @@
 ---
-title: 'No more incentives for illegal immigration'
+title: "No more incentives for illegal immigration"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Please oppose the gun control legislation unveiled by Rep. Maloney'
+title: "Please oppose the gun control legislation unveiled by Rep. Maloney"
 layout: post
 categories:
 - Letters

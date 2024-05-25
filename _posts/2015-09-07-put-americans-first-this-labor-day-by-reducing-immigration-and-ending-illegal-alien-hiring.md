@@ -1,5 +1,5 @@
 ---
-title: 'Put Americans first this Labor Day by reducing immigration and ending illegal-alien hiring'
+title: "Put Americans first this Labor Day by reducing immigration and ending illegal-alien hiring"
 layout: post
 categories:
 - Letters

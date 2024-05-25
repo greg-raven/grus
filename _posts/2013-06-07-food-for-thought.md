@@ -1,5 +1,5 @@
 ---
-title: 'Food For Thought'
+title: "Food For Thought"
 layout: post
 categories:
 - Information

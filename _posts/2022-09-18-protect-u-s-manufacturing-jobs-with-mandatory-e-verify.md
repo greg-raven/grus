@@ -1,5 +1,5 @@
 ---
-title: 'Protect U.S. manufacturing jobs with mandatory E-Verify'
+title: "Protect U.S. manufacturing jobs with mandatory E-Verify"
 layout: post
 categories:
 - Letters

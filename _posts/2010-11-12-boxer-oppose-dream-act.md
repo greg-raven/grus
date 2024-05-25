@@ -1,5 +1,5 @@
 ---
-title: 'Oppose DREAM Act'
+title: "Oppose DREAM Act"
 layout: post
 categories:
 - Letters

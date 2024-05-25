@@ -1,5 +1,5 @@
 ---
-title: 'Racial disparities in bankruptcy filings'
+title: "Racial disparities in bankruptcy filings"
 layout: post
 categories:
 - Letters

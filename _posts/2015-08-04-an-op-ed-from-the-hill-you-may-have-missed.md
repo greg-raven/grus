@@ -1,5 +1,5 @@
 ---
-title: 'An Op-Ed from The Hill you may have missed'
+title: "An Op-Ed from The Hill you may have missed"
 layout: post
 categories:
 - Letters

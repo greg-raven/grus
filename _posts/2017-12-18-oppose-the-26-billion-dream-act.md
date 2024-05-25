@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the $26 billion DREAM Act'
+title: "Oppose the $26 billion DREAM Act"
 layout: post
 categories:
 - Letters

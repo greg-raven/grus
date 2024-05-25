@@ -1,5 +1,5 @@
 ---
-title: 'Subprime mess'
+title: "Subprime mess"
 layout: post
 categories:
 - Opinion

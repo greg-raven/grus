@@ -1,5 +1,5 @@
 ---
-title: '&#8216;Comprehensive immigration reform&#8217; will harm Americans'
+title: "'Comprehensive immigration reform' will harm Americans"
 layout: post
 categories:
 - Letters

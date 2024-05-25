@@ -1,5 +1,5 @@
 ---
-title: 'Oppose United Nations&#8217; Agenda 21'
+title: "Oppose United Nations' Agenda 21"
 layout: post
 categories:
 - Letters

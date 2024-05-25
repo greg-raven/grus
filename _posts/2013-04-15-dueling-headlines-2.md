@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Innocent deaths'
+title: "Dueling headlines: Innocent deaths"
 layout: post
 categories:
 - Information

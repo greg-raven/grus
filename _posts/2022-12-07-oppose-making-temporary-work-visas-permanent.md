@@ -1,5 +1,5 @@
 ---
-title: 'Oppose making temporary work visas permanent'
+title: "Oppose making temporary work visas permanent"
 layout: post
 categories:
 - Letters

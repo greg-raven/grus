@@ -1,5 +1,5 @@
 ---
-title: 'New gun laws won&#8217;t secure our border'
+title: "New gun laws won't secure our border"
 layout: post
 categories:
 - Letters

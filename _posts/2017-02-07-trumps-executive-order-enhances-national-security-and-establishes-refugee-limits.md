@@ -1,5 +1,5 @@
 ---
-title: 'Trump&#8217;s Executive Order enhances national security and establishes refugee limits'
+title: "Trump's Executive Order enhances national security and establishes refugee limits"
 layout: post
 categories:
 - Letters

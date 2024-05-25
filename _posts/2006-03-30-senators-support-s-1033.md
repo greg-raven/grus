@@ -1,5 +1,5 @@
 ---
-title: 'Oppose S. 1033'
+title: "Oppose S. 1033"
 layout: post
 categories:
 - Letters

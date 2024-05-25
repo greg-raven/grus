@@ -1,5 +1,5 @@
 ---
-title: 'Do you support further illegal amnesties?'
+title: "Do you support further illegal amnesties?"
 layout: post
 categories:
 - Letters

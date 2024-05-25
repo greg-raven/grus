@@ -1,5 +1,5 @@
 ---
-title: 'Fight plans to house illegal aliens across the country'
+title: "Fight plans to house illegal aliens across the country"
 layout: post
 categories:
 - Letters

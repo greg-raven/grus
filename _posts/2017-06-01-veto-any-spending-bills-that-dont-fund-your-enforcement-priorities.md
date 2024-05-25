@@ -1,5 +1,5 @@
 ---
-title: 'Veto any spending bills that don&#8217;t fund your enforcement priorities'
+title: "Veto any spending bills that don't fund your enforcement priorities"
 layout: post
 categories:
 - Letters

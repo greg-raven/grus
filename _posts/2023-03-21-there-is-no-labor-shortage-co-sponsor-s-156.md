@@ -1,5 +1,5 @@
 ---
-title: 'There is no labor shortage. Co-sponsor S. 156'
+title: "There is no labor shortage. Co-sponsor S. 156"
 layout: post
 categories:
 - Letters

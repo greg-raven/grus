@@ -1,5 +1,5 @@
 ---
-title: 'Take amnesty off the table completely'
+title: "Take amnesty off the table completely"
 layout: post
 categories:
 - Letters

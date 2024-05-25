@@ -1,5 +1,5 @@
 ---
-title: 'Disney forces tech workers to train H-1B replacements'
+title: "Disney forces tech workers to train H-1B replacements"
 layout: post
 categories:
 - Letters

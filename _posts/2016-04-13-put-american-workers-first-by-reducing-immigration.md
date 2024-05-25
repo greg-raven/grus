@@ -1,5 +1,5 @@
 ---
-title: 'Put American workers first by reducing immigration'
+title: "Put American workers first by reducing immigration"
 layout: post
 categories:
 - Letters

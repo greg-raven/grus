@@ -1,5 +1,5 @@
 ---
-title: 'You failed to keep amnesty out of the budget reconciliation resolution'
+title: "You failed to keep amnesty out of the budget reconciliation resolution"
 layout: post
 categories:
 - Letters

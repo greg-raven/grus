@@ -1,5 +1,5 @@
 ---
-title: 'Limit H-1B visas to retain Black tech talent'
+title: "Limit H-1B visas to retain Black tech talent"
 layout: post
 categories:
 - Letters

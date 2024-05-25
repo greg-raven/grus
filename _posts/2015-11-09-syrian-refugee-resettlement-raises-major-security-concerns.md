@@ -1,5 +1,5 @@
 ---
-title: 'Syrian refugee resettlement raises major security concerns'
+title: "Syrian refugee resettlement raises major security concerns"
 layout: post
 categories:
 - Letters

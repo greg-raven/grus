@@ -1,5 +1,5 @@
 ---
-title: 'Granting statehood to D.C. is a threat to our constitutional republic and the 2A'
+title: "Granting statehood to D.C. is a threat to our constitutional republic and the 2A"
 layout: post
 categories:
 - Letters

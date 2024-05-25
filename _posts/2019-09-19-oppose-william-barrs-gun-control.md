@@ -1,5 +1,5 @@
 ---
-title: 'Oppose William Barr&#8217;s gun control'
+title: "Oppose William Barr's gun control"
 layout: post
 categories:
 - Letters

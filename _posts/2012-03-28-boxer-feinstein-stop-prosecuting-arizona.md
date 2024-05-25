@@ -1,5 +1,5 @@
 ---
-title: 'Stop prosecuting Arizona'
+title: "Stop prosecuting Arizona"
 layout: post
 categories:
 - Letters

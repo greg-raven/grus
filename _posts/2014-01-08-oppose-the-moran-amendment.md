@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the Moran amendment'
+title: "Oppose the Moran amendment"
 layout: post
 categories:
 - Letters

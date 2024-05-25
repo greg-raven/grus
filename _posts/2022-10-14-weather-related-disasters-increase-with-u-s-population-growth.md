@@ -1,5 +1,5 @@
 ---
-title: 'Weather-related disasters increase with U.S. population growth'
+title: "Weather-related disasters increase with U.S. population growth"
 layout: post
 categories:
 - Letters

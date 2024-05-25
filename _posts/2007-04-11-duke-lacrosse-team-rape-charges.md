@@ -1,5 +1,5 @@
 ---
-title: 'Duke lacrosse team rape charges'
+title: "Duke lacrosse team rape charges"
 layout: post
 categories:
 - Opinion

@@ -1,5 +1,5 @@
 ---
-title: 'Vote against illegal immigration and for public safety'
+title: "Vote against illegal immigration and for public safety"
 layout: post
 categories:
 - Letters

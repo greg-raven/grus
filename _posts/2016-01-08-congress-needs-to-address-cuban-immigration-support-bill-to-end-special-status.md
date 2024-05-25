@@ -1,5 +1,5 @@
 ---
-title: 'Congress needs to address Cuban immigration, support bill to end special status'
+title: "Congress needs to address Cuban immigration, support bill to end special status"
 layout: post
 categories:
 - Letters

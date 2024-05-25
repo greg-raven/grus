@@ -1,5 +1,5 @@
 ---
-title: 'Vote no on the Hagel/Martinez proposal'
+title: "Vote no on the Hagel/Martinez proposal"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Obama Policies Have Put America at Risk'
+title: "Obama Policies Have Put America at Risk"
 layout: post
 categories:
 - Information

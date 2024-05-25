@@ -1,5 +1,5 @@
 ---
-title: 'Immigration policy should benefit American workers'
+title: "Immigration policy should benefit American workers"
 layout: post
 categories:
 - Letters

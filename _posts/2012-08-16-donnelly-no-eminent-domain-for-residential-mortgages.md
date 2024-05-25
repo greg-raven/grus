@@ -1,5 +1,5 @@
 ---
-title: 'No eminent domain for residential mortgages'
+title: "No eminent domain for residential mortgages"
 layout: post
 categories:
 - Letters

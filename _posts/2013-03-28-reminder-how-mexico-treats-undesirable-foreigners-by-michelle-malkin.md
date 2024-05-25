@@ -1,5 +1,5 @@
 ---
-title: 'Reminder: How Mexico Treats &#8216;Undesirable&#8217; Foreigners, by Michelle Malkin'
+title: "Reminder: How Mexico Treats 'Undesirable' Foreigners, by Michelle Malkin"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose these anti-gun bills'
+title: "Oppose these anti-gun bills"
 layout: post
 categories:
 - Letters

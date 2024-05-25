@@ -1,5 +1,5 @@
 ---
-title: 'H-2B increases would abandon blue-collar workers'
+title: "H-2B increases would abandon blue-collar workers"
 layout: post
 categories:
 - Letters

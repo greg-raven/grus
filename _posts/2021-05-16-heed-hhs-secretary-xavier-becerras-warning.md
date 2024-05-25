@@ -1,5 +1,5 @@
 ---
-title: 'Heed HHS Secretary Xavier Becerra&#8217;s warning'
+title: "Heed HHS Secretary Xavier Becerra's warning"
 layout: post
 categories:
 - Letters

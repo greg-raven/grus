@@ -1,5 +1,5 @@
 ---
-title: 'Oppose GOP leadership&#8217;s new immigration push'
+title: "Oppose GOP leadership's new immigration push"
 layout: post
 categories:
 - Letters

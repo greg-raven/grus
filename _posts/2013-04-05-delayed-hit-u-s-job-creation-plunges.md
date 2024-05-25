@@ -1,5 +1,5 @@
 ---
-title: 'Delayed hit: U.S. job creation plunges'
+title: "Delayed hit: U.S. job creation plunges"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: 'Support the bill ending sanctuary cities'
+title: "Support the bill ending sanctuary cities"
 layout: post
 categories:
 - Letters

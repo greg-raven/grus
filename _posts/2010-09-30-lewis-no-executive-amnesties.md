@@ -1,5 +1,5 @@
 ---
-title: 'No executive amnesties'
+title: "No executive amnesties"
 layout: post
 categories:
 - Letters

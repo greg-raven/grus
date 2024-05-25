@@ -1,5 +1,5 @@
 ---
-title: 'If Rubio&#8217;s amnesty is so great, why is he lying?'
+title: "If Rubio's amnesty is so great, why is he lying?"
 layout: post
 categories:
 - Information

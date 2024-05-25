@@ -1,5 +1,5 @@
 ---
-title: 'Further action needed on Sanctuary bill'
+title: "Further action needed on Sanctuary bill"
 layout: post
 categories:
 - Letters

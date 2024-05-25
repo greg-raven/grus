@@ -1,5 +1,5 @@
 ---
-title: 'The Filibuster: Reid vs. Reid'
+title: "The Filibuster: Reid vs. Reid"
 layout: post
 categories:
 - Video

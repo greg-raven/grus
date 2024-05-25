@@ -1,5 +1,5 @@
 ---
-title: 'Democrats really are the party of Santa Claus'
+title: "Democrats really are the party of Santa Claus"
 layout: post
 categories:
 - Cartoon

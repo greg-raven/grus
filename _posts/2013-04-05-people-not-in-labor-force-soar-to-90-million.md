@@ -1,5 +1,5 @@
 ---
-title: 'People not in labor force soar to 90 million'
+title: "People not in labor force soar to 90 million"
 layout: post
 categories:
 - Information

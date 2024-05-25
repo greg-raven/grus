@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for cosponsoring H.R. 250 to mandate E-Verify'
+title: "Thank you for cosponsoring H.R. 250 to mandate E-Verify"
 layout: post
 categories:
 - Letters

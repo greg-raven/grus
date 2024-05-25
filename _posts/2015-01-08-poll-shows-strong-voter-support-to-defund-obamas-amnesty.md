@@ -1,5 +1,5 @@
 ---
-title: 'Poll shows strong voter support to defund Obama&#8217;s amnesty'
+title: "Poll shows strong voter support to defund Obama's amnesty"
 layout: post
 categories:
 - Letters

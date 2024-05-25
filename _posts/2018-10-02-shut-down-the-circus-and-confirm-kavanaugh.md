@@ -1,5 +1,5 @@
 ---
-title: 'Shut down the circus and confirm Kavanaugh'
+title: "Shut down the circus and confirm Kavanaugh"
 layout: post
 categories:
 - Letters

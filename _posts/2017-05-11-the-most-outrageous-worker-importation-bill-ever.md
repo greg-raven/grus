@@ -1,5 +1,5 @@
 ---
-title: 'The most outrageous worker importation bill ever'
+title: "The most outrageous worker importation bill ever"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Support concealed carry reciprocity'
+title: "Support concealed carry reciprocity"
 layout: post
 categories:
 - Letters

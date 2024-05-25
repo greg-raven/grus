@@ -1,5 +1,5 @@
 ---
-title: 'Obama: &#8216;We Noticed&#8217;'
+title: "Obama: 'We Noticed'"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'It is time for Congress to act on the border crisis'
+title: "It is time for Congress to act on the border crisis"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Walmart vs. The Morons'
+title: "Walmart vs. The Morons"
 layout: post
 categories:
 - Opinion

@@ -1,5 +1,5 @@
 ---
-title: 'McCaul border bill won&#8217;t secure the border'
+title: "McCaul border bill won't secure the border"
 layout: post
 categories:
 - Letters

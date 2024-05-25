@@ -1,5 +1,5 @@
 ---
-title: 'We need yet more birth control'
+title: "We need yet more birth control"
 layout: post
 categories:
 - Commentary

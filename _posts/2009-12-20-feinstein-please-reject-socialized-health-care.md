@@ -1,5 +1,5 @@
 ---
-title: 'Please REJECT Socialized Health Care!'
+title: "Please REJECT Socialized Health Care!"
 layout: post
 categories:
 - Letters

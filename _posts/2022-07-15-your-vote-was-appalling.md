@@ -1,5 +1,5 @@
 ---
-title: 'Your vote was appalling'
+title: "Your vote was appalling"
 layout: post
 categories:
 - Letters

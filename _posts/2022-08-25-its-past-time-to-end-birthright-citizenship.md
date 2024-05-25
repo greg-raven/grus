@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s past time to end birthright citizenship'
+title: "It's past time to end birthright citizenship"
 layout: post
 categories:
 - Letters

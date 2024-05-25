@@ -1,5 +1,5 @@
 ---
-title: 'Continue to oppose S. 388'
+title: "Continue to oppose S. 388"
 layout: post
 categories:
 - Letters

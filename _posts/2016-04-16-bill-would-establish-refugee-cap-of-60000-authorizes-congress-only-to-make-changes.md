@@ -1,5 +1,5 @@
 ---
-title: 'Bill would establish refugee cap of 60,000, Authorizes Congress, only, to make changes'
+title: "Bill would establish refugee cap of 60,000, Authorizes Congress, only, to make changes"
 layout: post
 categories:
 - Letters

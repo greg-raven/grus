@@ -1,5 +1,5 @@
 ---
-title: 'Disappointing vote in favor of guestworker amnesty'
+title: "Disappointing vote in favor of guestworker amnesty"
 layout: post
 categories:
 - Letters

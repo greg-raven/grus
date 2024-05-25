@@ -1,5 +1,5 @@
 ---
-title: 'Appalled by the amnesty bill'
+title: "Appalled by the amnesty bill"
 layout: post
 categories:
 - Letters

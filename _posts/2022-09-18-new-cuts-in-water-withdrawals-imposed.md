@@ -1,5 +1,5 @@
 ---
-title: 'New cuts in water withdrawals imposed'
+title: "New cuts in water withdrawals imposed"
 layout: post
 categories:
 - Letters

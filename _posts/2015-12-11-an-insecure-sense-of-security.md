@@ -1,5 +1,5 @@
 ---
-title: 'An insecure sense of security'
+title: "An insecure sense of security"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Obama&#8217;s Terrorist Pal Comes Clean About Their Friendship'
+title: "Obama's Terrorist Pal Comes Clean About Their Friendship"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: 'No more foreign workers'
+title: "No more foreign workers"
 layout: post
 categories:
 - Letters

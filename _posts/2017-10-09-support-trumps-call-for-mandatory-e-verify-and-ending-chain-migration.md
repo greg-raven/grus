@@ -1,5 +1,5 @@
 ---
-title: 'Support Trump&#8217;s call for mandatory E-Verify and ending chain migration'
+title: "Support Trump's call for mandatory E-Verify and ending chain migration"
 layout: post
 categories:
 - Letters

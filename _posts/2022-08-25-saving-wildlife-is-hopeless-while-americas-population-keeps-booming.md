@@ -1,5 +1,5 @@
 ---
-title: 'Saving wildlife is hopeless while America&#8217;s population keeps booming'
+title: "Saving wildlife is hopeless while America's population keeps booming"
 layout: post
 categories:
 - Letters

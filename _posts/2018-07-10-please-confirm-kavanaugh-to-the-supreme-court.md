@@ -1,5 +1,5 @@
 ---
-title: 'Please confirm Kavanaugh to the Supreme Court'
+title: "Please confirm Kavanaugh to the Supreme Court"
 layout: post
 categories:
 - Letters

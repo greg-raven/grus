@@ -1,5 +1,5 @@
 ---
-title: 'Colorado River water shortage cannot be addressed without reducing population growth'
+title: "Colorado River water shortage cannot be addressed without reducing population growth"
 layout: post
 categories:
 - Letters

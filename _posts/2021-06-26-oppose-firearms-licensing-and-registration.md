@@ -1,5 +1,5 @@
 ---
-title: 'Oppose firearms licensing and registration'
+title: "Oppose firearms licensing and registration"
 layout: post
 categories:
 - Letters

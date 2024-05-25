@@ -1,5 +1,5 @@
 ---
-title: 'Oppose H-2B increase'
+title: "Oppose H-2B increase"
 layout: post
 categories:
 - Letters

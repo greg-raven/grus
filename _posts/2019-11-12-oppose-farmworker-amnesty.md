@@ -1,5 +1,5 @@
 ---
-title: 'Oppose farmworker amnesty'
+title: "Oppose farmworker amnesty"
 layout: post
 categories:
 - Letters

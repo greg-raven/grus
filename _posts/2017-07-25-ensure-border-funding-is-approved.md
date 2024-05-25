@@ -1,5 +1,5 @@
 ---
-title: 'Ensure border funding is approved'
+title: "Ensure border funding is approved"
 layout: post
 categories:
 - Letters

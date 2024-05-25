@@ -1,5 +1,5 @@
 ---
-title: 'Stand up for E-Verify'
+title: "Stand up for E-Verify"
 layout: post
 categories:
 - Letters

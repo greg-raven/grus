@@ -1,5 +1,5 @@
 ---
-title: 'No &#8216;comprehensive immigration reform&#8217;'
+title: "No 'comprehensive immigration reform'"
 layout: post
 categories:
 - Letters

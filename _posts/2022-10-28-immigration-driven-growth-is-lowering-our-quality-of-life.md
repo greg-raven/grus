@@ -1,5 +1,5 @@
 ---
-title: 'Immigration-driven growth is lowering our quality of life.'
+title: "Immigration-driven growth is lowering our quality of life."
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'The world&#8217;s population is stabilizing, why not America&#8217;s?'
+title: "The world's population is stabilizing, why not America's?"
 layout: post
 categories:
 - Letters

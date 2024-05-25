@@ -1,5 +1,5 @@
 ---
-title: 'How Democrats are making it harder to save biodiversity'
+title: "How Democrats are making it harder to save biodiversity"
 layout: post
 categories:
 - Letters

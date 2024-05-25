@@ -1,5 +1,5 @@
 ---
-title: 'This explains a lot'
+title: "This explains a lot"
 layout: post
 categories:
 - Cartoon

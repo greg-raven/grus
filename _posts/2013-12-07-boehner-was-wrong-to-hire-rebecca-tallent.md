@@ -1,5 +1,5 @@
 ---
-title: 'Boehner was wrong to hire Rebecca Tallent'
+title: "Boehner was wrong to hire Rebecca Tallent"
 layout: post
 categories:
 - Letters

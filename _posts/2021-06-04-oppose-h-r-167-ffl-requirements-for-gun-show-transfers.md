@@ -1,5 +1,5 @@
 ---
-title: 'Oppose H.R. 167 &#8212; FFL requirements for gun show transfers'
+title: "Oppose H.R. 167 --- FFL requirements for gun show transfers"
 layout: post
 categories:
 - Letters

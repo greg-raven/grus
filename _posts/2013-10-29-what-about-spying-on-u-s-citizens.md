@@ -1,5 +1,5 @@
 ---
-title: 'What about spying on U.S. citizens?'
+title: "What about spying on U.S. citizens?"
 layout: post
 categories:
 - Letters

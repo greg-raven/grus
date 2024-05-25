@@ -1,5 +1,5 @@
 ---
-title: 'Our de facto open borders make inflation and climate change worse'
+title: "Our de facto open borders make inflation and climate change worse"
 layout: post
 categories:
 - Letters

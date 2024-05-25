@@ -1,5 +1,5 @@
 ---
-title: 'Racism in Apple Valley'
+title: "Racism in Apple Valley"
 layout: post
 categories:
 - Letters

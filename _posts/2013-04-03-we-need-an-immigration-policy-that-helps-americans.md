@@ -1,5 +1,5 @@
 ---
-title: 'We Need an Immigration Policy That Helps Americans'
+title: "We Need an Immigration Policy That Helps Americans"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: 'Continuing to import foreign workers'
+title: "Continuing to import foreign workers"
 layout: post
 categories:
 - Letters

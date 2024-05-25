@@ -1,5 +1,5 @@
 ---
-title: 'Wages belie claims of a labor shortage'
+title: "Wages belie claims of a labor shortage"
 layout: post
 categories:
 - Letters

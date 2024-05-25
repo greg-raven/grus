@@ -1,5 +1,5 @@
 ---
-title: 'Oppose H.R. 6, the latest mass amnesty bill'
+title: "Oppose H.R. 6, the latest mass amnesty bill"
 layout: post
 categories:
 - Letters

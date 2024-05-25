@@ -1,5 +1,5 @@
 ---
-title: 'Just say NO to amnesty'
+title: "Just say NO to amnesty"
 layout: post
 categories:
 - Letters

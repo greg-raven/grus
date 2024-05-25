@@ -1,5 +1,5 @@
 ---
-title: '206 House Democrats sponsor massive amnesty bill'
+title: "206 House Democrats sponsor massive amnesty bill"
 layout: post
 categories:
 - Commentary

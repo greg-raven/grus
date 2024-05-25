@@ -1,5 +1,5 @@
 ---
-title: 'No DACA amnesty in the omnibus spending bill'
+title: "No DACA amnesty in the omnibus spending bill"
 layout: post
 categories:
 - Letters

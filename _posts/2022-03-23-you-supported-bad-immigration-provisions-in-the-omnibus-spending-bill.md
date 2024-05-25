@@ -1,5 +1,5 @@
 ---
-title: 'You supported bad immigration provisions in the omnibus spending bill'
+title: "You supported bad immigration provisions in the omnibus spending bill"
 layout: post
 categories:
 - Letters

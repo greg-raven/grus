@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t use the Omnibus to pass anti-gun Fix NICS'
+title: "Don't use the Omnibus to pass anti-gun Fix NICS"
 layout: post
 categories:
 - Letters

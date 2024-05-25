@@ -1,5 +1,5 @@
 ---
-title: 'Obamacare Blows Up In Dem&#8217;s Face!'
+title: "Obamacare Blows Up In Dem's Face!"
 layout: post
 categories:
 - Information

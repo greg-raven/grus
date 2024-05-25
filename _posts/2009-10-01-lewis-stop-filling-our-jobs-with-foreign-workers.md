@@ -1,5 +1,5 @@
 ---
-title: 'Stop filling our jobs with foreign workers'
+title: "Stop filling our jobs with foreign workers"
 layout: post
 categories:
 - Letters

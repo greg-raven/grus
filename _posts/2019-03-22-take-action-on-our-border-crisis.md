@@ -1,5 +1,5 @@
 ---
-title: 'Take action on our border crisis'
+title: "Take action on our border crisis"
 layout: post
 categories:
 - Letters

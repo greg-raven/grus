@@ -1,5 +1,5 @@
 ---
-title: 'Immigration bill is potential amnesty headache'
+title: "Immigration bill is potential amnesty headache"
 layout: post
 categories:
 - Letters

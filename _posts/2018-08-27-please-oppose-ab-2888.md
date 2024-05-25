@@ -1,5 +1,5 @@
 ---
-title: 'Please oppose AB 2888'
+title: "Please oppose AB 2888"
 layout: post
 categories:
 - Letters

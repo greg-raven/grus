@@ -1,5 +1,5 @@
 ---
-title: 'Reduce immigration back to traditional levels'
+title: "Reduce immigration back to traditional levels"
 layout: post
 categories:
 - Letters

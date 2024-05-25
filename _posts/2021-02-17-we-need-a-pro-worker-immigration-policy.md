@@ -1,5 +1,5 @@
 ---
-title: 'We need a pro-worker immigration policy'
+title: "We need a pro-worker immigration policy"
 layout: post
 categories:
 - Letters

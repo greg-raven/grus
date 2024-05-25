@@ -1,5 +1,5 @@
 ---
-title: 'Americans need access to untrampled open space'
+title: "Americans need access to untrampled open space"
 layout: post
 categories:
 - Letters

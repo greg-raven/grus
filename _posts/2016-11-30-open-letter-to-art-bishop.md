@@ -1,5 +1,5 @@
 ---
-title: 'Open letter to Art Bishop'
+title: "Open letter to Art Bishop"
 layout: post
 categories:
 - Letters

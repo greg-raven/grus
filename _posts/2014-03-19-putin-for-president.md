@@ -1,5 +1,5 @@
 ---
-title: 'Putin for President'
+title: "Putin for President"
 layout: post
 categories:
 - Cartoon

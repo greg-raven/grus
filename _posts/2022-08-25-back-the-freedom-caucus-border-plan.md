@@ -1,5 +1,5 @@
 ---
-title: 'Back the Freedom Caucus&#8217; border plan!'
+title: "Back the Freedom Caucus' border plan!"
 layout: post
 categories:
 - Letters

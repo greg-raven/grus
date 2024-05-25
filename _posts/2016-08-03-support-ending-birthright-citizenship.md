@@ -1,5 +1,5 @@
 ---
-title: 'Support ending birthright citizenship'
+title: "Support ending birthright citizenship"
 layout: post
 categories:
 - Letters

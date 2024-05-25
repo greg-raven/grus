@@ -1,5 +1,5 @@
 ---
-title: 'Hydrogen Barackside'
+title: "Hydrogen Barackside"
 layout: post
 categories:
 - Cartoon

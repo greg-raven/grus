@@ -1,5 +1,5 @@
 ---
-title: 'The future of America?'
+title: "The future of America?"
 layout: post
 categories:
 - Video

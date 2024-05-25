@@ -1,5 +1,5 @@
 ---
-title: 'False Obama nomination papers'
+title: "False Obama nomination papers"
 layout: post
 categories:
 - Letters

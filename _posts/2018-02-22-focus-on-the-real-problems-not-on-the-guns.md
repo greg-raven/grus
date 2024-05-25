@@ -1,5 +1,5 @@
 ---
-title: 'Focus on the real problems, not on the guns'
+title: "Focus on the real problems, not on the guns"
 layout: post
 categories:
 - Letters

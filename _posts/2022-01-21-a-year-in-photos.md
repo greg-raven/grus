@@ -1,5 +1,5 @@
 ---
-title: 'A year in photos'
+title: "A year in photos"
 layout: post
 categories:
 - Memes

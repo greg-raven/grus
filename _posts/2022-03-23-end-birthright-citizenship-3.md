@@ -1,5 +1,5 @@
 ---
-title: 'End Birthright Citizenship'
+title: "End Birthright Citizenship"
 layout: post
 categories:
 - Letters

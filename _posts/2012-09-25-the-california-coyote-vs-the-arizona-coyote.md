@@ -1,5 +1,5 @@
 ---
-title: 'The California Coyote vs the Arizona Coyote'
+title: "The California Coyote vs the Arizona Coyote"
 layout: post
 categories:
 - Opinion

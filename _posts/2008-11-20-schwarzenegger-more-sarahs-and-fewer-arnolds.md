@@ -1,5 +1,5 @@
 ---
-title: 'More Sarahs and fewer Arnolds'
+title: "More Sarahs and fewer Arnolds"
 layout: post
 categories:
 - Letters

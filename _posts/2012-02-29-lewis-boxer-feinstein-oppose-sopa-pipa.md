@@ -1,5 +1,5 @@
 ---
-title: 'Oppose SOPA / PIPA'
+title: "Oppose SOPA / PIPA"
 layout: post
 categories:
 - Letters

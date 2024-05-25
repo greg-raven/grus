@@ -1,5 +1,5 @@
 ---
-title: 'Please vote to confirm Neil Gorsuch'
+title: "Please vote to confirm Neil Gorsuch"
 layout: post
 categories:
 - Letters

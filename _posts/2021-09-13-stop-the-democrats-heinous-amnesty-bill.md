@@ -1,5 +1,5 @@
 ---
-title: 'Stop the Democrats&#8217; heinous amnesty bill'
+title: "Stop the Democrats' heinous amnesty bill"
 layout: post
 categories:
 - Letters

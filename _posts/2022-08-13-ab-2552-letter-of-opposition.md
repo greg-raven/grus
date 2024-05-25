@@ -1,5 +1,5 @@
 ---
-title: 'AB 2552 &#8212; Letter of opposition'
+title: "AB 2552 --- Letter of opposition"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Libtards, by Dixon Diaz'
+title: "Libtards, by Dixon Diaz"
 layout: post
 categories:
 - Cartoon

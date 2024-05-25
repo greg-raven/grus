@@ -1,5 +1,5 @@
 ---
-title: 'Visualizing Obama&#8217;s budget cuts'
+title: "Visualizing Obama's budget cuts"
 layout: post
 categories:
 - Video

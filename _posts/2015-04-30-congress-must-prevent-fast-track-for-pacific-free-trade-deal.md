@@ -1,5 +1,5 @@
 ---
-title: 'Congress must prevent fast track for Pacific free trade deal'
+title: "Congress must prevent fast track for Pacific free trade deal"
 layout: post
 categories:
 - Letters

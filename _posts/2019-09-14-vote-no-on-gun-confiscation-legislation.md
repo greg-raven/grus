@@ -1,5 +1,5 @@
 ---
-title: 'Vote no on gun confiscation legislation'
+title: "Vote no on gun confiscation legislation"
 layout: post
 categories:
 - Letters

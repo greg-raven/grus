@@ -1,5 +1,5 @@
 ---
-title: 'SB 918 &#8212; Letter of opposition'
+title: "SB 918 --- Letter of opposition"
 layout: post
 categories:
 - Letters

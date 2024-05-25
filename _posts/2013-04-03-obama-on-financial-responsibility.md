@@ -1,5 +1,5 @@
 ---
-title: 'Obama on financial responsibility'
+title: "Obama on financial responsibility"
 layout: post
 categories:
 - Information

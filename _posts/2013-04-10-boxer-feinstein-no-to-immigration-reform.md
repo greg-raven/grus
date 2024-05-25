@@ -1,5 +1,5 @@
 ---
-title: 'NO to immigration &#8216;reform&#8217;'
+title: "NO to immigration 'reform'"
 layout: post
 categories:
 - Letters

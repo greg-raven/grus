@@ -1,5 +1,5 @@
 ---
-title: 'No government takeover'
+title: "No government takeover"
 layout: post
 categories:
 - Letters

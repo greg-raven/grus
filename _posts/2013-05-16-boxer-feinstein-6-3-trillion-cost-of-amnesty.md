@@ -1,5 +1,5 @@
 ---
-title: '$6.3 trillion cost of amnesty'
+title: "$6.3 trillion cost of amnesty"
 layout: post
 categories:
 - Letters

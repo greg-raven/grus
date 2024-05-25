@@ -1,5 +1,5 @@
 ---
-title: 'Thoughts on voting'
+title: "Thoughts on voting"
 layout: post
 categories:
 - Information

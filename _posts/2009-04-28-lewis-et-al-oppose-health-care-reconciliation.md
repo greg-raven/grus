@@ -1,5 +1,5 @@
 ---
-title: 'Oppose health care reconciliation'
+title: "Oppose health care reconciliation"
 layout: post
 categories:
 - Letters

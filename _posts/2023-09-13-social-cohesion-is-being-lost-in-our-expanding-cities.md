@@ -1,5 +1,5 @@
 ---
-title: 'Social cohesion is being lost in our expanding cities.'
+title: "Social cohesion is being lost in our expanding cities."
 layout: post
 categories:
 - Letters

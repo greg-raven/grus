@@ -1,5 +1,5 @@
 ---
-title: 'Population growth is driving Americans crazy'
+title: "Population growth is driving Americans crazy"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Any &#8216;stimulus&#8217; package must protect American jobs'
+title: "Any 'stimulus' package must protect American jobs"
 layout: post
 categories:
 - Letters

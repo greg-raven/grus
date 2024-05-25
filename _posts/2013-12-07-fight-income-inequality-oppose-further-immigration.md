@@ -1,5 +1,5 @@
 ---
-title: 'Fight income inequality: Oppose further immigration'
+title: "Fight income inequality: Oppose further immigration"
 layout: post
 categories:
 - Letters

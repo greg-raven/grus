@@ -1,5 +1,5 @@
 ---
-title: 'Oppose ATF nominee David Chipman'
+title: "Oppose ATF nominee David Chipman"
 layout: post
 categories:
 - Letters

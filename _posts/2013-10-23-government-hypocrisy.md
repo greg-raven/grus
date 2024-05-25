@@ -1,5 +1,5 @@
 ---
-title: 'Government hypocrisy'
+title: "Government hypocrisy"
 layout: post
 categories:
 - Cartoon

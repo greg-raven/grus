@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for voting for the Verify First Act'
+title: "Thank you for voting for the Verify First Act"
 layout: post
 categories:
 - Letters

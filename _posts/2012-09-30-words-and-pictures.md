@@ -1,5 +1,5 @@
 ---
-title: 'Words and pictures'
+title: "Words and pictures"
 layout: post
 categories:
 - Cartoon

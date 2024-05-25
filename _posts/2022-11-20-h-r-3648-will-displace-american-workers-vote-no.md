@@ -1,5 +1,5 @@
 ---
-title: 'H.R. 3648 will displace American workers &#8212; VOTE NO!'
+title: "H.R. 3648 will displace American workers --- VOTE NO!"
 layout: post
 categories:
 - Letters

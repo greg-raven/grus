@@ -1,5 +1,5 @@
 ---
-title: 'Reject H.R. 1207 &#8212; the federal ban on online ammo sales'
+title: "Reject H.R. 1207 --- the federal ban on online ammo sales"
 layout: post
 categories:
 - Letters

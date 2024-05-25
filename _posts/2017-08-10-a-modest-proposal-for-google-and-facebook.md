@@ -1,5 +1,5 @@
 ---
-title: 'A modest proposal for Google and Facebook'
+title: "A modest proposal for Google and Facebook"
 layout: post
 categories:
 - Commentary

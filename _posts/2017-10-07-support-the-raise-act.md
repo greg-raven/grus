@@ -1,5 +1,5 @@
 ---
-title: 'Support the RAISE Act'
+title: "Support the RAISE Act"
 layout: post
 categories:
 - Letters

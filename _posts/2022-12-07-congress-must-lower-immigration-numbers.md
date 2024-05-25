@@ -1,5 +1,5 @@
 ---
-title: 'Congress must lower immigration numbers'
+title: "Congress must lower immigration numbers"
 layout: post
 categories:
 - Letters

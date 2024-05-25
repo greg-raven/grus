@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Democrat illegal alien amnesty'
+title: "Oppose Democrat illegal alien amnesty"
 layout: post
 categories:
 - Letters

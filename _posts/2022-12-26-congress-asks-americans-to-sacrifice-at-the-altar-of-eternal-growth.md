@@ -1,5 +1,5 @@
 ---
-title: 'Congress asks Americans to sacrifice at the altar of eternal growth'
+title: "Congress asks Americans to sacrifice at the altar of eternal growth"
 layout: post
 categories:
 - Letters

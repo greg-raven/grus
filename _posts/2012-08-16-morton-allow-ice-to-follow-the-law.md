@@ -1,5 +1,5 @@
 ---
-title: 'Morton: Allow ICE to follow the law'
+title: "Morton: Allow ICE to follow the law"
 layout: post
 categories:
 - Letters

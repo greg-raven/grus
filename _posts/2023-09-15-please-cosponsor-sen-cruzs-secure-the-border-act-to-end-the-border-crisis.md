@@ -1,5 +1,5 @@
 ---
-title: 'Please cosponsor Sen. Cruz&#8217;s Secure the Border Act to end the border crisis!'
+title: "Please cosponsor Sen. Cruz's Secure the Border Act to end the border crisis!"
 layout: post
 categories:
 - Letters

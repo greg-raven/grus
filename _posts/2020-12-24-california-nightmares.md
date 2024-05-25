@@ -1,5 +1,5 @@
 ---
-title: 'California nightmares'
+title: "California nightmares"
 layout: post
 categories:
 - Letters

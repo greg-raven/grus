@@ -1,5 +1,5 @@
 ---
-title: 'Abolish birthright citizenship for illegal aliens'
+title: "Abolish birthright citizenship for illegal aliens"
 layout: post
 categories:
 - Letters

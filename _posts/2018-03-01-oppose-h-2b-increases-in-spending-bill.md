@@ -1,5 +1,5 @@
 ---
-title: 'Oppose H-2B increases in spending bill'
+title: "Oppose H-2B increases in spending bill"
 layout: post
 categories:
 - Letters

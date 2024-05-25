@@ -1,5 +1,5 @@
 ---
-title: 'Oppose David Hamilton'
+title: "Oppose David Hamilton"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'No secret amnesties'
+title: "No secret amnesties"
 layout: post
 categories:
 - Letters

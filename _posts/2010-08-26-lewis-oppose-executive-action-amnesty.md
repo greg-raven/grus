@@ -1,5 +1,5 @@
 ---
-title: 'Oppose executive action amnesty'
+title: "Oppose executive action amnesty"
 layout: post
 categories:
 - Letters

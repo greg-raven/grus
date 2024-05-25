@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor H.R. 319, the Legal Workforce Act'
+title: "Cosponsor H.R. 319, the Legal Workforce Act"
 layout: post
 categories:
 - Letters

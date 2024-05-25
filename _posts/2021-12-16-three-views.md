@@ -1,5 +1,5 @@
 ---
-title: 'Three views'
+title: "Three views"
 layout: post
 categories:
 - Cartoon

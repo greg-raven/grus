@@ -1,5 +1,5 @@
 ---
-title: 'H-2B visas harm American workers'
+title: "H-2B visas harm American workers"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose any budget reconciliation bill that grants amnesty'
+title: "Oppose any budget reconciliation bill that grants amnesty"
 layout: post
 categories:
 - Letters

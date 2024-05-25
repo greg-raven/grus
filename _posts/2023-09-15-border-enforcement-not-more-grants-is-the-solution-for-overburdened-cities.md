@@ -1,5 +1,5 @@
 ---
-title: 'Border enforcement, not more grants, is the solution for overburdened cities'
+title: "Border enforcement, not more grants, is the solution for overburdened cities"
 layout: post
 categories:
 - Letters

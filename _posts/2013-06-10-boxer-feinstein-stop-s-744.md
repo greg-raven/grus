@@ -1,5 +1,5 @@
 ---
-title: 'Stop S. 744'
+title: "Stop S. 744"
 layout: post
 categories:
 - Letters

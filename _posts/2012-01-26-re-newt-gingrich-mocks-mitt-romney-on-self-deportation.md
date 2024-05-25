@@ -1,5 +1,5 @@
 ---
-title: 'Re: Newt Gingrich mocks Mitt Romney on &#8216;self-deportation&#8217;'
+title: "Re: Newt Gingrich mocks Mitt Romney on 'self-deportation'"
 layout: post
 categories:
 - Letters

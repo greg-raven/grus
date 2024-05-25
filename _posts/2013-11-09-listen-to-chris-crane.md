@@ -1,5 +1,5 @@
 ---
-title: 'Listen to Chris Crane'
+title: "Listen to Chris Crane"
 layout: post
 categories:
 - Letters

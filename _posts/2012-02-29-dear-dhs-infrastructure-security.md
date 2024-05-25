@@ -1,5 +1,5 @@
 ---
-title: 'Infrastructure Security'
+title: "Infrastructure Security"
 layout: post
 categories:
 - Letters

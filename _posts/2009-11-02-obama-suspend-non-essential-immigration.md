@@ -1,5 +1,5 @@
 ---
-title: 'Suspend Non-Essential Immigration'
+title: "Suspend Non-Essential Immigration"
 layout: post
 categories:
 - Letters

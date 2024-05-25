@@ -1,5 +1,5 @@
 ---
-title: 'March jobs report'
+title: "March jobs report"
 layout: post
 categories:
 - Letters

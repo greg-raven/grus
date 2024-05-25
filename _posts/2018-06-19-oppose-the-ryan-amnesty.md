@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the Ryan amnesty!'
+title: "Oppose the Ryan amnesty!"
 layout: post
 categories:
 - Letters

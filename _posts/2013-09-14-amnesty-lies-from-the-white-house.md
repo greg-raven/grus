@@ -1,5 +1,5 @@
 ---
-title: 'Amnesty lies from the White House'
+title: "Amnesty lies from the White House"
 layout: post
 categories:
 - Letters

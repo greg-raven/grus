@@ -1,5 +1,5 @@
 ---
-title: 'Border security and &#8216;other than Mexicans&#8217;'
+title: "Border security and 'other than Mexicans'"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Even &#8216;centrists&#8217; don&#8217;t want amnesty'
+title: "Even 'centrists' don't want amnesty"
 layout: post
 categories:
 - Letters

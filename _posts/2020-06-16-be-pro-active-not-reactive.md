@@ -1,5 +1,5 @@
 ---
-title: 'Be pro-active, not reactive'
+title: "Be pro-active, not reactive"
 layout: post
 categories:
 - Letters

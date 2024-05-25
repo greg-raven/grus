@@ -1,5 +1,5 @@
 ---
-title: 'Vote to end sanctuary cities'
+title: "Vote to end sanctuary cities"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Your multi-trillion-dollar budget'
+title: "Your multi-trillion-dollar budget"
 layout: post
 categories:
 - Letters

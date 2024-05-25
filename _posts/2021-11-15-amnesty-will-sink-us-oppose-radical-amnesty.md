@@ -1,5 +1,5 @@
 ---
-title: 'Amnesty will sink us: Oppose radical amnesty'
+title: "Amnesty will sink us: Oppose radical amnesty"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Congress needs to pass E-Verify to end illegal immigration'
+title: "Congress needs to pass E-Verify to end illegal immigration"
 layout: post
 categories:
 - Letters

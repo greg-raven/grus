@@ -1,5 +1,5 @@
 ---
-title: 'Napolitano must go'
+title: "Napolitano must go"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Confirm Brett Kavanaugh'
+title: "Confirm Brett Kavanaugh"
 layout: post
 categories:
 - Letters

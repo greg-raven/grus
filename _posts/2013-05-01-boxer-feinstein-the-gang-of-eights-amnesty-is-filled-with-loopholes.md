@@ -1,5 +1,5 @@
 ---
-title: 'The Gang of Eight&#8217;s amnesty is filled with loopholes'
+title: "The Gang of Eight's amnesty is filled with loopholes"
 layout: post
 categories:
 - Letters

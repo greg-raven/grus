@@ -1,5 +1,5 @@
 ---
-title: 'Reduce spending'
+title: "Reduce spending"
 layout: post
 categories:
 - Letters

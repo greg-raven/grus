@@ -1,5 +1,5 @@
 ---
-title: 'Pass the RAISE Act'
+title: "Pass the RAISE Act"
 layout: post
 categories:
 - Letters

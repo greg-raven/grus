@@ -1,5 +1,5 @@
 ---
-title: 'Stop attacking American ideals'
+title: "Stop attacking American ideals"
 layout: post
 categories:
 - Letters

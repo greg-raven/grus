@@ -1,5 +1,5 @@
 ---
-title: 'Attach H.R. 2 to the Continuing Resolution'
+title: "Attach H.R. 2 to the Continuing Resolution"
 layout: post
 categories:
 - Letters

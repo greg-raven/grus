@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for opposing Merrick Garland'
+title: "Thank you for opposing Merrick Garland"
 layout: post
 categories:
 - Letters

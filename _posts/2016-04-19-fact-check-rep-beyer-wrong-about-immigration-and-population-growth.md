@@ -1,5 +1,5 @@
 ---
-title: 'Fact Check: Rep. Beyer wrong about immigration and population growth'
+title: "Fact Check: Rep. Beyer wrong about immigration and population growth"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Emulate Brewer'
+title: "Emulate Brewer"
 layout: post
 categories:
 - Letters

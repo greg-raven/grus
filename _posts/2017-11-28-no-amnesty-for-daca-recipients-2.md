@@ -1,5 +1,5 @@
 ---
-title: 'No amnesty for DACA recipients'
+title: "No amnesty for DACA recipients"
 layout: post
 categories:
 - Letters

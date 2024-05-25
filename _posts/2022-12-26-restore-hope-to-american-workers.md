@@ -1,5 +1,5 @@
 ---
-title: 'Restore hope to American workers'
+title: "Restore hope to American workers"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'No lame duck session'
+title: "No lame duck session"
 layout: post
 categories:
 - Letters

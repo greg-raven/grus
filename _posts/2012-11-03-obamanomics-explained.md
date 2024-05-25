@@ -1,5 +1,5 @@
 ---
-title: 'Obamanomics explained'
+title: "Obamanomics explained"
 layout: post
 categories:
 - Cartoon

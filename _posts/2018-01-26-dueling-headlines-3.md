@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Borders'
+title: "Dueling headlines: Borders"
 layout: post
 categories:
 - Information

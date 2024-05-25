@@ -1,5 +1,5 @@
 ---
-title: 'Hypocrisy in hiring'
+title: "Hypocrisy in hiring"
 layout: post
 categories:
 - Letters

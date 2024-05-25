@@ -1,5 +1,5 @@
 ---
-title: 'LA Times: No conundrum'
+title: "LA Times: No conundrum"
 layout: post
 categories:
 - Letters

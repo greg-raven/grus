@@ -1,5 +1,5 @@
 ---
-title: 'Poll Shows that More Americans Want Immigration Decrease'
+title: "Poll Shows that More Americans Want Immigration Decrease"
 layout: post
 categories:
 - Letters

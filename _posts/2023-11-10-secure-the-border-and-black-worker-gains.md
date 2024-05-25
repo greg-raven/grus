@@ -1,5 +1,5 @@
 ---
-title: 'Secure the border and Black worker gains'
+title: "Secure the border and Black worker gains"
 layout: post
 categories:
 - Letters

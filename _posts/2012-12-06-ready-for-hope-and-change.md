@@ -1,5 +1,5 @@
 ---
-title: 'Ready for hope and change'
+title: "Ready for hope and change"
 layout: post
 categories:
 - Cartoon

@@ -1,5 +1,5 @@
 ---
-title: 'No privileges for illegals'
+title: "No privileges for illegals"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t ignore American concerns over high immigration after Brexit vote'
+title: "Don't ignore American concerns over high immigration after Brexit vote"
 layout: post
 categories:
 - Letters

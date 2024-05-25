@@ -1,5 +1,5 @@
 ---
-title: 'Federal policy is exacerbating Southwest water shortages.'
+title: "Federal policy is exacerbating Southwest water shortages."
 layout: post
 categories:
 - Letters

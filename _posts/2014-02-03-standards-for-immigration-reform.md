@@ -1,5 +1,5 @@
 ---
-title: '&#8216;Immigration principles&#8217;'
+title: "'Immigration principles'"
 layout: post
 categories:
 - Letters

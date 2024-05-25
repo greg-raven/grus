@@ -1,5 +1,5 @@
 ---
-title: 'Stop lame duck session DREAM Act'
+title: "Stop lame duck session DREAM Act"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Support the Legal Workforce Act to Mandate E-Verify and Combat ID Theft'
+title: "Support the Legal Workforce Act to Mandate E-Verify and Combat ID Theft"
 layout: post
 categories:
 - Letters

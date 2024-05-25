@@ -1,5 +1,5 @@
 ---
-title: 'No DREAM Act'
+title: "No DREAM Act"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Suspend immigration'
+title: "Suspend immigration"
 layout: post
 categories:
 - Letters

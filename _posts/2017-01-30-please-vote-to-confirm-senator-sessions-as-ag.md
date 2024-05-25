@@ -1,5 +1,5 @@
 ---
-title: 'Please vote to confirm Senator Sessions as AG'
+title: "Please vote to confirm Senator Sessions as AG"
 layout: post
 categories:
 - Letters

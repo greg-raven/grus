@@ -1,5 +1,5 @@
 ---
-title: 'Hope for America'
+title: "Hope for America"
 layout: post
 categories:
 - Opinion

@@ -1,5 +1,5 @@
 ---
-title: 'Kleptocrats on parade'
+title: "Kleptocrats on parade"
 layout: post
 categories:
 - Opinion

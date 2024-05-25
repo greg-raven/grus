@@ -1,5 +1,5 @@
 ---
-title: 'Stop Supporting Sanctuary Cities and Illegal Aliens'
+title: "Stop Supporting Sanctuary Cities and Illegal Aliens"
 layout: post
 categories:
 - Letters

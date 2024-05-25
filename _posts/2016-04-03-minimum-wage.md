@@ -1,5 +1,5 @@
 ---
-title: 'Minimum wage'
+title: "Minimum wage"
 layout: post
 categories:
 - Letters

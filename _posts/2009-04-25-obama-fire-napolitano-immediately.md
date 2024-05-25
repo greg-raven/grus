@@ -1,5 +1,5 @@
 ---
-title: 'Fire Napolitano Immediately'
+title: "Fire Napolitano Immediately"
 layout: post
 categories:
 - Letters

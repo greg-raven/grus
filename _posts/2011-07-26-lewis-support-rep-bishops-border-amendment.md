@@ -1,5 +1,5 @@
 ---
-title: 'Support Rep. Bishop&#8217;s Border amendment'
+title: "Support Rep. Bishop's Border amendment"
 layout: post
 categories:
 - Letters

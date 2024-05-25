@@ -1,5 +1,5 @@
 ---
-title: 'Drain The Swamp'
+title: "Drain The Swamp"
 layout: post
 categories:
 - Letters

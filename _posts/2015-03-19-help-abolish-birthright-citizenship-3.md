@@ -1,5 +1,5 @@
 ---
-title: 'Help abolish birthright citizenship'
+title: "Help abolish birthright citizenship"
 layout: post
 categories:
 - Letters

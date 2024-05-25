@@ -1,5 +1,5 @@
 ---
-title: 'Woke and racist agree'
+title: "Woke and racist agree"
 layout: post
 categories:
 - Video

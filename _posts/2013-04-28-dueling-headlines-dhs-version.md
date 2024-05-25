@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: DHS version'
+title: "Dueling headlines: DHS version"
 layout: post
 categories:
 - Information

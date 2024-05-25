@@ -1,5 +1,5 @@
 ---
-title: 'Please vote to confirm Brett Kavanaugh'
+title: "Please vote to confirm Brett Kavanaugh"
 layout: post
 categories:
 - Letters

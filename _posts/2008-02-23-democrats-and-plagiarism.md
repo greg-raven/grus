@@ -1,5 +1,5 @@
 ---
-title: 'Democrats and plagiarism'
+title: "Democrats and plagiarism"
 layout: post
 categories:
 - Opinion

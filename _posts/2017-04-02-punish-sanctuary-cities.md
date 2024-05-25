@@ -1,5 +1,5 @@
 ---
-title: 'Punish 'sanctuary cities&#8217;'
+title: "Punish 'sanctuary cities'"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Obama: DHS &#8216;extremists&#8217;'
+title: "Obama: DHS 'extremists'"
 layout: post
 categories:
 - Letters

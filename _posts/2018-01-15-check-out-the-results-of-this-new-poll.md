@@ -1,5 +1,5 @@
 ---
-title: 'Check out the results of this new poll'
+title: "Check out the results of this new poll"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose H.R. 2330'
+title: "Oppose H.R. 2330"
 layout: post
 categories:
 - Letters

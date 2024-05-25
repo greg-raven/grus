@@ -1,5 +1,5 @@
 ---
-title: 'Support LEAVE Act'
+title: "Support LEAVE Act"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Immigration has a 'devastating cost to Black Americans&#8217;'
+title: "Immigration has a 'devastating cost to Black Americans'"
 layout: post
 categories:
 - Letters

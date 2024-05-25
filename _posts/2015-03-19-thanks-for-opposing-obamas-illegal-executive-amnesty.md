@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for opposing Obama&#8217;s illegal executive amnesty'
+title: "Thanks for opposing Obama's illegal executive amnesty"
 layout: post
 categories:
 - Letters

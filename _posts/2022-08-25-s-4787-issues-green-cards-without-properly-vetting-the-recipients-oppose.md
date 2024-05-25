@@ -1,5 +1,5 @@
 ---
-title: 'S. 4787 issues green cards without properly vetting the recipients. Oppose.'
+title: "S. 4787 issues green cards without properly vetting the recipients. Oppose."
 layout: post
 categories:
 - Letters

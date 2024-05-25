@@ -1,5 +1,5 @@
 ---
-title: 'Democratic cities are being overwhelmed by border surge'
+title: "Democratic cities are being overwhelmed by border surge"
 layout: post
 categories:
 - Letters

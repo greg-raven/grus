@@ -1,5 +1,5 @@
 ---
-title: 'Oppose birthright citizenship'
+title: "Oppose birthright citizenship"
 layout: post
 categories:
 - Letters

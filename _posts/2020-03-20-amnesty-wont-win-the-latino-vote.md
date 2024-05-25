@@ -1,5 +1,5 @@
 ---
-title: 'Amnesty won&#8217;t win the Latino vote'
+title: "Amnesty won't win the Latino vote"
 layout: post
 categories:
 - Letters

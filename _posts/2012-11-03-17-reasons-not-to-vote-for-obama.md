@@ -1,5 +1,5 @@
 ---
-title: '17 reasons not to vote for Obama'
+title: "17 reasons not to vote for Obama"
 layout: post
 categories:
 - Cartoon

@@ -1,5 +1,5 @@
 ---
-title: 'No amnesty conference'
+title: "No amnesty conference"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Value the U.S. workforce by reducing immigration'
+title: "Value the U.S. workforce by reducing immigration"
 layout: post
 categories:
 - Letters

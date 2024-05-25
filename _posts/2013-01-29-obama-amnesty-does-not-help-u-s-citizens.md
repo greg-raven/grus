@@ -1,5 +1,5 @@
 ---
-title: 'Amnesty does NOT help U.S. citizens'
+title: "Amnesty does NOT help U.S. citizens"
 layout: post
 categories:
 - Letters

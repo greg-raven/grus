@@ -1,5 +1,5 @@
 ---
-title: 'Reopen America'
+title: "Reopen America"
 layout: post
 categories:
 - Letters

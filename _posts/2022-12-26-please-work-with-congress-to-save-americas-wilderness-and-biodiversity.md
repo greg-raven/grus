@@ -1,5 +1,5 @@
 ---
-title: 'Please work with Congress to save America&#8217;s wilderness and biodiversity'
+title: "Please work with Congress to save America's wilderness and biodiversity"
 layout: post
 categories:
 - Letters

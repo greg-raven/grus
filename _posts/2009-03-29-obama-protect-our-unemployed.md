@@ -1,5 +1,5 @@
 ---
-title: 'Protect our unemployed'
+title: "Protect our unemployed"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Signal your opposition to &#8216;immigration reform&#8217;'
+title: "Signal your opposition to 'immigration reform'"
 layout: post
 categories:
 - Letters

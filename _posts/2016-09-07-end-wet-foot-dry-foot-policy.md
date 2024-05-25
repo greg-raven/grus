@@ -1,5 +1,5 @@
 ---
-title: 'End 'Wet Foot, Dry Foot&#8217; policy'
+title: "End 'Wet Foot, Dry Foot' policy"
 layout: post
 categories:
 - Letters

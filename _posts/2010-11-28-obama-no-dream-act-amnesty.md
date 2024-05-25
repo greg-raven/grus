@@ -1,5 +1,5 @@
 ---
-title: 'No DREAM Act amnesty'
+title: "No DREAM Act amnesty"
 layout: post
 categories:
 - Letters

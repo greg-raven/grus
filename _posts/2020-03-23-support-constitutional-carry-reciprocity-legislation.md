@@ -1,5 +1,5 @@
 ---
-title: 'Support constitutional carry reciprocity legislation'
+title: "Support constitutional carry reciprocity legislation"
 layout: post
 categories:
 - Letters

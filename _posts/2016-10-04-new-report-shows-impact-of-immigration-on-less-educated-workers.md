@@ -1,5 +1,5 @@
 ---
-title: 'New report shows impact of immigration on less educated workers'
+title: "New report shows impact of immigration on less educated workers"
 layout: post
 categories:
 - Letters

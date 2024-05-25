@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor &#8216;no amnesty&#8217; resolution'
+title: "Cosponsor 'no amnesty' resolution"
 layout: post
 categories:
 - Letters

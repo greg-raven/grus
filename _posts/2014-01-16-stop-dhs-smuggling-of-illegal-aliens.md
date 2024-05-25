@@ -1,5 +1,5 @@
 ---
-title: 'Stop DHS smuggling of illegal aliens'
+title: "Stop DHS smuggling of illegal aliens"
 layout: post
 categories:
 - Letters

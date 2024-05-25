@@ -1,5 +1,5 @@
 ---
-title: 'Stop Judge David Hamilton now'
+title: "Stop Judge David Hamilton now"
 layout: post
 categories:
 - Letters

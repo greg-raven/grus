@@ -1,5 +1,5 @@
 ---
-title: 'Tight labor markets give workers a fighting chance'
+title: "Tight labor markets give workers a fighting chance"
 layout: post
 categories:
 - Letters

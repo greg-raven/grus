@@ -1,5 +1,5 @@
 ---
-title: 'Pass American LAWS Act'
+title: "Pass American LAWS Act"
 layout: post
 categories:
 - Letters

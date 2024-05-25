@@ -1,5 +1,5 @@
 ---
-title: 'Please support H.R. 822'
+title: "Please support H.R. 822"
 layout: post
 categories:
 - Letters

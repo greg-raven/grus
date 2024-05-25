@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for supporting enforcement and opposing mass amnesty'
+title: "Thank you for supporting enforcement and opposing mass amnesty"
 layout: post
 categories:
 - Letters

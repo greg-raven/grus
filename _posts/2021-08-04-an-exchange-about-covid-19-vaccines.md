@@ -1,5 +1,5 @@
 ---
-title: 'An exchange about COVID-19 vaccines'
+title: "An exchange about COVID-19 vaccines"
 layout: post
 categories:
 - Commentary

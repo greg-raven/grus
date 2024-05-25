@@ -1,5 +1,5 @@
 ---
-title: 'Say NO to the McCaul border bill'
+title: "Say NO to the McCaul border bill"
 layout: post
 categories:
 - Letters

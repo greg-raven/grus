@@ -1,5 +1,5 @@
 ---
-title: 'Auto industry bailouts'
+title: "Auto industry bailouts"
 layout: post
 categories:
 - Letters

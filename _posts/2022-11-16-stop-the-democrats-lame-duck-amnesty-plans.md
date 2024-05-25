@@ -1,5 +1,5 @@
 ---
-title: 'Stop the Democrat&#8217;s lame duck amnesty plans'
+title: "Stop the Democrat's lame duck amnesty plans"
 layout: post
 categories:
 - Letters

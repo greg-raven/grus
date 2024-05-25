@@ -1,5 +1,5 @@
 ---
-title: 'Come on, man!'
+title: "Come on, man!"
 layout: post
 categories:
 - Memes

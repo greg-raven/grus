@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor the SHORT Act!'
+title: "Cosponsor the SHORT Act!"
 layout: post
 categories:
 - Letters

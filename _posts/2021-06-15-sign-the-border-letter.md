@@ -1,5 +1,5 @@
 ---
-title: 'Sign the Border Letter'
+title: "Sign the Border Letter"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor mandatory E-Verify legislation'
+title: "Cosponsor mandatory E-Verify legislation"
 layout: post
 categories:
 - Letters

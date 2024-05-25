@@ -1,5 +1,5 @@
 ---
-title: 'The gentle giant'
+title: "The gentle giant"
 layout: post
 categories:
 - Information

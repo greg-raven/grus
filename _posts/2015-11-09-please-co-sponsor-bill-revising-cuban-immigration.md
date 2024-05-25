@@ -1,5 +1,5 @@
 ---
-title: 'Please cosponsor bill revising Cuban immigration'
+title: "Please cosponsor bill revising Cuban immigration"
 layout: post
 categories:
 - Letters

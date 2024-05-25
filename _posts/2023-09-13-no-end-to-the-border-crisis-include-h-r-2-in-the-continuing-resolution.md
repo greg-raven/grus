@@ -1,5 +1,5 @@
 ---
-title: 'No end to the border crisis. Include H.R. 2 in the Continuing Resolution.'
+title: "No end to the border crisis. Include H.R. 2 in the Continuing Resolution."
 layout: post
 categories:
 - Letters

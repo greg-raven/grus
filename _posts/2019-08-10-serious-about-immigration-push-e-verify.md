@@ -1,5 +1,5 @@
 ---
-title: 'Serious about immigration? Push E-Verify'
+title: "Serious about immigration? Push E-Verify"
 layout: post
 categories:
 - Letters

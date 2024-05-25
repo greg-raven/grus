@@ -1,5 +1,5 @@
 ---
-title: 'Most voters want immigration cuts'
+title: "Most voters want immigration cuts"
 layout: post
 categories:
 - Letters

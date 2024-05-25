@@ -1,5 +1,5 @@
 ---
-title: 'Block sanctuary legislation'
+title: "Block sanctuary legislation"
 layout: post
 categories:
 - Letters

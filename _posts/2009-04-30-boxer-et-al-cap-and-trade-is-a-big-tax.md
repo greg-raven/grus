@@ -1,5 +1,5 @@
 ---
-title: 'Cap-and-trade is a big tax'
+title: "Cap-and-trade is a big tax"
 layout: post
 categories:
 - Letters

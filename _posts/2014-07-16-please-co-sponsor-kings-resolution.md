@@ -1,5 +1,5 @@
 ---
-title: 'Please cosponsor King&#8217;s resolution'
+title: "Please cosponsor King's resolution"
 layout: post
 categories:
 - Letters

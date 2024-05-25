@@ -1,5 +1,5 @@
 ---
-title: 'LEOs oppose amnesty'
+title: "LEOs oppose amnesty"
 layout: post
 categories:
 - Letters

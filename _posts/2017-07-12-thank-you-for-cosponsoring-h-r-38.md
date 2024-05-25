@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for cosponsoring H.R. 38'
+title: "Thank you for cosponsoring H.R. 38"
 layout: post
 categories:
 - Letters

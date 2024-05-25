@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Baby formula edition'
+title: "Dueling headlines: Baby formula edition"
 layout: post
 categories:
 - Information

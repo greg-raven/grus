@@ -1,5 +1,5 @@
 ---
-title: 'Community Colleges'
+title: "Community Colleges"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Reduce immigration to strengthen resilience to extreme climate'
+title: "Reduce immigration to strengthen resilience to extreme climate"
 layout: post
 categories:
 - Letters

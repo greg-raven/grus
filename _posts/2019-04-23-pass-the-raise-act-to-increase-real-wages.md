@@ -1,5 +1,5 @@
 ---
-title: 'Pass the RAISE Act to increase real wages'
+title: "Pass the RAISE Act to increase real wages"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for voting YES on Defunding President Obama&#8217;s Executive Amnesty'
+title: "Thanks for voting YES on Defunding President Obama's Executive Amnesty"
 layout: post
 categories:
 - Letters

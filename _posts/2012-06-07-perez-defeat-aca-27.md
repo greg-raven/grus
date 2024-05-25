@@ -1,5 +1,5 @@
 ---
-title: 'Defeat ACA 27'
+title: "Defeat ACA 27"
 layout: post
 categories:
 - Letters

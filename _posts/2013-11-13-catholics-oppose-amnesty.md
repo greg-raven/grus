@@ -1,5 +1,5 @@
 ---
-title: 'Catholics oppose amnesty'
+title: "Catholics oppose amnesty"
 layout: post
 categories:
 - Letters

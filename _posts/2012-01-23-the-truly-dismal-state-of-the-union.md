@@ -1,5 +1,5 @@
 ---
-title: 'The truly dismal state of the union'
+title: "The truly dismal state of the union"
 layout: post
 categories:
 - Information

@@ -1,5 +1,5 @@
 ---
-title: 'Amnestied illegals won&#8217;t have to pay income taxes?'
+title: "Amnestied illegals won't have to pay income taxes?"
 layout: post
 categories:
 - Letters

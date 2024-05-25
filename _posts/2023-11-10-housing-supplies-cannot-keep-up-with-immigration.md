@@ -1,5 +1,5 @@
 ---
-title: 'Housing supplies cannot keep up with immigration'
+title: "Housing supplies cannot keep up with immigration"
 layout: post
 categories:
 - Letters

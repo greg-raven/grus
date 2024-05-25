@@ -1,5 +1,5 @@
 ---
-title: 'Support American workers'
+title: "Support American workers"
 layout: post
 categories:
 - Letters

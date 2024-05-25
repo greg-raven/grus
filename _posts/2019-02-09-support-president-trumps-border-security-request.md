@@ -1,5 +1,5 @@
 ---
-title: 'Support President Trump&#8217;s border security request'
+title: "Support President Trump's border security request"
 layout: post
 categories:
 - Letters

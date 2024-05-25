@@ -1,5 +1,5 @@
 ---
-title: 'Hypocrisy on parade: Reid was against illegal immigration before he was for it'
+title: "Hypocrisy on parade: Reid was against illegal immigration before he was for it"
 layout: post
 categories:
 - Information

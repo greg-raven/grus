@@ -1,5 +1,5 @@
 ---
-title: 'The promise of work permits encourages illegal immigration'
+title: "The promise of work permits encourages illegal immigration"
 layout: post
 categories:
 - Letters

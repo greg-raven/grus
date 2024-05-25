@@ -1,5 +1,5 @@
 ---
-title: 'Have you seen the latest Harvard-Harris poll?'
+title: "Have you seen the latest Harvard-Harris poll?"
 layout: post
 categories:
 - Letters

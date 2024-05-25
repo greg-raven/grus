@@ -1,5 +1,5 @@
 ---
-title: 'No amnesty, no visa lottery, no chain migration'
+title: "No amnesty, no visa lottery, no chain migration"
 layout: post
 categories:
 - Letters

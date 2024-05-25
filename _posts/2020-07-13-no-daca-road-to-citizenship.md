@@ -1,5 +1,5 @@
 ---
-title: 'No DACA 'road to citizenship&#8217;'
+title: "No DACA 'road to citizenship'"
 layout: post
 categories:
 - Letters

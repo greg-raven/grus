@@ -1,5 +1,5 @@
 ---
-title: 'An opportunity for Hungary'
+title: "An opportunity for Hungary"
 layout: post
 categories:
 - Letters

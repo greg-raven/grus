@@ -1,5 +1,5 @@
 ---
-title: 'End sanctuary city funding'
+title: "End sanctuary city funding"
 layout: post
 categories:
 - Letters

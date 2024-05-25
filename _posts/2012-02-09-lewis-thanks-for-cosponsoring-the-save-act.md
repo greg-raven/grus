@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for cosponsoring the SAVE Act'
+title: "Thanks for cosponsoring the SAVE Act"
 layout: post
 categories:
 - Letters

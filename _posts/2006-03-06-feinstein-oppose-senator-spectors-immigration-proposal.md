@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Senator Spector&#8217;s immigration proposal'
+title: "Oppose Senator Spector's immigration proposal"
 layout: post
 categories:
 - Letters

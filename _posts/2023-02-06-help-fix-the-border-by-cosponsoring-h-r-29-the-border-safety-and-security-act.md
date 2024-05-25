@@ -1,5 +1,5 @@
 ---
-title: 'Help fix the border by cosponsoring H.R. 29, the Border Safety and Security Act'
+title: "Help fix the border by cosponsoring H.R. 29, the Border Safety and Security Act"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: '2 million encounters on southern border this year. Secure the border.'
+title: "2 million encounters on southern border this year. Secure the border."
 layout: post
 categories:
 - Letters

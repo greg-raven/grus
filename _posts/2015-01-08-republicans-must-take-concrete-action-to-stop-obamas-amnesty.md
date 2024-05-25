@@ -1,5 +1,5 @@
 ---
-title: 'Republicans must take concrete action to stop Obama&#8217;s amnesty'
+title: "Republicans must take concrete action to stop Obama's amnesty"
 layout: post
 categories:
 - Letters

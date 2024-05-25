@@ -1,5 +1,5 @@
 ---
-title: 'On World Wildlife Day, America is experiencing its own 'biodiversity crisis&#8217;'
+title: "On World Wildlife Day, America is experiencing its own 'biodiversity crisis'"
 layout: post
 categories:
 - Letters

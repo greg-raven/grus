@@ -1,5 +1,5 @@
 ---
-title: 'Eagle replaced by skunk'
+title: "Eagle replaced by skunk"
 layout: post
 categories:
 - Cartoon

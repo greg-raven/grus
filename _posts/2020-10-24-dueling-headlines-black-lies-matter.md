@@ -1,5 +1,5 @@
 ---
-title: 'Dueling headlines: Black Lies Matter edition'
+title: "Dueling headlines: Black Lies Matter edition"
 layout: post
 categories:
 - Information

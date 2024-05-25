@@ -1,5 +1,5 @@
 ---
-title: 'You must stop the asylum-seeker caravan'
+title: "You must stop the asylum-seeker caravan"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'No to government &#8216;health care&#8217;'
+title: "No to government 'health care'"
 layout: post
 categories:
 - Letters

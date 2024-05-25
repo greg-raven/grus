@@ -1,5 +1,5 @@
 ---
-title: 'Oppose increased immigration'
+title: "Oppose increased immigration"
 layout: post
 categories:
 - Letters

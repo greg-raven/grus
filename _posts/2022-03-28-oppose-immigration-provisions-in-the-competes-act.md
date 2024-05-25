@@ -1,5 +1,5 @@
 ---
-title: 'Oppose immigration provisions in the COMPETES Act'
+title: "Oppose immigration provisions in the COMPETES Act"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Immigration hurts minority workers, especially American descendants of slavery'
+title: "Immigration hurts minority workers, especially American descendants of slavery"
 layout: post
 categories:
 - Letters

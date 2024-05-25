@@ -1,5 +1,5 @@
 ---
-title: 'Young Americans deserve jobs'
+title: "Young Americans deserve jobs"
 layout: post
 categories:
 - Letters

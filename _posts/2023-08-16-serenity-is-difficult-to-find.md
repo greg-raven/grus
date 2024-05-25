@@ -1,5 +1,5 @@
 ---
-title: 'Serenity is difficult to find'
+title: "Serenity is difficult to find"
 layout: post
 categories:
 - Letters

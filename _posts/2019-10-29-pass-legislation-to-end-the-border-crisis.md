@@ -1,5 +1,5 @@
 ---
-title: 'Pass legislation to end the border crisis'
+title: "Pass legislation to end the border crisis"
 layout: post
 categories:
 - Letters

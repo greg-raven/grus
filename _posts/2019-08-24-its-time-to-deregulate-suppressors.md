@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s time to deregulate suppressors'
+title: "It's time to deregulate suppressors"
 layout: post
 categories:
 - Letters

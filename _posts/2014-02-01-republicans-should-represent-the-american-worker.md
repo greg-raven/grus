@@ -1,5 +1,5 @@
 ---
-title: 'Republicans should represent the American worker'
+title: "Republicans should represent the American worker"
 layout: post
 categories:
 - Information

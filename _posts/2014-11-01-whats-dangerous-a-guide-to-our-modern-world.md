@@ -1,5 +1,5 @@
 ---
-title: 'What&#8217;s dangerous? A guide to our modern world'
+title: "What's dangerous? A guide to our modern world"
 layout: post
 categories:
 - Commentary

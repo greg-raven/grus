@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t allow DACA illegal aliens to compete with Americans for government jobs'
+title: "Don't allow DACA illegal aliens to compete with Americans for government jobs"
 layout: post
 categories:
 - Letters

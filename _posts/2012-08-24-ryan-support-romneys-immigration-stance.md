@@ -1,5 +1,5 @@
 ---
-title: 'Support Romney&#8217;s immigration stance'
+title: "Support Romney's immigration stance"
 layout: post
 categories:
 - Letters

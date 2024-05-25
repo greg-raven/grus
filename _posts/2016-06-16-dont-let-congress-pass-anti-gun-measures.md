@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t let Congress pass anti-gun measures'
+title: "Don't let Congress pass anti-gun measures"
 layout: post
 categories:
 - Letters

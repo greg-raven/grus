@@ -1,5 +1,5 @@
 ---
-title: 'Obamacare&#8217;s top 10 most costly taxes and fees'
+title: "Obamacare's top 10 most costly taxes and fees"
 layout: post
 categories:
 - Information

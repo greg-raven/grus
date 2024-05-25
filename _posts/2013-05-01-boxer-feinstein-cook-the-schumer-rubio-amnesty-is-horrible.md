@@ -1,5 +1,5 @@
 ---
-title: 'The Schumer-Rubio amnesty is horrible'
+title: "The Schumer-Rubio amnesty is horrible"
 layout: post
 categories:
 - Letters

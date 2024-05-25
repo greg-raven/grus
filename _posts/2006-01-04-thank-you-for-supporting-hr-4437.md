@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for supporting HR 4437'
+title: "Thank you for supporting HR 4437"
 layout: post
 categories:
 - Letters

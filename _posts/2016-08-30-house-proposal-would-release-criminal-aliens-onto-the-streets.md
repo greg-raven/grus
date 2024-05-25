@@ -1,5 +1,5 @@
 ---
-title: 'House proposal would release Criminal Aliens onto the streets'
+title: "House proposal would release Criminal Aliens onto the streets"
 layout: post
 categories:
 - Letters

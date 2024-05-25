@@ -1,5 +1,5 @@
 ---
-title: 'Stop the catch-and-release shell game &#8212; reestablish the Migration Protection Protocols!'
+title: "Stop the catch-and-release shell game --- reestablish the Migration Protection Protocols!"
 layout: post
 categories:
 - Letters

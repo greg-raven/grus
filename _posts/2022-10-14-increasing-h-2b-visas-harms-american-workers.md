@@ -1,5 +1,5 @@
 ---
-title: 'Increasing H-2B visas harms American workers'
+title: "Increasing H-2B visas harms American workers"
 layout: post
 categories:
 - Letters

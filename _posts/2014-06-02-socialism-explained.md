@@ -1,5 +1,5 @@
 ---
-title: 'Socialism explained'
+title: "Socialism explained"
 layout: post
 categories:
 - Cartoon

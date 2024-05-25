@@ -1,5 +1,5 @@
 ---
-title: 'No coddling illegal aliens'
+title: "No coddling illegal aliens"
 layout: post
 categories:
 - Letters

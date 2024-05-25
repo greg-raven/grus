@@ -1,5 +1,5 @@
 ---
-title: 'Balanced budget?'
+title: "Balanced budget?"
 layout: post
 categories:
 - Letters

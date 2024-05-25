@@ -1,5 +1,5 @@
 ---
-title: 'Lower emissions by lowering immigration-driven growth'
+title: "Lower emissions by lowering immigration-driven growth"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Please do NOT sign SB 822 into law'
+title: "Please do NOT sign SB 822 into law"
 layout: post
 categories:
 - Letters

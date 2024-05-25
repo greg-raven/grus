@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for voting against amnesty'
+title: "Thank you for voting against amnesty"
 layout: post
 categories:
 - Letters

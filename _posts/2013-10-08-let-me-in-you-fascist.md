@@ -1,5 +1,5 @@
 ---
-title: 'Let me in, you fascist!'
+title: "Let me in, you fascist!"
 layout: post
 categories:
 - Cartoon

@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Bambam&#8217;s amnesty'
+title: "Oppose Bambam's amnesty"
 layout: post
 categories:
 - Letters

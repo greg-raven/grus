@@ -1,5 +1,5 @@
 ---
-title: 'Three conditions for emergency funding'
+title: "Three conditions for emergency funding"
 layout: post
 categories:
 - Letters

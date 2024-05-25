@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t rubber-stamp gun control'
+title: "Don't rubber-stamp gun control"
 layout: post
 categories:
 - Letters

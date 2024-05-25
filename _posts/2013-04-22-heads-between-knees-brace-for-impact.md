@@ -1,5 +1,5 @@
 ---
-title: 'Heads between knees, brace for impact'
+title: "Heads between knees, brace for impact"
 layout: post
 categories:
 - Information

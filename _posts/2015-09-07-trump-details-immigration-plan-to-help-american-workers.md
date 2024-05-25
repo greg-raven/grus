@@ -1,5 +1,5 @@
 ---
-title: 'Trump details immigration plan to help American workers'
+title: "Trump details immigration plan to help American workers"
 layout: post
 categories:
 - Letters

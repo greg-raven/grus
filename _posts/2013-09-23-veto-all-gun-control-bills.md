@@ -1,5 +1,5 @@
 ---
-title: 'Veto all gun control bills'
+title: "Veto all gun control bills"
 layout: post
 categories:
 - Letters

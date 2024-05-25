@@ -1,5 +1,5 @@
 ---
-title: 'New CIS report shows massive immigrant population growth'
+title: "New CIS report shows massive immigrant population growth"
 layout: post
 categories:
 - Letters

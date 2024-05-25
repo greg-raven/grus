@@ -1,5 +1,5 @@
 ---
-title: 'Cosponsor the New IDEA Act (H.R. 1292)'
+title: "Cosponsor the New IDEA Act (H.R. 1292)"
 layout: post
 categories:
 - Letters

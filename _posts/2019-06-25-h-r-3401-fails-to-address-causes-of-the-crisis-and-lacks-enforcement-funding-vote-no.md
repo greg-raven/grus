@@ -1,5 +1,5 @@
 ---
-title: 'H.R. 3401 fails to address causes of the crisis and lacks enforcement funding &#8212; Vote NO'
+title: "H.R. 3401 fails to address causes of the crisis and lacks enforcement funding --- Vote NO"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'My work here is done'
+title: "My work here is done"
 layout: post
 categories:
 - Cartoon

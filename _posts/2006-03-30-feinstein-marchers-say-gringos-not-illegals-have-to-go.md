@@ -1,5 +1,5 @@
 ---
-title: 'Marchers say gringos, not illegals, have to go'
+title: "Marchers say gringos, not illegals, have to go"
 layout: post
 categories:
 - Letters

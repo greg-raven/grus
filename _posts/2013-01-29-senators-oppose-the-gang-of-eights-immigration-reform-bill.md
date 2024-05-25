@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the Gang of Eight&#8217;s immigration &#8216;reform&#8217; bill'
+title: "Oppose the Gang of Eight's immigration 'reform' bill"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Support President Trump&#8217;s immigration Executive Order!'
+title: "Support President Trump's immigration Executive Order!"
 layout: post
 categories:
 - Letters

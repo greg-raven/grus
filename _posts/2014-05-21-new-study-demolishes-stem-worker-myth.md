@@ -1,5 +1,5 @@
 ---
-title: 'New study demolishes STEM worker myth'
+title: "New study demolishes STEM worker myth"
 layout: post
 categories:
 - Letters

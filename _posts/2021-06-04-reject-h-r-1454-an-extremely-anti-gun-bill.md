@@ -1,5 +1,5 @@
 ---
-title: 'Reject H.R. 1454 &#8212; an extremely anti-gun bill'
+title: "Reject H.R. 1454 --- an extremely anti-gun bill"
 layout: post
 categories:
 - Letters

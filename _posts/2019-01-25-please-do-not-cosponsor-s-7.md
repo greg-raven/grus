@@ -1,5 +1,5 @@
 ---
-title: 'Please do not cosponsor S. 7'
+title: "Please do not cosponsor S. 7"
 layout: post
 categories:
 - Letters

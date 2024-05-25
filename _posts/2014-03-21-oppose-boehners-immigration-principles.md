@@ -1,5 +1,5 @@
 ---
-title: 'Oppose Boehner&#8217;s &#8216;immigration principles&#8217;'
+title: "Oppose Boehner's 'immigration principles'"
 layout: post
 categories:
 - Letters

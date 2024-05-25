@@ -1,5 +1,5 @@
 ---
-title: 'Support the Legal Workforce Act to mandate E-Verify'
+title: "Support the Legal Workforce Act to mandate E-Verify"
 layout: post
 categories:
 - Letters

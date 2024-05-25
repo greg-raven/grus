@@ -1,5 +1,5 @@
 ---
-title: 'Wages decrease during a slowing economy. Reduce immigration.'
+title: "Wages decrease during a slowing economy. Reduce immigration."
 layout: post
 categories:
 - Letters

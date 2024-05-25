@@ -1,5 +1,5 @@
 ---
-title: 'Push Congress to mandate E-Verify'
+title: "Push Congress to mandate E-Verify"
 layout: post
 categories:
 - Letters

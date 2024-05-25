@@ -1,5 +1,5 @@
 ---
-title: 'DREAM Act support'
+title: "DREAM Act support"
 layout: post
 categories:
 - Letters

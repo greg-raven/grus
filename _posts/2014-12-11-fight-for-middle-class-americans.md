@@ -1,5 +1,5 @@
 ---
-title: 'Fight for middle-class Americans'
+title: "Fight for middle-class Americans"
 layout: post
 categories:
 - Letters

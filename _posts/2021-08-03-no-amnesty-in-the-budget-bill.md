@@ -1,5 +1,5 @@
 ---
-title: 'NO amnesty in the budget bill'
+title: "NO amnesty in the budget bill"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Obama meets the Pope'
+title: "Obama meets the Pope"
 layout: post
 categories:
 - Cartoon

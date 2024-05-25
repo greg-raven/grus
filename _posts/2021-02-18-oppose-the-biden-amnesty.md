@@ -1,5 +1,5 @@
 ---
-title: 'Oppose the Biden Amnesty'
+title: "Oppose the Biden Amnesty"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Stop Costa Rica from helping Cubans enter U.S.'
+title: "Stop Costa Rica from helping Cubans enter U.S."
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for nothing'
+title: "Thanks for nothing"
 layout: post
 categories:
 - Letters

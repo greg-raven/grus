@@ -1,5 +1,5 @@
 ---
-title: 'U.S. granted 1 million green cards in 2014'
+title: "U.S. granted 1 million green cards in 2014"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Global warming = global control?'
+title: "Global warming = global control?"
 layout: post
 categories:
 - Opinion

@@ -1,5 +1,5 @@
 ---
-title: 'American cities should not provide &#8216;sanctuary&#8217; for foreign criminals'
+title: "American cities should not provide 'sanctuary' for foreign criminals"
 layout: post
 categories:
 - Letters

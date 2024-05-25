@@ -1,5 +1,5 @@
 ---
-title: 'Defunding 287(g)'
+title: "Defunding 287(g)"
 layout: post
 categories:
 - Letters

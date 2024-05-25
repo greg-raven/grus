@@ -1,5 +1,5 @@
 ---
-title: 'Time to take action against sanctuary cities'
+title: "Time to take action against sanctuary cities"
 layout: post
 categories:
 - Letters

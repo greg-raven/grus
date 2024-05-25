@@ -1,5 +1,5 @@
 ---
-title: 'No path to citizenship in the lame duck. The border needs attention.'
+title: "No path to citizenship in the lame duck. The border needs attention."
 layout: post
 categories:
 - Letters

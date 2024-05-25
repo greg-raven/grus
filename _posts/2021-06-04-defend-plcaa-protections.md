@@ -1,5 +1,5 @@
 ---
-title: 'Defend PLCAA protections'
+title: "Defend PLCAA protections"
 layout: post
 categories:
 - Letters

@@ -1,5 +1,5 @@
 ---
-title: 'Thank you for supporting concealed carry reciprocity'
+title: "Thank you for supporting concealed carry reciprocity"
 layout: post
 categories:
 - Letters

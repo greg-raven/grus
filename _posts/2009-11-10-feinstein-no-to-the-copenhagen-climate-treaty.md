@@ -1,5 +1,5 @@
 ---
-title: 'No to the Copenhagen Climate Treaty'
+title: "No to the Copenhagen Climate Treaty"
 layout: post
 categories:
 - Letters
