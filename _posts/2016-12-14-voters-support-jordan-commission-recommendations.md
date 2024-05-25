@@ -15,7 +15,7 @@ I hope you will study the recommendations made by the Jordan Commission on Immig
 
 Rep. Barbara Jordan and her colleagues recognized that immigration enforcement was necessary to have an immigration system that served the national interest and that lowering immigration numbers would benefit less-educated American workers. The Jordan Commission also recommended:
 
-- a scaling back of family chain-migration by implementing a prioritization of nuclear family relationships to determine who will be admitted through family-based immigration. Spouses and minor children of US citizens would continue to be admitted as first priority;
+- a scaling back of family chain-migration by implementing a prioritization of nuclear family relationships to determine who will be admitted through family-based immigration. Spouses and minor children of U.S. citizens would continue to be admitted as first priority;
 - the elimination of other family-based admission categories;
 - focusing on the admission of highly-skilled individuals whose skills would benefit our society. The Commission recommended the elimination of the admission of unskilled workers and elimination of the diversity visa lottery;
 - an immigration admissions level of 550,000 per year; and

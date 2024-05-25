@@ -15,7 +15,7 @@ Moreover, the crisis at the U.S. / Mexico border will only be exacerbated by a m
 
 - aliens with communicable diseases, the unvaccinated, with physical/mental disorders, and drug abusers;
 - public charges;
-- aliens coming to work in the US when there are willing, qualified, and available US workers, or when their employment may adversely affect wages and working conditions of US workers;
+- aliens coming to work in the U.S. when there are willing, qualified, and available U.S. workers, or when their employment may adversely affect wages and working conditions of U.S. workers;
 - aliens present without admission or parole, who failed to attend removal proceedings, immigration fraudsters, stowaways, and those subject to a final order of removal;
 - aliens without proper documentation;
 - aliens previously removed (within the statutory period barring reentry), aliens unlawfully present, and aliens present after previous immigration violations;

@@ -54,7 +54,7 @@ https://blog.american.com/2011/07/would-social-security-benefits-be-cut-if-the-d
 **USA producing more oil than ever before**  
 https://petroleuminsights.blogspot.com/2011/04/us-crude-oil-production-1970-1980-1990.html
 
-**Fence between US and Mexico is "Practically Complete"**  
+**Fence between U.S. and Mexico is "Practically Complete"**  
 https://nation.foxnews.com/border-fence/2011/05/10/obama-claims-border-fence-basically-complete-its-only-5-finished
 
 **Rich doesn't pay their fair share.**  
@@ -96,7 +96,7 @@ https://www.obamaslies.net/obama-lies-about-funded-abortions.html
 **ObamaCare Fee is not a new tax**  
 https://www.obamaslies.net/obama-denies-healthcare-is-a-new-tax-on-all-americans.html
 
-**We have run out of places in the US to drill for oil.**  
+**We have run out of places in the U.S. to drill for oil.**  
 https://www.obamaslies.net/obama-oval-office-bp-lies.html
 
 **Now suddenly if you don't have your papers and you took your kid out to get ice cream, you can be harassed, that's something that could potentially happen.**  

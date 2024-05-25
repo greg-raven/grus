@@ -1,5 +1,5 @@
 ---
-title: 'The OPT program is harmful to US workers seeking employment'
+title: 'The OPT program is harmful to U.S. workers seeking employment'
 date: '2020-06-25T03:33:59-08:00'
 layout: post
 categories:

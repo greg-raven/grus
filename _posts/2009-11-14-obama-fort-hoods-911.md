@@ -21,13 +21,13 @@ I'm sending you this in case you missed it:
 > 
 > By RALPH PETERS
 > 
-> On Thursday afternoon, a radicalized Muslim US Army officer shouting "Allahu Akbar!" committed the worst act of terror on American soil since 9/11. And no one wants to call it an act of terror or associate it with Islam.
+> On Thursday afternoon, a radicalized Muslim U.S. Army officer shouting "Allahu Akbar!" committed the worst act of terror on American soil since 9/11. And no one wants to call it an act of terror or associate it with Islam.
 > 
 > What cowards we are. Political correctness killed those patriotic Americans at Ft. Hood as surely as the Islamist gunman did. And the media treat it like a case of non-denominational shoplifting.
 > 
 > This was a terrorist act. When an extremist plans and executes a murderous plot against our unarmed soldiers to protest our efforts to counter Islamist fanatics, it's an act of terror. Period.
 > 
-> When the terrorist posts anti-American hate-speech on the Web; apparently praises suicide bombers and uses his own name; loudly criticizes US policies; argues (as a psychiatrist, no less) with his military patients over the worth of their sacrifices; refuses, in the name of Islam, to be photographed with female colleagues; lists his nationality as "Palestinian" in a Muslim spouse-matching program, and parades around central Texas in a fundamentalist playsuit --- well, it only seems fair to call this terrorist an "Islamist terrorist."
+> When the terrorist posts anti-American hate-speech on the Web; apparently praises suicide bombers and uses his own name; loudly criticizes U.S. policies; argues (as a psychiatrist, no less) with his military patients over the worth of their sacrifices; refuses, in the name of Islam, to be photographed with female colleagues; lists his nationality as "Palestinian" in a Muslim spouse-matching program, and parades around central Texas in a fundamentalist playsuit --- well, it only seems fair to call this terrorist an "Islamist terrorist."
 > 
 > But the president won't. Despite his promise to get to all the facts. Because there's no such thing as "Islamist terrorism" in ObamaWorld.
 > 
@@ -39,11 +39,11 @@ I'm sending you this in case you missed it:
 > 
 > Hasan survived. Now the rest of us will have to foot his massive medical bills. Activist lawyers will get involved, claiming "harassment" drove him temporarily insane. There'll be no end of trial delays. At best, taxpayer dollars will fund his prison lifestyle for decades to come, since our politically correct Army leadership wouldn't dare pursue or carry out the death penalty.
 > 
-> Maj. Hasan will be a hero to Islamist terrorists abroad and their sympathizers here. While US Muslim organizations decry his acts publicly, Hasan will be praised privately. And he'll have the last laugh.
+> Maj. Hasan will be a hero to Islamist terrorists abroad and their sympathizers here. While U.S. Muslim organizations decry his acts publicly, Hasan will be praised privately. And he'll have the last laugh.
 > 
-> But Hasan isn't the sole guilty party. The US Army's unforgivable political correctness is also to blame for the casualties at Ft. Hood.
+> But Hasan isn't the sole guilty party. The U.S. Army's unforgivable political correctness is also to blame for the casualties at Ft. Hood.
 > 
-> Given the myriad warning signs, it's appalling that no action was taken against a man apparently known to praise suicide bombers and openly damn US policy. But no officer in his chain of command, either at Walter Reed Army Medical Center or at Ft. Hood, had the guts to take meaningful action against a dysfunctional soldier and an incompetent doctor.
+> Given the myriad warning signs, it's appalling that no action was taken against a man apparently known to praise suicide bombers and openly damn U.S. policy. But no officer in his chain of command, either at Walter Reed Army Medical Center or at Ft. Hood, had the guts to take meaningful action against a dysfunctional soldier and an incompetent doctor.
 > 
 > Had Hasan been a Lutheran or a Methodist, he would've been gone with the simoon. But officers fear charges of discrimination when faced with misconduct among protected minorities.
 > 

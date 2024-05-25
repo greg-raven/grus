@@ -192,7 +192,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Covid-19 Is Not a "Pandemic of the Unvaccinated" – Just Facts Daily](https://www.justfactsdaily.com/covid-19-is-not-a-pandemic-of-the-unvaccinated)
 
-- [TOTAL US DEATHS 2014, 2015, 2016, 2017, 2018, 2019 & 2020](https://www.myessentialnews.com/post/usdeaths)
+- [TOTAL U.S. DEATHS 2014, 2015, 2016, 2017, 2018, 2019 & 2020](https://www.myessentialnews.com/post/usdeaths)
 
 - [Dr. Ryan Cole – Covid Mistakes](https://www.bitchute.com/video/hfzL5gUeQvxr/)
 
@@ -248,7 +248,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [U.S. Agencies Quietly Studying Reports of Post-Vaccination Neurological Issues](https://www.theepochtimes.com/us-agencies-quietly-studying-reports-of-post-vaccination-neurological-issues_4262395.html)
 
-- [How prominent public health agencies are skewing vaccine effectiveness statistics in the US – #Denominatorgate – TheBlaze](https://www.theblaze.com/news/denominatorgate-how-public-health-agencies-are-skewing-the-statistics-on-vaccine-effectiveness)
+- [How prominent public health agencies are skewing vaccine effectiveness statistics in the U.S. – #Denominatorgate – TheBlaze](https://www.theblaze.com/news/denominatorgate-how-public-health-agencies-are-skewing-the-statistics-on-vaccine-effectiveness)
 
 - [New Research Points to Wuhan Market as Pandemic Origin – The New York Times](https://archive.ph/SmvK5)
 
@@ -364,7 +364,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Fauci paper suggests feds knew COVID vaccines were doomed from the start: 'Decidedly suboptimal'](https://justthenews.com/government/federal-agencies/decidedly-suboptimal-fauci-paper-suggests-feds-knew-covid-vaccines-were)
 
-- [Chinese lab leak likely behind COVID outbreak: US officials](https://nypost.com/2023/02/26/chinese-lab-leak-likely-behind-covid-19-outbreak/)
+- [Chinese lab leak likely behind COVID outbreak: U.S. officials](https://nypost.com/2023/02/26/chinese-lab-leak-likely-behind-covid-19-outbreak/)
 
 - [Shocking Study Out of Australia Shows up to a 26 Fold Increase in Excess Mortality in 2021 and 2022. Consistent With American Insurance Companies Findings](https://www.thegatewaypundit.com/2023/03/shocking-study-out-of-australia-shows-up-to-a-26-fold-increase-in-excess-mortality-in-2021-and-2022-consistent-with-american-insurance-companies-findings/)
 
@@ -386,7 +386,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Heart injuries from COVID vaccine 3000x higher than thought](https://hotair.com/david-strom/2023/07/26/swiss-study-heart-injuries-from-covid-vaccine-3000x-higher-than-thought-n567151)
 
-- [Covid-19 Created In Wuhan Lab Through Classified Bioweapons Program: US Investigators](https://www.zerohedge.com/covid-19/covid-19-created-wuhan-lab-through-classified-chinese-bioweapons-program-us-investigators)
+- [Covid-19 Created In Wuhan Lab Through Classified Bioweapons Program: U.S. Investigators](https://www.zerohedge.com/covid-19/covid-19-created-wuhan-lab-through-classified-chinese-bioweapons-program-us-investigators)
 
 - [Covid Censorship Proved to Be Deadly](https://www.wsj.com/articles/covid-censorship-proved-to-be-deadly-social-media-government-pandemic-health-697c32c4)
 
