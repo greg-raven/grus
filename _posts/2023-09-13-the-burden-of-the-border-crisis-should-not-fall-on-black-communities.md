@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - border control
+- chain migration
 - immigration
 - jobs
 - Representative Jay Obernolte

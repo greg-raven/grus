@@ -6,6 +6,7 @@ categories:
 tags:
 - amnesty
 - Barack Hussein Obama
+- chain migration
 ---
 
 For the sake of every child who has had her identity stolen by an illegal worker, and every parent who has had to compete with illegal workers, please ask Senate Majority Leader Harry Reid to keep the DREAM Act amnesty out of the Defense Authorization bill.

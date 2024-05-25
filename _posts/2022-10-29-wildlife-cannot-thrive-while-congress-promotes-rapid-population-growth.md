@@ -4,6 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - environment
 - immigration
 - population

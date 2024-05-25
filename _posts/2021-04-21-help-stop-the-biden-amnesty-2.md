@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
+- chain migration
 - Senator Dianne Feinstein
 - visa lottery
 ---

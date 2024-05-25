@@ -14,6 +14,4 @@ The United States is one of only two industrialized nations to still practice *j
 
 I urge you to get behind legislation that would end this outdated practice once and for all!
 
-Sincerely
-
 {% include signature.html %}

@@ -12,6 +12,4 @@ Thanks for calling Resident Obama a liar --- which he clearly is, on so many iss
 
 I wish, though, that you hadn't apologized afterwards. It would have been great if you had stuck to your guns.
 
-Sincerely yours,
-
 {% include signature.html %}

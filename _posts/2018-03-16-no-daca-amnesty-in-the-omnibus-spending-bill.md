@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
+- chain migration
 - Senator John Cornyn
 - Senator John Thune
 - Senator Mitch McConnell

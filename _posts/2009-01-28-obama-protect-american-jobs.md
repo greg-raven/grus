@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - Barack Hussein Obama
+- chain migration
 - immigration
 - visa lottery
 ---

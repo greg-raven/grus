@@ -14,8 +14,6 @@ Human smugglers and drug traffickers are taking advantage of the Biden administr
 
 I hope you and your colleagues will oppose the budget reconciliation bill if it amnesties illegal aliens.
 
-Sincerely
-
 {% include signature.html %}
 
 P.S. We need as much border control as we can possibly get, both to protect this country and to protect its legal workforce.

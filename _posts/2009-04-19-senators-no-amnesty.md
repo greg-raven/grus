@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
+- chain migration
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
 ---

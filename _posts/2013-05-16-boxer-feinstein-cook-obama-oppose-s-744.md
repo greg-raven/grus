@@ -6,6 +6,7 @@ categories:
 tags:
 - amnesty
 - Barack Hussein Obama
+- chain migration
 - population
 - Representative Paul Cook
 - Senator Barbara Boxer

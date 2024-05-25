@@ -4,6 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Laphonza Butler

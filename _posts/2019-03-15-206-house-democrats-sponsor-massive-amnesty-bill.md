@@ -4,6 +4,10 @@ layout: post
 categories:
 - Commentary
 - Information
+tags:
+- chain migration
+- E-Verify
+- visa lottery
 ---
 
 - As feared, the "Dream and Promise Act of 2019" is a massive amnesty with some hair-raising provisions: Some domestic abusers may get to stay in U.S.?
@@ -51,9 +55,13 @@ Can you believe that in the 21st century, politicians are actually foreseeing gr
 Here is what the "Dream and Promise Act of 2019" DOESN'T do. The bill DOES NOT:
 
 - Does NOT end Chain Migration;
+
 - Does NOT mandate E-Verify;
+
 - Does NOT abolish the Visa Lottery;
+
 - Does NOT improve enforcement (in fact, it makes it worse); and
+
 - Does NOT ban sanctuary cities.
 
 The American people gain NOTHING from this "Dreamers and Promise Act of 2019." Each of us must oppose this bill by contacting our representatives, and by supporting [NumbersUSA](https://www.numbersusa.com/donate). Why?

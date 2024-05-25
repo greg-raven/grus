@@ -4,13 +4,12 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - Representative Jerry Lewis
 - visa lottery
 - E-Verify
 
 ---
-
-Representative Jerry Lewis,
 
 Thank you for being such a positive force in fighting the forces that put Americans out of work and drive down U.S. wages (illegal immigration and foreign worker importation). Your good NumbersUSA Immigration-Reduction Grade proves you care about jobless Americans.
 

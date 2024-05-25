@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
+- chain migration
 - Representative Paul Cook
 - Representative Paul Ryan
 - visa lottery

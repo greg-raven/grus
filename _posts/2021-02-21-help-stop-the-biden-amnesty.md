@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
+- chain migration
 - Representative Jay Obernolte
 - Senator Alex Padilla
 - Senator Dianne Feinstein

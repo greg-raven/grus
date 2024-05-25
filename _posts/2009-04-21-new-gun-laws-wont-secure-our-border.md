@@ -56,6 +56,4 @@ I'm sending this in case you missed it:
 
 I won't get into your lie about 90 percent of the guns in the hands of Mexican drug cartel members coming from the United States. Even you can't be stupid enough to believe that, although you are cynical enough to repeat it.
 
-Sincerely yours,
-
 {% include signature.html %}

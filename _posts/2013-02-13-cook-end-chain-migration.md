@@ -4,12 +4,11 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - immigration
 - population
 - Representative Paul Cook
 ---
-
-Representative Paul Cook:
 
 It would help all unemployed Americans if you were to cosponsor Rep. Phil Gingrey's Nuclear Family Priority Act (H.R. 477)!
 

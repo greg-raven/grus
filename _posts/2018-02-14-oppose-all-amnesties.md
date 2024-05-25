@@ -5,6 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
+- chain migration
 - immigration
 - Senator Dianne Feinstein
 - Senator Kamala Harris

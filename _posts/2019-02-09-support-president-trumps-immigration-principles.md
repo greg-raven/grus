@@ -4,6 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
+- E-Verify
 - immigration
 - Representative Paul Cook
 - Senator Dianne Feinstein

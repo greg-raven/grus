@@ -4,6 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - immigration
 - Senator Barbara Boxer
 - Senator Dianne Feinstein

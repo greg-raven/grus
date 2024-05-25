@@ -9,6 +9,7 @@ tags:
 - environment
 - immigration
 - E-Verify
+- chain migration
 ---
 
 America's underground water supplies are being severely depleted (*The New York Times,* 8/28/23). The "mining" of groundwater causes critical problems and is happening across America, especially in arid areas with runaway urban sprawl.

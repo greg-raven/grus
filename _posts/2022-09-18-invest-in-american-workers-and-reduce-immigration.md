@@ -4,6 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - immigration
 - Senator Alex Padilla
 - Senator Dianne Feinstein

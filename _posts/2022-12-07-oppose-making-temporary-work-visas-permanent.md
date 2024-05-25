@@ -4,6 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
+- chain migration
 - immigration
 - jobs
 - Representative Jay Obernolte
