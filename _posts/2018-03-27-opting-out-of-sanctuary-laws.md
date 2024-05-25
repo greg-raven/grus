@@ -1,14 +1,13 @@
 ---
 title: 'Opting out of sanctuary laws'
-date: '2018-03-27T06:40:45-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
+- illegal aliens
 ---
 
-I agree with the letter writer who suggested we contact our elected officials to urge them to opt out of California’s "sanctuary" status, much as Los Alamitos has already done in Orange County (*Daily Press,* Letters, March 27, 2018).
+I agree with the letter writer who suggested we contact our elected officials to urge them to opt out of California's "sanctuary" status, much as Los Alamitos has already done in Orange County (*Daily Press,* Letters, March 27, 2018).
 
 In fact, I would go even further.
 

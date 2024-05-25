@@ -1,14 +1,13 @@
 ---
 title: 'Please implement the biometric entry-exit system'
-date: '2018-08-09T05:43:09-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'national security'
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- national security
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 The Department of Homeland Security (DHS) released its FY 2017 Entry/Exit Overstay Report, which says that 701,900 foreign nationals overstayed their visa. The Washington Examiner notes the amount is greater than the number (526,901) who crossed the southwest border illegally that year.

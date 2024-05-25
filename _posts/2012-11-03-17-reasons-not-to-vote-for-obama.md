@@ -1,12 +1,11 @@
 ---
 title: '17 reasons not to vote for Obama'
-date: '2012-11-03T14:10:29-08:00'
 layout: post
 categories:
-    - Cartoon
-    - Information
+- Cartoon
+- Information
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 1. 23 million unemployed.

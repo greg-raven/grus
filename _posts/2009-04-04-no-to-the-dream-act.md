@@ -1,13 +1,12 @@
 ---
 title: 'No to the DREAM Act'
-date: '2009-04-04T01:45:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Why would you consider sponsoring the DREAM Act amnesty without first eliminating the chain migration categories that would reward the illegal alien parents of the amnestied illegal alien "children?"  

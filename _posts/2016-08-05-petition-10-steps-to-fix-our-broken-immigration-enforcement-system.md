@@ -1,15 +1,14 @@
 ---
 title: 'Petition: 10 steps to fix our broken immigration enforcement system'
-date: '2016-08-05T11:40:50-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- immigration
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I urge you to take legislative steps that strengthen interior enforcement, end policies that encourage illegal immigration and achieve 100% operational control at and in between all ports of entry.

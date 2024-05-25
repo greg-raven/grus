@@ -1,14 +1,13 @@
 ---
 title: 'Stop Syrian refugee settlement in the U.S.'
-date: '2015-11-09T15:33:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 A new study from the Center for Immigration Studies shows that the U.S. government can help twelve Syrian refugees who remain in the Middle East for every one refugee it relocates to the U.S. I urge you to support U.S. guidelines that advice against relocating refugees long distances and oppose any efforts to fund Syrian refugee resettlement.

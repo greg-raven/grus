@@ -1,12 +1,11 @@
 ---
 title: "Obama's true faith"
-date: '2012-11-03T14:09:18-08:00'
 layout: post
 categories:
-    - Cartoon
-    - Information
+- Cartoon
+- Information
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 Let's look at the evidence of Obama's true faith.

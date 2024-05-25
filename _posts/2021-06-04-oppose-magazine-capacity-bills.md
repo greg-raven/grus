@@ -1,14 +1,13 @@
 ---
 title: 'Oppose magazine capacity bills'
-date: '2021-06-04T05:51:04-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- 2nd Amendment
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Please oppose H.R. 2510/S. 1108.

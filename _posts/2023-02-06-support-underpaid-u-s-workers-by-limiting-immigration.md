@@ -1,20 +1,19 @@
 ---
 title: 'Support underpaid U.S. workers by limiting immigration'
-date: '2023-02-06T14:09:03-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - immigration
-    - jobs
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- E-Verify
+- immigration
+- jobs
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
-I’m angry that U.S. Labor Secretary Marty Walsh incorrectly claimed that "One of the biggest threats to our economy is not inflation or wage growth, it’s lack of workers. And immigration reform is a key to that."
+I'm angry that U.S. Labor Secretary Marty Walsh incorrectly claimed that "One of the biggest threats to our economy is not inflation or wage growth, it's lack of workers. And immigration reform is a key to that."
 
-Baloney! Former Labor Secretary Robert Reich stated: "Here’s the truth: There is no labor shortage. There is, however, a shortage of jobs paying sufficient wages to attract workers to fill job openings."
+Baloney! Former Labor Secretary Robert Reich stated: "Here's the truth: There is no labor shortage. There is, however, a shortage of jobs paying sufficient wages to attract workers to fill job openings."
 
 To wit: technology companies slashed 150,000 jobs in 2022, and another 45,000 in January alone. Stories of American tech workers forced to train their foreign replacements are not new.
 
@@ -26,4 +25,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

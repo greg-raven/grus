@@ -1,25 +1,24 @@
 ---
 title: 'Marchers say gringos, not illegals, have to go'
-date: '2006-03-30T02:51:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - immigration
-    - population
-    - 'Senator Dianne Feinstein'
+- Federal government
+- immigration
+- population
+- Senator Dianne Feinstein
 ---
 
-I’m sending you this article in case you missed it:
+I'm sending you this article in case you missed it:
 
-> **Activists turn tables, offer no amnesty for ‘non-indigenous’ on ‘our continent’**
+> **Activists turn tables, offer no amnesty for 'non-indigenous' on 'our continent'**
 > 
 > Posted: Wednesday, March 29, 2006  
 > 1:00 a.m. Eastern  
 > © 2006 WorldNetDaily.com
 > 
->  WASHINGTON --- While debates about guest-worker programs for illegal aliens take place in the corridors of power, in the streets of America’s big cities no amnesty is being offered by activists calling for the expulsion of most U.S. citizens from their own country.
+>  WASHINGTON --- While debates about guest-worker programs for illegal aliens take place in the corridors of power, in the streets of America's big cities no amnesty is being offered by activists calling for the expulsion of most U.S. citizens from their own country.
 > 
 >  While politicians debate the fate of some 12 million people residing in the U.S. illegally, the Mexica Movement, one of the organizers of the mass protest in Los Angeles this week, has already decided it is the "non-indigenous," white, English-speaking U.S. citizens of European descent who have to leave what they call "our continent."
 > 
@@ -29,9 +28,9 @@ I’m sending you this article in case you missed it:
 > 
 > "We are indigenous! The only owners of this continent!" said another.
 > 
-> "If you think I’m illegal because I’m a Mexican, learn the true history, because I’m in my homeland," read another sign.
+> "If you think I'm illegal because I'm a Mexican, learn the true history, because I'm in my homeland," read another sign.
 > 
-> "One of the more negative parts of the march was when American flags were passed out to make sure the marchers were looked on as part of ‘America,'" said the group’s commentary on the L.A. rally.
+> "One of the more negative parts of the march was when American flags were passed out to make sure the marchers were looked on as part of 'America,'" said the group's commentary on the L.A. rally.
 > 
 > Both Rep. James Sensebrenner, R-Wis., chairman of the House Judiciary Committee and a proponent of tougher border security, and California Gov. Arnold Schwarzenegger were caricatured as Nazis by the group on its posters and banners.
 > 
@@ -46,7 +45,7 @@ I’m sending you this article in case you missed it:
 > 
 > Aztlan, the mythical birthplace of the Aztecs, is regarded in Chicano folklore as an area that includes California, Arizona, Nevada, New Mexico and parts of Colorado and Texas. The movement seeks to create a sovereign, Spanish-speaking state, "Republica del Norte," or the Republic of the North, that would combine the American Southwest with the northern Mexican states and eventually merge with Mexico.
 > 
-> A group called "La Voz de Aztlan," (https://aztlan.net) the Voice of Aztlan, identifies Mexicans in the U.S. as "America’s Palestinians." Many Mexicans see themselves as part of a transnational ethnic group known as "La Raza," the race. A May editorial on the website, with a dateline of Los Angeles, Alta California, declares that "both La Raza and the Palestinians have been displaced by invaders that have utilized military means to conquer and occupy our territories."
+> A group called "La Voz de Aztlan," (https://aztlan.net) the Voice of Aztlan, identifies Mexicans in the U.S. as "America's Palestinians." Many Mexicans see themselves as part of a transnational ethnic group known as "La Raza," the race. A May editorial on the website, with a dateline of Los Angeles, Alta California, declares that "both La Raza and the Palestinians have been displaced by invaders that have utilized military means to conquer and occupy our territories."
 > 
 > Others in the coalition hope to see a "reconquest" of the American southwest by Mexico. This would not likely take place through military action, they say, but rather through a slow process of migration --- both legal and illegal.
 

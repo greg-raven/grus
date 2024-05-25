@@ -1,12 +1,11 @@
 ---
 title: 'Veto all gun control bills'
-date: '2013-09-23T05:40:19-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Governor Jerry Brown'
-    - 'gun control'
+- Governor Jerry Brown
+- gun control
 ---
 
 It is imperative that you VETO all gun control bills, up to and including the following:  
@@ -43,7 +42,7 @@ SB 755 (Sen. Lois Wolk) --- Expands definition of prohibited persons. Adds misde
 
 These bills will criminalize and punish me and other law-abiding gun owners. We are peaceful, law-abiding people who want simply to exercise our Constitutionally-enumerated fundamental rights without fear of prosecution and harassment.
 
-Don’t let California’s Legislature --- openly hostile to law-abiding gun owners such as me --- trample our rights, freedom, and property. Don’t let DOJ and local law enforcement confiscate my guns and put law-abiding citizens in jail. The Bill of Rights is clear: "Shall not be infringed." Don’t let these bills become law.
+Don't let California's Legislature --- openly hostile to law-abiding gun owners such as me --- trample our rights, freedom, and property. Don't let DOJ and local law enforcement confiscate my guns and put law-abiding citizens in jail. The Bill of Rights is clear: "Shall not be infringed." Don't let these bills become law.
 
 We are counting on you, Governor, to VETO THESE AND ALL OTHER GUN CONTROL BILLS and send a strong message to the Legislature.
 

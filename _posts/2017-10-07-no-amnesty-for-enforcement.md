@@ -1,20 +1,19 @@
 ---
 title: 'No amnesty for enforcement'
-date: '2017-10-07T04:40:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - population
-    - 'Senator Chuck Grassley'
-    - 'Senator John Cornyn'
-    - 'Senator John Thune'
-    - 'Senator Mitch McConnell'
+- amnesty
+- immigration
+- population
+- Senator Chuck Grassley
+- Senator John Cornyn
+- Senator John Thune
+- Senator Mitch McConnell
 ---
 
-I expect you to oppose the SUCCEED Act any effort to trade amnesty for immigration enforcement --- it’s simply not enough and won’t stop illegal immigration!
+I expect you to oppose the SUCCEED Act any effort to trade amnesty for immigration enforcement --- it's simply not enough and won't stop illegal immigration!
 
 If such a deal happens, illegal aliens will still be able to hold U.S. jobs. Moreover, border security, alone, does nothing to stop visa overstayers --- who account for 40% of the illegal alien population --- from staying and taking jobs. Mandating E-Verify would go a long way to solving this problem by preventing illegal aliens from obtaining jobs in the U.S. --- the primary magnet for illegal immigration.
 
@@ -26,4 +25,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Reagan fell for this once. There’s no need to repeat this mistake.
+P.S. Reagan fell for this once. There's no need to repeat this mistake.

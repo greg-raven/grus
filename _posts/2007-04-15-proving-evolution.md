@@ -1,11 +1,10 @@
 ---
 title: 'Proving evolution'
-date: '2007-04-15T11:59:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - evolution
+- evolution
 ---
 
 We watched a show on the Discover channel last night dealing with the large dinosaur graveyard in Utah that contains a large number of Falcarius utahensis bones. Of course there were the typical confident pronouncements about conditions, creatures, and events millions and millions of years ago, but the description of this creature's evolutionary path was especially striking.  

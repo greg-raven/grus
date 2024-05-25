@@ -1,13 +1,12 @@
 ---
 title: 'Stop paying to relocate illegal aliens'
-date: '2015-04-30T17:09:57-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I was outraged to learn that the Obama administration is using taxpayer dollars to bring the children of illegal aliens to the United States. This simply encourages illegal immigration and I urge you to work to defund it.

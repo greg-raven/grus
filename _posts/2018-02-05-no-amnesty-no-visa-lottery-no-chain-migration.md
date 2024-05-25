@@ -1,14 +1,14 @@
 ---
 title: 'No amnesty, no visa lottery, no chain migration'
-date: '2018-02-05T10:01:13-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- amnesty
+- immigration
+- Senator Dianne Feinstein
+- Senator Kamala Harris
+- visa lottery
 ---
 
 Sens. John McCain (R-Ariz.) and Chris Coons (D-Del.) have introduced legislation to amnesty "Dreamers" (not just DACA recipients), while only providing money for a border security study. This is clearly unacceptable. It is vital that we enforce our immigration laws, with means DACA recipients and "Dreamers" have to go.

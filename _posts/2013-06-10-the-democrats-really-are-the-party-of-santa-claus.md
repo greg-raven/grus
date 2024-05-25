@@ -1,11 +1,10 @@
 ---
 title: 'Democrats really are the party of Santa Claus'
-date: '2013-06-10T09:55:17-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - rights
+- rights
 ---
 
 NSA: "That's Obama's new guy ... he sees you when you're sleeping ...

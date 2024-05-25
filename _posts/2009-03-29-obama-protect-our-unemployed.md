@@ -1,20 +1,19 @@
 ---
 title: 'Protect our unemployed'
-date: '2009-03-29T01:58:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Barack Hussein Obama'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Barack Hussein Obama
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-Amnesty is not the answer to America’s illegal immigration debacle and would only make matters worse. Please do not support any amnesty proposed by the Congressional Hispanic Caucus.
+Amnesty is not the answer to America's illegal immigration debacle and would only make matters worse. Please do not support any amnesty proposed by the Congressional Hispanic Caucus.
 
-February 2009 numbers from the Bureau of Labor Statistics indicate that more than 2.6 million Hispanic Americans are unemployed (this number includes nearly 1.7 million Hispanic American men). This means that more than 12% of Hispanic Americans are unemployed and looking for a job. However, 7.7 million illegal aliens have a job. Doesn’t this seem a bit unfair?
+February 2009 numbers from the Bureau of Labor Statistics indicate that more than 2.6 million Hispanic Americans are unemployed (this number includes nearly 1.7 million Hispanic American men). This means that more than 12% of Hispanic Americans are unemployed and looking for a job. However, 7.7 million illegal aliens have a job. Doesn't this seem a bit unfair?
 
 However, it is likely that the Congressional Hispanic Caucus will advocate comprehensive amnesty when you meet with them. It seems that the Hispanic Caucus has the interests of illegal aliens, not Hispanic Americans, at heart.
 

@@ -1,12 +1,11 @@
 ---
 title: 'Thank you for voting against amnesty'
-date: '2019-06-05T20:08:36-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
 Thanks for voting against amnesty!

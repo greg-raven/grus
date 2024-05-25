@@ -1,13 +1,12 @@
 ---
 title: 'H.R. 5038 = Amnesty &#038; indentured servitude'
-date: '2019-12-09T09:27:42-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - E-Verify
-    - 'Representative Paul Cook'
+- amnesty
+- E-Verify
+- Representative Paul Cook
 ---
 
 It is ironic that the sponsors of H.R. 5038, The Farm Workforce Modernization Act of 2019, put the word "modernization" in the title, since the legislation actually proposes variations on two tried, and demonstrably failed, policies of the past: amnesty and indentured servitude.
@@ -20,7 +19,7 @@ But, no, unfortunately, that is not the primary focus of H.R. 5038. Rather than 
 
 H.R. 5038 would give amnesty---including work permits, green cards, and a path to citizenship---to illegal aliens who have been unlawfully employed in agriculture at least part time during the past two years. In fact, illegal aliens who spent just most weekends working in agriculture over two years would qualify, since only 1,035 hours or 180 workdays are required.
 
-However, Congress knows that giving amnesty to illegal agricultural workers will fail to produce a stable, legal workforce, because they’ve tried it before.
+However, Congress knows that giving amnesty to illegal agricultural workers will fail to produce a stable, legal workforce, because they've tried it before.
 
 Congress passed an agricultural amnesty in 1986, as part of the Immigration Reform and Control Act (IRCA). That law was sold to the American people as a one-time amnesty, in exchange for border security and a prohibition on hiring illegal aliens in the future, that would provide a stable and legal agricultural workforce. We ended up giving amnesty to almost 1.1 million "Special Agricultural Workers" (as they were called in IRCA), plus their spouses and minor children. But there was a catch: most of the Special Agricultural Workers left agriculture for better-paying jobs as soon as they got their work permits.
 
@@ -44,13 +43,13 @@ Rather than providing incentives for mechanization to reduce the need for manual
 
 **Importing Poverty --- Permanently**
 
-Because the sponsors of H.R. 5038 clearly believe we have an unquenchable --- and permanent --- need for low-skill, low-wage foreign labor, the bill also creates a brand new pot of 40,000 green cards each year for aliens who worked in the H-2A program for 10 years or who are capable of working in non-seasonal agricultural jobs. Of course, they won’t be limited to working in agriculture, because once you get a green card, you can work in any job you can find.
+Because the sponsors of H.R. 5038 clearly believe we have an unquenchable --- and permanent --- need for low-skill, low-wage foreign labor, the bill also creates a brand new pot of 40,000 green cards each year for aliens who worked in the H-2A program for 10 years or who are capable of working in non-seasonal agricultural jobs. Of course, they won't be limited to working in agriculture, because once you get a green card, you can work in any job you can find.
 
 **No Worries: Mandatory E-Verify**
 
 In what appears to be an effort to placate folks who remember the results of the 1986 IRCA amnesty, the sponsors of H.R. 5038 threw in mandatory use of E-Verify to insure that new hires
 
-are authorized to work in the United States---but ONLY for agricultural employers! The bill includes no provisions to reduce the flow of illegal immigration into the United States, but it does insure that they won’t be employed in agriculture. Instead, they will be competing with Americans and legal immigrants for jobs with unscrupulous employers in other industries where E-Verify use is not required.
+are authorized to work in the United States---but ONLY for agricultural employers! The bill includes no provisions to reduce the flow of illegal immigration into the United States, but it does insure that they won't be employed in agriculture. Instead, they will be competing with Americans and legal immigrants for jobs with unscrupulous employers in other industries where E-Verify use is not required.
 
 No more amnesties. Secure our borders. Evict those who should not be here.
 

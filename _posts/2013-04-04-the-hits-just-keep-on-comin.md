@@ -1,18 +1,17 @@
 ---
 title: 'The hits just keep on comin&#8217;'
-date: '2013-04-04T12:54:09-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 You can almost hear Jay Carney shrugging away the bad news, reminding everyone that this must be what people want because we live in a democracy and this is what people voted for when they re-elected Obama.  
   
 **Work Slowdown? ADP Says Job Creation Slowing**
 
-Private-sector job creation was considerably less than expected in March, indicating that the labor market’s improvements could begin stalling.
+Private-sector job creation was considerably less than expected in March, indicating that the labor market's improvements could begin stalling.
 
-A joint report Wednesday from ADP and Moody’s Analytics showed 158,000 new positions, well below economist expectations of 200,000.
+A joint report Wednesday from ADP and Moody's Analytics showed 158,000 new positions, well below economist expectations of 200,000.
 
 [Read the full story here](https://www.cnbc.com/id/100612273).
 

@@ -1,11 +1,10 @@
 ---
 title: 'Dueling headlines: Climate change edition'
-date: '2014-03-31T07:23:53-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - environment
+- environment
 ---
 
 [Massive U.N. Report Says Climate Risks Go Beyond Red Alert](https://www.nbcnews.com/science/environment/massive-u-n-report-says-climate-risks-go-beyond-red-n67516)

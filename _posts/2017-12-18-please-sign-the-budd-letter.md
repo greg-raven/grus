@@ -1,12 +1,11 @@
 ---
 title: 'Please sign the Budd Letter'
-date: '2017-12-18T09:40:09-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Representative Paul Cook'
+- gun control
+- Representative Paul Cook
 ---
 
 Congressman Ted Budd (R-NC) is circulating a very important letter to the House leadership.

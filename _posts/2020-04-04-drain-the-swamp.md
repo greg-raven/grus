@@ -1,12 +1,11 @@
 ---
 title: 'Drain The Swamp'
-date: '2020-04-04T15:52:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - 'President Donald Trump'
+- Federal government
+- President Donald Trump
 ---
 
 I implore you to be an authentic, impassioned, fearless conservative around whom freedom-loving Americans can rally.
@@ -18,7 +17,7 @@ Please stay true to conservatism and:
 - Stop illegal immigration by securing our borders and enforcing the laws;
 - Balance the federal budget by slashing the size of government;
 - End pork-barrel spending and the buying of votes in Congress;
-- Eliminate today’s federal tax code and replace it with a new, fair, flat tax;
+- Eliminate today's federal tax code and replace it with a new, fair, flat tax;
 - Free our children and grandchildren from the crushing national debt;
 - Replace Obamacare with a market-driven, patient-centered reform;
 - Take care of our military and our veterans;

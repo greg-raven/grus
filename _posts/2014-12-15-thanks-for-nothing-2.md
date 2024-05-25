@@ -1,18 +1,17 @@
 ---
 title: 'Thanks for nothing'
-date: '2014-12-15T08:01:53-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - Obamacare
-    - 'Representative Paul Cook'
+- amnesty
+- Obamacare
+- Representative Paul Cook
 ---
 
-Your vote for the 2015 CRomnibus not only usurped the will of the American people, but hurt American workers by voting for the bill that will fund President Obama’s executive amnesty. I am disappointed that you are choosing to help illegal aliens over struggling American families.
+Your vote for the 2015 CRomnibus not only usurped the will of the American people, but hurt American workers by voting for the bill that will fund President Obama's executive amnesty. I am disappointed that you are choosing to help illegal aliens over struggling American families.
 
-Currently there are 18 million Americans who want a full time job, but cannot find one. By funding President Obama’s executive amnesty, an estimated 5 million illegal aliens will be able to receive a work permit and compete for nearly every job. Adding millions more people to an already fragile job market adds unnecessary pressure on the American workers trying to find a good job and support their family.
+Currently there are 18 million Americans who want a full time job, but cannot find one. By funding President Obama's executive amnesty, an estimated 5 million illegal aliens will be able to receive a work permit and compete for nearly every job. Adding millions more people to an already fragile job market adds unnecessary pressure on the American workers trying to find a good job and support their family.
 
 Adding millions of more workers will also continue to stagnate wages. According to federal data, middle-class wages, when adjusted for inflation, are lower now than in 1979.
 

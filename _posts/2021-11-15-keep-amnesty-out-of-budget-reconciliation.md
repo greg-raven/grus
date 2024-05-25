@@ -1,14 +1,13 @@
 ---
 title: 'Keep amnesty out of budget reconciliation'
-date: '2021-11-15T13:57:06-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I am dismayed that some anti-American worker and anti-legal immigrant worker Democrats are calling on Sen. Schumer and Vice President Harris to ignore the Senate parliamentarian and include an illegal alien amnesty in the budget reconciliation bill. In case you forgot, the parliamentarian did not mince her words; she was unequivocal that passing an amnesty for millions of illegal aliens goes far beyond its simple budgetary impact and needs to be carefully considered by Congress in standalone legislation.

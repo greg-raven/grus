@@ -1,14 +1,13 @@
 ---
 title: 'Oppose SOPA / PIPA'
-date: '2012-02-29T22:34:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - censorship
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- censorship
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Right now, the same folks that brought us the so-called "Patriot" Act, indefinite detention of American citizens, and an out-of-control TSA and Department of Homeland Security are preparing to wage war on our freedom online.  

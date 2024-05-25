@@ -1,11 +1,10 @@
 ---
 title: 'Socialism explained'
-date: '2014-06-02T13:54:29-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - socialism
+- socialism
 ---
 
 1. America is capitalist and greedy, yet half of the population is subsidized.

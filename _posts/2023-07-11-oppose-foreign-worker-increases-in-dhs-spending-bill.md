@@ -1,12 +1,11 @@
 ---
 title: 'Oppose foreign worker increases in DHS spending bill'
-date: '2023-07-11T15:02:27-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Representative Jay Obernolte'
+- jobs
+- Representative Jay Obernolte
 ---
 
 I was disturbed to learn that the House of Representatives is planning to proceed with the FY 2024 DHS Appropriations Bill, H.R. 4367! This legislation, if passed and signed into law, would harm hundreds of thousands of less-educated and lower-skilled American workers and their families.
@@ -21,4 +20,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

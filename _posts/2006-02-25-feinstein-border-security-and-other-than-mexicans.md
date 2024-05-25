@@ -1,14 +1,13 @@
 ---
 title: 'Border security and &#8216;other than Mexicans&#8217;'
-date: '2006-02-25T02:43:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'Federal government'
-    - 'national security'
-    - 'Senator Dianne Feinstein'
+- border control
+- Federal government
+- national security
+- Senator Dianne Feinstein
 ---
 
 I hope you will use your influence to get a fence built along our border.

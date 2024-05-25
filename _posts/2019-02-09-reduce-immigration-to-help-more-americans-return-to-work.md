@@ -1,12 +1,11 @@
 ---
 title: 'Reduce immigration to help more americans return to work'
-date: '2019-02-09T05:28:39-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'President Donald Trump'
+- immigration
+- President Donald Trump
 ---
 
 More Americans are back to work than ever thanks to your policies --- do even more by reducing legal immigration!

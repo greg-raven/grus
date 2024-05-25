@@ -1,17 +1,16 @@
 ---
 title: 'The California Coyote vs the Arizona Coyote'
-date: '2012-09-25T13:42:48-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - Arizona
-    - California
+- Arizona
+- California
 ---
 
 California:
 
-The Governor of California is jogging with his dog along a nature trail. A coyote jumps out and attacks the Governor’s dog, then bites the Governor.
+The Governor of California is jogging with his dog along a nature trail. A coyote jumps out and attacks the Governor's dog, then bites the Governor.
 
 1. The Governor starts to intervene, but reflects upon the movie "Bambi" and then realizes he should stop because the coyote is only doing what is natural.
 
@@ -27,9 +26,9 @@ The Governor of California is jogging with his dog along a nature trail. A coyot
 
 7. The State Legislature spends $2 million to study how to better treat rabies and how to permanently eradicate the disease throughout the world.
 
-8. The Governor’s security agent is fired for not stopping the attack. The State spends $150,000 to hire and train a new agent with additional special training re: the nature of coyotes.
+8. The Governor's security agent is fired for not stopping the attack. The State spends $150,000 to hire and train a new agent with additional special training re: the nature of coyotes.
 
-9. PETA protests the coyote’s relocation and files a $5 million suit against the State.
+9. PETA protests the coyote's relocation and files a $5 million suit against the State.
 
 Arizona:
 

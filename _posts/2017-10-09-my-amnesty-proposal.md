@@ -1,13 +1,12 @@
 ---
-title: 'My ‘amnesty&#8217; proposal'
-date: '2017-10-09T04:39:13-08:00'
+title: 'My 'amnesty&#8217; proposal'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - 'President Donald Trump'
+- amnesty
+- immigration
+- President Donald Trump
 ---
 
 While I appreciate your 70-point immigration proposal, I have to say I am still opposed to any amnesty for Dreamers or anyone else currently here illegally.
@@ -16,7 +15,7 @@ At the very most, I would support an "amnesty" that removes them from the countr
 
 Obviously, this "amnesty" would only apply to those who have committed no (as in zero) further crimes while illegally in the United States.
 
-Don’t let them do to you what they did to Reagan, et al.
+Don't let them do to you what they did to Reagan, et al.
 
 Sincerely,
 

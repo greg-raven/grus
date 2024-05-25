@@ -1,12 +1,11 @@
 ---
 title: 'Stop lame duck session DREAM Act'
-date: '2010-11-28T12:53:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Jerry Lewis'
+- amnesty
+- Representative Jerry Lewis
 ---
 
 Politico is reporting that soon-to-be former Speaker Nancy Pelosi wants to force a floor vote on the DREAM Act amnesty during the lame duck session of Congress. I hope you oppose any attempt by Rep. Pelosi to force the anti-American worker DREAM Act amnesty on the American people.  
@@ -17,10 +16,10 @@ Once DREAM amnesty citizens are over 21 --- again, many of those who would quali
 
 Any attempt by outgoing Speaker Pelosi to force this amnesty on the American people during a lame duck session of Congress would be akin to placing a dagger in the back of every one of the 22 million Americans who cannot find a job as it would make it that much more difficult for these Americans to find a job.
 
-Please do the right thing and oppose Speaker Pelosi’s attempts to force the DREAM Act amnesty through Congress. She is acting as if the November 2nd elections never happened and her anti-American worker, anti-American student actions must be stopped.
+Please do the right thing and oppose Speaker Pelosi's attempts to force the DREAM Act amnesty through Congress. She is acting as if the November 2nd elections never happened and her anti-American worker, anti-American student actions must be stopped.
 
 Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. My dream is to return to pre-1965 immigration policies. Let’s make it happen!
+P.S. My dream is to return to pre-1965 immigration policies. Let's make it happen!

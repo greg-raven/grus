@@ -1,18 +1,17 @@
 ---
 title: 'Focus on the real problems, not on the guns'
-date: '2018-02-22T14:29:58-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- gun control
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
-In a [national poll of our nation’s police officers](https://tinyurl.com/ycjpuf5d), 81 percent say that teachers and school administrators need to be armed to stop tragedies such as the one happened in Florida recently.
+In a [national poll of our nation's police officers](https://tinyurl.com/ycjpuf5d), 81 percent say that teachers and school administrators need to be armed to stop tragedies such as the one happened in Florida recently.
 
-Our nation’s responders have a point --- because the alternative is not working.
+Our nation's responders have a point --- because the alternative is not working.
 
 This year is the 50th anniversary of the Gun Control Act of 1968. Since then, at the demand of gun control advocates, Congress has enacted over a dozen gun control measures, including a 1996 ban on guns in schools.
 
@@ -24,12 +23,12 @@ But the passage of school gun ban was followed, a little over two years later, b
 
 I would ask you to give some thought to the repeated failure of repeated gun control enactments before you assume that another one would have any positive effect.
 
-William Burroughs is credited with saying, "After a shooting spree, they always want to take the guns away from the people who didn’t do it."
+William Burroughs is credited with saying, "After a shooting spree, they always want to take the guns away from the people who didn't do it."
 
-Instead, why don’t we focus our attention on the psychotropic drugs being given to kids, and the welfare state that destroys families and leaves young men rudderless, and eliminating all forms of immigration at least until our law enforcement community can catch up with the overwhelming backlog of vetting millions of potentially hostile persons?
+Instead, why don't we focus our attention on the psychotropic drugs being given to kids, and the welfare state that destroys families and leaves young men rudderless, and eliminating all forms of immigration at least until our law enforcement community can catch up with the overwhelming backlog of vetting millions of potentially hostile persons?
 
 And by all means, we absolutely have to eliminate gun-free zones, where the only one who is safe is the person with the gun.
 
-I’m calling on you to reject every new "gun control" proposal and to pass H.R. 34 (or something like it) repealing the legislation that established gun-free school zones in the first place.
+I'm calling on you to reject every new "gun control" proposal and to pass H.R. 34 (or something like it) repealing the legislation that established gun-free school zones in the first place.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

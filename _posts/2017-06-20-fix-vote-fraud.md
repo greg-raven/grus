@@ -1,12 +1,11 @@
 ---
 title: 'Fix vote fraud'
-date: '2017-06-20T14:26:54-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - elections
-    - 'President Donald Trump'
+- elections
+- President Donald Trump
 ---
 
 As a candidate, you made references to vote fraud as a serious issue in the United States. I agree, which is why I applauded your executive order establishing a commission to investigate vote fraud.
@@ -17,6 +16,6 @@ Simply put, have everyone re-register to vote before each election.
 
 Obviously, you retain previous vote registrations for reference, but having everyone re-register for each election should virtually eliminate duplicates, people who have moved without "de-registering," fraud, etc.
 
-Please don’t hesitate to contact me if you wish to discuss this.
+Please don't hesitate to contact me if you wish to discuss this.
 
 [Greg Raven](https://www.gregraven.org), Apple Valley, CA

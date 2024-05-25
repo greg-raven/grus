@@ -1,13 +1,12 @@
 ---
 title: 'Attach H.R. 2 to the Continuing Resolution'
-date: '2023-09-13T05:21:30-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'illegal immigration'
-    - 'Representative Jay Obernolte'
+- illegal aliens
+- illegal immigration
+- Representative Jay Obernolte
 ---
 
 The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S. / Mexico border. This legislation would:
@@ -25,4 +24,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

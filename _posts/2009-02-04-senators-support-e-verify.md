@@ -1,13 +1,12 @@
 ---
 title: 'Support E-Verify'
-date: '2009-02-04T14:49:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- E-Verify
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 It is important that only American workers benefit from any jobs encouraged by the economic stimulus package. Please ensure that the two E-Verify amendments approved by the House of Representatives are in Senate version of American Recovery and Reinvestment Act of 2009.  

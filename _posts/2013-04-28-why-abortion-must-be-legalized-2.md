@@ -1,14 +1,13 @@
 ---
 title: 'Why abortion must be legalized'
-date: '2013-04-28T12:20:00-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - abortion
+- abortion
 ---
 
-If we don’t legalize abortion, women will be forced to endure unsanitary back-room operations by untrained hacks, placing their very lives in danger.  
+If we don't legalize abortion, women will be forced to endure unsanitary back-room operations by untrained hacks, placing their very lives in danger.  
   
 [Scissors-wielding abortionist arrested on multiple murder counts](https://michellemalkin.com/2011/01/19/scissors-wielding-abortionist-arrested-on-multiple-murder-counts/)
 

@@ -1,12 +1,11 @@
 ---
 title: 'U.S. budget numbers in household terms'
-date: '2011-04-15T11:54:00-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Federal government'
-    - 'national debt'
+- Federal government
+- national debt
 ---
 
 The budget explained in simple English.

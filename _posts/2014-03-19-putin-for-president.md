@@ -1,9 +1,8 @@
 ---
 title: 'Putin for President'
-date: '2014-03-19T15:04:12-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 ---
 
 He guards his country's borders.

@@ -1,12 +1,11 @@
 ---
 title: 'Stimulus failure'
-date: '2009-02-27T14:40:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Representative Jerry Lewis'
-    - stimulus
+- Representative Jerry Lewis
+- stimulus
 ---
 
 I find the behavior of the Obama Administration and the Congressional Democratic Leadership to be partisan and dictatorial. Their refusal to keep the American worker and E-Verify protections in the economic stimulus package is repulsive.

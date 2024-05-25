@@ -1,14 +1,13 @@
 ---
 title: 'Oppose DREAM Act amnesty'
-date: '2010-11-29T17:03:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - immigration
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Federal government
+- immigration
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 2012 is a long way away, but if this last election taught us anything, it is that politicians can no longer hope that their controversial votes will be forgotten come election time. Sen. Reid is setting you up for trouble. You need to vote "NO" on the DREAM Act.  
@@ -21,4 +20,4 @@ Phone me if you would like to talk about this,
 
 [Mr. Greg Raven](https://www.gregraven.org/)
 
-P.S. If you don’t start thinking and acting pro-America, soon there will be no America left. You might want to start thinking about where you’re going to take your ill-gotten millions after you destroy this country.
+P.S. If you don't start thinking and acting pro-America, soon there will be no America left. You might want to start thinking about where you're going to take your ill-gotten millions after you destroy this country.

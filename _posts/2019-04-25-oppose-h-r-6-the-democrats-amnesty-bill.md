@@ -1,12 +1,12 @@
 ---
-title: 'Oppose H.R.6, the Democrats&#8217; amnesty bill'
-date: '2019-04-25T04:48:59-08:00'
+title: 'Oppose H.R.6, the Democrats' amnesty bill'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
+- visa lottery
 ---
 
 I am writing to urge you to vote against H.R. 6, which represents a mass amnesty for illegal aliens.

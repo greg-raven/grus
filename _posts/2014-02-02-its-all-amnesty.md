@@ -1,11 +1,10 @@
 ---
 title: "It's all amnesty"
-date: '2014-02-02T05:14:23-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - amnesty
+- amnesty
 ---
 
 By any other name ... "comprehensive immigration reform," "path to citizenship," "temporary protected status," "earned citizenship" "legalization" ... it's still AMNESTY.

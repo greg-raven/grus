@@ -1,11 +1,10 @@
 ---
 title: 'The Tea Party vs Occupy Wall Street'
-date: '2011-09-18T11:55:00-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'media bias'
+- media bias
 ---
 
 According to the press 

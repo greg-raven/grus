@@ -1,18 +1,17 @@
 ---
 title: 'Congress must lower immigration numbers'
-date: '2022-12-07T06:52:13-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - environment
-    - immigration
-    - jobs
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- environment
+- immigration
+- jobs
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
-- Mass immigration hasn’t delivered a fair economy. Moderate the numbers.
+- Mass immigration hasn't delivered a fair economy. Moderate the numbers.
 
 It troubles me that Congress is again entertaining "Dreamer" and farmworker amnesties and the EAGLE Act during the lame-duck session instead of focusing on border enforcement and pausing guest worker programs.
 

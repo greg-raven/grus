@@ -1,12 +1,11 @@
 ---
 title: 'Do NOT to sign amnesty Discharge Petition'
-date: '2018-05-24T15:07:04-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
 Please do not sign Discharge Petition for H.Res.774

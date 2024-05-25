@@ -1,14 +1,13 @@
 ---
 title: 'Obama&#8217;s accomplishments'
-date: '2014-06-20T04:06:50-08:00'
 layout: post
 categories:
-    - Commentary
+- Commentary
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
-Quit trashing Obama’s accomplishments. He has done more than any other President before him.
+Quit trashing Obama's accomplishments. He has done more than any other President before him.
 
 Here is a list of his impressive accomplishments:
 
@@ -24,7 +23,7 @@ Here is a list of his impressive accomplishments:
 - First President to order a secret amnesty program that stopped the deportation of illegal immigrants across the U.S., including those with criminal convictions.
 - First President to demand a company hand-over $20 billion to one of his political appointees.
 - First President to tell a CEO of a major corporation (Chrysler) to resign.
-- First President to terminate America’s ability to put a man in space.
+- First President to terminate America's ability to put a man in space.
 - First President to cancel the National Day of Prayer and to say that America is no longer a Christian nation.
 - First President to have a law signed by an auto-pen without being present.
 - First President to arbitrarily declare an existing law unconstitutional and refuse to enforce it.
@@ -46,4 +45,4 @@ Here is a list of his impressive accomplishments:
 - First President to fly in a personal trainer from Chicago at least once a week at taxpayer expense.
 - First President to side with a foreign nation over one of the American 50 states (Mexico vs Arizona).
 - First President to tell the military men and women that they should pay for their own private insurance because they "volunteered to go to war and knew the consequences."
-- Then he was the First President to tell the members of the military that THEY were UNPATRIOTIC for balking at the last suggestion. (Thank God he didn’t get away with THIS one.)
+- Then he was the First President to tell the members of the military that THEY were UNPATRIOTIC for balking at the last suggestion. (Thank God he didn't get away with THIS one.)

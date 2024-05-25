@@ -1,14 +1,13 @@
 ---
 title: 'Help our overburdened communities by ending catch-and-release policies'
-date: '2023-09-13T05:27:18-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'illegal immigration'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- illegal immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I urge you to work to end current catch-and-release policies.
@@ -21,8 +20,6 @@ Meanwhile, as more and more migrants are released, communities across the United
 
 I urge you to support reforms to end catch-and-release. I also urge you to introduce a companion bill to the House-passed H.R. 2, the Secure the Border Act. and cosponsor the E-Verify bill S. 156, the Accountability Through Electronic Verification Act.
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
-
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

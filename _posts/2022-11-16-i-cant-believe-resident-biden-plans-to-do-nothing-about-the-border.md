@@ -1,13 +1,12 @@
 ---
 title: 'I can&#8217;t believe Resident Biden plans to do nothing about the border'
-date: '2022-11-16T07:09:32-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Immigration is one of the top issues in exit polls.
@@ -22,4 +21,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

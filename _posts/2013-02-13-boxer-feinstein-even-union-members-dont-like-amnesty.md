@@ -1,22 +1,21 @@
 ---
 title: 'Even union members don&#8217;t like amnesty'
-date: '2013-02-13T13:01:45-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Senators:
 
-I believe you and your fellow Democrats should take note of a recent Rasmussen poll. It shows that union members are not fond of your party’s immigration proposals.  
+I believe you and your fellow Democrats should take note of a recent Rasmussen poll. It shows that union members are not fond of your party's immigration proposals.  
   
-Union members were asked: "Do you favor or oppose a proposal to provide a path to U.S. citizenship for illegal immigrants already in this country, penalize employers for hiring illegal immigrants and take other steps to secure the nation’s borders?"
+Union members were asked: "Do you favor or oppose a proposal to provide a path to U.S. citizenship for illegal immigrants already in this country, penalize employers for hiring illegal immigrants and take other steps to secure the nation's borders?"
 
-While 59% of all Americans supported the proposal, only 40% union members did, while 36% opposed. From these numbers, it’s clear that union members are less-than-excited about your party’s amnesty plans.
+While 59% of all Americans supported the proposal, only 40% union members did, while 36% opposed. From these numbers, it's clear that union members are less-than-excited about your party's amnesty plans.
 
 From the same Rasmussen poll, it was also shown that only 43% of union members think legalization is important and only 40% favor the Senate Group of Eight proposal.
 

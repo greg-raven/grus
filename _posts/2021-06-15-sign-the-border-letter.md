@@ -1,12 +1,11 @@
 ---
 title: 'Sign the Border Letter'
-date: '2021-06-15T12:45:40-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'Representative Jay Obernolte'
+- border control
+- Representative Jay Obernolte
 ---
 
 Rep. Glenn Grothman (R-Wisc.) has authored a letter to President Joe Biden urging him to relieve Vice President Harris of her duties as border czar and replace her with someone more up to the task. The letter states:

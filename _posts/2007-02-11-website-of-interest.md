@@ -1,14 +1,13 @@
 ---
 title: 'Website of interest'
-date: '2007-02-11T19:36:00-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - environment
-    - 'national security'
+- environment
+- national security
 ---
 
-I found a website that perfectly encapsulates our national schizophrenia on several of the big issues we face. It’s a private website for a park, but not just any park: [Border Field State Park](https://www.hatefacts.com/bfsp/index.html), which includes the Tijuana River Sanctuary.  
+I found a website that perfectly encapsulates our national schizophrenia on several of the big issues we face. It's a private website for a park, but not just any park: [Border Field State Park](https://www.hatefacts.com/bfsp/index.html), which includes the Tijuana River Sanctuary.  
   
 WARNING: The Political Correctness unveiled on this site is enough to gag a maggot.

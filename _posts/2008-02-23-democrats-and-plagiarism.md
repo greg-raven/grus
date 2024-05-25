@@ -1,13 +1,12 @@
 ---
 title: 'Democrats and plagiarism'
-date: '2008-02-23T02:49:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'Barack Hussein Obama'
-    - politics
-    - "Hillary Clinton"
+- Barack Hussein Obama
+- politics
+- "Hillary Clinton"
 ---
 
 You gotta love Hillary Clinton's charges of plagiarism against Barack Obama. For a couple of weeks now, it's become clear to me that she's upset that, having no substance herself or in her campaign, she's run into an opponent with even less substance, who's more successful.  

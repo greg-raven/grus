@@ -1,12 +1,11 @@
 ---
 title: 'Say &#8216;no&#8217; to amnesty'
-date: '2006-03-23T14:59:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Dianne Feinstein
 ---
 
 The people of California are counting on you to oppose amnesty. Just say "NO" to amnesty.
@@ -21,4 +20,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/)
 
-P.S. Any elected official who does not work to protect our borders is violating his oath of office at the very least. I’m counting on you to keep your word.
+P.S. Any elected official who does not work to protect our borders is violating his oath of office at the very least. I'm counting on you to keep your word.

@@ -1,15 +1,14 @@
 ---
 title: 'We need a pro-worker immigration policy'
-date: '2021-02-17T06:14:49-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - population
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- jobs
+- population
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 You now have control of Congress. However, 20% of low-wage workers are unemployed.

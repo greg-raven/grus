@@ -1,13 +1,12 @@
 ---
 title: 'Oppose the Moran amendment'
-date: '2014-01-08T14:39:07-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Please oppose the Moran amendment, number 2612, to the unemployment extension legislation. This amendment would take jobs away from Americans, not help jobless Americans.  

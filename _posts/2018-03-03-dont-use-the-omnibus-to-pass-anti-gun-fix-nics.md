@@ -1,12 +1,11 @@
 ---
 title: 'Don&#8217;t use the Omnibus to pass anti-gun Fix NICS'
-date: '2018-03-03T13:24:44-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Representative Paul Cook'
+- gun control
+- Representative Paul Cook
 ---
 
 *Roll Call* reports that congressmen are considering adding the anti-gun Fix NICS bill to the annual spending bill, called the "Omnibus."

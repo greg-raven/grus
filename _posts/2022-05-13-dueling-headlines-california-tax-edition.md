@@ -1,13 +1,12 @@
 ---
 title: 'Dueling headlines: California tax edition'
-date: '2022-05-13T07:08:00-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
-There’s this:
+There's this:
 
-<figure class="wp-block-image size-large">[![](/assets/img/2022/05/tax-surplus-1024x272.png)](/assets/img/2022/05/tax-surplus.png)</figure>But there’s also this:
+<figure class="wp-block-image size-large">[![](/assets/img/2022/05/tax-surplus-1024x272.png)](/assets/img/2022/05/tax-surplus.png)</figure>But there's also this:
 
 <figure class="wp-block-image size-large">[![](/assets/img/2022/05/excise-tax-1024x199.jpg)](/assets/img/2022/05/excise-tax.jpg)</figure>

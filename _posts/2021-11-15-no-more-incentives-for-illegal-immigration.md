@@ -1,13 +1,12 @@
 ---
 title: 'No more incentives for illegal immigration'
-date: '2021-11-15T13:55:59-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- illegal immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Your misplaced "compassion" contributes to the border crisis. We need competency. As the worst border crisis in over 20 years continues, the Biden administration has announced new curbs on enforcement in the interior and the workplace, and Democrats in Congress are working on their third attempt to include rewards for illegal immigration in the budget reconciliation bill.

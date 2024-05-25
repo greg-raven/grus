@@ -1,13 +1,12 @@
 ---
 title: 'Obama Policies Have Put America at Risk'
-date: '2012-01-27T15:09:00-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Barack Hussein Obama'
-    - economy
-    - 'Federal government'
+- Barack Hussein Obama
+- economy
+- Federal government
 ---
 
 Earlier this week during his State of the Union address, Resident Obama said, "The defining issue of our time is how to keep that \[American\] promise alive."
@@ -32,7 +31,7 @@ What he conveniently omitted from his speech was that his failed policies have d
 <sup>1</sup> Number of unemployed in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.  
 <sup>2</sup> "Long-term unemployed" means for over 26 weeks; data for January 2009 and December 2011. https://www.bls.gov/data/#unemployment.  
 <sup>3</sup> Unemployment rates in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.  
-<sup>4</sup> "High unemployment" means having a 3-month average unemployment rate of 6% or higher. From the Bureau of Labor Statistics’ "Extended Benefits Trigger Notice" for January 18, 2009 and January 22, 2012. https://www.ows.doleta.gov/unemploy/trigger/2009/trig\_011809.html and https://ows.doleta.gov/unemploy/euc\_trigger/2012/euc\_012212.html.  
+<sup>4</sup> "High unemployment" means having a 3-month average unemployment rate of 6% or higher. From the Bureau of Labor Statistics' "Extended Benefits Trigger Notice" for January 18, 2009 and January 22, 2012. https://www.ows.doleta.gov/unemploy/trigger/2009/trig\_011809.html and https://ows.doleta.gov/unemploy/euc\_trigger/2012/euc\_012212.html.  
 <sup>5</sup> The "Misery Index" equals unemployment plus inflation. For January 2009 and December 2012. https://www.miseryindex.us/indexbymonth.asp.  
 <sup>6</sup> Average retail price per gallon, January 2009 week 3 and January 2012 week 4. https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=EMM\_EPMR\_PTE\_NUS\_DPG&amp;f=W.  
 <sup>7</sup> U.S. Department of Agriculture, values represent monthly "moderate" cost per family of four for January 2009 and November 2011. https://www.cnpp.usda.gov/USDAFoodCost-Home.htm.  

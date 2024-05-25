@@ -1,12 +1,11 @@
 ---
 title: 'Don&#8217;t increase H-2B visas'
-date: '2017-06-01T13:36:02-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Secretary John Kelly'
+- jobs
+- Secretary John Kelly
 ---
 
 We are writing to express our concerns with the increase in H-2B visas for FY2017 authorized by Congress through the Omnibus appropriations bill last month. There is simply no evidence of a labor shortage, especially among the most vulnerable American workers, to necessitate this increase.
@@ -15,7 +14,7 @@ This action by Congress shows contempt for the forgotten Americans who suffered 
 
 Reports have also shown a history of abuse within the H-2B visa program. In FY2014, the Labor Department identified violations in 82% of the cases it investigated. And a recent study by the Government Accountability Office found a high frequency of complaints involving H-2B workers, including low pay, long hours, wrongful termination, hazardous working conditions, and verbal and physical abuse, among other things. H-2B employers take advantage of the weak oversight to keep labor costs down and profits high.
 
-In his Joint Address to Congress, President Trump made it clear that his Administration would be different and put the forgotten American workers first. Increasing the number of H-2B visas only benefits the abusive employers who profit from cheap foreign labor at the expense of these forgotten Americans. I urge you to keep the President’s promise that every decision made on immigration will "be made to benefit American workers and American families" and decline the opportunity to expand the H-2B visa program.
+In his Joint Address to Congress, President Trump made it clear that his Administration would be different and put the forgotten American workers first. Increasing the number of H-2B visas only benefits the abusive employers who profit from cheap foreign labor at the expense of these forgotten Americans. I urge you to keep the President's promise that every decision made on immigration will "be made to benefit American workers and American families" and decline the opportunity to expand the H-2B visa program.
 
 Sincerely,
 

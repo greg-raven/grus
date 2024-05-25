@@ -1,14 +1,13 @@
 ---
 title: 'Rasmussen immigration poll supports E-Verify'
-date: '2020-07-14T05:35:06-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- E-Verify
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 Rasmussen polling shows American voters want mandatory E-Verify.
@@ -21,6 +20,6 @@ According to a new Rasmussen poll, American voters believe jobless Americans sho
 
 Moreover, 66% of voters think Congress should require U.S. employers to use the federal electronic E-Verify system for all new hires to ensure that open jobs are filled with these unemployed Americans and not with illegal workers.
 
-It’s clear that as the economy reopens, Americans believe that jobs should go to jobless Americans instead of illegal aliens and new foreign workers. I hope you will help to make this happen.
+It's clear that as the economy reopens, Americans believe that jobs should go to jobless Americans instead of illegal aliens and new foreign workers. I hope you will help to make this happen.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

@@ -1,12 +1,11 @@
 ---
 title: 'Thank you for supporting concealed carry reciprocity'
-date: '2017-06-21T12:38:24-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Paul Cook'
+- 2nd Amendment
+- Representative Paul Cook
 ---
 
 Thank you for your support of the concealed carry reciprocity bill (H.R. 38).

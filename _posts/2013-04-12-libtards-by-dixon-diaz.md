@@ -1,11 +1,10 @@
 ---
 title: 'Libtards, by Dixon Diaz'
-date: '2013-04-12T15:06:59-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - liberalism
+- liberalism
 format: gallery
 ---
 

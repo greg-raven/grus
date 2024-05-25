@@ -1,13 +1,12 @@
 ---
 title: 'Invest in American workers and reduce immigration'
-date: '2022-09-18T13:01:42-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Former Democratic Texas congresswoman and civil rights champion Barbara Jordan chaired the U.S. Commission on Immigration Reform under President Bill Clinton.

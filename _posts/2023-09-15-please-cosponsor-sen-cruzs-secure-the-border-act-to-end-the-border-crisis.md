@@ -1,13 +1,12 @@
 ---
 title: 'Please cosponsor Sen. Cruz&#8217;s Secure the Border Act to end the border crisis!'
-date: '2023-09-15T14:39:23-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- border control
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Sen. Ted Cruz has introduced the Senate version of the House-passed H.R. 2, the Secure the Border Act. This legislation, if passed by the Senate, would help to end the crisis at the U.S. / Mexico border. This legislation would:
@@ -25,4 +24,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

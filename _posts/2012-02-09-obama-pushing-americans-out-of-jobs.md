@@ -1,12 +1,11 @@
 ---
 title: 'Pushing Americans out of jobs'
-date: '2012-02-09T21:11:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - immigration
+- Barack Hussein Obama
+- immigration
 ---
 
 Your recent decision to attempt to extend work authorization to the spouses of H-1B workers is downright disgusting. You are simply pandering to the unscrupulous business hucksters who would rather hire cheap foreign workers instead of paying a living wage to U.S. workers.  

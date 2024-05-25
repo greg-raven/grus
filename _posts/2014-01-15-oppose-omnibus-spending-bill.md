@@ -1,12 +1,11 @@
 ---
 title: 'Oppose omnibus spending bill'
-date: '2014-01-15T07:24:24-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - budget
-    - 'Representative Paul Cook'
+- budget
+- Representative Paul Cook
 ---
 
 Please oppose the 1,500-page, trillion-dollar, sequester-scrapping secret spending bill that is coming up for a vote. We sent you to Washington because you promised fiscal responsibility and accountability. Spending ever-more on an ever-increasing Federal government provides neither.  

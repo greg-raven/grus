@@ -1,17 +1,16 @@
 ---
 title: 'Cosponsor legislation to close immigration loopholes'
-date: '2019-05-09T05:26:34-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
+- immigration
+- Representative Paul Cook
 ---
 
  Please cosponsor H.R. 586, the Fix the Immigration Loopholes Act.
 
-H.R. 586, Rep. Doug Collins’ Fix the Immigration Loopholes Act, would help to streamline asylum claims by closing the credible fear loophole for asylum seekers and by modifying the Flores settlement to allow to hold minors for more than 20 days.
+H.R. 586, Rep. Doug Collins' Fix the Immigration Loopholes Act, would help to streamline asylum claims by closing the credible fear loophole for asylum seekers and by modifying the Flores settlement to allow to hold minors for more than 20 days.
 
 The current way asylum claims are processed is slow, cumbersome, and prevents frivolous and fraudulent claims from being weeded out at an early stage. On average, out of every 100 aliens subject to expedited removal who claim a fear of persecution, only about 12 will ultimately be granted asylum. Around half of all aliens who make a credible fear claim and are subsequently placed in removal proceedings do not actually apply for asylum. The number of aliens who do not show up to court and are ordered removed in absentia has soared, with 17,200 removal orders issued in absentia in the first quarter of FY2019. If this pace continues, in absentia removal orders would more than triple the 2013 total.
 

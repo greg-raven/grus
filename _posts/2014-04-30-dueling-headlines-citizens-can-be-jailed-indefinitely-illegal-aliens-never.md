@@ -1,9 +1,8 @@
 ---
 title: 'Dueling headlines: Citizens can be jailed indefinitely, illegal aliens never'
-date: '2014-04-30T08:57:57-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Editorial: Judge, jails right on immigration

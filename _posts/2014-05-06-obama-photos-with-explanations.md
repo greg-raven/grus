@@ -1,9 +1,8 @@
 ---
 title: 'Obama photos with explanations'
-date: '2014-05-06T10:04:36-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 ---
 
 !["AND THIS IS WHAT YOULL GET IN FOOD STAMPS AND SECTION 8 ONCE YOU GRADUATE."](/assets/img/2014/05/Obama-01.jpg)

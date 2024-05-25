@@ -1,17 +1,16 @@
 ---
 title: 'Immigration hurts minority workers, especially American descendants of slavery'
-date: '2022-08-25T04:46:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- illegal immigration
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
-I’m deeply concerned that legislators are waging an immigration offensive that will worsen the job prospects for American descendants of slaves, working class Americans, and U.S.-born STEM professionals. Please make helping the American middle-class your primary legislative focus. More immigration means fewer jobs for the American citizens that need them the most.
+I'm deeply concerned that legislators are waging an immigration offensive that will worsen the job prospects for American descendants of slaves, working class Americans, and U.S.-born STEM professionals. Please make helping the American middle-class your primary legislative focus. More immigration means fewer jobs for the American citizens that need them the most.
 
 Sincerely,
 

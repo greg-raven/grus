@@ -1,16 +1,15 @@
 ---
 title: 'Wages belie claims of a labor shortage'
-date: '2006-12-09T03:01:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Federal government
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-I am contacting you to register my opposition to Senator Cornyn’s SKIL bill. Please, NO MORE IMMIGRATION!
+I am contacting you to register my opposition to Senator Cornyn's SKIL bill. Please, NO MORE IMMIGRATION!
 
 Cordially,
 

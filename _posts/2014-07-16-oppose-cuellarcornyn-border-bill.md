@@ -1,15 +1,14 @@
 ---
 title: 'Oppose Cuellar/Cornyn border bill'
-date: '2014-07-16T16:14:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- immigration
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 The bill introduced by Rep. Henry Cuellar and Sen. John Cornyn to combat the border crisis would weaken current law while only addressing a small part of the problem. The bill is nothing more than a shiny object that will ultimately detract blame from President Obama and his failure to enforce existing laws. Please oppose this bill and instead apply pressure on the administration to secure the border and enforce our laws using the tools already at their disposal.

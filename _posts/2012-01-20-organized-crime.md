@@ -1,11 +1,10 @@
 ---
 title: 'Organized crime'
-date: '2012-01-20T17:00:00-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - corruption
+- corruption
 ---
 
 Son: "Dad, I'm considering a career in organised crime." 

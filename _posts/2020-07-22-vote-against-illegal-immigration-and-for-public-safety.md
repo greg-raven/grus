@@ -1,13 +1,12 @@
 ---
 title: 'Vote against illegal immigration and for public safety'
-date: '2020-07-22T07:04:17-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'national security'
-    - 'Representative Paul Cook'
+- immigration
+- national security
+- Representative Paul Cook
 ---
 
 Vote against H.R. 2214 and H.R. 5581 --- they will harm our country!
@@ -18,7 +17,7 @@ The Access to Counsel Act, H.R. 5581, introduced by Rep. Pramila Jayapal (D-Wash
 
 I hope you will vote against H.R. 2214, the No BAN Act, when the House considers it later this week. H.R. 2214 would make it increasingly more difficult for the president to pause immigration when doing so would serve the national interest. I believe the government should be allowed to prevent individuals from entering the United States for any reason (or no reason), but especially if their presence puts Americans in danger.
 
-I also hope you will vote against H.R. 5581, the Access to Counsel Act, when the House considers it later this week. H.R. 5581, would clog our immigration system and make it far more difficult to deny entry to foreign nationals who have no right to enter the United States. This legislation’s purpose is to grind our immigration system to a halt so that removing a foreign national is costly and time-consuming.
+I also hope you will vote against H.R. 5581, the Access to Counsel Act, when the House considers it later this week. H.R. 5581, would clog our immigration system and make it far more difficult to deny entry to foreign nationals who have no right to enter the United States. This legislation's purpose is to grind our immigration system to a halt so that removing a foreign national is costly and time-consuming.
 
 I hope you will oppose these two bills when each comes up for a vote later this week.
 

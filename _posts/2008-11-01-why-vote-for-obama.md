@@ -1,13 +1,12 @@
 ---
 title: 'Why vote for Obama?'
-date: '2008-11-01T14:14:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'Barack Hussein Obama'
-    - politics
-    - 'Senator John McCain'
+- Barack Hussein Obama
+- politics
+- Senator John McCain
 ---
 
 I can understand not wanting to vote for John McCain --- he's a deeply flawed (and possibly insane) individual. However, this doesn't explain the cult-like fervor of Obama supporters.  

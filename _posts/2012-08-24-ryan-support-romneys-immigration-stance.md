@@ -1,14 +1,13 @@
 ---
 title: 'Support Romney&#8217;s immigration stance'
-date: '2012-08-24T13:32:54-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - economy
-    - 'Federal government'
-    - immigration
-    - 'Representative Paul Ryan'
+- economy
+- Federal government
+- immigration
+- Representative Paul Ryan
 ---
 
 Representative Paul Ryan,

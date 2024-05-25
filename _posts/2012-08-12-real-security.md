@@ -1,12 +1,11 @@
 ---
 title: 'Real security'
-date: '2012-08-12T12:58:46-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Barack Hussein Obama'
-    - 'border control'
+- Barack Hussein Obama
+- border control
 ---
 
 Obama: "Instead of sending troops to guard the Arizona border, we sent signs warning about the areas controlled by the Mexican drug cartels!"

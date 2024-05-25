@@ -1,17 +1,16 @@
 ---
 title: 'Obama: &#8216;We Noticed&#8217;'
-date: '2009-04-21T17:24:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - 'Federal government'
+- Barack Hussein Obama
+- Federal government
 ---
 
 Resident Obama:
 
-Today I read that you signed into law the Edward M. Kennedy Serve America Act, which for the first time includes federal authorization to establish September 11 as an annually recognized National Day of Service and Remembrance. It’s time we had a talk.  
+Today I read that you signed into law the Edward M. Kennedy Serve America Act, which for the first time includes federal authorization to establish September 11 as an annually recognized National Day of Service and Remembrance. It's time we had a talk.  
   
 During your campaign, Americans watched as you made mockery of our tradition of standing and crossing your heart when the Pledge of Allegiance was spoken. You, out of four people on the stage, were the only one not honoring our tradition.
 
@@ -25,15 +24,15 @@ When President Bush leaned over at Ground Zero and gently placed a flower on the
 
 YES, "We noticed."
 
-Every time you apologized to other countries for America’s position on an issue we have wondered why you don’t share our pride in this great country. instead you bow foreign leaders berate our country and our beliefs, you have not defended us. In fact, you insulted the British Crown beyond belief.
+Every time you apologized to other countries for America's position on an issue we have wondered why you don't share our pride in this great country. instead you bow foreign leaders berate our country and our beliefs, you have not defended us. In fact, you insulted the British Crown beyond belief.
 
 YES, "We noticed."
 
-When your pastor of 20 years, "God-damned" America and said that 9/11 was "America’s chickens coming home to roost," and you denied having heard recriminations of that nature, we wondered how that could be. You later disassociated yourself from that church and Pastor Wright only once it became politically expedient to do so.
+When your pastor of 20 years, "God-damned" America and said that 9/11 was "America's chickens coming home to roost," and you denied having heard recriminations of that nature, we wondered how that could be. You later disassociated yourself from that church and Pastor Wright only once it became politically expedient to do so.
 
 YES, "We noticed."
 
-When you announced that you would transform America, we wondered why. With all her faults, America is the greatest country on earth. Sir, keep this in mind, if not for America and the people who built her, you wouldn’t be sitting in the White House now. Prior to your election to the highest office in this country, you were a senator from Illinois and from what we can glean from the records available, not a very remarkable one. For that matter, the records seem to indicate that you are not a natural born citizen, and thus not eligible to hold the office of president.
+When you announced that you would transform America, we wondered why. With all her faults, America is the greatest country on earth. Sir, keep this in mind, if not for America and the people who built her, you wouldn't be sitting in the White House now. Prior to your election to the highest office in this country, you were a senator from Illinois and from what we can glean from the records available, not a very remarkable one. For that matter, the records seem to indicate that you are not a natural born citizen, and thus not eligible to hold the office of president.
 
 YES, "We noticed."
 
@@ -57,7 +56,7 @@ There were many of us who prayed that as a black president you could help unite 
 
 YES, "We noticed."
 
-September 11 is a day of remembrance for all Americans. You propose to make 9/11 a "National Service Day". While we know that you don’t share our reverence for 9/11, we pray that history will report your proposal as what it is; a disgrace.
+September 11 is a day of remembrance for all Americans. You propose to make 9/11 a "National Service Day". While we know that you don't share our reverence for 9/11, we pray that history will report your proposal as what it is; a disgrace.
 
 YES, "We noticed."
 

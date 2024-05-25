@@ -1,15 +1,14 @@
 ---
 title: 'No &#8216;comprehensive immigration reform&#8217;'
-date: '2009-03-29T01:59:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Barack Hussein Obama'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Barack Hussein Obama
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 In 2007 the American people rose up and prevented Congress from passing amnesty. With this in mind, why would you tell members of the Congressional Hispanic Caucus that you supported "comprehensive immigration reform?" We both know this is nothing more than a fancy term for amnesty.

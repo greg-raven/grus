@@ -1,14 +1,13 @@
 ---
 title: 'Tell HHS no warehousing of illegals in California'
-date: '2014-08-02T04:43:43-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Please do not allow the federal government to house illegal aliens in our state. The Obama administration is responsible for the influx at the border and should not be forcing our state to deal with the consequences.

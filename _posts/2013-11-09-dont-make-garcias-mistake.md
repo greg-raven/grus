@@ -1,15 +1,14 @@
 ---
 title: 'Don&#8217;t make Garcia&#8217;s mistake'
-date: '2013-11-09T05:27:43-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
-Yesterday, Rep. Joe Garcia went on a Google+ forum to discuss H.R. 15, the Democrat’s amnesty legislation. Unfortunately, it turned out that he was unaware that the legislation would increase unemployment and decrease wages for American workers. I hope you will not make Rep. Garcia’s mistake of sponsoring this legislation.  
+Yesterday, Rep. Joe Garcia went on a Google+ forum to discuss H.R. 15, the Democrat's amnesty legislation. Unfortunately, it turned out that he was unaware that the legislation would increase unemployment and decrease wages for American workers. I hope you will not make Rep. Garcia's mistake of sponsoring this legislation.  
   
 Rep. Garcia also invoked the 1986 amnesty while answering the same question; he said that "jobs were created" as a result of the amnesty. What he failed to mention is that the amnesty failed in its main objective: securing the border and stopping future illegal immigration.
 

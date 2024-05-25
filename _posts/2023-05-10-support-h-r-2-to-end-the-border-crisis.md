@@ -1,15 +1,14 @@
 ---
 title: 'Support H.R. 2 to end the border crisis'
-date: '2023-05-10T06:24:52-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'illegal immigration'
-    - immigration
-    - jobs
-    - 'Representative Jay Obernolte'
+- E-Verify
+- illegal immigration
+- immigration
+- jobs
+- Representative Jay Obernolte
 ---
 
 Reps. Tom McClintock and Mario Diaz-Balart have introduced H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S. – Mexico border. This legislation would:
@@ -27,4 +26,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

@@ -1,12 +1,11 @@
 ---
 title: 'Thanks for voting to defund sanctuary cities'
-date: '2016-08-03T03:07:33-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
 Thank you for voting in favor of the Gosar amendment to the Financial Services Appropriations bill. Please continue to support legislation that targets sanctuary cities.

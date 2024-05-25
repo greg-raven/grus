@@ -1,14 +1,13 @@
 ---
 title: 'Is Obama a citizen?'
-date: '2009-04-30T12:39:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 There are serious questions about whether or not Barack Obama is eligible to be (or act as) President of the United States. I urge you to look into this questions. Here are some of the documents you will need in order to get to the bottom of this Constitutional crisis:

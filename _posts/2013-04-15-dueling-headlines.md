@@ -1,9 +1,8 @@
 ---
 title: 'Dueling headlines: Violence'
-date: '2013-04-15T23:15:56-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Horrific day in Boston:  

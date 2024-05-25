@@ -1,0 +1,22 @@
+---
+title: "End the visa lottery"
+layout: post
+categories:
+- Letters
+tags: 
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Laphonza Butler
+- immigration
+- visa lottery
+---
+
+Our nation currently allows 50,000 immigrants to come to the United States through this program. These individuals need not possess special skills or extraordinary talents, they need only sign up for the lottery and have their name drawn. Once they come to the United States they are free to compete against unemployed Americans for U.S. jobs.
+
+Don't you think that eliminating this program is a good way of helping jobless Americans find work? I sure do. Please take firm action to end the visa lottery!
+
+Sincerely,
+
+[Greg Raven](https://www.gregraven.org/), Apple Valley, CA
+
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

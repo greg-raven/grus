@@ -1,18 +1,17 @@
 ---
 title: 'Napolitano must go'
-date: '2009-04-23T14:58:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - DHS
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- DHS
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-In light of the unfounded "threat assessment" on "Rightwing Extremism" issued by DHS Secretary Janet Napolitano, I am calling for Napolitano’s immediate removal from office.
+In light of the unfounded "threat assessment" on "Rightwing Extremism" issued by DHS Secretary Janet Napolitano, I am calling for Napolitano's immediate removal from office.
 
 While admitting to having no evidence linking "right wing" citizens to actual terror threats, the report nonetheless profiles several conservative groups, including members of the military, pro-life citizens, tax protesters, proponents of Constitutional government, and those who oppose illegal immigration, as terror threats.
 

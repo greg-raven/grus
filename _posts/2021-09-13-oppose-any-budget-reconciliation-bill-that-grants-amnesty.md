@@ -1,13 +1,12 @@
 ---
 title: 'Oppose any budget reconciliation bill that grants amnesty'
-date: '2021-09-13T14:49:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Democrats are making a terrible error by trying to use the budget reconciliation process to issue permanent work permits to 8 million illegal border crossers and visa overstayers. This is especially true while human smugglers and cartels make billions of dollars promising impoverished Central Americans that illegal immigration pays off.

@@ -1,12 +1,11 @@
 ---
 title: 'Support the Legal Workforce Act to Mandate E-Verify and Combat ID Theft'
-date: '2022-03-23T06:15:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Representative Jay Obernolte'
+- E-Verify
+- Representative Jay Obernolte
 ---
 
 Please cosponsor H.R. 78 to mandate E-Verify.

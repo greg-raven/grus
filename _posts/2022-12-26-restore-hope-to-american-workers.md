@@ -1,14 +1,13 @@
 ---
 title: 'Restore hope to American workers'
-date: '2022-12-26T04:50:31-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- jobs
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Immigration should not undermine U.S. workers.

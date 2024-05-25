@@ -1,15 +1,14 @@
 ---
 title: 'Cosponsor H.R. 6206, the American Tech Workforce Act of 2021'
-date: '2022-03-23T06:16:09-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Representative Jay Obernolte'
+- jobs
+- Representative Jay Obernolte
 ---
 
-Support American workers, not Big Tech’s profits. Cosponsor H.R. 6206.
+Support American workers, not Big Tech's profits. Cosponsor H.R. 6206.
 
 H-1B and OPT visa programs allow employers to exploit foreigners while displacing American tech workers.
 
@@ -21,4 +20,4 @@ Please help end this exploitation and cosponsor H. R. 6026, the American Tech Wo
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. I know you’re a tech guy, but I hope you agree with me that American companies should hire American workers.
+P.S. I know you're a tech guy, but I hope you agree with me that American companies should hire American workers.

@@ -1,12 +1,11 @@
 ---
 title: 'Kleptocrats on parade'
-date: '2008-11-04T11:50:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'Federal government'
-    - 'government power'
+- Federal government
+- government power
 ---
 
 According to [this article](https://www.carolinajournal.com/articles/display_story.html?id=5081), "Democrats in the U.S. House have been conducting hearings on proposals to confiscate workers' personal retirement accounts --- including 401(k)s and IRAs --- and convert them to accounts managed by the Social Security Administration."

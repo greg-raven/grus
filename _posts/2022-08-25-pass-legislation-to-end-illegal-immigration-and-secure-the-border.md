@@ -1,13 +1,12 @@
 ---
 title: 'Pass legislation to end illegal immigration and secure the border'
-date: '2022-08-25T04:43:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - immigration
-    - 'Representative Jay Obernolte'
+- illegal immigration
+- immigration
+- Representative Jay Obernolte
 ---
 
 Due to the actions (or inaction) of the Biden administration, the border is out of control and illegal immigration is rampant. Congress must make securing the border and tackling illegal immigration a priority during the remainder of the 117th Congress and during the 118th Congress. Legislation must include:
@@ -16,7 +15,7 @@ Due to the actions (or inaction) of the Biden administration, the border is out 
 - Creating an authority to expel illegal aliens across the border immediately;
 - Mandating and appropriating resources for completion of the border wall system;
 - Substantially reforming the asylum system, including clarifying that an alien is ineligible for asylum in the U.S. if they traversed a safe third country;
-- Increasing ICE resources for Deportation Officers (DO) and detention beds so they are commensurate with the mandatory detention and removal requirements in the law, and clarifying DO’s authority to make custodial arrests;
+- Increasing ICE resources for Deportation Officers (DO) and detention beds so they are commensurate with the mandatory detention and removal requirements in the law, and clarifying DO's authority to make custodial arrests;
 - Ending the abuse of parole authority;
 - Mandating full implementation of the Migrant Protection Protocols (MPP), otherwise known as Remain in Mexico, and appropriating funds for permanent court facilities along the border at every POE;
 - Restricting prosecutorial discretion to remove it as the catch-all excuse for limiting immigration enforcement;

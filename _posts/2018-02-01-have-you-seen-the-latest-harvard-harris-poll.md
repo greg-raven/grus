@@ -1,14 +1,14 @@
 ---
 title: 'Have you seen the latest Harvard-Harris poll?'
-date: '2018-02-01T05:43:51-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- immigration
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
+- visa lottery
 ---
 
 I wanted to tell you about a new Harvard-Harris poll of registered voters. It found that:
@@ -18,6 +18,6 @@ I wanted to tell you about a new Harvard-Harris poll of registered voters. It fo
 - 68% support ending the visa lottery; and
 - 60% support ending chain migration.
 
-It is clear that American voters are against any efforts to increase immigration or give DACA recipients a deal that doesn’t end chain migration or the visa lottery. I urge you to take heed of this poll and refuse to accept a DACA deal that doesn’t end chain migration or the visa lottery.
+It is clear that American voters are against any efforts to increase immigration or give DACA recipients a deal that doesn't end chain migration or the visa lottery. I urge you to take heed of this poll and refuse to accept a DACA deal that doesn't end chain migration or the visa lottery.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

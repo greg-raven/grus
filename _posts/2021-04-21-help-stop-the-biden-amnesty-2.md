@@ -1,17 +1,17 @@
 ---
 title: 'Help stop the Biden amnesty'
-date: '2021-04-21T05:55:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Dianne Feinstein
+- visa lottery
 ---
 
-Resident Biden’s mass amnesty for illegal aliens, the U.S. Citizenship Act of 2021, has been introduced by Rep. Linda Sanchez. The Gang of 8’s 2013 amnesty legislation was a bad bill, but the Biden amnesty bill is incalculably worse.
+Resident Biden's mass amnesty for illegal aliens, the U.S. Citizenship Act of 2021, has been introduced by Rep. Linda Sanchez. The Gang of 8's 2013 amnesty legislation was a bad bill, but the Biden amnesty bill is incalculably worse.
 
-The U.S. Citizenship Act of 2021 doesn’t even contain a fig leaf of immigration enforcement and expands legal immigration while millions of American workers still struggle as a result of the Covid-19 pandemic.
+The U.S. Citizenship Act of 2021 doesn't even contain a fig leaf of immigration enforcement and expands legal immigration while millions of American workers still struggle as a result of the Covid-19 pandemic.
 
 In addition to its mass amnesty provisions, the bill would expand chain migration, expand the visa lottery, expand employment-based green cards, roll back interior enforcement efforts, and scrap the three- and ten-year re-entry bans.
 

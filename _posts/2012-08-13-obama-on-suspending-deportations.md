@@ -1,14 +1,13 @@
 ---
 title: 'Obama on suspending deportations'
-date: '2012-08-13T11:13:12-08:00'
 layout: post
 categories:
-    - Video
+- Video
 tags:
-    - 'Barack Hussein Obama'
-    - 'border control'
-    - 'illegal aliens'
-    - immigration
+- Barack Hussein Obama
+- border control
+- illegal aliens
+- immigration
 format: video
 ---
 

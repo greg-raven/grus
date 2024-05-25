@@ -1,12 +1,11 @@
 ---
 title: 'End sanctuary cities'
-date: '2015-07-09T09:17:14-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
+- illegal aliens
+- Representative Paul Cook
 ---
 
 I cannot understand why Congress and the Obama administration are not requiring federal agencies to enforce immigration laws and not requiring states and localities to assist in enforcing the law. The tragic shooting death of an innocent San Francisco woman by a five-times deported illegal alien could have been prevented if the laws currently on the books were enforced. Please support and help to pass H.R. 1148, the Davis-Oliver Act. This bill would outlaw sanctuary cities and require all immigration laws to be enforced.

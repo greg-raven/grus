@@ -1,18 +1,17 @@
 ---
 title: 'Support the SAVE act'
-date: '2012-08-02T21:24:23-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - immigration
-    - 'Representative Jerry Lewis'
+- border control
+- immigration
+- Representative Jerry Lewis
 ---
 
 Representative Jerry Lewis:
 
-The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration’s dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler’s SAVE Act, today!  
+The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration's dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler's SAVE Act, today!  
   
 According to the report released by the Congressional Research Service, criminal illegal aliens released by order of the Obama administration are likely to commit another serious crime.
 
@@ -22,7 +21,7 @@ Of those released, CRS found that about 17% of illegal and criminal immigrants, 
 
 The categories of crimes charged include nearly 8,500 DUI (14.6%), over 6,000 Drug Violations (10.9%), more than 4,000 Major Criminal Offenses (7.1%), which includes murder, assault, battery, rape, and kidnapping, nearly 3,000 Theft (4.9%), and over 1,000 Other Violent Crimes (2.1%), which includes carjacking, child cruelty, child molestation, domestic abuse, lynching, stalking, and torture.
 
-The bottom line is that these criminal illegal aliens should not have been out walking the streets. Innocent victims could have been saved if the Obama administration’s wanton disregard for the rule of law and disregard for the safety of the American people would have been challenged by the Congress. Unfortunately, you and your colleagues failed us thus far. Please change this by supporting H.R. 2000, the bipartisan SAVE Act.
+The bottom line is that these criminal illegal aliens should not have been out walking the streets. Innocent victims could have been saved if the Obama administration's wanton disregard for the rule of law and disregard for the safety of the American people would have been challenged by the Congress. Unfortunately, you and your colleagues failed us thus far. Please change this by supporting H.R. 2000, the bipartisan SAVE Act.
 
 Phone me if you would like to talk about this,
 

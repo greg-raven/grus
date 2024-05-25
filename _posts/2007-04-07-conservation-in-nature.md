@@ -1,11 +1,10 @@
 ---
 title: 'Conservation in nature'
-date: '2007-04-07T11:47:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - environment
+- environment
 ---
 
 According to the news today, an earthquake in the Solomon Islands has lifted a prime coral reef 10 feet free of the sea, effectively destroying the reef. That is, in a couple of minutes, "nature" destroyed something in a way that man could not have, short of using nuclear devices.  

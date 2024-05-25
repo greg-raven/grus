@@ -1,14 +1,13 @@
 ---
 title: 'No amnesty'
-date: '2013-10-06T06:15:46-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Pro-amnesty groups are holding a cynical "Day of Dignity &amp; Respect" for illegal aliens. These groups fail to recognize that an amnesty would undermine those already in the United States legally. Please respect the dignity of legal citizens by drastically and permanently reducing legal immigration.  
@@ -25,4 +24,4 @@ Phone me if you would like to talk about this
 
 Greg Raven
 
-P.S. I suspect the true aim of these rallies is not "immigration," but rather revanchism, or the "reconquest" of the United States by foreign invaders through demographics. For America to stay American, it must secure it’s borders and repel the invaders from within and without.
+P.S. I suspect the true aim of these rallies is not "immigration," but rather revanchism, or the "reconquest" of the United States by foreign invaders through demographics. For America to stay American, it must secure it's borders and repel the invaders from within and without.

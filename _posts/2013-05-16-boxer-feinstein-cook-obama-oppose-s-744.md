@@ -1,16 +1,15 @@
 ---
 title: 'Oppose S. 744'
-date: '2013-05-16T15:39:37-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Barack Hussein Obama'
-    - population
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Barack Hussein Obama
+- population
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Please oppose the S. 744 immigration bill, that would give out a minimum of 33 million lifetime work permits to foreign citizens in the first decade alone.  
@@ -23,7 +22,7 @@ It is irrational and cruel to give out 33 million more work permits when million
 
 This bill would give out about half the number of green cards in a single decade as all the immigrants who have ever arrived in our entire history since the founding of Jamestown in 1607.
 
-No matter what you may think about legalizing most of the current illegal population in this country, you can’t possibly justify adding 33 million potential foreign job seekers as competitors for scarce U.S. jobs.
+No matter what you may think about legalizing most of the current illegal population in this country, you can't possibly justify adding 33 million potential foreign job seekers as competitors for scarce U.S. jobs.
 
 Furthermore, this bill would be a pathway to higher chain migration and massive new social service expenditures in a time of budget deficit and debt crisis. And it would lead to more illegal immigration because it gives the legalization and work permits first with only promises of future enforcement, just like the previous seven amnesties between 1986 and 2000 which had no hard enforcement triggers and served only to entice 11 million new illegal immigrants who now demand their own amnesty.
 

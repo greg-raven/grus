@@ -1,15 +1,14 @@
 ---
 title: 'Dueling headlines: Borders'
-date: '2018-01-26T05:52:04-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'border control'
-    - 'national security'
+- border control
+- national security
 ---
 
-"Former Mexican President: ‘We shouldn’t have a border’ at all"
+"Former Mexican President: 'We shouldn't have a border' at all"
 
 Source: Lifezette.com <small>(lifezette.com/polizette/former-mexican-president-says-we-shouldnt-have-a-border-at-all/)</small>
 

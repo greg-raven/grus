@@ -1,11 +1,10 @@
 ---
 title: 'Sowell: Immigration Sophistry'
-date: '2013-04-16T12:11:42-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Thomas Sowell'
+- Thomas Sowell
 ---
 
 by Thomas Sowell

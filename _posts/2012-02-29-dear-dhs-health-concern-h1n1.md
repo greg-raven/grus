@@ -1,12 +1,11 @@
 ---
 title: 'Health Concern + H1N1'
-date: '2012-02-29T13:53:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - DHS
-    - 'national security'
+- DHS
+- national security
 ---
 
 Outbreak  

@@ -1,12 +1,11 @@
 ---
 title: 'Oppose firearms licensing and registration'
-date: '2021-06-26T03:05:51-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Jay Obernolte'
+- 2nd Amendment
+- Representative Jay Obernolte
 ---
 
 I urge you to OPPOSE H.R. 3740.

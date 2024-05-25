@@ -1,11 +1,10 @@
 ---
 title: "The fraud of 'climate change'"
-date: '2015-08-02T12:56:39-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - environment
+- environment
 ---
 
 The fraudulent nature of "climate change" can be seen in its name. It would be bad enough if the climate didn't change by itself over time, and progressives were attempting simply to hijack naturally-occurring phenomena for their own purposes, but it's made worse by the fact that just a few years ago, the problem was supposed to be "man-made global warming," then just "global warming." Once neither of those panned out, despite assurances from the scientific community, Al Gore, the White House, NASA, etc., the AGW crew had to re-invent and rebrand itself. Hence: "Climate change."

@@ -1,14 +1,13 @@
 ---
 title: 'Hypocrisy in hiring'
-date: '2013-09-14T15:47:04-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I was sickened to learn that companies that have laid off thousands of American workers are now asking Congress to increase the number of foreign workers they are able to hire. I hope you will not accede to their demands and will work to protect American workers. Please read the attached article about their efforts.
@@ -19,7 +18,7 @@ I was sickened to learn that companies that have laid off thousands of American 
 > 
 > On Tuesday, the chief human resources officers of more than 100 large corporations sent a letter to House Speaker John Boehner and Minority Leader Nancy Pelosi urging quick passage of a comprehensive immigration reform bill.
 > 
-> The officials represent companies with a vast array of business interests: General Electric, The Walt Disney Company, Marriott International, Hilton Worldwide, Hyatt Hotels Corporation, McDonald’s Corporation, The Wendy’s Company, Coca-Cola, The Cheesecake Factory, Johnson &amp; Johnson, Verizon Communications, Hewlett-Packard, General Mills, and many more. All want to see increases in immigration levels for low-skill as well as high-skill workers, in addition to a path to citizenship for the millions of immigrants currently in the U.S. illegally.
+> The officials represent companies with a vast array of business interests: General Electric, The Walt Disney Company, Marriott International, Hilton Worldwide, Hyatt Hotels Corporation, McDonald's Corporation, The Wendy's Company, Coca-Cola, The Cheesecake Factory, Johnson &amp; Johnson, Verizon Communications, Hewlett-Packard, General Mills, and many more. All want to see increases in immigration levels for low-skill as well as high-skill workers, in addition to a path to citizenship for the millions of immigrants currently in the U.S. illegally.
 
 Phone me if you would like to talk about this
 

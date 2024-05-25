@@ -1,13 +1,12 @@
 ---
 title: "Don't cave in on gun legislation"
-date: '2016-07-05T17:23:36-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Representative Paul Cook'
-    - 'Representative Paul Ryan'
+- gun control
+- Representative Paul Cook
+- Representative Paul Ryan
 ---
 
 A couple of weeks ago, Democrats made a mockery of the House by sitting on the floor, whining --- metaphorically holding their breath until they turned blue. Yet with Obama in the White House and Democrats holding supermajorities in the House and Senate in 2009-2010, the Democrats did nothing to pass gun control legislation, which they now falsely claim is vital to public safety.
@@ -30,12 +29,12 @@ Not only do they IGNORE the terror connection, radicals like Barack Obama contin
 
 Sadly, Obama has been able to enlist help from Senate Majority Leader Mitch McConnell --- and now, House Speaker Paul Ryan --- to make the recent Orlando tragedy "about guns," rather than about the growing terror threat within our borders.
 
-Obviously, it’s not about guns, but making it so only energizes Hillary’s political purposes going into the election.
+Obviously, it's not about guns, but making it so only energizes Hillary's political purposes going into the election.
 
 Make no mistake about it: None of the gun control proposals that will be voted on this week is constitutional.
 
 And while they are all aimed at stopping GUN PURCHASES --- thus restricting Second Amendment rights --- none of them is aimed at stopping potential terrorists who buy a truckload of fertilizer (as in Oklahoma City) or box cutters (as on 9-11).
 
-Any gun control will concede Obama’s argument that "guns are the problem," and will position the anti-gun Left for its next set of gun control demands.
+Any gun control will concede Obama's argument that "guns are the problem," and will position the anti-gun Left for its next set of gun control demands.
 
 [Greg Raven](https://www.gregraven.org), Apple Valley, CA

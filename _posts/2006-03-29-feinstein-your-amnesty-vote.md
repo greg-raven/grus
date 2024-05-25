@@ -1,22 +1,21 @@
 ---
 title: 'Your amnesty vote'
-date: '2006-03-29T02:49:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - population
-    - 'Senator Dianne Feinstein'
+- amnesty
+- population
+- Senator Dianne Feinstein
 ---
 
-I can’t believe that you, a member of the Senate Judiciary Committee, yesterday voted to give what can only be called blanket amnesty to illegal aliens. You had the choice of tossing out the law-breakers or tossing out our laws. You sided with the law-breakers. You sided with people who don’t vote, who don’t pay taxes, who are parasites on our infrastructure, and who couldn’t care less about us as a country.  
+I can't believe that you, a member of the Senate Judiciary Committee, yesterday voted to give what can only be called blanket amnesty to illegal aliens. You had the choice of tossing out the law-breakers or tossing out our laws. You sided with the law-breakers. You sided with people who don't vote, who don't pay taxes, who are parasites on our infrastructure, and who couldn't care less about us as a country.  
   
-You voted for a blanket amnesty for nearly all of the 12-20 million illegal aliens in this country. I realize you don’t call it "blanket" amnesty, but in fact, you seem to be in favor of every other kind of amnesty, just so long as it isn’t called "blanket."
+You voted for a blanket amnesty for nearly all of the 12-20 million illegal aliens in this country. I realize you don't call it "blanket" amnesty, but in fact, you seem to be in favor of every other kind of amnesty, just so long as it isn't called "blanket."
 
 The bill you supported offers several different kinds of amnesties. As a result, virtually none of the 12-20 million illegal aliens currently in our communities will ever have to go home, with the rest having the opportunity for U.S. citizenship.
 
-If that isn’t a de facto blanket amnesty, I don’t know what is.
+If that isn't a de facto blanket amnesty, I don't know what is.
 
 You voted nearly to double the number of green cards for permanent foreign workers and dependents every year, in addition to large-scale increases in H-1B visas for foreign tech workers, who will be taking jobs from already-beleaguered American tech workers.
 

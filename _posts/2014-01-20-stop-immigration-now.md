@@ -1,13 +1,12 @@
 ---
 title: 'Stop immigration now'
-date: '2014-01-20T06:41:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Martin Luther King, Jr. strived for racial equality and that equality has been achieved in many arenas. However, it is still lacking in terms of employment, particularly for Black men. I urge you to consider reducing immigration numbers, which are far too high, so that all Americans have a good chance of finding a job.
@@ -20,7 +19,7 @@ This interview could not have come at a better time: in the days leading up to M
 
 Immigration, while not the only reason, is a big reason of why Black men have trouble finding work. More than 1 million work permits are handed out each year and many of these new foreign workers compete directly against Black Americans for jobs. I hope you agree that this is a problem.
 
-Dr. King’s dream is still alive and I hope you will honor it by working to further it. Please work to reduce immigration numbers so that all Americans, no matter their race, have reason to dream.
+Dr. King's dream is still alive and I hope you will honor it by working to further it. Please work to reduce immigration numbers so that all Americans, no matter their race, have reason to dream.
 
 Phone me if you would like to talk about this.
 

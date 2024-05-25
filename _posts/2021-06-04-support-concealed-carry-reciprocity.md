@@ -1,12 +1,11 @@
 ---
 title: 'Support concealed carry reciprocity'
-date: '2021-06-04T05:51:44-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Senator Dianne Feinstein'
+- 2nd Amendment
+- Senator Dianne Feinstein
 ---
 
 I urge you to support Concealed Carry Reciprocity (S. 1522).

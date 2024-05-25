@@ -1,12 +1,11 @@
 ---
 title: 'Obama meets the Pope'
-date: '2014-04-19T05:47:08-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Barack Hussein Obama'
-    - Obamacare
+- Barack Hussein Obama
+- Obamacare
 ---
 
 Barack Obama: "Harry Reid said that I should be made a saint because of Obamacare!" 

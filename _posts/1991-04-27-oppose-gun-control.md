@@ -1,11 +1,10 @@
 ---
 title: 'Oppose gun control'
-date: '1991-04-27T05:17:58-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
+- gun control
 ---
 
 I am writing today to tell you of my utter opposition to the Staggers bill (H.R. 1412) and the Feighan/Brady bill (H.R. 7). As a student of history, it seems that these bills are trying to complete the job the British started back in 1775 when they marched on Concord to confiscate the weapons and ammunition the Colonials had gathered.

@@ -1,13 +1,12 @@
 ---
 title: 'Record-high commutes are made worse by record-high immigration'
-date: '2019-10-29T06:01:19-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - population
-    - 'Representative Paul Cook'
+- immigration
+- population
+- Representative Paul Cook
 ---
 
 Please consider the impact of mass immigration on the quality of life of your constituents.

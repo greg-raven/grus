@@ -1,19 +1,18 @@
 ---
 title: 'Attach H.R. 2 to must-pass legislation to end the border crisis'
-date: '2023-11-10T05:19:01-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - E-Verify
-    - 'illegal immigration'
-    - immigration
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
+- border control
+- E-Verify
+- illegal immigration
+- immigration
+- Representative Jay Obernolte
+- Senator Alex Padilla
 ---
 
-The ongoing crisis at the U.S. / Mexico border will not end unless Congress takes steps to change the government’s immigration and border policies. H.R. 2, the Secure the Border Act, would end the crisis by:
+The ongoing crisis at the U.S. / Mexico border will not end unless Congress takes steps to change the government's immigration and border policies. H.R. 2, the Secure the Border Act, would end the crisis by:
 
 - plugging the loopholes in our asylum system that are exploited by illegal economic migrants, restoring its integrity and protecting it for legitimate asylum seekers;
 - blocking the government from continuing its policies of catch-and-release, thus deterring future waves of illegal migrants;
@@ -30,4 +29,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

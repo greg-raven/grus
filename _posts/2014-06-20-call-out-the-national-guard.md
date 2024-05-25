@@ -1,13 +1,12 @@
 ---
 title: 'Call out the National Guard'
-date: '2014-06-20T03:55:15-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'Governor Jerry Brown'
-    - immigration
+- border control
+- Governor Jerry Brown
+- immigration
 ---
 
 As a great former governor of California once said, "A country without a border is not a country."

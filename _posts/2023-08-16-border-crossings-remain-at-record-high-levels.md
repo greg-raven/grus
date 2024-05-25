@@ -1,23 +1,22 @@
 ---
 title: 'Border crossings remain at record-high levels'
-date: '2023-08-16T09:47:24-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- illegal immigration
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I am disappointed that recent media reports and statements from Biden administration officials indicate that the historic border crisis is beginning to wind down.
 
 While the number of illegal border crossings has lessened, migrants showing up at ports of entry along the Southwest border in June hit its highest level since President Biden took office in 2021, without even counting the number of migrants who were paroled into this country by the Biden administration at a port of entry NOT along the Southwest border.
 
-According to Customs and Border Patrol, the Office of Field Operations (OFO) encountered 110,958 migrants at ports of entry along the Southwest border in June. That’s the highest level of OFO encounters with migrants at the Southwest border in history. In June of 2021, Pres. Biden’s first year in office, OFO encountered just 28,927 migrants at ports of entry.
+According to Customs and Border Patrol, the Office of Field Operations (OFO) encountered 110,958 migrants at ports of entry along the Southwest border in June. That's the highest level of OFO encounters with migrants at the Southwest border in history. In June of 2021, Pres. Biden's first year in office, OFO encountered just 28,927 migrants at ports of entry.
 
-The Biden administration has also established a number of different routes for would-be illegal border crossers that don’t involve crossing the border illegally.
+The Biden administration has also established a number of different routes for would-be illegal border crossers that don't involve crossing the border illegally.
 
 In sum, roughly the same number of migrants are entering the country each month.
 
@@ -27,4 +26,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

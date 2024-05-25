@@ -1,22 +1,21 @@
 ---
 title: 'Thank you for opposing Canterbury'
-date: '2019-12-17T05:42:26-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Senator Benjamin Sasse'
-    - 'Senator John Kennedy'
-    - 'Senator Josh Hawley'
-    - 'Senator Mike Lee'
+- 2nd Amendment
+- Senator Benjamin Sasse
+- Senator John Kennedy
+- Senator Josh Hawley
+- Senator Mike Lee
 ---
 
 - Nominee to lead ATF supports "red flag" gun confiscation orders.
 
 Thank you for your bold defense of the Second Amendment!
 
-Gun Owners of America has highlighted your recent actions which helped to indefinitely postpone Chuck Canterbury’s nomination to head the Bureau of Alcohol, Tobacco, Firearms, and Explosives.
+Gun Owners of America has highlighted your recent actions which helped to indefinitely postpone Chuck Canterbury's nomination to head the Bureau of Alcohol, Tobacco, Firearms, and Explosives.
 
 Canterbury clearly has no idea how the ATF operates, as evidenced by the hearing in July.
 

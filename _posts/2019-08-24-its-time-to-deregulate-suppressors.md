@@ -1,12 +1,11 @@
 ---
 title: 'It&#8217;s time to deregulate suppressors'
-date: '2019-08-24T13:38:12-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Paul Cook'
+- 2nd Amendment
+- Representative Paul Cook
 ---
 
 Anti-gun advocates are waging war against the Second Amendment, but you have the opportunity to stand up for the God-given rights of millions of Americans.

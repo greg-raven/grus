@@ -1,13 +1,12 @@
 ---
 title: 'End OPT and help American workers'
-date: '2020-03-20T08:49:12-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Representative Paul Cook'
+- immigration
+- jobs
+- Representative Paul Cook
 ---
 
 Please cosponsor H.R. 3564 to end the OPT program.

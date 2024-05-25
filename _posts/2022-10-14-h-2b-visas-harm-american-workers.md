@@ -1,17 +1,16 @@
 ---
 title: 'H-2B visas harm American workers'
-date: '2022-10-14T06:40:59-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Representative Jay Obernolte'
+- jobs
+- Representative Jay Obernolte
 ---
 
 I was disappointed to learn that DHS Secretary Mayorkas has issued an additional 65,000 H-2B visas. As H-2B visas typically cover seasonal and temporary low-skill jobs, these visas disproportionately harm young and less-educated Americans. Increasing H-2B visa numbers would prevent thousands more young Americans from entering the workplace.
 
-Investigative reports have shown that businesses are more than willing to fire American workers when H-2B workers become available. It’s clear that the H-2B program, which is fraught with abuse, harms young and less-educated Americans.
+Investigative reports have shown that businesses are more than willing to fire American workers when H-2B workers become available. It's clear that the H-2B program, which is fraught with abuse, harms young and less-educated Americans.
 
 Moreover, the most recent labor participation rate is only 62.3%, which is below pre-Covid levels and well below 2009 levels. There is simply no need to import additional low-skilled workers.
 

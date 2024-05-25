@@ -1,12 +1,11 @@
 ---
 title: 'Stop fund-raising from un-American CEOs'
-date: '2014-03-23T15:07:28-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Robert Goodlatte'
+- immigration
+- Representative Robert Goodlatte
 ---
 
 American STEM workers, myself included, do not want you to allow legislation that increases foreign worker visas, to move through your committee. I hope your fundraising efforts in Silicon Valley do not mean that you support such legislation.  

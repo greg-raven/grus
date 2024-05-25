@@ -1,14 +1,14 @@
 ---
 title: 'No DACA amnesty in the omnibus spending bill'
-date: '2018-03-16T06:01:32-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator John Cornyn'
-    - 'Senator John Thune'
-    - 'Senator Mitch McConnell'
+- amnesty
+- Senator John Cornyn
+- Senator John Thune
+- Senator Mitch McConnell
+- visa lottery
 ---
 
 I oppose any and all DACA amnesties. Thus, it is vital that neither you nor your fellow Republicans bow to pressure and include a DACA amnesty in the omnibus spending bill.

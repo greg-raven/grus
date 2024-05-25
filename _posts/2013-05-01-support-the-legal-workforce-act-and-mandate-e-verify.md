@@ -1,12 +1,11 @@
 ---
 title: 'Support the Legal Workforce Act and mandate E-Verify'
-date: '2013-05-01T10:45:58-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Representative Paul Cook'
+- E-Verify
+- Representative Paul Cook
 ---
 
 The bipartisan Legal Workforce Act would phase in mandatory use of the E-Verify system, thereby preventing illegal aliens from finding work. The bill also contains provisions to combat identity theft. Please cosponsor it today!  

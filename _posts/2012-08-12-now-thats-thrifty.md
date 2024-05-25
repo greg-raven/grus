@@ -1,11 +1,10 @@
 ---
 title: "Now that's thrifty!"
-date: '2012-08-12T13:00:00-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 The Resident arrived in Europe for the economic summit with an unprecedented entourage of over 500 people, including his personal chef, hairdresser, make-up people, writers, a man to play basketball with, and 12 teleprompters.

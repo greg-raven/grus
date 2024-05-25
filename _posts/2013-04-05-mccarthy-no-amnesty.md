@@ -1,15 +1,14 @@
 ---
 title: 'No amnesty!'
-date: '2013-04-05T17:50:15-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Kevin McCarthy'
+- amnesty
+- Representative Kevin McCarthy
 ---
 
-Why did you go on CNN’s "State of the Union" program and give your support to amnesty legislation? Californians expect you to oppose, not support, an amnesty for illegal aliens!  
+Why did you go on CNN's "State of the Union" program and give your support to amnesty legislation? Californians expect you to oppose, not support, an amnesty for illegal aliens!  
   
 Any amnesty for illegal alien would cost U.S. taxpayers $2.5 trillion. Is this money well spent? Is this money the American people have? With taxes going up and the prices food, housing, and gasoline skyrocketing, can America really afford an amnesty?
 

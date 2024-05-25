@@ -1,12 +1,11 @@
 ---
 title: 'Dueling headlines: Black Lies Matter edition'
-date: '2020-10-24T03:52:30-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
-"MSNBC’s Joy Reid says ‘BLM doesn’t riot,’ blames Trump for encouraging violence fueled by ‘white nationalist mobs'"
+"MSNBC's Joy Reid says 'BLM doesn't riot,' blames Trump for encouraging violence fueled by 'white nationalist mobs'"
 
 vs.
 
@@ -18,8 +17,8 @@ vs.
 
 "BLM Activists Assault Woman, Damage Cars in California Protest"
 
-"BLM Occupies Seattle Trader Joe’s Demanding 15 Percent to Black Communities"
+"BLM Occupies Seattle Trader Joe's Demanding 15 Percent to Black Communities"
 
-"BLM protest screams ‘I am here to ruin dinners, ruin happy hours'"
+"BLM protest screams 'I am here to ruin dinners, ruin happy hours'"
 
 Etc.

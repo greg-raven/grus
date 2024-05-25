@@ -1,12 +1,11 @@
 ---
 title: 'Government hypocrisy'
-date: '2013-10-23T05:35:14-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Ben Stein'
-    - Obamacare
+- Ben Stein
+- Obamacare
 ---
 
 "Fathom the hypocrisy of a government that requires every citizen to prove they are insured ... But not everyone must prove they are a citizen."

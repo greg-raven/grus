@@ -1,20 +1,19 @@
 ---
 title: 'Help save our environment by reducing immigration'
-date: '2014-04-22T13:43:42-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - environment
-    - immigration
-    - population
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- environment
+- immigration
+- population
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-Population growth fueled almost totally by immigration is causing America to lose green spaces, forests, and farm land at a frightening pace. Congress needs to change our nation’s immigration policies before it’s too late.
+Population growth fueled almost totally by immigration is causing America to lose green spaces, forests, and farm land at a frightening pace. Congress needs to change our nation's immigration policies before it's too late.
 
 In the first decade of this century, the 497 Urbanized Areas designated by the U.S. Bureau of Census had to accommodate an extra 26 million, one hundred sixty-eight thousand, five hundred and eighteen residents (most of them citizens from other countries, and their children).
 

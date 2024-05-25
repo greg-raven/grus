@@ -1,15 +1,14 @@
 ---
 title: 'False Obama nomination papers'
-date: '2009-04-12T01:42:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Attorney General Edmund G. Brown Jr.'
-    - California
+- Attorney General Edmund G. Brown Jr.
+- California
 ---
 
-RE: Time-Sensitive Investigation of Obama’s Fraudulent Petition
+RE: Time-Sensitive Investigation of Obama's Fraudulent Petition
 
 Evidence suggests Resident Barack Obama may have been born in what is now Kenya (Africa) rather than Hawaii, as he claims. But the United States Constitution clearly says only a "natural born citizen" may be elected President.
 

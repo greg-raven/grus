@@ -1,14 +1,15 @@
 ---
 title: 'Voters support Jordan Commission recommendations'
-date: '2016-12-14T07:23:35-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - immigration
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal immigration
+- immigration
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
+- visa lottery
+- visa lottery
 ---
 
 I hope you will study the recommendations made by the Jordan Commission on Immigration Reform before voting on immigration bills during the 115th Congress. The commission, headed by civil rights activist Barbara Jordan and endorsed by then-President Bill Clinton, recommended that immigration laws be enforced and immigration levels be reduced to secure our nation and improve the lives of all Americans.
@@ -23,7 +24,7 @@ Rep. Barbara Jordan and her colleagues recognized that immigration enforcement w
 
 High immigration levels and lax border security and enforcement harms less-educated and lower-skilled Americans by making it easier for businesses to hire less-expensive foreign labor. These Americans will continue to be left behind until immigration enforcement is put into place and immigration levels are reduced to sustainable levels. The Jordan Commission recognized this, as did then-President Bill Clinton when he endorsed its proposals.
 
-Americans are depending on Congress to reform our immigration system so that it serves the national interest. I urge you to study the Jordan Commission’s findings before voting on immigration legislation.
+Americans are depending on Congress to reform our immigration system so that it serves the national interest. I urge you to study the Jordan Commission's findings before voting on immigration legislation.
 
 Phone me if you would like to talk about this,
 

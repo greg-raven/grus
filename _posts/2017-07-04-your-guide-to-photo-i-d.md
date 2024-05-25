@@ -1,11 +1,10 @@
 ---
 title: 'Your guide to photo I.D.'
-date: '2017-07-04T03:33:53-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'race relations'
+- race relations
 ---
 
 How to tell if it is being racist to require photo I.D.

@@ -1,21 +1,20 @@
 ---
 title: 'The record border surge'
-date: '2022-10-14T12:49:52-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- border control
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 The Biden-Harris "root cause" migration plan has failed, as is documented in *The Washington Post* column "U.S. arrests along Mexico border top 2 million a year for first time" that was published this month.
 
 Americans are realizing that the Biden administration is wrong on immigration policy and politics.
 
-Roughly 60 percent disapprove of Resident Biden’s handling of immigration. Working class voters of all races disapprove and Hispanic voters want border control.
+Roughly 60 percent disapprove of Resident Biden's handling of immigration. Working class voters of all races disapprove and Hispanic voters want border control.
 
 Please work with your colleagues to implement sensible border controls, including:
 

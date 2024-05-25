@@ -1,15 +1,14 @@
 ---
 title: 'Block attacks on freedom of speech'
-date: '2009-04-29T12:40:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - 'Free speech'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- Free speech
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Please block attacks on freedom of speech.
@@ -24,7 +23,7 @@ Whereas, the abandonment of the so-called "Fairness Doctrine" in 1987, thanks to
 
 Whereas, it is a wholly un-American idea that government should be the watchdog of the press and a policeman of speech, as opposed to the uniquely American ideal of a free people and a free press being the vigilant watchdogs of government;
 
-Whereas, the so-called "Fairness Doctrine" --- either under that name, or using a new name and even more devious methods --- represents a frontal assault on the First Amendment, and its re-imposition would constitute nothing more nor less than the crippling of America’s robust, unfettered, free press:
+Whereas, the so-called "Fairness Doctrine" --- either under that name, or using a new name and even more devious methods --- represents a frontal assault on the First Amendment, and its re-imposition would constitute nothing more nor less than the crippling of America's robust, unfettered, free press:
 
 I, the undersigned, assert my rights as a citizen of California in demanding that Congress immediately drop all legislative efforts to re-impose the so-called "Fairness Doctrine," whether on printed media, TV, radio, or the Internet, and that the president of the United States veto any so-called "Fairness Doctrine" legislation approved by Congress and that the U.S. Supreme Court overturn as unconstitutional any so-called "Fairness Doctrine" legislation approved by Congress and signed by the resident.
 

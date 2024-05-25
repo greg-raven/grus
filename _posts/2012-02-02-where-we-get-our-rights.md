@@ -1,11 +1,10 @@
 ---
 title: 'Where we get our rights'
-date: '2012-02-02T14:50:00-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - rights
+- rights
 ---
 
 Conservative: "Never forget, I did not grant your freedom to you. Your freedom was given to you at birth by your *creator.* Conservative government's job is to *acknowledge* and *preserve* that freedom which is *already yours naturally.*"

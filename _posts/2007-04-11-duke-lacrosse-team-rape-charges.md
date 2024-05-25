@@ -1,11 +1,10 @@
 ---
 title: 'Duke lacrosse team rape charges'
-date: '2007-04-11T12:21:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'government power'
+- government power
 ---
 
 The complete exoneration of the Duke lacrosse team members of rape charges got me thinking about other seemingly similar abuses of government power, as evidenced by prosecutorial zeal.  

@@ -1,13 +1,12 @@
 ---
 title: 'Please cosponsor H.R. 4644 to end the OPT program'
-date: '2022-10-14T12:57:16-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - jobs
-    - 'Representative Jay Obernolte'
+- illegal immigration
+- jobs
+- Representative Jay Obernolte
 ---
 
 The Optional Practical Training (OPT) program for foreign graduates of American universities harms all American and legal immigrant graduates, but it harms STEM graduates the most. Currently, all foreign graduates are eligible for a 12-month OPT visa to work in their fields of study after graduation. To make matters much worse, foreign STEM graduates are eligible for an additional 24-month OPT visa.

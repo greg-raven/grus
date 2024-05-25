@@ -1,16 +1,15 @@
 ---
 title: 'Oppose Senator Spector&#8217;s immigration proposal'
-date: '2006-03-06T14:49:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-Thank you for standing up for American workers and opposing Sen. Specter’s proposal to import a million additional foreign workers each year.
+Thank you for standing up for American workers and opposing Sen. Specter's proposal to import a million additional foreign workers each year.
 
 However, while you advocated enforcement, you also seemed to indicate that you will introduce a bill that would reward illegal aliens working in agriculture with jobs and residency. Those are mutually exclusive ideas. You need to live up to your oath of office: Protect America, protect Americans, and protect American jobs.
 

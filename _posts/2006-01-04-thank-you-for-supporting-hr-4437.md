@@ -1,13 +1,12 @@
 ---
 title: 'Thank you for supporting HR 4437'
-date: '2006-01-04T14:18:11-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - population
-    - 'Representative Jerry Lewis'
+- E-Verify
+- population
+- Representative Jerry Lewis
 ---
 
 Thank you for supporting Rep. Sensenbrenner's H.R. 4437 to increase border security and interior enforcement.

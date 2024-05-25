@@ -1,13 +1,12 @@
 ---
 title: 'Support the RAISE Act'
-date: '2017-10-07T04:46:32-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- immigration
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 I urge you to support the new RAISE Act introduced by Senators Tom Cotton and David Perdue. Recent polling has found that 72% of American voters support a key element of their bill which would eliminate extended family immigration.

@@ -1,13 +1,12 @@
 ---
 title: 'Why does the budget reconciliation bill provide waivers for human smugglers?'
-date: '2021-09-15T11:07:59-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I cannot understand why Democrats are adding immigration provisions that reward human smugglers to the budget reconciliation process during a border crisis! Not only do the provisions to issue work permits to 8 million people who crossed the border illegally or overstayed a visa provide human smugglers with a great sales pitch --- the provisions also include waivers to allow the human smugglers themselves to apply for green cards!

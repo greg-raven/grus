@@ -1,12 +1,11 @@
 ---
 title: 'Oppose ATF nominee David Chipman'
-date: '2021-06-04T05:48:15-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Senator Dianne Feinstein'
+- 2nd Amendment
+- Senator Dianne Feinstein
 ---
 
 As a freedom-loving American, I strongly oppose the nomination of David Chipman for Director of the ATF.

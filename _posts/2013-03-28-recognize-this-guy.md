@@ -1,9 +1,8 @@
 ---
 title: 'Recognize this guy?'
-date: '2013-03-28T13:42:24-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Do you know who this is?  

@@ -1,12 +1,11 @@
 ---
 title: 'Thank you for suspending more work visa categories'
-date: '2020-07-14T05:27:51-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'President Donald Trump'
+- jobs
+- President Donald Trump
 ---
 
 I appreciate that you are protecting American workers.

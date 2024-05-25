@@ -1,11 +1,10 @@
 ---
 title: Compensation
-date: '2013-04-15T12:19:52-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'gun control'
+- gun control
 ---
 
 I am compensating for being smaller and weaker than most violent criminals.

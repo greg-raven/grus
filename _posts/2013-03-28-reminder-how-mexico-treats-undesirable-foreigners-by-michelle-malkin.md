@@ -1,11 +1,10 @@
 ---
 title: 'Reminder: How Mexico Treats &#8216;Undesirable&#8217; Foreigners, by Michelle Malkin'
-date: '2013-03-28T13:44:44-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - immigration
+- immigration
 ---
 
 American politicians in both parties are stampeding all over themselves to pander to Mexico and adopt mass illegal alien amnesty schemes. But while the Mexican government lobbies for more "humane" treatment of illegal border crossers from their country into ours, Mexico remains notoriously restrictionist toward "undesirable" foreigners who break their laws or threaten their security.  

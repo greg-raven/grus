@@ -1,17 +1,16 @@
 ---
 title: 'Pass E-Verify'
-date: '2012-02-29T22:13:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Representative Jerry Lewis'
+- E-Verify
+- Representative Jerry Lewis
 ---
 
 Representative Jerry Lewis
 
-A new poll conducted by Pulse Opinion Research shows that an astounding 94% of Republican voters support mandatory workplace verification. With numbers like these, there is absolutely no reason for the House not to pass a mandatory E-Verify bill and help America’s unemployed get back to work.  
+A new poll conducted by Pulse Opinion Research shows that an astounding 94% of Republican voters support mandatory workplace verification. With numbers like these, there is absolutely no reason for the House not to pass a mandatory E-Verify bill and help America's unemployed get back to work.  
   
 The results of the poll are clear: American voters support E-Verify. To be specific:
 

@@ -1,14 +1,13 @@
 ---
 title: 'Check out the results of this new poll'
-date: '2018-01-15T09:52:54-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- immigration
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 I was heartened by the results of a new poll, which found that likely American voters overwhelmingly want to reform our immigration system to serve the national interest and work for the American people by ending Chain Migration.
@@ -19,6 +18,6 @@ By nearly a 2-to-1 margin, likely voters chose, "Include an end to Chain Migrati
 
 The poll also asked at what level immigration to the U.S. should be kept and 60% of likely voters said that 500,000 people or fewer should be given green cards each year. Much of that can be accomplished by simply ending Chain Migration and the Visa Lottery.
 
-It’s clear that the American people --- and American voters --- want our immigration system changed. Congress should not amnesty DACA recipients without ending chain migration and mandating the use of the E-Verify system. In addition, Congress must consider reducing immigration levels to a more sustainable level of fewer than 500,000 per year.
+It's clear that the American people --- and American voters --- want our immigration system changed. Congress should not amnesty DACA recipients without ending chain migration and mandating the use of the E-Verify system. In addition, Congress must consider reducing immigration levels to a more sustainable level of fewer than 500,000 per year.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

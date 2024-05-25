@@ -1,13 +1,12 @@
 ---
 title: "Oppose Ryan's 'crime reform' bill"
-date: '2016-04-26T12:47:15-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'national security'
-    - 'Representative Paul Cook'
+- illegal aliens
+- national security
+- Representative Paul Cook
 ---
 
 Please oppose efforts in the Judiciary Committee to bring H.R. 3713, the Sentencing Reform Act of 2015, to the House floor. This legislation, as it is currently written, would release thousands of dangerous non-citizen offenders at a time when the Obama administration has shown a refusal to deport even the most violent criminal aliens.

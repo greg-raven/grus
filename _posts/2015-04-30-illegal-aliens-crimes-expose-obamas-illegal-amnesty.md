@@ -1,14 +1,13 @@
 ---
 title: "Illegal aliens' crimes expose Obama's illegal amnesty"
-date: '2015-04-30T17:16:40-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 A new Washington Times article by Stephen Dinan highlights the dangers of Barack Obama's failed --- and illegal --- immigration policies:

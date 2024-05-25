@@ -1,15 +1,14 @@
 ---
 title: 'Mass immigration makes homegrown terrorism more likely'
-date: '2016-04-19T13:10:40-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'national security'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- national security
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 High levels of immigration create disconnected communities that make it easier for home-grown terrorists like the ones in Paris and Brussels to plan attacks. Congress should work to reduce immigration to make it easier to assimilate new immigrants and make our communities safer.  

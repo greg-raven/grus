@@ -1,21 +1,21 @@
 ---
 title: 'Stop the Biden amnesty'
-date: '2021-03-04T16:34:06-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - 'Representative Jay Obernolte'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- immigration
+- Representative Jay Obernolte
+- Senator Dianne Feinstein
+- visa lottery
 ---
 
 Please oppose the Biden amnesty bill!
 
-Resident Biden’s mass amnesty for illegal aliens, the U.S. Citizenship Act of 2021, has been introduced by Rep. Linda Sanchez. The Gang of 8’s 2013 amnesty legislation was a bad bill, but the Biden amnesty bill is incalculably worse.
+Resident Biden's mass amnesty for illegal aliens, the U.S. Citizenship Act of 2021, has been introduced by Rep. Linda Sanchez. The Gang of 8's 2013 amnesty legislation was a bad bill, but the Biden amnesty bill is incalculably worse.
 
-The U.S. Citizenship Act of 2021 doesn’t even contain a fig leaf of immigration enforcement and expands legal immigration while millions of American workers still struggle as a result of the Covid-19 pandemic.
+The U.S. Citizenship Act of 2021 doesn't even contain a fig leaf of immigration enforcement and expands legal immigration while millions of American workers still struggle as a result of the Covid-19 pandemic.
 
 In addition to its mass amnesty provisions, the bill would expand chain migration, expand the visa lottery, expand employment-based green cards, roll back interior enforcement efforts, and scrap the three and ten year re-entry bans.
 

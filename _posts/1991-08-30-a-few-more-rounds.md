@@ -1,11 +1,10 @@
 ---
 title: 'A few more rounds'
-date: '1991-08-30T08:06:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
+- gun control
 ---
 
 Although I disagree with Jacob Sullum that the Second Amendment is the black sheet of the amendments (I happen to feel that description better fits the Ninth Amendment), I very much enjoyed his article.

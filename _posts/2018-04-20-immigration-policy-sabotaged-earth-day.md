@@ -1,11 +1,10 @@
 ---
 title: 'Immigration policy sabotaged Earth Day'
-date: '2018-04-20T06:34:16-08:00'
 layout: post
 categories:
-    - Commentary
+- Commentary
 tags:
-    - population
+- population
 ---
 
 On this 49th Earth Day, the population of our country has passed 327 million ... with no upper limit in sight.
@@ -22,7 +21,7 @@ Like other Earth Day Dreamers in the 1960s and 1970s, Sen. Nelson (D-Wis.) was c
 
 If Congress had left annual immigration at around 300,000, the conservation laws that Sen. Nelson helped pass in the first Earth Day period likely would have resulted in the nation meeting most of those 1970-era environmental goals by now, aided in large part by a population that would be leveling off at around 250 million.
 
-Instead, the country is struggling to slow the environmental degradation that comes from having to provide the housing, roads, workplaces, food, and waste disposal not just for the 250 million but for nearly 80 million residents above that. NumbersUSA’s many sprawl studies have calculated the millions of acres of farmland and natural habitat destroyed to handle the extra population forced by one Congress after another.
+Instead, the country is struggling to slow the environmental degradation that comes from having to provide the housing, roads, workplaces, food, and waste disposal not just for the 250 million but for nearly 80 million residents above that. NumbersUSA's many sprawl studies have calculated the millions of acres of farmland and natural habitat destroyed to handle the extra population forced by one Congress after another.
 
 **TV AD ILLUSTRATES THE SABOTAGE**
 
@@ -32,7 +31,7 @@ A nationwide ad campaign portrays the numbers behind this environmental tragedy 
 
 **1994 BOOK SADLY STILL ACCURATE**
 
-Roy Beck conveyed his sadness about the betrayal of the Earth Day dreamer in the introduction for "Re-Charting America’s Future," the book he wrote for high school debate teams whose national topic in the 1994-95 year was immigration:
+Roy Beck conveyed his sadness about the betrayal of the Earth Day dreamer in the introduction for "Re-Charting America's Future," the book he wrote for high school debate teams whose national topic in the 1994-95 year was immigration:
 
 > "But Congress all the while has been flooding the nation with unprecedented waves of foreign workers and their relatives. U.S population growth has surged.
 > 
@@ -44,7 +43,7 @@ Roy Beck conveyed his sadness about the betrayal of the Earth Day dreamer in the
 
 On this Earth Day, the clear ecological arguments for limiting immigration into the U.S. continue to be sidelined, or worse ignored, by those elected to represent us in Congress.
 
-For those of us who understand that the health of our communities and the economy is dependent upon the health of the environment, it’s imperative that we continue to communicate this message to our fellow Americans as well as our Congressional representatives and their staff.
+For those of us who understand that the health of our communities and the economy is dependent upon the health of the environment, it's imperative that we continue to communicate this message to our fellow Americans as well as our Congressional representatives and their staff.
 
 Unfortunately, our political leadership either does not have much education in environmental sustainability, or they are ignoring the plain facts.
 

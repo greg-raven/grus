@@ -1,14 +1,13 @@
 ---
 title: 'Amnesty does NOT help U.S. citizens'
-date: '2013-01-29T22:12:43-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
-I don’t understand why you are making amnesty a priority when middle class Americans struggle to make ends meet.  
+I don't understand why you are making amnesty a priority when middle class Americans struggle to make ends meet.  
   
 In your inaugural address, you mentioned the "shrinking few who do very well and the growing many that barely make it." Amnesty does NOT help middle class Americans who struggle to make ends meet. Instead, it helps the privileged few who profit from paying workers lower wages.
 

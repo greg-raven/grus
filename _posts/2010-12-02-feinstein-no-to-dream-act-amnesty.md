@@ -1,19 +1,18 @@
 ---
 title: 'NO to DREAM Act amnesty'
-date: '2010-12-02T16:15:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - immigration
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Federal government
+- immigration
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I understand that Senate Majority Leader Harry Reid is trying to force the DREAM Act amnesty through the Senate during the lame duck session. I also understand that you are planning on supporting this anti-American worker amnesty. If you plan on winning reelection in 2012, I strongly urge you to reconsider your pro-amnesty position.  
   
-I urge you to stop paying attention to anyone who says the DREAM Act amnesty will only help innocent "children" who are the victims of their parents’ lawbreaking. The DREAM Act is not a narrow amnesty aimed only at children; it would amnesty any illegal alien under the age of 35!
+I urge you to stop paying attention to anyone who says the DREAM Act amnesty will only help innocent "children" who are the victims of their parents' lawbreaking. The DREAM Act is not a narrow amnesty aimed only at children; it would amnesty any illegal alien under the age of 35!
 
 The DREAM Act is not a small amnesty for a select group of individuals. In fact, it allows illegal "teens" (i.e., anyone under 35) to petition for their parents, leading eventually to their aunts, uncles, grandparents, and cousins coming permanently to the United States.
 
@@ -27,4 +26,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org)
 
-P.S. Just one month ago the American people voted against all this cr\*p. You and the other members of the treason lobby won’t get away with this!
+P.S. Just one month ago the American people voted against all this cr\*p. You and the other members of the treason lobby won't get away with this!

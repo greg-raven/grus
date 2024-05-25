@@ -1,17 +1,16 @@
 ---
 title: 'End human trafficking and smuggling and cosponsor E-Verify bill S. 156'
-date: '2023-05-10T06:30:14-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'illegal immigration'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- E-Verify
+- illegal immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
-Democratic Senator Amy Klobuchar stated: "We must do all we can to prevent human smuggling and trafficking across both our country’s borders."
+Democratic Senator Amy Klobuchar stated: "We must do all we can to prevent human smuggling and trafficking across both our country's borders."
 
 E-Verify could go further in preventing human smuggling and trafficking as the primary magnet for illegal immigration is the potential to work in the United States.
 
@@ -23,4 +22,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

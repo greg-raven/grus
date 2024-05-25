@@ -1,12 +1,11 @@
 ---
 title: 'Weather, Disaster, Emergency'
-date: '2012-02-29T13:56:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - DHS
-    - 'national security'
+- DHS
+- national security
 ---
 
 Emergency  

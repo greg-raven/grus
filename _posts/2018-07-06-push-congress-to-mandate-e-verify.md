@@ -1,12 +1,11 @@
 ---
 title: 'Push Congress to mandate E-Verify'
-date: '2018-07-06T14:36:38-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'President Donald Trump'
+- E-Verify
+- President Donald Trump
 ---
 
 Please push for mandatory E-Verify!

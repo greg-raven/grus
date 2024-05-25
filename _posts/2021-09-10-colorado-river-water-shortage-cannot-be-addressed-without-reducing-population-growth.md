@@ -1,14 +1,13 @@
 ---
 title: 'Colorado River water shortage cannot be addressed without reducing population growth'
-date: '2021-09-10T12:37:08-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - population
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- population
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Water is dwindling, but the population is growing.

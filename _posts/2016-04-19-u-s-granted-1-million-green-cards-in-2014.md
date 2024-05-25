@@ -1,15 +1,14 @@
 ---
 title: 'U.S. granted 1 million green cards in 2014'
-date: '2016-04-19T13:09:31-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- jobs
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Recently released statistics from DHS show that the U.S. issued more than 1 million green cards in 2014. This is far too high a number and Congress needs to take action to cut immigration numbers.  

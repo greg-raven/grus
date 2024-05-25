@@ -1,11 +1,10 @@
 ---
 title: 'A modest proposal for Google and Facebook'
-date: '2017-08-10T12:33:59-08:00'
 layout: post
 categories:
-    - Commentary
+- Commentary
 tags:
-    - jobs
+- jobs
 ---
 
 Google, Facebook, and other Silicone Valley tech companies have been under fire lately for paying employees differently based on their value to the company, and for not hiring sub-standard persons to work for them.

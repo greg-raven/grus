@@ -1,9 +1,8 @@
 ---
 title: 'Change in the weather'
-date: '2013-04-08T21:11:52-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 ---
 
 ![Time-The-Coming-Ice-Age](/assets/img/2013/04/Time-The-Coming-Ice-Age.jpg)  

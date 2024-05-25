@@ -1,19 +1,18 @@
 ---
 title: 'Population growth overshoots the carrying capacity of America'
-date: '2022-03-23T06:11:57-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - population
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- population
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
-America’s high immigration rates push us beyond carrying capacity.
+America's high immigration rates push us beyond carrying capacity.
 
-March 13 will be U.S. "Overshoot Day," which is based on how large a population and how much human activity can be sustained before the environment’s carrying capacity is exceeded. As our nation’s population grows, it takes fewer days for the U.S. to consume its calculated share of resources. To halt this trend, America’s population growth must slow down.
+March 13 will be U.S. "Overshoot Day," which is based on how large a population and how much human activity can be sustained before the environment's carrying capacity is exceeded. As our nation's population grows, it takes fewer days for the U.S. to consume its calculated share of resources. To halt this trend, America's population growth must slow down.
 
 By 2060, less than 40 years from now, the Census Bureau projects that the U.S. population will expand from 333 million today to 404 million, and 90% of this growth will be due to immigration. We are headed in the opposite direction of achieving population stabilization, as advocated by the Task Force on Population and Consumption, which was created by President Clinton in 1996.
 

@@ -1,14 +1,13 @@
 ---
 title: 'Oppose the Graham-Durbin DREAM amnesty'
-date: '2017-07-25T04:53:56-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- amnesty
+- immigration
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 I, along with the vast majority of your constituents, oppose the DREAM Act amnesty. Please oppose this legislation offered by Senators Lindsey Graham and Dick Durbin.
@@ -17,7 +16,7 @@ The DREAM Act would give out millions of additional work permits at a time when 
 
 Any current or future illegal alien who enters the U.S. before the age of 17 and maintains continuous presence in the U.S. for at least 4, with exceptions, can receive the amnesty
 
-Once they meet criteria, the illegal aliens are given "conditional lawful permanent resident status" and are given an 8-year work permit to compete directly with the millions of Americans who want a full-time job but can’t find one.
+Once they meet criteria, the illegal aliens are given "conditional lawful permanent resident status" and are given an 8-year work permit to compete directly with the millions of Americans who want a full-time job but can't find one.
 
 Estimates suggest that up to 2 million illegal aliens could legitimately qualify for the opening application, and since the amnesty is open-ended with no numerical limitation, millions more could qualify.
 
@@ -31,4 +30,4 @@ Phone me if you would like to talk about this,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. How about we stop all immigration until we figure out who is already here, and remove the ones who shouldn’t be?
+P.S. How about we stop all immigration until we figure out who is already here, and remove the ones who shouldn't be?

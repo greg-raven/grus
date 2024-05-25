@@ -1,16 +1,15 @@
 ---
 title: 'Please REJECT Socialized Health Care!'
-date: '2009-12-20T11:31:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - Obamacare
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Obamacare
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-I’m writing to ask you to please REJECT H.R. 3962, the "Affordable Health Care for America Act," and ALL other attempts to force socialized health care or government-mandated health insurance on Americans.  
+I'm writing to ask you to please REJECT H.R. 3962, the "Affordable Health Care for America Act," and ALL other attempts to force socialized health care or government-mandated health insurance on Americans.  
   
 Further government intervention in health care will drive costs even higher than they already are, and increase the "culture of corruption" engendered whenever Washington becomes involved in issues it ought not. There is nothing in the Constitution that allows this, which leads me to believe this is another blatant power grab by Washington politicians at the expense of the citizens.
 

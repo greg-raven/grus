@@ -1,12 +1,11 @@
 ---
 title: 'Oppose executive action amnesty'
-date: '2010-08-26T14:04:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Jerry Lewis'
+- amnesty
+- Representative Jerry Lewis
 ---
 
 Why on Earth would Resident Obama or his appointees at USCIS ever consider using executive actions to amnesty the 12-18 million (lawbreaking) illegal aliens living in the United States? The USCIS memo called "Administrative Alternatives to Comprehensive Immigration Reform" is truly odious.  
@@ -17,7 +16,7 @@ Since when is it the job of the President and his underlings to bypass Congress 
 
 I urge you to take prompt action to publicly express your outrage with this memorandum and to demand the resignation of every USCIS employee involved in its creation.
 
-I’m sure we both agree that any attempt by the Resident to circumvent Congress in this fashion is only the thin end of the wedge and will surely lead to more disastrous power grabs.
+I'm sure we both agree that any attempt by the Resident to circumvent Congress in this fashion is only the thin end of the wedge and will surely lead to more disastrous power grabs.
 
 Phone me if you would like to talk about this,
 

@@ -1,12 +1,11 @@
 ---
 title: 'Please oppose the gun control legislation unveiled by Rep. Maloney'
-date: '2021-06-04T05:55:47-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Jay Obernolte'
+- 2nd Amendment
+- Representative Jay Obernolte
 ---
 
 I am writing to you today to inform you that I stand in opposition to H.R. 1004, H.R. 1005, H.R. 1006, H.R. 1007 and H.R. 1008.

@@ -1,12 +1,11 @@
 ---
 title: "They're funny because they're true"
-date: '2018-05-28T12:39:39-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - "Barack Hussein Obama"
-    - "Hillary Clinton"
+- "Barack Hussein Obama"
+- "Hillary Clinton"
 ---
 
 8 YEARS, 3 ACCOMPLISHMENTS: MADE SCHOOL LUNCHES INEDIBLE, HEALTH INSURANCE UNAFFORDABLE AND POLICE LIVÉS UNIMPORTANT.

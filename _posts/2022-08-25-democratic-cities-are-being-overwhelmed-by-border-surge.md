@@ -1,14 +1,13 @@
 ---
 title: 'Democratic cities are being overwhelmed by border surge'
-date: '2022-08-25T04:47:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- illegal immigration
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 New York City Mayor Adams is overwhelmed by busloads of migrants coming from the border. Cities closer to the border have been overwhelmed for months. There is nothing "compassionate" about facilitating a border crisis. End asylum fraud, catch and release, and the abuse of parole authority. Reinstate and mandate the Migration Protection Protocols program.

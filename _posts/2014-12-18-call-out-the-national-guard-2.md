@@ -1,12 +1,11 @@
 ---
 title: 'Call out the National Guard'
-date: '2014-12-18T05:05:58-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Governor Jerry Brown'
-    - 'illegal immigration'
+- Governor Jerry Brown
+- illegal immigration
 ---
 
 The Border Patrol is being overrun by illegal aliens trying to cross the border. Please send them help by calling up the National Guard to help secure the border.

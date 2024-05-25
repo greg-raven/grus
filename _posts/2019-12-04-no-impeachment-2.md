@@ -1,13 +1,12 @@
 ---
 title: 'No impeachment'
-date: '2019-12-04T14:03:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Representative Adam Schiff'
-    - 'Representative Jerrod Nadler'
-    - 'Representative Nancy Pelosi'
+- Representative Adam Schiff
+- Representative Jerrod Nadler
+- Representative Nancy Pelosi
 ---
 
 I write to oppose the coup that Democrats are pretending is an "impeachment inquiry."
@@ -20,11 +19,11 @@ Third, the invalid "impeachment inquiry" plainly seeks to reverse the election o
 
 Fourth, the so-called investigation into these matters is a diversion created to hide and/or minimize serious crimes, misfeasance, and malfeasance by Democrats and members of the Deep State, which often includes falsely accusing President Trump of exactly what Democrats are (and have been) doing.
 
-Fifth, the committees’ actions raise serious questions about the members of these committees, their witnesses, and the bad actors the committees are trying to protect. Your desperation is palpable.
+Fifth, the committees' actions raise serious questions about the members of these committees, their witnesses, and the bad actors the committees are trying to protect. Your desperation is palpable.
 
 Sixth, there is no evidence of any wrongdoing in the record on the part of Donald Trump ... period. All utterances to the contrary are completely disconnected from reality. Democrats are engaged in propagating Big Lies about Donald Trump.
 
-When I voted for Donald Trump, I suspected he was not perfect but believed he would do what was right for our country. Thanks to the Democrats’ non-stop investigations, I now know Donald Trump to be the only honest man in political office. And undeterred by constant assaults from Democrats and the Deep State, he has done wonders for our country.
+When I voted for Donald Trump, I suspected he was not perfect but believed he would do what was right for our country. Thanks to the Democrats' non-stop investigations, I now know Donald Trump to be the only honest man in political office. And undeterred by constant assaults from Democrats and the Deep State, he has done wonders for our country.
 
 I urge you in the strongest possible terms to stop this insanity immediately.
 

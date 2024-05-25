@@ -1,9 +1,8 @@
 ---
 title: 'The idiot elite: Joe Klein on guns'
-date: '2013-04-08T11:43:05-08:00'
 layout: post
 categories:
-    - Video
+- Video
 format: video
 ---
 

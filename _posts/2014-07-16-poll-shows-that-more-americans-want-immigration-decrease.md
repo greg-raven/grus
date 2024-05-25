@@ -1,14 +1,13 @@
 ---
 title: 'Poll Shows that More Americans Want Immigration Decrease'
-date: '2014-07-16T16:20:40-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Gallup has released a new poll showing that a plurality of Americans want to reduce immigration numbers. 41% of Americans want to reduce immigration numbers, while only 22% of Americans want to increase immigration.

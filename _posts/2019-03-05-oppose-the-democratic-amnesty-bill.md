@@ -1,15 +1,14 @@
 ---
 title: 'Oppose the Democratic Amnesty Bill'
-date: '2019-03-05T15:06:13-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
-Oppose the Democrats’ amnesty bill, H.R. 6.
+Oppose the Democrats' amnesty bill, H.R. 6.
 
 I was disturbed to learn that your Democratic colleagues will soon introduce legislation, H.R. 6, to amnesty Dreamers and TPS recipients. What are they thinking? A no-strings amnesty will only encourage more people to come to the U.S. illegally and encourage more people to overstay their visas. This legislation must be stopped!
 

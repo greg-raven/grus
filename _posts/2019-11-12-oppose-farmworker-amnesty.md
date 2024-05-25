@@ -1,12 +1,11 @@
 ---
 title: 'Oppose farmworker amnesty'
-date: '2019-11-12T06:45:43-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
 Please oppose H.R. 4916 farmworker amnesty!

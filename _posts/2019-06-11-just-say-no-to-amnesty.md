@@ -1,18 +1,17 @@
 ---
 title: 'Just say NO to amnesty'
-date: '2019-06-11T09:49:44-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- amnesty
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 Oppose amnesty legislation --- focus on the border surge!
 
-I’m very disappointed that the U.S. Senate may soon debate and vote on legislation to amnesty illegal aliens. The crisis at the border is overwhelming the Border Patrol and USCIS and it is showing no signs of abating. People are crossing the border with the expectation of receiving an amnesty; the Senate voting on amnesty legislation will only reinforce these expectations.
+I'm very disappointed that the U.S. Senate may soon debate and vote on legislation to amnesty illegal aliens. The crisis at the border is overwhelming the Border Patrol and USCIS and it is showing no signs of abating. People are crossing the border with the expectation of receiving an amnesty; the Senate voting on amnesty legislation will only reinforce these expectations.
 
 I hope you will oppose any effort to give amnesty to illegal aliens and I hope you will do all you can to contain the border surge.
 

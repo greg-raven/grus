@@ -1,12 +1,11 @@
 ---
 title: 'Support the bill ending sanctuary cities'
-date: '2015-09-17T15:27:05-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
+- illegal aliens
+- Representative Paul Cook
 ---
 
 Please cosponsor H.R. 3314, the Protecting American Lives Act. Far too many Americans are dying at the hands of illegal aliens who have been arrested, but given sanctuary by sanctuary cities. I hope you will help save American lives by supporting this bill.

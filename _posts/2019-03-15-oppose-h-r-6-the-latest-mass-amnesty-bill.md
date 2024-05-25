@@ -1,11 +1,12 @@
 ---
 title: 'Oppose H.R. 6, the latest mass amnesty bill'
-date: '2019-03-15T12:32:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
+- visa lottery
 ---
 
 Please vote against H.R. 6, a mass amnesty for illegal aliens.

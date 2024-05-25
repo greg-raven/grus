@@ -1,15 +1,14 @@
 ---
 title: 'Please cosponsor King&#8217;s resolution'
-date: '2014-07-16T16:16:52-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
+- immigration
+- Representative Paul Cook
 ---
 
-Very shortly, Rep. Steve King will introduce a resolution that urges border state governors to call out the National Guard to help secure the border. I hope you will contact Rep. King’s office and tell him you want to be an original cosponsor.
+Very shortly, Rep. Steve King will introduce a resolution that urges border state governors to call out the National Guard to help secure the border. I hope you will contact Rep. King's office and tell him you want to be an original cosponsor.
 
 President Obama has refused to secure the border and refused to enforce immigration laws. He and his administration have actively sought to give legal status and shelter to illegal aliens. This only serves to encourage illegal immigration and the current border surge is proof of that. The resolution makes this clear by stating:
 

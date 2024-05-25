@@ -1,11 +1,10 @@
 ---
 title: 'Eagle replaced by skunk'
-date: '2012-08-05T12:47:23-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 Eagle replaced by skunk on Presidential Seal.

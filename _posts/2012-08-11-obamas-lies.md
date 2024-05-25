@@ -1,11 +1,10 @@
 ---
 title: "Obama's lies"
-date: '2012-08-11T12:08:21-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 Below is a list of Obama's documented lies so far with the most recent lies first.

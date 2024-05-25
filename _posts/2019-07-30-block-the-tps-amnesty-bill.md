@@ -1,19 +1,18 @@
 ---
 title: 'Block the TPS amnesty bill'
-date: '2019-07-30T13:01:27-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Mitch McConnell'
+- immigration
+- Senator Mitch McConnell
 ---
 
 Please block a vote on S. 636, the Venezuela Temporary Protected Status Act of 2019.
 
 S. 636, the Venezuela Temporary Protected Status Act is a bad bill that will encourage Venezuelans to come to the U.S. illegally. Moreover, recent court cases have shown that TPS is anything but temporary. Its passage would only make our TPS problem worse.
 
-I know that Sen. Lee blocked the bill passing by unanimous consent. I hope you will block the bill by ensuring it doesn’t receive a floor vote.
+I know that Sen. Lee blocked the bill passing by unanimous consent. I hope you will block the bill by ensuring it doesn't receive a floor vote.
 
 Phone me if you would like to talk about this,
 

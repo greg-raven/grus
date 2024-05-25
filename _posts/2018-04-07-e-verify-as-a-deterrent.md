@@ -1,15 +1,14 @@
 ---
 title: 'E-Verify as a deterrent'
-date: '2018-04-07T03:51:41-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'illegal immigration'
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- illegal aliens
+- illegal immigration
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 E-Verify can act as a major deterrent for future illegal immigration. As long as employers are able to hire illegal workers, foreign nationals will continue to attempt to enter the country illegally, either through illegal border crossings or overstaying a visa.
@@ -18,11 +17,11 @@ But aliens who enter "credible fear" claims can apply for a work permit 150 days
 
 The House Judiciary Committee has already marked up and passed three pieces of legislation that would accomplish these goals:
 
-- Rep. Lamar Smith’s H.R. 3711, the Legal Workforce Act, would require all employers to use E-Verify within two years;
-- Rep. John Carter’s H.R. 495 would reform the way Border Patrol handles cases of unaccompanied alien children crossing the border illegally; and
-- Rep. Mike Johnson’s H.R. 391 would give more authority to asylum officers in detecting fraudulent credible fear claims.
+- Rep. Lamar Smith's H.R. 3711, the Legal Workforce Act, would require all employers to use E-Verify within two years;
+- Rep. John Carter's H.R. 495 would reform the way Border Patrol handles cases of unaccompanied alien children crossing the border illegally; and
+- Rep. Mike Johnson's H.R. 391 would give more authority to asylum officers in detecting fraudulent credible fear claims.
 
-Portions of all three bills are contained in Rep. Bob Goodlatte’s H.R. 4760, the Securing America’s Future Act.
+Portions of all three bills are contained in Rep. Bob Goodlatte's H.R. 4760, the Securing America's Future Act.
 
 Whichever approach you take, please ensure that mandatory E-Verify is included. Jobs in America should be filled by American citizens.
 

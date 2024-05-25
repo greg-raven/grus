@@ -1,13 +1,12 @@
 ---
 title: 'Senate must act to eliminate sanctuary localities'
-date: '2015-08-04T12:47:16-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 It is disappointing that the Senate has not yet acted to prevent sanctuary cities from receiving federal law enforcement funding. Now that the House has passed such legislation, I hope the Senate will follow suit by passing S. 1640, the Davis-Oliver Act. Please do all you can to make this happen.
@@ -18,7 +17,7 @@ Sen. Dianne Feinstein realizes just how wrong her home city of San Francisco has
 
 > "It is clear to me that we have to improve cooperation between federal, state, and local law enforcement. \[...\] When immigration authorities ask that a state or local law enforcement agency notify them of an impending release of an alien with a serious felony record, that request should be honored. I strongly believe that local authorities should have notified the immigration authorities in the case of the accused murderer of Kate Steinle."
 
-The Davis-Oliver Act, S. 1640, would rectify the situation by blocking SCAAP and federal law enforcement grants going to sanctuary localities and preventing DHS from releasing criminal illegal aliens. I hope you will support and pass this legislation and help to complete the House’s work.
+The Davis-Oliver Act, S. 1640, would rectify the situation by blocking SCAAP and federal law enforcement grants going to sanctuary localities and preventing DHS from releasing criminal illegal aliens. I hope you will support and pass this legislation and help to complete the House's work.
 
 Phone me if you would like to talk about this,
 

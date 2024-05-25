@@ -1,20 +1,19 @@
 ---
 title: 'New gun laws won&#8217;t secure our border'
-date: '2009-04-21T13:22:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - 'Federal government'
-    - 'Governor Arnold Schwarzenegger'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- Federal government
+- Governor Arnold Schwarzenegger
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-I’m sending this in case you missed it:
+I'm sending this in case you missed it:
 
-> **Brewer: New gun laws won’t secure border**
+> **Brewer: New gun laws won't secure border**
 > 
 > Howard Fischer, Capitol Media Services  
 > April 20, 2009
@@ -25,11 +24,11 @@ I’m sending this in case you missed it:
 > 
 > The governor said the record to date has been that Washington has been unwilling to commit the necessary funds and personnel. She noted her own request for more National Guard soldiers along the border has been rebuffed.
 > 
-> "If we get the resources, if we get the support and the federal government does what they’re supposed to be doing according to our Constitution, those problems will halt."
+> "If we get the resources, if we get the support and the federal government does what they're supposed to be doing according to our Constitution, those problems will halt."
 > 
 > And that, Brewer said, includes border violence.
 > 
-> "Stopping the flow of guns into Mexico won’t stop Mexican cartels from obtaining guns elsewhere," she said. The governor said the evidence shows "other countries have large factories that are making guns."
+> "Stopping the flow of guns into Mexico won't stop Mexican cartels from obtaining guns elsewhere," she said. The governor said the evidence shows "other countries have large factories that are making guns."
 > 
 > She repeated her opposition to new gun control laws after the hearing.
 > 
@@ -39,13 +38,13 @@ I’m sending this in case you missed it:
 > 
 > Sen. Joe Lieberman, I-Conn., who chairs the panel, told Brewer he hears her call.
 > 
-> "Personnel on the ground, boots on the ground matter when you’re in a conflict," he said. But Lieberman wanted to know from the governor exactly what she thinks the soldiers would do.
+> "Personnel on the ground, boots on the ground matter when you're in a conflict," he said. But Lieberman wanted to know from the governor exactly what she thinks the soldiers would do.
 > 
 > "They would be able to help law enforcement along the border, enable them to do the kinds of things that would relieve them from doing, such as communication, logistics kind of planning, all those things that take up their time from actually supporting the border security," Brewer said.
 > 
-> Cochise County Sheriff Larry Dever said there’s a practical reason for putting Guard troops on the border: Smugglers and border crossers "don’t have a great regard" for civil law enforcement.
+> Cochise County Sheriff Larry Dever said there's a practical reason for putting Guard troops on the border: Smugglers and border crossers "don't have a great regard" for civil law enforcement.
 > 
-> "But they do have a great deal of, I’ll call it respect, more likely fear, of Army, of military resources," he told lawmakers. "And the mere presence of those units, regardless of what their tasking is, creates a whole new element of deterrence in the minds of the border crossers."
+> "But they do have a great deal of, I'll call it respect, more likely fear, of Army, of military resources," he told lawmakers. "And the mere presence of those units, regardless of what their tasking is, creates a whole new element of deterrence in the minds of the border crossers."
 > 
 > \[...\]
 > 
@@ -55,7 +54,7 @@ I’m sending this in case you missed it:
 > 
 > \[...\]
 
-I won’t get into your lie about 90 percent of the guns in the hands of Mexican drug cartel members coming from the United States. Even you can’t be stupid enough to believe that, although you are cynical enough to repeat it.
+I won't get into your lie about 90 percent of the guns in the hands of Mexican drug cartel members coming from the United States. Even you can't be stupid enough to believe that, although you are cynical enough to repeat it.
 
 Sincerely yours,
 

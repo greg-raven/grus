@@ -1,11 +1,10 @@
 ---
 title: 'Liberal conservationism'
-date: '2007-03-12T01:07:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - environment
+- environment
 ---
 
 A friend of mine went to the Australian Open this year, and while down under he visited the Great Barrier Reef. He said that the water was so warm --- 93 degrees --- that the reef was dying. There are those among us --- to whom I refer as liberal conservationists --- who believe this rise in water temperature is due to human-caused global warming. For example, there is the Great Barrier Reef Marine Park Authority, which falsely claims:  

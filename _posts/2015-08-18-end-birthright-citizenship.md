@@ -1,14 +1,13 @@
 ---
 title: 'End birthright citizenship!'
-date: '2015-08-18T12:46:19-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'birthright citizenship'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- birthright citizenship
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 We see the problem of anchor babies as a serious flaw in our immigration law. I hope you will take action to end it by cosponsoring S.45 and H.R.140 that would end Birthright Citizenship.

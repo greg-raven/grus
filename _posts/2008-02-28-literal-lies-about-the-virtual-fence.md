@@ -1,11 +1,10 @@
 ---
 title: "Literal lies about the 'Virtual Fence'"
-date: '2008-02-28T14:29:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'national security'
+- national security
 ---
 
 So, Department of Homeland Security officials say the "Virtual Fence" that is supposed to secure our southern border is not only poorly conceived and late, it's also not working. The wonderful thing about this announcement is that they make it as if they are trying so hard to secure our border, and this was the best effort they could make. Is anyone really shocked that the DHS can't seem to secure our border under George Bush, who has made it abundantly clear that he wants Mexicans to have free access to the U.S.?  

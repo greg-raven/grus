@@ -1,22 +1,22 @@
 ---
 title: 'Oppose the Biden Amnesty'
-date: '2021-02-18T15:08:24-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - jobs
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- jobs
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Dianne Feinstein
+- visa lottery
 ---
 
 Citizenship Act of 2021 will harm American workers!
 
-Resident Biden’s mass amnesty for illegal aliens, the U.S. Citizenship Act of 2021, has been introduced by Sen. Robert Menendez and Rep. Linda Sanchez. The Gang of 8’s 2013 amnesty legislation was a bad bill, but the Biden amnesty bill is incalculably worse.
+Resident Biden's mass amnesty for illegal aliens, the U.S. Citizenship Act of 2021, has been introduced by Sen. Robert Menendez and Rep. Linda Sanchez. The Gang of 8's 2013 amnesty legislation was a bad bill, but the Biden amnesty bill is incalculably worse.
 
-The U.S. Citizenship Act of 2021 doesn’t even contain a fig leaf of immigration enforcement and expands legal immigration while millions of American workers still struggle as a result of the Covid-19 pandemic.
+The U.S. Citizenship Act of 2021 doesn't even contain a fig leaf of immigration enforcement and expands legal immigration while millions of American workers still struggle as a result of the Covid-19 pandemic.
 
 In addition to its mass amnesty provisions, the bill would expand chain migration, expand the visa lottery, expand guest worker programs, roll back interior enforcement efforts, and scrap the three and ten-year re-entry bans.
 

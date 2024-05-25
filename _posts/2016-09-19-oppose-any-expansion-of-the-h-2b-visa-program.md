@@ -1,13 +1,12 @@
 ---
 title: 'Oppose any expansion of the H-2B visa program'
-date: '2016-09-19T06:57:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Representative Paul Cook'
+- immigration
+- jobs
+- Representative Paul Cook
 ---
 
 I urge you to oppose any expansion of the H-2B low-skilled guest worker program in the upcoming continuing resolution. The unemployment rates for Americans with a high school degree or less are nearly double the national average, and these Americans have to compete directly for jobs with H-2B visa holders.

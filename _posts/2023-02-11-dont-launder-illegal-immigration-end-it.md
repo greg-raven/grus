@@ -1,14 +1,13 @@
 ---
 title: 'Don&#8217;t launder illegal immigration; end it'
-date: '2023-02-11T05:38:56-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'illegal immigration'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- E-Verify
+- illegal immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I was disappointed to hear President Biden tout amnesty during his State of the Union address instead of speaking on real strategies that will halt the border crisis he created.
@@ -21,4 +20,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

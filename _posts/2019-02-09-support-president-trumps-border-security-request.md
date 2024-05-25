@@ -1,14 +1,13 @@
 ---
 title: 'Support President Trump&#8217;s border security request'
-date: '2019-02-09T05:24:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- border control
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 During his primetime address, President Trump reiterated the need for more resources at the border, notably $5.7 billion for new fencing, to combat illegal immigration and mitigate the harm it causes:
@@ -19,7 +18,7 @@ During his primetime address, President Trump reiterated the need for more resou
 > 
 > "Furthermore, we have asked Congress to close border security loopholes so that illegal immigrant children can be safely and humanely returned back home."
 
-It is important that Congress passes the necessary legislation to secure our southern border and give the Border Patrol and USCIS the resources they need to combat the current crisis at the border. You can end the shutdown by funding the President’s request for high-priority border fencing and additional Border Patrol agents, immigration judges, and detention beds.
+It is important that Congress passes the necessary legislation to secure our southern border and give the Border Patrol and USCIS the resources they need to combat the current crisis at the border. You can end the shutdown by funding the President's request for high-priority border fencing and additional Border Patrol agents, immigration judges, and detention beds.
 
 Contact me if you would like to talk about this,
 

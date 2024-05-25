@@ -1,13 +1,12 @@
 ---
 title: 'What &#8216;gun show loophole&#8217;?'
-date: '2013-04-20T23:09:06-08:00'
 layout: post
 categories:
-    - Information
-    - Video
+- Information
+- Video
 ---
 
-The only thing they can’t take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
+The only thing they can't take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/hiIGUFhPfO8?feature=oembed" width="840"></iframe></div></figure>Go here <https://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
 
@@ -31,11 +30,11 @@ Instances may range simply from the denial by an abuser that previous abusive in
 
 You are being told repeatedly by anti-gun advocates, politicians, and the media that they support the Second Amendment and that no one really wants to take your guns, yet the President is pushing Congress for more restrictive gun control legislation that will substantially impact your gun rights.
 
-You’re being told that the gun control measures they want to take are "reasonable" and reflective of "common sense," yet your own common sense makes it clear not a single measure being suggested would have prevented any of the mass shootings we’ve seen.
+You're being told that the gun control measures they want to take are "reasonable" and reflective of "common sense," yet your own common sense makes it clear not a single measure being suggested would have prevented any of the mass shootings we've seen.
 
 You are being told that law enforcement supports gun control when in fact law enforcement officers surveyed reject gun control.
 
-You’re being told that civilians have no need for an AR-15 or 30-round magazines, yet the people who seek to ban them are routinely protected by the same weapons with the same high-capacity magazines, along with their families.
+You're being told that civilians have no need for an AR-15 or 30-round magazines, yet the people who seek to ban them are routinely protected by the same weapons with the same high-capacity magazines, along with their families.
 
 You are being told that gun registration can help reduce violent crime; yet we know criminals are not going to register their guns, and every modern despot who came to power used gun registration to ultimately disarm the public before invoking tyrannical policies.
 
@@ -47,7 +46,7 @@ You are told gun confiscation will never happen, that gun registration is simply
 
 The Nazis understood the effectiveness of using authority to manage average people who were reluctant to believe that the regime would ultimately harm them. The Warsaw Ghetto, where the Nazis segregated Polish Jews before sending most of them to die in Treblinka during WWII is a good example. Initially the Jews vastly outnumbered their Nazi overlords yet these people complied with the edicts imposed upon them, thinking it wise to do so – until it was too late. The same was true of the Russians who were murdered under Stalin, the Cambodians under Pol Pot, the Rwandan Tutsis under the Hutus, and every other example of the imposition of tyranny.
 
-Don’t think it could happen here?
+Don't think it could happen here?
 
 You are being Gaslighted. You are being told lies about the true intentions of those who seek to take your gun rights by attrition and they have much history to show them how to do it. 170 million people have fallen for this tactic and were eventually killed by their own governments.
 
@@ -63,7 +62,7 @@ Either way, whether an idiot or a traitor, THEY NEED TO BE VOTED OUT OF OFFICE. 
 
 Here is a link to find your representatives. <https://capwiz.com/gunowners/dbq/officials/>
 
-And remember, if all else fails, the only thing they can’t take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
+And remember, if all else fails, the only thing they can't take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
 
 Go here <https://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
 

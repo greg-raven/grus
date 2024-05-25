@@ -1,12 +1,11 @@
 ---
 title: 'Vote for sanctuary city legislation'
-date: '2017-06-27T06:54:33-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
+- illegal aliens
+- Representative Paul Cook
 ---
 
 Sanctuary cities are out of control and put themselves, and illegal aliens, above the law. This disregard for the law has cost scores of innocent Americans their lives. H.R. 3003, legislation that would help to end this lawless activity, will receive a House floor vote this week and I urge you to support it.

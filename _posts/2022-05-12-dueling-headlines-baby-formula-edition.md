@@ -1,9 +1,8 @@
 ---
 title: 'Dueling headlines: Baby formula edition'
-date: '2022-05-12T03:13:00-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 First:

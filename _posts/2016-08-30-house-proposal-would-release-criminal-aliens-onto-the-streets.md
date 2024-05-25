@@ -1,25 +1,24 @@
 ---
 title: 'House proposal would release Criminal Aliens onto the streets'
-date: '2016-08-30T13:09:48-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'national security'
-    - population
-    - 'Representative Paul Cook'
+- illegal aliens
+- national security
+- population
+- Representative Paul Cook
 ---
 
-Many law enforcement groups, including the National Association of Assistant U.S. Attorneys, oppose the House’s criminal justice reform legislation. This proposal would release thousands of dangerous criminal aliens onto the streets. Please do all you can to make sure it doesn’t become law unless it excludes non-citizens.
+Many law enforcement groups, including the National Association of Assistant U.S. Attorneys, oppose the House's criminal justice reform legislation. This proposal would release thousands of dangerous criminal aliens onto the streets. Please do all you can to make sure it doesn't become law unless it excludes non-citizens.
 
 Organizations whose members are tasked with keeping Americans safe are opposed to this legislation. These organizations include:
 
-- The National Narcotic Officers’ Associations’ Coalition;
+- The National Narcotic Officers' Associations' Coalition;
 - The Federal Bureau of Investigation Agents Association;
 - The Federal Law Enforcement Officers Association;
-- The National Sheriffs’ Association;
-- The Major County Sheriff’s Association; and
+- The National Sheriffs' Association;
+- The Major County Sheriff's Association; and
 - The National Association of Assistant U.S. Attorneys.
 
 These groups oppose the House proposal because it would release criminal aliens back onto our streets. The Southwest border region would be particularly at risk. 85% of all federal drug possession convictions occur along the Southwest border. To make matters worse, 77% of all federal drug possession convictions are handed down to non-citizens. Many of these criminal aliens belong to violent drug gangs like MS-13. On top of this, 25% of all federal trafficking convictions are handed down to non-citizen aliens. Releasing these criminal aliens en masse would harm countless communities.

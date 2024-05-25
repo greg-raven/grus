@@ -1,18 +1,17 @@
 ---
 title: 'Oppose Obama&#8217;s amnesty'
-date: '2014-09-08T10:45:04-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-I, along with the 18 million Americans unable to find a full-time job, am pleased that President Obama has decided to delay the implementation of his executive amnesty. However, his decision to carry on with amnestying millions of illegal aliens after the election is extremely disheartening. I hope you will use the next two months to tell President Obama that an amnesty would harm America’s unemployed and underemployed.
+I, along with the 18 million Americans unable to find a full-time job, am pleased that President Obama has decided to delay the implementation of his executive amnesty. However, his decision to carry on with amnestying millions of illegal aliens after the election is extremely disheartening. I hope you will use the next two months to tell President Obama that an amnesty would harm America's unemployed and underemployed.
 
-An amnesty for illegal aliens only helps people who have broken America’s laws and the corrupt businesses that employ them. 18 million Americans cannot find a full-time job, but the president’s determination to amnesty and give work permits to millions of illegal aliens will only serve to drive more Americans from the workforce and drive down wages even more.
+An amnesty for illegal aliens only helps people who have broken America's laws and the corrupt businesses that employ them. 18 million Americans cannot find a full-time job, but the president's determination to amnesty and give work permits to millions of illegal aliens will only serve to drive more Americans from the workforce and drive down wages even more.
 
 Wages have stagnated because there are far too many available workers and because illegal aliens are willing to work for substandard wages --- Americans simply cannot compete. With this in mind, it is distressing that President Obama wants to help illegal aliens and their crony capitalist employers at the expense of hard working Americans.
 

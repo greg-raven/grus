@@ -1,12 +1,11 @@
 ---
 title: 'Thank you for supporting the Second Amendment'
-date: '2019-03-12T13:06:02-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Representative Paul Cook'
+- gun control
+- Representative Paul Cook
 ---
 
 As a Second Amendment supporter, I am writing to express my gratitude for your No votes on HR 8 and HR 1112.

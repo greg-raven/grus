@@ -1,19 +1,18 @@
 ---
 title: 'Enforce our immigration laws'
-date: '2009-03-29T02:01:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - immigration
+- Barack Hussein Obama
+- immigration
 ---
 
-A new Rasmussen poll shows that 67% of Americans support ICE’s workplace enforcement raids and 73% of Americans support automatic immigration checks at traffic stops. It is clear that the American people favor enforcement over amnesty!  
+A new Rasmussen poll shows that 67% of Americans support ICE's workplace enforcement raids and 73% of Americans support automatic immigration checks at traffic stops. It is clear that the American people favor enforcement over amnesty!  
   
 Time and again the American people have made it clear that they support the enforcement of our immigration laws. More than 12 million Americans are out of work and that number is only likely to grow. Surely, stringent enforcement efforts are necessary if jobs currently held by illegal aliens (some 7.7 million jobs) are to be filled by unemployed Americans?
 
-I urge you to listen to the will of the American people and do all you can to support ICE and local and state law enforcement’s efforts to apprehend and deport illegal aliens.
+I urge you to listen to the will of the American people and do all you can to support ICE and local and state law enforcement's efforts to apprehend and deport illegal aliens.
 
 Phone me if you would like to talk about this,
 

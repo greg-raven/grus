@@ -1,47 +1,46 @@
 ---
 title: 'Oppose SB 249'
-date: '2012-08-16T12:07:38-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Assemblyman Tim Donnelly'
-    - 'Bob Blumenfield'
-    - California
-    - 'Carol Liu'
-    - 'Charles M. Calderon'
-    - 'Chief of Staff Adam Keigwin'
-    - 'Chris Norby'
-    - 'Curren D. Price Jr.'
-    - 'Curt Hagman'
-    - 'Darrell Steinberg'
-    - 'Diane L. Harkey'
-    - 'Donald P. Wagner'
-    - 'Felipe Fuentes'
-    - 'Gilbert Cedillo'
-    - 'gun control'
-    - 'Holly J. Mitchell'
-    - 'Isadore Hall III'
-    - 'Jerry Hill'
-    - 'Jim Nielsen'
-    - 'Joel Anderson'
-    - 'Johannes Rognerud'
-    - 'Jose Solorio'
-    - 'Loni Hancock'
-    - 'Mike Davis'
-    - 'Mike Gatto'
-    - 'Nancy Skinner'
-    - 'Nora Campos'
-    - 'Representative Jerry Lewis'
-    - 'Ricardo Lara'
-    - 'Ron Calderon'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Leland Yee'
-    - 'Steve Knight'
-    - 'Steven Bradford'
-    - 'Tom Ammiano'
-    - 'Tom Harman'
+- Assemblyman Tim Donnelly
+- Bob Blumenfield
+- California
+- Carol Liu
+- Charles M. Calderon
+- Chief of Staff Adam Keigwin
+- Chris Norby
+- Curren D. Price Jr.
+- Curt Hagman
+- Darrell Steinberg
+- Diane L. Harkey
+- Donald P. Wagner
+- Felipe Fuentes
+- Gilbert Cedillo
+- gun control
+- Holly J. Mitchell
+- Isadore Hall III
+- Jerry Hill
+- Jim Nielsen
+- Joel Anderson
+- Johannes Rognerud
+- Jose Solorio
+- Loni Hancock
+- Mike Davis
+- Mike Gatto
+- Nancy Skinner
+- Nora Campos
+- Representative Jerry Lewis
+- Ricardo Lara
+- Ron Calderon
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
+- Senator Leland Yee
+- Steve Knight
+- Steven Bradford
+- Tom Ammiano
+- Tom Harman
 ---
 
 I am writing you to urge you to join Riverside County Sheriff Stan Sniff, myself, and hundreds of thousands of law abiding California citizen in opposing SB 249, which will be presented to the Appropriations Committee today (August 16th, 2012).
@@ -62,7 +61,7 @@ Thank you for your time and attention.
 
 > Thank you for contacting me regarding your opposition to SB 249 (Yee), which seeks to significantly change the current statutory definition of "detachable magazine" assault weapons. I share your concerns on this issue and the threats it poses to further weaken our 2nd Amendment rights.
 > 
-> SB 249 changes the current law regarding the definition of a ‘detachable magazine,’ thus criminalizing the possession of arms that are currently legal to possess in California. The 2nd Amendment and the 14th Amendment were enacted as a direct response to the British seizure of arms at Massachusetts Bay Colony and the widespread seizure of arms from freedmen and abolitionists in the reconstruction South. Ironically, but legally significant, the majority of seizures of firearms from freedmen were of their military rifles given to them in lieu of back pay for fighting for the Union in the Civil War. If there is anything that is longstanding, it is that the central purpose of both amendments was to make sure that government could not seize commonly owned firearms from the people.
+> SB 249 changes the current law regarding the definition of a 'detachable magazine,' thus criminalizing the possession of arms that are currently legal to possess in California. The 2nd Amendment and the 14th Amendment were enacted as a direct response to the British seizure of arms at Massachusetts Bay Colony and the widespread seizure of arms from freedmen and abolitionists in the reconstruction South. Ironically, but legally significant, the majority of seizures of firearms from freedmen were of their military rifles given to them in lieu of back pay for fighting for the Union in the Civil War. If there is anything that is longstanding, it is that the central purpose of both amendments was to make sure that government could not seize commonly owned firearms from the people.
 > 
 > The redefinition in this law makes the possession of certain firearms, some without even pistol grips or other regulated features, immediately illegal with no due process, nor compensation for the seizure of the property or even a possibility of modifications.
 > 

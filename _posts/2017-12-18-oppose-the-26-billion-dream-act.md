@@ -1,17 +1,16 @@
 ---
 title: 'Oppose the $26 billion DREAM Act'
-date: '2017-12-18T09:35:55-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- amnesty
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
-The non-partisan Congressional Budget Office (CBO) has released its report on Sens. Lindsey Graham and Dick Durbin’s S. 1615, the DREAM Act. The report shows that their legislation would add $26 billion to the deficit over a ten year period. According to the CBO:
+The non-partisan Congressional Budget Office (CBO) has released its report on Sens. Lindsey Graham and Dick Durbin's S. 1615, the DREAM Act. The report shows that their legislation would add $26 billion to the deficit over a ten year period. According to the CBO:
 
 > "The bill would affect direct spending by conferring eligibility for federal benefits --- health insurance subsidies and benefits under Medicaid and the Supplemental Nutrition Assistance Program (SNAP), among others --- provided that those applicants met the other eligibility requirements for those programs."
 

@@ -1,16 +1,15 @@
 ---
 title: 'No on S. 1033'
-date: '2006-03-22T14:57:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-I’m writing to make sure you fully understand the numeric impact of the McCain-Kennedy immigration proposal, S. 1033. It would add at least 25 million foreign workers and their dependents to our already overcrowded communities over the next ten years.
+I'm writing to make sure you fully understand the numeric impact of the McCain-Kennedy immigration proposal, S. 1033. It would add at least 25 million foreign workers and their dependents to our already overcrowded communities over the next ten years.
 
 The media are reporting that S. 1033 will likely be included in the immigration bill that is reported out of the Senate Judiciary Committee to be considered by the full Senate next week.
 

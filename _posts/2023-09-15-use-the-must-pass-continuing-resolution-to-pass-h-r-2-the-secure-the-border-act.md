@@ -1,14 +1,13 @@
 ---
 title: 'Use the must-pass Continuing Resolution to pass H.R. 2, the Secure the Border Act'
-date: '2023-09-15T14:38:18-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- border control
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S. / Mexico border. This legislation would:
@@ -26,4 +25,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

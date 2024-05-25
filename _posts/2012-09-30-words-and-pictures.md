@@ -1,12 +1,11 @@
 ---
 title: 'Words and pictures'
-date: '2012-09-30T20:34:15-08:00'
 layout: post
 categories:
-    - Cartoon
-    - Information
+- Cartoon
+- Information
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 ![Gas prices](/assets/img/2012/09/533786-gas-prices.jpg)

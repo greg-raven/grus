@@ -1,17 +1,16 @@
 ---
 title: 'Reduce immigration'
-date: '2020-01-14T07:36:44-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'President Donald Trump'
+- immigration
+- President Donald Trump
 ---
 
 You must help Americans by reducing foreign worker importation.
 
-After watching your interview with Fox News’ Laura Ingraham, I am concerned that you still believe that America needs more than 1 million new foreign workers each year. The United States is producing more than enough STEM workers to meet the needs of businesses, but many companies would rather import less-expensive foreign workers. To illustrate this point, there has been little change over the past 30 years in students pursuit of science and engineering careers, but less than half of graduates end up in a core science or engineering job. Furthermore, according to a recent report from the Atlantic Council:
+After watching your interview with Fox News' Laura Ingraham, I am concerned that you still believe that America needs more than 1 million new foreign workers each year. The United States is producing more than enough STEM workers to meet the needs of businesses, but many companies would rather import less-expensive foreign workers. To illustrate this point, there has been little change over the past 30 years in students pursuit of science and engineering careers, but less than half of graduates end up in a core science or engineering job. Furthermore, according to a recent report from the Atlantic Council:
 
 > "The current system undercuts opportunities for U.S. workers and enables the exploitation of H-1B workers, many of whom who are underpaid, vulnerable to abuse, and frequently placed in poor working conditions ... the program has never been fixed to meet the original promises made by Congress of safeguarding U.S. jobs. Instead, the program has been expanded to allow even larger numbers of H-1B workers, admitting them for longer periods, while its flawed governing rules have remained as they were in 1990."
 

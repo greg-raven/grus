@@ -1,18 +1,17 @@
 ---
 title: 'Back the Freedom Caucus&#8217; border plan!'
-date: '2022-08-25T04:50:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal immigration'
-    - immigration
-    - 'Representative Jay Obernolte'
+- illegal immigration
+- immigration
+- Representative Jay Obernolte
 ---
 
 It is incredibly disappointing that the White House has taken no steps to address the Biden Border Crisis. The situation at the border represents a threat to our national security, and you and your fellow Republicans need to keep it front and center.
 
-The House Freedom Caucus has released a plan to tackle the crisis. The plan’s highlights include:
+The House Freedom Caucus has released a plan to tackle the crisis. The plan's highlights include:
 
 - mandating the Migrant Protection Protocols;
 - strengthening the asylum process to end abuses;
@@ -20,7 +19,7 @@ The House Freedom Caucus has released a plan to tackle the crisis. The plan’s 
 - reforming the Flores settlement; and
 - ending disparities for UACs.
 
-The Biden Border Crisis will not solve itself. Please help to protect our nation by taking firm steps to implement the Freedom Caucus’ plan.
+The Biden Border Crisis will not solve itself. Please help to protect our nation by taking firm steps to implement the Freedom Caucus' plan.
 
 Sincerely,
 

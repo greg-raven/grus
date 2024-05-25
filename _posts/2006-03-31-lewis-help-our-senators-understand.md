@@ -1,16 +1,15 @@
 ---
 title: 'Help our senators understand'
-date: '2006-03-31T03:02:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - population
-    - 'Representative Jerry Lewis'
+- Federal government
+- population
+- Representative Jerry Lewis
 ---
 
-Our state’s two Senators need to take a page out of your book when it comes to passing an enforcement-only immigration bill. Please speak with them.
+Our state's two Senators need to take a page out of your book when it comes to passing an enforcement-only immigration bill. Please speak with them.
 
 The Senate has shown how out of touch it is with the American public and its constituents, by considering a series of bills that focus not on enforcement, but on increasing the numbers of green cards and H-1B visas. It seems the House is working for the people and the Senate is working for its corporate campaign contributors.
 

@@ -1,14 +1,13 @@
 ---
 title: 'Fight income inequality: Oppose further immigration'
-date: '2013-12-07T07:54:18-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I believe you need to help President Obama to fight income inequality by reducing the future flow of foreign citizens given green cards and lifetime work permits.

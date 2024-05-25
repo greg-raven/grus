@@ -1,13 +1,12 @@
 ---
 title: 'The OPT program is harmful to U.S. workers seeking employment'
-date: '2020-06-25T03:33:59-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- jobs
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 Give minorities in STEM fields a chance to find work: stop the OPT program!
@@ -18,6 +17,6 @@ The OPT program (or "Optional Practical Training") gives employers who hire fore
 
 "Layoffs in the tech industry are troubling because tech firms already had a diversity issue," according to an article by Pew ("Black Professionals Miss Out on Recent Job Gains," June 22, 2020).
 
-The government can’t pretend that offering employers a tax break to not hire Americans doesn’t create a perverse incentive to deny opportunities to our fellow Americans. I’m counting on you to end the destructive and discriminatory OPT program.
+The government can't pretend that offering employers a tax break to not hire Americans doesn't create a perverse incentive to deny opportunities to our fellow Americans. I'm counting on you to end the destructive and discriminatory OPT program.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

@@ -1,15 +1,14 @@
 ---
 title: 'Fix the bureaucracy'
-date: '2017-06-20T15:17:04-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - 'President Donald Trump'
+- Federal government
+- President Donald Trump
 ---
 
-As a candidate, you often made reference to draining the swamp. As laudable as this goal may be, the "swamp" exists because the federal government has become so gigantic, so invasive, and so all-encompassing that anyone who wishes to get anything done in this country must necessarily apply to Washington at some point --- either for help or permission. Draining the swamp, therefore, isn’t enough: You must eliminate it completely. Draining it will only create a vacuum, and nature abhors a vacuum.
+As a candidate, you often made reference to draining the swamp. As laudable as this goal may be, the "swamp" exists because the federal government has become so gigantic, so invasive, and so all-encompassing that anyone who wishes to get anything done in this country must necessarily apply to Washington at some point --- either for help or permission. Draining the swamp, therefore, isn't enough: You must eliminate it completely. Draining it will only create a vacuum, and nature abhors a vacuum.
 
 The obvious first step is to take a chainsaw to entire branches of government that should never have been allowed to come into being. Legally, one could compare each bureaucracy with the Constitution to see if it is mentioned. If not, eliminate it. For starters, this would include:
 
@@ -44,6 +43,6 @@ The obvious second step is to drastically cut back on remaining bureaucracies, s
 - Closing virtually all overseas military and other bases and bringing our troops home.
 - Eliminate virtually all forms of foreign aid.
 
-Please don’t hesitate to contact me if you wish to discuss this.
+Please don't hesitate to contact me if you wish to discuss this.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

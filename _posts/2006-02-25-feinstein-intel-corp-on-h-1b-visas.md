@@ -1,15 +1,14 @@
 ---
 title: 'Intel Corp. on H-1B visas'
-date: '2006-02-25T02:45:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - 'Senator Dianne Feinstein'
+- Federal government
+- Senator Dianne Feinstein
 ---
 
-Chairman Intel’s comment makes clear how little the tech industry values the American worker. You have a responsibility to protect us from people like him.
+Chairman Intel's comment makes clear how little the tech industry values the American worker. You have a responsibility to protect us from people like him.
 
 MSNBC has quoted Craig Barrett of Intel as saying:
 

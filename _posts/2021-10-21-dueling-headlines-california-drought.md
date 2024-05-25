@@ -1,9 +1,8 @@
 ---
 title: 'Dueling headlines: California drought edition'
-date: '2021-10-21T05:51:55-08:00'
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Then:

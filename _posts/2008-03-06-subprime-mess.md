@@ -1,11 +1,10 @@
 ---
 title: 'Subprime mess'
-date: '2008-03-06T14:12:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'race relations'
+- race relations
 ---
 
 A few years back, we were told that non-white minorities were not being granted access to credit to buy homes the way whites were. The solution was to mandate that lenders give loans to non-whites.  

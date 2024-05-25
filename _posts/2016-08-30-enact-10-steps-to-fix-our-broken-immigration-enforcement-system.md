@@ -1,17 +1,16 @@
 ---
 title: 'Enact 10 steps to fix our broken immigration enforcement system'
-date: '2016-08-30T13:13:25-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- immigration
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-The National Association of Retired Border Patrol Officers has endorsed NumbersUSA’s 10 Steps to Fixing the Broken Immigration System. I think there’s no better authority on the issue of illegal immigration than retired Border Patrol officers. I urge you to take action on these 10 actions to finally end illegal immigration and help get jobless Americans back to work.
+The National Association of Retired Border Patrol Officers has endorsed NumbersUSA's 10 Steps to Fixing the Broken Immigration System. I think there's no better authority on the issue of illegal immigration than retired Border Patrol officers. I urge you to take action on these 10 actions to finally end illegal immigration and help get jobless Americans back to work.
 
 Please pledge to tackle the following priorities in the next Congress in order to reduce the harm that illegal immigration imposes especially on the most vulnerable American workers of all backgrounds.
 

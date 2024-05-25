@@ -1,14 +1,13 @@
 ---
 title: 'Support Trump&#8217;s call for mandatory E-Verify and ending chain migration'
-date: '2017-10-09T13:51:39-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- immigration
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 The White House has released a set of immigration principles that would increase border security, strengthen interior enforcement, including a requirement for all employers to use E-Verify, and reform the current green card system, including an end to chain migration.
@@ -40,7 +39,7 @@ Enforce our immigration laws and return visa overstays.
 - Stop catch-and-release by correcting judicial actions that prevent ICE from keeping dangerous aliens in custody pending removal and expanding the criteria for expedited removal.
 - Prevent gang members from receiving immigration benefits.  
     Protect U.S. workers by requiring E-Verify and strengthening laws to stop employment discrimination against U.S. workers.
-- Improve visa security by expanding State Department’s authority to combat visa fraud, ensuring funding of the Visa Security Program, and expanding it to high-risk posts.
+- Improve visa security by expanding State Department's authority to combat visa fraud, ensuring funding of the Visa Security Program, and expanding it to high-risk posts.
 
 **MERIT-BASED IMMIGRATION SYSTEM**
 

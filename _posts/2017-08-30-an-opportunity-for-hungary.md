@@ -1,11 +1,10 @@
 ---
 title: 'An opportunity for Hungary'
-date: '2017-08-30T05:31:04-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - population
+- population
 ---
 
 Prime Minister Viktor Orbán  
@@ -13,13 +12,13 @@ Prime Minister Viktor Orbán
 
 Your Excellency,
 
-Mr. George Soros has made attacking Christian civilization his life’s work. His worldwide efforts along these lines have been serious and substantial.
+Mr. George Soros has made attacking Christian civilization his life's work. His worldwide efforts along these lines have been serious and substantial.
 
 What most do not know is that his efforts within the United States of America have been even more dangerous and effective. Where Hungary has a population of fewer than ten million souls, in the United States alone Mr. Soros has been able to destroy the funding of news agencies that have more than 40 million readers.
 
 Mr. Soros has accomplished this by stopping all funding of these news agencies by blocking their access to payment processors as Patreon and PayPal. He has also forced the removal of advertising from these news agencies through Youtube and Google Adsense.
 
-With over 40 million readers, these news sites are your largest defenders in the United States. Even President Donald Trump reads these news agencies’ reports.
+With over 40 million readers, these news sites are your largest defenders in the United States. Even President Donald Trump reads these news agencies' reports.
 
 But where there is a crisis there is also an opportunity.
 

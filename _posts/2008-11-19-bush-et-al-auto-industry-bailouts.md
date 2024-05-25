@@ -1,25 +1,24 @@
 ---
 title: 'Auto industry bailouts'
-date: '2008-11-19T02:46:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - bailouts
-    - 'Federal government'
-    - 'President George Bush'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- bailouts
+- Federal government
+- President George Bush
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I urge you to oppose any bailout of the auto industry, whether by taking existing funds from TARP, revising any previous loans, or making new grants.  
   
-The auto industry is lobbying hard for taxpayer money when they should be entirely focused on restructuring their companies and recouping their losses. There is no guarantee that a government handout will have any positive effect. In fact, just the opposite: Once the Big 3 receive a bailout, there’s no need for them to make any improvements to the way they do business.
+The auto industry is lobbying hard for taxpayer money when they should be entirely focused on restructuring their companies and recouping their losses. There is no guarantee that a government handout will have any positive effect. In fact, just the opposite: Once the Big 3 receive a bailout, there's no need for them to make any improvements to the way they do business.
 
-Because a bailout will only delay the economic consequences of the Big 3’s current predicaments, Congress should allow the market to work so that the fallout can be dealt with and overcome as quickly as possible.
+Because a bailout will only delay the economic consequences of the Big 3's current predicaments, Congress should allow the market to work so that the fallout can be dealt with and overcome as quickly as possible.
 
-Instead of handing out more of the taxpayers’ money and moving farther away from the free market ideas that made America great, I ask you to:
+Instead of handing out more of the taxpayers' money and moving farther away from the free market ideas that made America great, I ask you to:
 
 1. Curb regulation: The auto industry is already one of the most heavily regulated industries, and a bailout will bring more government regulation and additional costs. Alleviating even a little of the red tape would free up resources for them to address their financial situations, save jobs, and produce quality products to jump-start sales.
 2. Cut taxes: Cutting corporate and capital gains taxes would give these companies immediate funds to put toward their problems. Cutting individual income taxes would return much-needed money to workers and consumers, strengthening their financial positions and purchasing power during these turbulent times.

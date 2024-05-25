@@ -1,11 +1,10 @@
 ---
 title: 'Hydrogen Barackside'
-date: '2009-06-06T12:52:48-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 - Kills capitalism on contact

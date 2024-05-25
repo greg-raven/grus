@@ -1,11 +1,10 @@
 ---
 title: "Guns don't kill people ..."
-date: '2012-08-09T20:34:47-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'gun control'
+- gun control
 ---
 
 Guns don't kill people. Drug cartels armed by our government kill people.

@@ -1,14 +1,13 @@
 ---
 title: 'Amnestied illegals won&#8217;t have to pay income taxes?'
-date: '2013-05-01T10:42:32-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 It is outlandish that amnestied illegal aliens are not forced to pay as part of the Schumer-Rubio-McCain amnesty bill. I hope you will oppose this bill!  
@@ -17,9 +16,9 @@ Unfortunately, under the terms of the legislation, illegal aliens who have not p
 
 "An alien may not file an application for registered provisional immigrant status under paragraph (1) unless the applicant has satisfied any applicable Federal tax liability...."
 
-The bill continues by stating "the term ‘applicable Federal tax liability’ means all Federal income taxes assessed in accordance with section 6203 of the Internal Revenue Code of 1986."
+The bill continues by stating "the term 'applicable Federal tax liability' means all Federal income taxes assessed in accordance with section 6203 of the Internal Revenue Code of 1986."
 
-It’s clear that this bill was written in such a way so that illegal aliens have the easiest possible path to getting an amnesty. Please oppose it.
+It's clear that this bill was written in such a way so that illegal aliens have the easiest possible path to getting an amnesty. Please oppose it.
 
 Phone me if you would like to talk about this,
 

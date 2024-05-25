@@ -1,14 +1,14 @@
 ---
 title: 'Oppose Biden immigration increases'
-date: '2021-03-04T16:30:39-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - immigration
-    - jobs
-    - 'Representative Jay Obernolte'
+- amnesty
+- immigration
+- jobs
+- Representative Jay Obernolte
+- visa lottery
 ---
 
 The Biden amnesty increases annual immigration by 2.4 million --- please oppose it!

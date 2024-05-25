@@ -1,11 +1,10 @@
 ---
 title: 'Thanks for opposing the Alien Health Care Bill'
-date: '2009-11-10T22:13:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
+- Federal government
 ---
 
 Representative Jerry Lewis:
@@ -22,4 +21,4 @@ Phone me if you would like to talk about this,
 
 Greg Raven
 
-P.S. Let’s all pray that this anti-American, anti-middle-class, illegal, and immoral legislation does not pass the Senate.
+P.S. Let's all pray that this anti-American, anti-middle-class, illegal, and immoral legislation does not pass the Senate.

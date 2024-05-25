@@ -1,15 +1,14 @@
 ---
 title: 'Your multi-trillion-dollar budget'
-date: '2009-04-18T01:37:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - 'Federal government'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- Federal government
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Fiscal irresponsibility and massive new deficits are not solutions to our economic problems.  

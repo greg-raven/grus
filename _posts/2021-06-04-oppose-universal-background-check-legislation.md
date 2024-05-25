@@ -1,13 +1,12 @@
 ---
 title: 'Oppose universal background check legislation'
-date: '2021-06-04T05:43:25-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- 2nd Amendment
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I am writing to you today to alert you to legislation which would severely infringe on the rights of law-abiding gun owners. As a supporter of the Firearms Policy Coalition (FPC), I strongly oppose these bills.
@@ -18,6 +17,6 @@ A gun registry has long been the goal of anti-gun politicians because they know 
 
 As criminals do not submit to background checks, all this proposed legislation would do is hand the government more power and a mandate to abuse the taxpayers.
 
-That’s why I respectfully urge you to vote NO on any attempt to pass H.R. 8, H.R. 1446 or S. 529.
+That's why I respectfully urge you to vote NO on any attempt to pass H.R. 8, H.R. 1446 or S. 529.
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA

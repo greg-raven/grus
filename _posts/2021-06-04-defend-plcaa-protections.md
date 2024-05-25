@@ -1,14 +1,13 @@
 ---
 title: 'Defend PLCAA protections'
-date: '2021-06-04T05:49:36-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- 2nd Amendment
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Please support PLCAA protections for our firearms industries.

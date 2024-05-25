@@ -1,12 +1,11 @@
 ---
 title: 'Be fearless in defending America'
-date: '2020-04-04T15:50:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - 'Senator Mitch McConnell'
+- Federal government
+- Senator Mitch McConnell
 ---
 
 I implore you to be an authentic, impassioned, fearless conservative.
@@ -18,7 +17,7 @@ It is long past due that you:
 - Stop illegal immigration by securing our borders and enforcing the laws;
 - Balance the federal budget by slashing the size of government;
 - End pork-barrel spending and the buying of votes in Congress;
-- Eliminate today’s federal tax code and replace it with a new, fair, flat tax;
+- Eliminate today's federal tax code and replace it with a new, fair, flat tax;
 - Free our children and grandchildren from the crushing national debt;
 - Replace Obamacare with a market-driven, patient-centered reform;
 - Take care of our military and our veterans;

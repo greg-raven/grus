@@ -1,12 +1,11 @@
 ---
 title: 'Catholics oppose amnesty'
-date: '2013-11-13T14:23:29-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
 I cannot understand why reputable news organizations continue to say that Catholic Americans overwhelmingly support giving legal status, work permits, and a pathway to citizenship to illegal aliens when recent polling shows that the opposite is true.  

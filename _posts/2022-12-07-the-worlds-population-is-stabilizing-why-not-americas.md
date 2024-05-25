@@ -1,14 +1,13 @@
 ---
 title: 'The world&#8217;s population is stabilizing, why not America&#8217;s?'
-date: '2022-12-07T06:51:39-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - environment
-    - immigration
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- environment
+- immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 - Reducing immigration can lead to a sustainable America.

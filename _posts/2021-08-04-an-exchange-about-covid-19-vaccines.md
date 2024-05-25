@@ -1,12 +1,11 @@
 ---
 title: 'An exchange about COVID-19 vaccines'
-date: '2021-08-04T05:55:00-08:00'
 layout: post
 categories:
-    - Commentary
+- Commentary
 tags:
-    - 'health care'
-    - population
+- health care
+- population
 ---
 
 A concerned relative sent me this editorial about COVID-19 vaccines. My response is below.

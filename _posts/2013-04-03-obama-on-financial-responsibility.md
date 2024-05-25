@@ -1,18 +1,17 @@
 ---
 title: 'Obama on financial responsibility'
-date: '2013-04-03T15:17:19-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 More from the biggest idiot ever to hold the office of the president.
 
 First this:
 
-> "The President has proclaimed the month of April National Financial Capability Month. What is National Financial Capability Month? It’s the federal government helping individuals and families make more accurate budgets."
+> "The President has proclaimed the month of April National Financial Capability Month. What is National Financial Capability Month? It's the federal government helping individuals and families make more accurate budgets."
 > 
 > <cite>(source)</cite>
 

@@ -1,12 +1,11 @@
 ---
 title: 'Thank you for co-sponsoring H.R. 250'
-date: '2019-10-29T06:05:03-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Representative Paul Cook'
+- E-Verify
+- Representative Paul Cook
 ---
 
 Thanks for co-sponsoring H.R. 250 to mandate E-Verify!

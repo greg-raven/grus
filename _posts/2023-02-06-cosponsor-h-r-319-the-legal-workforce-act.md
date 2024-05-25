@@ -1,17 +1,16 @@
 ---
 title: 'Cosponsor H.R. 319, the Legal Workforce Act'
-date: '2023-02-06T14:10:28-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - immigration
-    - jobs
-    - 'Representative Jay Obernolte'
+- E-Verify
+- immigration
+- jobs
+- Representative Jay Obernolte
 ---
 
-H.R. 319, in addition to requiring employers to run new hires through the Chamber of Commerce-approved E-Verify system, would move illegal aliens out of U.S. jobs. Over time, the more than 7 million illegal aliens in non-agricultural jobs would be replaced by unemployed Americans and legal immigrants. While not solving America’s unemployment or illegal immigration problems, the Legal Workforce Act would certainly lessen their severity.
+H.R. 319, in addition to requiring employers to run new hires through the Chamber of Commerce-approved E-Verify system, would move illegal aliens out of U.S. jobs. Over time, the more than 7 million illegal aliens in non-agricultural jobs would be replaced by unemployed Americans and legal immigrants. While not solving America's unemployment or illegal immigration problems, the Legal Workforce Act would certainly lessen their severity.
 
 This legislation is able to coax out these illegal workers by telling employers if the name and Social Security number of a current employee do not match. Clearly, this is an easy and effective way of putting unemployed Americans and legal immigrants in jobs currently held by illegal aliens.
 
@@ -21,4 +20,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

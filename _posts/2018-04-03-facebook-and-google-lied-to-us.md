@@ -1,21 +1,20 @@
 ---
 title: 'Facebook and Google lied to us'
-date: '2018-04-03T12:35:36-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - Internet
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- Internet
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 Facebook and Google lied to us, and they must be stopped.
 
 I call on Congress to stand up to these out of control Silicon Valley monopolies that steal our information and censor our voices online.
 
-For years, they said they would protect our personal information, but they’ve stolen everything we do online and sold it to political campaigns and advertisers to abuse it. They’ve told us they would be a neutral platform, but have consistently banned, blocked, and censored conservatives online.
+For years, they said they would protect our personal information, but they've stolen everything we do online and sold it to political campaigns and advertisers to abuse it. They've told us they would be a neutral platform, but have consistently banned, blocked, and censored conservatives online.
 
 Congress is preparing to vote on legislation that would exempt Facebook and Google from any obligation to protect consumers online. I urge you and your colleagues to stand up to these Silicon Valley monopolies and oppose this measure.
 
@@ -31,8 +30,8 @@ Sincerely,
 
 **Five things you need to know about Fake Net Neutrality**
 
-1. Fake Net Neutrality doesn’t apply to Google and Facebook.
+1. Fake Net Neutrality doesn't apply to Google and Facebook.
 2. Fake Net Neutrality allows for online censorship and less transparency.
-3. Fake Net Neutrality was a result of Google’s cozy relationship with Obama.
+3. Fake Net Neutrality was a result of Google's cozy relationship with Obama.
 4. Fake Net Neutrality ignores the near-monopoly power of Google and Facebook.
 5. Congressional efforts to protect Fake Net Neutrality by passing the CRA undermine any chance of real net neutrality protections.

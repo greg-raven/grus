@@ -1,13 +1,12 @@
 ---
 title: 'The Gang of Eight&#8217;s amnesty is filled with loopholes'
-date: '2013-05-01T11:14:41-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 It is important that you act against the Schumer-McCain amnesty legislation. I agree with the growing chorus who say that the bill will not secure the border and will not stop the flow of illegal aliens. However, it is clear that the bill will provide an easy path to amnesty for illegal aliens.  

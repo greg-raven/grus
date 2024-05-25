@@ -1,12 +1,11 @@
 ---
 title: 'DHS &#038; Other Agencies'
-date: '2012-02-29T13:52:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - DHS
-    - 'national security'
+- DHS
+- national security
 ---
 
 Department of Homeland Security (DHS)  

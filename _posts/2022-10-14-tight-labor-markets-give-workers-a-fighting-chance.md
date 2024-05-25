@@ -1,16 +1,15 @@
 ---
 title: 'Tight labor markets give workers a fighting chance'
-date: '2022-10-14T13:01:07-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - E-Verify
-    - immigration
-    - jobs
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- border control
+- E-Verify
+- immigration
+- jobs
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 As the liberal labor economist Vernon Briggs, Jr. has noted, we are now in another era of large-scale immigration that works against U.S. workers:

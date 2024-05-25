@@ -1,21 +1,20 @@
 ---
-title: 'Oppose ‘ghost gun&#8217; bans'
-date: '2021-06-04T05:49:06-08:00'
+title: 'Oppose 'ghost gun&#8217; bans'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- 2nd Amendment
+- Representative Jay Obernolte
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Please *oppose* the Untraceable Firearms Act.
 
 I urge you to oppose strongly the so-called "Untraceable Firearms Act" (H.R. 3088/S. 1558).
 
-These bills run afoul of Americans’ right to home-build their own firearms, a perfectly lawful activity Americans have engaged in since before the founding. Technology changes, rights don’t.
+These bills run afoul of Americans' right to home-build their own firearms, a perfectly lawful activity Americans have engaged in since before the founding. Technology changes, rights don't.
 
 All State and Federal firearms laws still apply, even if you build your own firearm at home.
 

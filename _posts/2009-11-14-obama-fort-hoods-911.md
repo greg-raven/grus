@@ -1,16 +1,15 @@
 ---
 title: 'Fort Hood&#8217;s 9/11'
-date: '2009-11-14T13:29:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - 'Federal government'
-    - 'national security'
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- Federal government
+- national security
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 Barack Obama

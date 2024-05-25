@@ -1,12 +1,11 @@
 ---
 title: 'No amnesty for illegal aliens'
-date: '2009-04-24T21:18:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Senator Dianne Feinstein'
+- amnesty
+- Senator Dianne Feinstein
 ---
 
 I am disappointed that you and your colleagues on the Judiciary Committee will be holding hearings on amnesty when so many Americans feel the negative impact of the illicit hiring of illegal aliens.
@@ -15,9 +14,9 @@ Comprehensive immigration reform along the lines of the bills that failed in 200
 
 I support a third way: workplace enforcement. If Congress would simply take away jobs for illegal workers, the tide of illegal immigration will ebb – and at far less cost than an amnesty program.
 
-Unfortunately, your upcoming April 30th hearing isn’t about taking jobs back from illegal workers. Instead, you will be discussing ways to give those jobs away permanently. This is a massive bailout for illegal workers and the unscrupulous employers who profit from them. Perhaps the wages for some of these workers will rise, but that will not offset the cost of Social Security, Medicaid, Medicare, Unemployment (because these workers will be displaced by the next wave of illegals looking for an amnesty), and other government-subsidized benefits.
+Unfortunately, your upcoming April 30th hearing isn't about taking jobs back from illegal workers. Instead, you will be discussing ways to give those jobs away permanently. This is a massive bailout for illegal workers and the unscrupulous employers who profit from them. Perhaps the wages for some of these workers will rise, but that will not offset the cost of Social Security, Medicaid, Medicare, Unemployment (because these workers will be displaced by the next wave of illegals looking for an amnesty), and other government-subsidized benefits.
 
-Comprehensive immigration reform that legalizes illegal workers made no economic or ethical sense in 2007. Considering today’s recession, the Senate Judiciary Committee is foolish to even bring the subject up.
+Comprehensive immigration reform that legalizes illegal workers made no economic or ethical sense in 2007. Considering today's recession, the Senate Judiciary Committee is foolish to even bring the subject up.
 
 Phone me if you would like to talk about this,
 

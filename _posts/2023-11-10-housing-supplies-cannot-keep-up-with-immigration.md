@@ -1,15 +1,14 @@
 ---
 title: 'Housing supplies cannot keep up with immigration'
-date: '2023-11-10T05:20:03-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'illegal immigration'
-    - immigration
-    - 'Representative Jay Obernolte'
-    - 'Senator Alex Padilla'
+- border control
+- illegal immigration
+- immigration
+- Representative Jay Obernolte
+- Senator Alex Padilla
 ---
 
 - We need H.R. 2.
@@ -24,4 +23,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

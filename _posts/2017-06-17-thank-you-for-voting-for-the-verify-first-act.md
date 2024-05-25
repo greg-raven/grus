@@ -1,13 +1,12 @@
 ---
 title: 'Thank you for voting for the Verify First Act'
-date: '2017-06-17T07:59:08-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
-    - taxes
+- illegal aliens
+- Representative Paul Cook
+- taxes
 ---
 
 Thank you for voting for the Verify First Act. It is ridiculous that anyone could oppose legislation preventing illegal aliens from receiving taxpayer-funded tax credits. Benefits such as these encourage illegal aliens to come to the U.S. in the first place.

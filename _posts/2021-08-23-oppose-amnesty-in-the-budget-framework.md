@@ -1,17 +1,16 @@
 ---
 title: 'Oppose amnesty in the budget framework'
-date: '2021-08-23T07:00:52-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Jay Obernolte'
+- amnesty
+- Representative Jay Obernolte
 ---
 
 I vehemently oppose adding an amnesty for millions of illegal aliens in budget reconciliation.
 
-Earlier this month, the U.S. Senate passed a budget reconciliation blueprint that instructs the Senate Judiciary Committee to include a mass amnesty in the Democrats’ $3.5 trillion budget reconciliation effort. But before they can begin the process, the House must approve the Senate-passed budget framework.
+Earlier this month, the U.S. Senate passed a budget reconciliation blueprint that instructs the Senate Judiciary Committee to include a mass amnesty in the Democrats' $3.5 trillion budget reconciliation effort. But before they can begin the process, the House must approve the Senate-passed budget framework.
 
 This is the biggest mass amnesty threat since the Gang of 8 amnesty bill in 2013. Most legislation requires 60 votes to pass in the Senate. By using the budget reconciliation process, however, Democrats can secure an amnesty for an estimated 8 million illegal aliens without a single Republican vote in the Senate.
 

@@ -1,12 +1,11 @@
 ---
 title: 'Please withdraw H.R. 127'
-date: '2021-06-04T05:52:52-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Sheila Jackson Lee'
+- 2nd Amendment
+- Representative Sheila Jackson Lee
 ---
 
 I ask that you withdraw H.R. 127.

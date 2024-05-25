@@ -1,11 +1,10 @@
 ---
 title: 'Walmart vs. The Morons'
-date: '2014-10-11T05:15:31-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - population
+- population
 ---
 
 Let's start with some facts

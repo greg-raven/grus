@@ -1,16 +1,15 @@
 ---
 title: 'If Rubio&#8217;s amnesty is so great, why is he lying?'
-date: '2013-04-18T11:08:20-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - amnesty
+- amnesty
 ---
 
 by Ann Coulter
 
-When Republicans start lying like Democrats, you can guess they are pushing an idea that’s bad for America. During his William Ginsburg-like tour of the Sunday talk shows last weekend, Sen. Marco Rubio was the Mount Vesuvius of lies about his immigration bill.  
+When Republicans start lying like Democrats, you can guess they are pushing an idea that's bad for America. During his William Ginsburg-like tour of the Sunday talk shows last weekend, Sen. Marco Rubio was the Mount Vesuvius of lies about his immigration bill.  
   
 Here is how Rubio explained the powerful border-enforcing mechanism in his bill on "Fox News Sunday," which he denied was merely a meaningless goal:
 
@@ -22,6 +21,6 @@ The only thing more frightening than "another government commission" is a "stron
 
 \[...\]
 
-If you think Republicans are Hispandering now, wait until the children of 20 million illegal aliens start to vote. Rubio’s amnesty isn’t just bad for America, it’s the end of America.
+If you think Republicans are Hispandering now, wait until the children of 20 million illegal aliens start to vote. Rubio's amnesty isn't just bad for America, it's the end of America.
 
 [Read the full article here](https://www.wnd.com/2013/04/if-rubios-amnesty-is-so-great-why-is-he-lying/#Q1HuJkZ6J9kEcsqI.99).

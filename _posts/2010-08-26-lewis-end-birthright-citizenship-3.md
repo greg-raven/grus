@@ -1,12 +1,11 @@
 ---
 title: 'End birthright citizenship'
-date: '2010-08-26T14:22:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'birthright citizenship'
-    - 'Representative Jerry Lewis'
+- birthright citizenship
+- Representative Jerry Lewis
 ---
 
 I see the problem of anchor babies as a serious flaw in our immigration law. I am asking you to cosponsor H.R. 1868.  

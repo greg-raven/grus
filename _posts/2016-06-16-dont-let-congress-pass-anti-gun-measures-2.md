@@ -1,19 +1,18 @@
 ---
 title: 'Don&#8217;t let Congress pass anti-gun measures'
-date: '2016-06-16T12:29:46-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- gun control
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
-The Orlando killer wasn’t on a "no-fly" list.
+The Orlando killer wasn't on a "no-fly" list.
 
-He wasn’t being currently investigated by the FBI.
+He wasn't being currently investigated by the FBI.
 
 He passed numerous background checks, and was a licensed security guard in a courthouse, working for a major security contractor that had contracts with DHS.
 

@@ -1,15 +1,14 @@
 ---
 title: 'Close the Landlord Taskforce'
-date: '2018-08-27T09:49:48-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'government power'
-    - 'President Donald Trump'
+- government power
+- President Donald Trump
 ---
 
-Please immediately stop the Department of Housing and Urban Development’s Landlord Taskforce. Reduce the size of government, reduce the scope of government, and let the free market decide! If you think there are housing problems now, just wait until you force investors out of the rental market with moronic schemes such as this one.
+Please immediately stop the Department of Housing and Urban Development's Landlord Taskforce. Reduce the size of government, reduce the scope of government, and let the free market decide! If you think there are housing problems now, just wait until you force investors out of the rental market with moronic schemes such as this one.
 
 For background, see:
 

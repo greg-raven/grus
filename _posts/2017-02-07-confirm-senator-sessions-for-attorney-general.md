@@ -1,15 +1,14 @@
 ---
 title: 'Confirm Senator Sessions for Attorney General'
-date: '2017-02-07T14:07:49-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
-Please vote in favor of Sen. Sessions’ nomination for the post of Attorney General. Sen. Sessions has consistently expressed a desire to uphold the law and to make sure our nation’s laws are enforced. He will make a fine attorney general and I urge you to vote to approve his nomination.
+Please vote in favor of Sen. Sessions' nomination for the post of Attorney General. Sen. Sessions has consistently expressed a desire to uphold the law and to make sure our nation's laws are enforced. He will make a fine attorney general and I urge you to vote to approve his nomination.
 
 Americans depend on having a chief law enforcement official who will guard their interests with a fierce independence from the institutions of power that can sometimes try to abuse that power to encroach on the rights and quality of life of an individual.
 

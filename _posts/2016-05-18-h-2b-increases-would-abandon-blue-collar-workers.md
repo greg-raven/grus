@@ -1,13 +1,12 @@
 ---
 title: 'H-2B increases would abandon blue-collar workers'
-date: '2016-05-18T05:59:10-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Representative Paul Cook'
+- immigration
+- jobs
+- Representative Paul Cook
 ---
 
 Sen. Jeff Sessions has written to the Senate Appropriations Committee urging them to oppose efforts to quadruple H-2B visa numbers to 264,000. I urge you to read his letter and do all you can to support jobless Americans by opposing this massive increase in foreign workers.

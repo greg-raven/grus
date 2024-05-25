@@ -1,11 +1,10 @@
 ---
 title: 'The balance of powers under Obama'
-date: '2013-08-19T17:31:33-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'Barack Hussein Obama'
+- Barack Hussein Obama
 ---
 
 The Obama branches of government.

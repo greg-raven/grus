@@ -1,18 +1,17 @@
 ---
 title: 'We cannot achieve a sustainable population with current immigration levels'
-date: '2022-11-16T07:07:25-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - environment
-    - immigration
-    - population
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- environment
+- immigration
+- population
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
-It’s frustrating that America’s prominent economists can’t acknowledge that economic growth does not require a relentless increase in population. We can grow our economy by using education and technology to increase productivity. With slower population growth, we can make greater progress toward resolving economic and environmental issues while boosting our productivity, and quality of life, as a nation.
+It's frustrating that America's prominent economists can't acknowledge that economic growth does not require a relentless increase in population. We can grow our economy by using education and technology to increase productivity. With slower population growth, we can make greater progress toward resolving economic and environmental issues while boosting our productivity, and quality of life, as a nation.
 
 The real problem is too many people. There are few environmental problems not exacerbated by population growth --- global warming, the extinction crisis, water shortages, polluted air and water, deforestation, wetlands destruction, increased trash and toxic waste, sprawling development and loss of open space, depleted fisheries, and increased farm pollution.
 
@@ -22,4 +21,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

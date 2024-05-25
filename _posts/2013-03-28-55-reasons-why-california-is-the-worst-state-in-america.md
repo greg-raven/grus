@@ -1,11 +1,10 @@
 ---
 title: '55 Reasons Why California Is The Worst State in America'
-date: '2013-03-28T13:27:26-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - California
+- California
 ---
 
 Why in the world would anyone want to live in the state of California at this point? The entire state is rapidly becoming a bright, shining example of everything that is wrong with America.  

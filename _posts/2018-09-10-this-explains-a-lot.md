@@ -1,9 +1,8 @@
 ---
 title: 'This explains a lot'
-date: '2018-09-10T04:41:03-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 ---
 
 The socialist brain of a liberal Democrat.

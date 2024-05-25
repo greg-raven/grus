@@ -1,15 +1,14 @@
 ---
 title: 'I found the problem'
-date: '2013-10-02T13:35:40-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Senator Harry Reid'
+- Senator Harry Reid
 format: video
 ---
 
-> "We support the Federal government. That’s our job. That’s what we do."
+> "We support the Federal government. That's our job. That's what we do."
 > 
 > <cite>--- Harry Reid</cite>
 

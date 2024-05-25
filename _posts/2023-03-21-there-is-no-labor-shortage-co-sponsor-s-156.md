@@ -1,13 +1,12 @@
 ---
 title: 'There is no labor shortage. Co-sponsor S. 156'
-date: '2023-03-21T15:42:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- jobs
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 I urge you to bring those U.S. workers who are struggling on the sidelines into our workforce.
@@ -26,4 +25,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

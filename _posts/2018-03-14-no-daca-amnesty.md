@@ -1,19 +1,20 @@
 ---
 title: 'No DACA amnesty!'
-date: '2018-03-14T11:30:10-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Ryan'
+- amnesty
+- Representative Paul Ryan
+- visa lottery
+- E-Verify
 ---
 
 I hope you will oppose all efforts to attach a DACA amnesty to the omnibus spending bill.
 
-According to the Washington Post:
+According to the *Washington Post:*
 
-"White House officials have told key Republican leaders on Capitol Hill that President Trump is open to cutting a deal in an upcoming spending bill to protect young immigrants from deportation in exchange for border wall funding, according to four GOP officials briefed on the talks."
+> "White House officials have told key Republican leaders on Capitol Hill that President Trump is open to cutting a deal in an upcoming spending bill to protect young immigrants from deportation in exchange for border wall funding, according to four GOP officials briefed on the talks."
 
 This is a terrible idea! DACA recipients are under no threat of deportation because several U.S. courts have prevented the administration from ending the DACA program. Moreover, a border wall alone will not end illegal immigration --- as long as illegal aliens can find work, people will still come to the U.S. illegally and will still overstay their visas. Any DACA deal must end chain migration and the visa lottery and must mandate the use of the E-Verify system.
 

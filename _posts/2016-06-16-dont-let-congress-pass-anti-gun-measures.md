@@ -1,14 +1,13 @@
 ---
 title: 'Don&#8217;t let Congress pass anti-gun measures'
-date: '2016-06-16T12:16:55-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'gun control'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- gun control
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 As your constituent, I am writing you today to urge you to oppose any and all gun control legislation that may be considered in the wake of the terrorist attack in Orlando.  

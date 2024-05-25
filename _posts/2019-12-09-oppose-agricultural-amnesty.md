@@ -1,12 +1,11 @@
 ---
 title: 'Oppose agricultural amnesty'
-date: '2019-12-09T09:31:45-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'Representative Paul Cook'
+- amnesty
+- Representative Paul Cook
 ---
 
 H.R. 5038 takes U.S. jobs and rewards illegal workers --- please oppose it!

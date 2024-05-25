@@ -1,11 +1,10 @@
 ---
 title: 'Tusayan ruins'
-date: '2008-02-20T03:06:00-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'race relations'
+- race relations
 ---
 
 We visited the Tusayan ruins today. The lie to the east of the main scenic portion of the Grand Canyon, and are said to have been inhabited by a group of Indians for 25-30 years back around 1065. The ruins consist of a couple of layers of the local rock, with some sort of mortar holding them together. It's not clear whether these layers and/or the mortar are original, nor is it clear what happened to the rest of the rock (and mortar) that would have been needed for the walls. However, the visitors' center shows a wonderful artist's rendering of what the place looked like "back then." Seeing as how the buildings are gone and so are the inhabitants, you have to wonder how they can be so certain.  

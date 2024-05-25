@@ -1,11 +1,10 @@
 ---
 title: "Let's hear from all sides"
-date: '2012-02-03T14:50:00-08:00'
 layout: post
 categories:
-    - Cartoon
+- Cartoon
 tags:
-    - 'media bias'
+- media bias
 ---
 
 Welcome to "All Sides Of The Issues." Here's our panel of commentators --- a communist, a socialist, a liberal, and a progressive ...

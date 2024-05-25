@@ -1,14 +1,13 @@
 ---
 title: 'An Op-Ed from The Hill you may have missed'
-date: '2015-08-04T12:50:46-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- illegal aliens
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I hope you will take the time to read the attached op-ed from The Hill. Sanctuary cities need to be eliminated and this article makes that case well.
@@ -17,7 +16,7 @@ Sanctuary cities make our entire country less safe by refusing to hand over ille
 
 Please read the attached op-ed and help to make our country safer by helping to eliminate sanctuary cities.
 
-> It isn’t just cities that release criminal foreign citizens with felony convictions into our local communities, often with tragic results like the ones that recently have caught the public and congressional attention.
+> It isn't just cities that release criminal foreign citizens with felony convictions into our local communities, often with tragic results like the ones that recently have caught the public and congressional attention.
 > 
 > Yes, Congress must act to defund sanctuary cities until they cooperate with federal enforcement agencies. But Congress must also address the largest sanctuary jurisdiction of all: the federal government.
 > 

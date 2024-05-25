@@ -1,12 +1,11 @@
 ---
 title: 'What about spying on U.S. citizens?'
-date: '2013-10-29T06:43:16-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Senator Dianne Feinstein'
-    - spying
+- Senator Dianne Feinstein
+- spying
 ---
 
 According to the LA Times, you said:

@@ -1,12 +1,12 @@
 ---
 title: 'End the visa lottery'
-date: '2012-02-09T21:15:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Jerry Lewis'
+- immigration
+- Representative Jerry Lewis
+- visa lottery
 ---
 
 H.R. 704 would create a much needed reform in U.S. immigration policy by eliminating the visa lottery. The House Judiciary Committee supports this legislation and I believe you should as well. Please add your name to the list of cosponsors.  

@@ -1,13 +1,12 @@
 ---
 title: 'Visualizing Obama&#8217;s budget cuts'
-date: '2009-04-24T21:29:00-08:00'
 layout: post
 categories:
-    - Video
+- Video
 tags:
-    - 'Barack Hussein Obama'
-    - 'Federal government'
-    - 'national debt'
+- Barack Hussein Obama
+- Federal government
+- national debt
 format: video
 ---
 

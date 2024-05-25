@@ -1,15 +1,14 @@
 ---
 title: 'Block passage of SB 54'
-date: '2017-06-10T14:20:43-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Assemblyman Jay Obernolte'
-    - 'illegal aliens'
+- Assemblyman Jay Obernolte
+- illegal aliens
 ---
 
-I am a California voter who wants you to block passage of SB 54. Preventing police from communicating with ICE about criminal aliens is dangerous and violates federal law. Police may not know what convictions or other offenses are on a person’s record, or who that person really is, unless they communicate with ICE. Do not play politics with our safety and well being.
+I am a California voter who wants you to block passage of SB 54. Preventing police from communicating with ICE about criminal aliens is dangerous and violates federal law. Police may not know what convictions or other offenses are on a person's record, or who that person really is, unless they communicate with ICE. Do not play politics with our safety and well being.
 
 It is false to claim that sanctuary policies are needed to protect witnesses or crime victims who are unlawfully present. They are already protected under the federal "U" visa, and there is no research that suggests crime reporting increases in sanctuary jurisdictions.
 
@@ -17,7 +16,7 @@ Like the vast majority of California residents, I support an end to sanctuary ci
 
 Why release criminal aliens to commit more crimes when they can be detained or deported? Releasing a deportable criminal alien led to the shooting death of Kate Steinle. It also endangers police who needlessly risk their lives every time they arrest one.
 
-There’s a hysteria about SB 54 that does not comport with what Trump is trying to do. He’s not making police departments enforce federal immigration law. Police are just being asked not obstruct ICE.
+There's a hysteria about SB 54 that does not comport with what Trump is trying to do. He's not making police departments enforce federal immigration law. Police are just being asked not obstruct ICE.
 
 The Obama Administration warned us about the risks of sanctuary policies. Now the Trump Administration will now cut off millions in federal grants if the state does not back down. This legislation presents a risk to our pocketbooks as well as our lives.
 

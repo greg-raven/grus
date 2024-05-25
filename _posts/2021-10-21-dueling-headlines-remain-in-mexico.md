@@ -1,16 +1,15 @@
 ---
 title: 'Dueling headlines: Remain in Mexico edition'
-date: '2021-10-21T06:06:38-08:00'
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Joe Biden'
+- Joe Biden
 ---
 
 Then:
 
-> Donald Trump’s "Remain in Mexico" policy is dangerous, inhumane, and goes against everything we stand for as a nation of immigrants. My administration will end it.
+> Donald Trump's "Remain in Mexico" policy is dangerous, inhumane, and goes against everything we stand for as a nation of immigrants. My administration will end it.
 >
 > --- Joe Biden (@JoeBiden)
 

@@ -1,20 +1,19 @@
 ---
 title: 'No coddling illegal aliens'
-date: '2014-01-20T06:39:17-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - population
-    - 'Representative Paul Cook'
+- amnesty
+- population
+- Representative Paul Cook
 ---
 
-Why are House Republican leadership aides telling reporters that your party is planning a push to give illegal aliens work permits? I hope this isn’t true.
+Why are House Republican leadership aides telling reporters that your party is planning a push to give illegal aliens work permits? I hope this isn't true.
 
 The Wall Street Journal is reporting:
 
-> "Legislation is being developed by House Republicans that wouldn’t exclude citizenship for those here illegally. But it rejects what many Republicans see as a ‘special path’ not available to would-be immigrants who didn’t break the law."
+> "Legislation is being developed by House Republicans that wouldn't exclude citizenship for those here illegally. But it rejects what many Republicans see as a 'special path' not available to would-be immigrants who didn't break the law."
 
 According to the New York Times:
 
@@ -24,7 +23,7 @@ Illegal aliens should not be rewarded. Period. They should not be allowed to sta
 
 In 2010, CBS Evening News reported what everyone knows to be the case:
 
-> "Officers say thousands of immigrants and smugglers still cross the border illegally into Arizona every day. They commit a disproportionate amount of crime. Illegal immigrants are just seven percent of Arizona’s population,but make up nearly 15 percent of the state’s prison population. They represent 14 percent of all inmates jailed for manslaughter and murder, and 24 percent of inmates on drug charges ..."
+> "Officers say thousands of immigrants and smugglers still cross the border illegally into Arizona every day. They commit a disproportionate amount of crime. Illegal immigrants are just seven percent of Arizona's population,but make up nearly 15 percent of the state's prison population. They represent 14 percent of all inmates jailed for manslaughter and murder, and 24 percent of inmates on drug charges ..."
 
 Legalizing criminals does NOT make our country more safe, and in fact does not benefit us in any way.
 

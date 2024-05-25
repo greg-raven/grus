@@ -1,13 +1,12 @@
 ---
 title: 'Cosponsor the Accountability Through Electronic Verification Act'
-date: '2022-03-23T06:06:18-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- E-Verify
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Stand up for workers and cosponsor E-Verify legislation.

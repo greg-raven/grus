@@ -1,14 +1,13 @@
 ---
 title: 'Stop filling our jobs with foreign workers'
-date: '2009-10-01T15:42:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Federal government'
-    - population
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Federal government
+- population
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 We are glad Resident Obama pointed out that America needs to create 150,000 new jobs each month simply to employ those Americans entering the workforce. With this in mind, why is the Congress allowing businesses to import 125,000 new foreign workers each month?

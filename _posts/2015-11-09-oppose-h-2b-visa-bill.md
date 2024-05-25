@@ -1,14 +1,13 @@
 ---
 title: 'Oppose H-2B visa bill'
-date: '2015-11-09T15:36:37-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - jobs
-    - 'Representative Paul Cook'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- jobs
+- Representative Paul Cook
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I hope you will oppose H.R. 3918, legislation to increase H-2B worker numbers. This legislation excludes returning H-2B workers from the annual cap and needs to be opposed.

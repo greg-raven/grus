@@ -1,15 +1,14 @@
 ---
 title: 'Oppose H.R. 167 &#8212; FFL requirements for gun show transfers'
-date: '2021-06-04T05:54:31-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'Representative Jay Obernolte'
+- 2nd Amendment
+- Representative Jay Obernolte
 ---
 
-I am writing to you today to express my opposition to H.R. 167, a bill proposed by Representative Al Green of Texas which would stretch beyond the Legislature’s constitutional authority by attempting to regulate intrastate commerce, violating both state sovereignty and the right of individuals to lawfully acquire and dispose of firearms.
+I am writing to you today to express my opposition to H.R. 167, a bill proposed by Representative Al Green of Texas which would stretch beyond the Legislature's constitutional authority by attempting to regulate intrastate commerce, violating both state sovereignty and the right of individuals to lawfully acquire and dispose of firearms.
 
 H.R. 167 modifies 18 U.S.C. § 922 by making it illegal for individuals to transfer a firearm at a gun show unless they possess a federal firearms license. Prosecution and conviction under the revised statute would subject individuals to a $10,000 fine per firearm, one to two years in prison, or both.
 

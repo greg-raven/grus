@@ -1,12 +1,11 @@
 ---
 title: 'Please consider these amendments to the H.R. 3354 spending bill'
-date: '2017-09-06T12:37:37-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'national security'
-    - 'Representative Paul Cook'
+- national security
+- Representative Paul Cook
 ---
 
 The H.R. 3354 minibus spending bill would provide funding for the Departments of Homeland Security, State, Agriculture, Transportation, and Housing and Urban Development, among others. Several Members of Congress have offered immigration amendments that impact issues ranging from E-Verify to immigration enforcement.

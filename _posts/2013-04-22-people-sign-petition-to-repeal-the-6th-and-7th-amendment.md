@@ -1,9 +1,8 @@
 ---
 title: 'People sign petition to repeal the 6th and 7th Amendment'
-date: '2013-04-22T16:10:07-08:00'
 layout: post
 categories:
-    - Video
+- Video
 format: video
 ---
 

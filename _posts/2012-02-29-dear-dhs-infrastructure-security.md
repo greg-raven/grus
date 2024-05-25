@@ -1,12 +1,11 @@
 ---
 title: 'Infrastructure Security'
-date: '2012-02-29T13:54:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - DHS
-    - 'national security'
+- DHS
+- national security
 ---
 
 Infrastructure security  

@@ -1,12 +1,11 @@
 ---
 title: 'I support the use of firearms on public lands'
-date: '2020-04-23T13:38:14-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - '2nd Amendment'
-    - 'U.S. Army Corps of Engineers'
+- 2nd Amendment
+- U.S. Army Corps of Engineers
 ---
 
 Re: Docket COE- 2018-0008

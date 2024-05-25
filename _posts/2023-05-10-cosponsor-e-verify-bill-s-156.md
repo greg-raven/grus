@@ -1,14 +1,13 @@
 ---
 title: 'Cosponsor E-Verify bill S. 156'
-date: '2023-05-10T06:27:41-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - E-Verify
-    - 'illegal immigration'
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- E-Verify
+- illegal immigration
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 Please cosponsor S. 156, the Accountability Through Electronic Verification Act, as Title 42 ends and our border crisis worsens.
@@ -25,4 +24,4 @@ Sincerely,
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
+PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. End the visa lottery. End amnesty. Make E-Verify mandatory.

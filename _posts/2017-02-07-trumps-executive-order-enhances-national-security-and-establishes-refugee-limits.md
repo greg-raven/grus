@@ -1,17 +1,16 @@
 ---
 title: 'Trump&#8217;s Executive Order enhances national security and establishes refugee limits'
-date: '2017-02-07T14:01:18-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - refugees
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- refugees
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
-President Trump’s Jan. 27 executive order strengthens national security and establishes limits for the refugee resettlement program. Both actions were highlighted during Donald Trump’s August campaign speech on immigration, and the American people responded by electing him president. I ask that you set aside the misinformation that’s been reported since the order was signed and support these sensible actions.
+President Trump's Jan. 27 executive order strengthens national security and establishes limits for the refugee resettlement program. Both actions were highlighted during Donald Trump's August campaign speech on immigration, and the American people responded by electing him president. I ask that you set aside the misinformation that's been reported since the order was signed and support these sensible actions.
 
 The Trump order returns refugee levels to their more traditional level of 50,000. And in 2011-12, before President Obama ramped up refugee resettlement, admissions were below 60,000.
 

@@ -1,11 +1,10 @@
 ---
 title: 'Gun control works great ...'
-date: '2013-01-16T13:29:42-08:00'
 layout: post
 categories:
-    - Opinion
+- Opinion
 tags:
-    - 'gun control'
+- gun control
 ---
 
 Gun control works great if you're the one controlling the guns.

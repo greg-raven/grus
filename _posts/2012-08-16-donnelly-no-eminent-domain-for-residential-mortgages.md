@@ -1,13 +1,12 @@
 ---
 title: 'No eminent domain for residential mortgages'
-date: '2012-08-16T11:08:20-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Assemblyman Tim Donnelly'
-    - California
-    - 'San Bernardino'
+- Assemblyman Tim Donnelly
+- California
+- San Bernardino
 ---
 
 I am writing to express concern about the "Homeowner Protection Program" Joint Powers Authority (JPA), which was created by the County of San Bernardino on April 10, 2012.  

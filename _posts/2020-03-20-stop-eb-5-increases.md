@@ -1,14 +1,13 @@
 ---
 title: 'Stop EB-5 increases'
-date: '2020-03-20T08:44:21-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- immigration
+- jobs
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 Please oppose outrageous increases to the corrupt EB-5 program.

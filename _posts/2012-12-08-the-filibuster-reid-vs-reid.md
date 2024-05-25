@@ -1,9 +1,8 @@
 ---
 title: 'The Filibuster: Reid vs. Reid'
-date: '2012-12-08T22:12:15-08:00'
 layout: post
 categories:
-    - Video
+- Video
 format: video
 ---
 

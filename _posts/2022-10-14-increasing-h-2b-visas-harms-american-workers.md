@@ -1,14 +1,13 @@
 ---
 title: 'Increasing H-2B visas harms American workers'
-date: '2022-10-14T12:44:29-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - jobs
-    - 'Senator Alex Padilla'
-    - 'Senator Dianne Feinstein'
+- immigration
+- jobs
+- Senator Alex Padilla
+- Senator Dianne Feinstein
 ---
 
 On October 12, the Department of Homeland Security, in conjunction with the Department of Labor, announced that it would increase by 65,000 H-2B visas for fiscal year 2023. This nearly doubles the existing 66,000 cap. There are roughly 50 million working-age Americans without jobs. Americans are available to do the jobs that DHS wants to give away to foreign-born workers, IF they are offered fair wages and working conditions.

@@ -1,11 +1,10 @@
 ---
 title: 'The Constitution for the United States of America'
-date: '2022-07-18T08:22:48-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - Constitution
+- Constitution
 ---
 
 I just received unsolicited in the mail a booklet with the title "The Constitution of the United States &amp; The Bill of Rights and all Amendments."

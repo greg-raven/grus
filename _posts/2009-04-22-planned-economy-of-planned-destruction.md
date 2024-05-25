@@ -1,15 +1,14 @@
 ---
 title: 'Planned economy or planned destruction?'
-date: '2009-04-22T20:59:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'Barack Hussein Obama'
-    - economy
-    - 'Representative Jerry Lewis'
-    - 'Senator Barbara Boxer'
-    - 'Senator Dianne Feinstein'
+- Barack Hussein Obama
+- economy
+- Representative Jerry Lewis
+- Senator Barbara Boxer
+- Senator Dianne Feinstein
 ---
 
 I'm sending you a copy of this from the *Chicago Tribune,* April 21, 1934:

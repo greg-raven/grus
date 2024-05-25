@@ -1,17 +1,17 @@
 ---
 title: 'Reduce green card numbers'
-date: '2019-05-10T12:55:14-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'President Donald Trump'
+- immigration
+- President Donald Trump
+- visa lottery
 ---
 
 We do need more enforcement, but we also need to reduce green card numbers!
 
-I was concerned by reports that your immigration plan won’t reduce immigration numbers, especially considering a recent Harvard-Harris poll shows that American voters want immigration numbers reduced. The poll found that:
+I was concerned by reports that your immigration plan won't reduce immigration numbers, especially considering a recent Harvard-Harris poll shows that American voters want immigration numbers reduced. The poll found that:
 
 - 81% want immigration reduced from its current level of 1 million;
 - 68% support ending the visa lottery; and

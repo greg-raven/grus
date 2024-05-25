@@ -1,12 +1,11 @@
 ---
 title: 'Restrict chain migration'
-date: '2012-02-09T21:14:00-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - immigration
-    - 'Representative Jerry Lewis'
+- immigration
+- Representative Jerry Lewis
 ---
 
 I would be grateful if you were to consider cosponsoring H.R. 692, the Nuclear Family Priority Act.  

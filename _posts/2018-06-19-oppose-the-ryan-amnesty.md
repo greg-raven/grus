@@ -1,13 +1,12 @@
 ---
 title: 'Oppose the Ryan amnesty!'
-date: '2018-06-19T06:42:29-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - amnesty
-    - 'illegal aliens'
-    - 'Representative Paul Cook'
+- amnesty
+- illegal aliens
+- Representative Paul Cook
 ---
 
 Please oppose the Ryan Amnesty plan.

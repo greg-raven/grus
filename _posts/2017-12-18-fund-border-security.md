@@ -1,15 +1,14 @@
 ---
 title: 'Fund border security'
-date: '2017-12-18T09:27:44-08:00'
 layout: post
 categories:
-    - Letters
+- Letters
 tags:
-    - 'border control'
-    - 'national security'
-    - 'Representative Paul Cook'
-    - 'Senator Dianne Feinstein'
-    - 'Senator Kamala Harris'
+- border control
+- national security
+- Representative Paul Cook
+- Senator Dianne Feinstein
+- Senator Kamala Harris
 ---
 
 I urge you to support spending legislation for FY18 that will fund border improvements along the southern border.
@@ -18,7 +17,7 @@ In 2006, Congress passed, and Pres. Bush signed into law, the Secure Fence Act t
 
 Pres. Trump was elected, in part, because of his promise to finally secure the U.S.-Mexico border. His request for funding for FY18 would not pay for a full wall. Instead, it would simply fund fencing in areas deemed as critical by Border Patrol.
 
-I urge you not to jeopardize national security over petty politics. Republicans and Democrats alike overwhelmingly voted for fencing along the border, and it’s time to make good on that promise by providing the necessary funding.
+I urge you not to jeopardize national security over petty politics. Republicans and Democrats alike overwhelmingly voted for fencing along the border, and it's time to make good on that promise by providing the necessary funding.
 
 Phone me if you would like to talk about this,
 
