@@ -1,21 +1,14 @@
 ---
-title: 'Pass H.R. 2 and Secure our borders'
-date: '2024-04-23T11:27:44-08:00'
+title: "<#title#>"
 layout: post
 categories:
-    - Letters
-tags:
-    - 'Senator Alex Padilla, Senator Laphonza Butler, Representative Jay Obernolte'
+- <#category#>
+tags: 
+- <#tag#>
 ---
 
-The results of a recent Freedom of Information Act request show that the crisis at the U.S. --- Mexico border is out of control! Statistics from CBP show that between FY 2010 and FY 2020 inclusive, there were over 1.4 million gotaways (illegal aliens who avoided agents but were detected by other forms of surveillance such as cameras and sensors), ranging from a low of 86,226 in FY 2011 to a high of 171,663 in FY 2013. In FY 2020, there were 136,808 gotaways at the border. That number then rose to 387,398 in FY 2021, which coincided with the last months of the Trump administration and the first months of the Biden administration. As the migrant numbers at the southern border rose to crisis levels, so did the number of gotaways --- with numbers then skyrocketing to 606,131 in FY 2022 and 670,674 in FY 23. This means that there were more gotaways in FY21-23 (1.6 million) than the decade of FY 2010 and FY 2020 (1.4 million).
-
-These statistics are disturbing and only reinforce the need for Congressional action to end the border crisis! Please do all you can to get H.R. 2, the Secure the Border Act, passed into Congress and signed into law.
-
-Sincerely,
+<# message #>
 
 [Greg Raven](https://www.gregraven.org/), Apple Valley, CA
 
 PS: Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. End birthright citizenship. Make E-Verify mandatory.
-
-
