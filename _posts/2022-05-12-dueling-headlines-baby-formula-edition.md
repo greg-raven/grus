@@ -7,8 +7,13 @@ categories:
 
 First:
 
-<figure class="wp-block-image size-large">[![](/assets/img/2022/05/20220307-formula-1024x458.png)](/assets/img/2022/05/20220307-formula.png)</figure>Then:
+![Operation Ukraine boxes baby formula to send overseas](/assets/img/2022/05/20220307-formula.png "Operation Ukraine boxes baby formula to send overseas")
 
-<figure class="wp-block-image size-large">[![](/assets/img/2022/05/20220512-formula-1024x468.jpg)](/assets/img/2022/05/20220512-formula.jpg)</figure>America last:
+Then:
 
-<figure class="wp-block-image size-large">[![](/assets/img/2022/05/20220512-formula-1024x429.png)](/assets/img/2022/05/20220512-formula.png)</figure>
+![The Biden Administration Is Shipping Pallets of Baby
+Formula to the Border](/assets/img/2022/05/20220512-formula.jpg "The Biden Administration Is Shipping Pallets of Baby Formula to the Border")
+
+America last:
+
+![Baby formula shortage hits parts of U.S.](/assets/img/2022/05/20220512-formula.png "Baby formula shortage hits parts of U.S.")</figure>
