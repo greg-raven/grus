@@ -16,4 +16,4 @@ Formula to the Border](/assets/img/2022/05/20220512-formula.jpg "The Biden Admin
 
 America last:
 
-![Baby formula shortage hits parts of U.S.](/assets/img/2022/05/20220512-formula.png "Baby formula shortage hits parts of U.S.")</figure>
+![Baby formula shortage hits parts of U.S.](/assets/img/2022/05/20220512-formula.png "Baby formula shortage hits parts of U.S.")
