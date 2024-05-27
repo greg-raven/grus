@@ -16,7 +16,7 @@ Today's paper reports that Barack Obama "announced his bid for president Saturda
 
 Obama would be like Lincoln (and, to be fair, just about every other politician) in saying one thing and meaning or doing another. Just as one example, there's his statement that he would not run for president in 2008.
 
-<iframe allowfullscreen="" frameborder="0" height="630" loading="lazy" src="https://www.youtube.com/embed/XNq-dpGqszQ?feature=oembed" width="840"></iframe>
+<iframe allowfullscreen="" height="630" loading="lazy" src="https://www.youtube.com/embed/XNq-dpGqszQ?feature=oembed" width="840"></iframe>
 
 At that time, it was "silly" to speak of such matters, and he thought he had made himself perfectly clear. Keep that in mind as you listen to him in the future.
 
