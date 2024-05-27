@@ -257,7 +257,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Study finds genetic code in Covid's spike protein linked to Moderna patent --- Daily Mail Online](https://www.dailymail.co.uk/news/article-10542309/Fresh-lab-leak-fears-study-finds-genetic-code-Covids-spike-protein-linked-Moderna-patent.html)
 
-- [Intelligence on Sick Staff at Wuhan Lab Fuels Debate on Covid-19 Origin --- WSJ](https://archive.ph/20JW4)
+- Intelligence on Sick Staff at Wuhan Lab Fuels Debate on Covid-19 Origin --- WSJ( formerly at https://archive.ph/20JW4)
 
 - [Researchers find coronavirus was circulating in Italy earlier than thought --- Reuters](https://www.reuters.com/article/health-coronavirus-italy-timing/researchers-find-coronavirus-was-circulating-in-italy-earlier-than-thought-idUSKBN27W1J2)
 

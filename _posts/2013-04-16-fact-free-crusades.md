@@ -19,4 +19,4 @@ Have the media outlets that you follow ever even mentioned that some studies hav
 
 The dirty little secret is that gun control laws do not actually control guns. They disarm law-abiding citizens, making them more vulnerable to criminals, who remain armed in disregard of such laws.
 
-[Read the full article here](https://www.creators.com/conservative/thomas-sowell/fact-free-crusades.html).
+[Read the full article here](https://www.creators.com/read/thomas-sowell/04/13/fact-free-crusades).

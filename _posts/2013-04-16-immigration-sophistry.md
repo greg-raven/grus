@@ -19,4 +19,4 @@ On the other hand, if an ordinary American citizen breaks a law, no one cares if
 
 No cities announce that they will provide "sanctuary," so that American shoplifters, or even jay-walkers, will be protected from the law. But, in some places, illegal immigrants are treated almost as if they were in a witness protection program.
 
-[Read the full article here](https://www.creators.com/conservative/thomas-sowell/immigration-sophistry.html).
+[Read the full article here](https://www.creators.com/read/thomas-sowell/04/13/immigration-sophistry).
