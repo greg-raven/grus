@@ -8,7 +8,7 @@ categories:
 
 The only thing they can't take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/hiIGUFhPfO8?feature=oembed" width="840"></iframe></div></figure>Go here <https://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hiIGUFhPfO8?si=Lt6c0MzZLWbsvLhq" title="What 'gun show loophole'" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Did you see Obama claim in his speech last week that 40% of all gun sales occur at gun shows, so we need universal background checks and need to close the gun show loophole?
 

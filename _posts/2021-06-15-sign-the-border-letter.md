@@ -8,7 +8,7 @@ tags:
 - Representative Jay Obernolte
 ---
 
-Rep. Glenn Grothman (R-Wisc.) has authored a letter to President Joe Biden urging him to relieve Vice President Harris of her duties as border czar and replace her with someone more up to the task. The letter states:
+Rep. Glenn Grothman (R-Wisc.) has authored a letter to Resident Joe Biden urging him to relieve Vice Resident Harris of her duties as border czar and replace her with someone more up to the task. The letter states:
 
 > In May 2021, Customs and Border Protection (CBP) encountered 180,034 individuals at the southern border, compared to just 23,237 during the same month last year --- a 675 percent increase. This figure does not even include "got aways," or those who sneak in without detection, which CBP officials estimate to be around 1,000 per day, compared to an average of just under 200 "got aways" per day in the fiscal year 2020.
 >

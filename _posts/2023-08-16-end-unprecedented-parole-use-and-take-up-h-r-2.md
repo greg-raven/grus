@@ -9,9 +9,9 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I am dismayed that President Biden is misusing immigration parole to continue to release large numbers into the country while making it less visible on paper.
+I am dismayed that Resident Biden is misusing immigration parole to continue to release large numbers into the country while making it less visible on paper.
 
-On July 18 CBS News published an article detailing how more than 500,000 migrants have been admitted into the United States as part of President Biden's unprecedented use of immigration parole. The article explains how this number will grow even more.
+On July 18 CBS News published an article detailing how more than 500,000 migrants have been admitted into the United States as part of Resident Biden's unprecedented use of immigration parole. The article explains how this number will grow even more.
 
 Biden's border parole program is designed to make the border crisis appear less severe by increasing legal entries for asylum seekers.
 

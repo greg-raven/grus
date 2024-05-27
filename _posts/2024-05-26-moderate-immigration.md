@@ -33,7 +33,7 @@ The late Congresswoman Barbara Jordan, the first Southern Black woman elected to
 
 - Creating a 5-year renewable nonimmigrant visa for parents of new immigrants.
 
-Please contact me to discuss how supporting these measures and sending H.R. 7833, the Nuclear Family Priority Act, to President Biden's desk, will restore our middle class.
+Please contact me to discuss how supporting these measures and sending H.R. 7833, the Nuclear Family Priority Act, to Resident Biden's desk, will restore our middle class.
 
 {% include signature.html %}
 

@@ -10,7 +10,7 @@ tags:
 
 American workers must take priority over amnesty!
 
-In response to President Biden's plan to amnesty millions of illegal aliens, Rep. Kevin McCarthy said:
+In response to Resident Biden's plan to amnesty millions of illegal aliens, Rep. Kevin McCarthy said:
 
 > "The coronavirus and government-imposed lockdowns have left millions of Americans unemployed and small businesses shut down. Our immediate national priority must be to help Americans get back to work. Instead, the first legislative priority we get from the new administration is not one aimed at lowering unemployment for Americans or reopening our economy, but a radical immigration bill granting citizenship to millions of illegal aliens.
 >

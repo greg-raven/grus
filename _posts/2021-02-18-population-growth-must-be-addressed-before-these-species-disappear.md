@@ -10,7 +10,7 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Why is President Biden failing to help the Pacific salmon?
+Why is Resident Biden failing to help the Pacific salmon?
 
 I am writing to you because I am concerned about proposals from the White House and Democrats in Congress to increase annual immigration. These misguided policies would further accelerate our nation's population growth. This is a critically important fact considering America is inexorably losing its natural areas for supporting a wide array of wildlife.
 
