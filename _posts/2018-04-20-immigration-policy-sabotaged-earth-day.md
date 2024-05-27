@@ -27,7 +27,9 @@ Instead, the country is struggling to slow the environmental degradation that co
 
 A nationwide ad campaign portrays the numbers behind this environmental tragedy in 30 seconds. It notes that annual immigration in the 1950s was around 250,000 but was double that in the 1980s and now is more than one million a year.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/APizyxBQC4s?feature=oembed" width="840"></iframe></div></figure>The ad ends by pointing out that polls find most Americans wanting immigration cut by a lot but that Congress shows no sign of listening, content in its apparent ignorance or indifference to the environmental consequences.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APizyxBQC4s?si=TopO2_luQzmOO2uz" title="How much immigration do the American people want?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The ad ends by pointing out that polls find most Americans wanting immigration cut by a lot but that Congress shows no sign of listening, content in its apparent ignorance or indifference to the environmental consequences.
 
 **1994 BOOK SADLY STILL ACCURATE**
 

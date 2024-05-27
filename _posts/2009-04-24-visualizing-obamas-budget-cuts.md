@@ -10,7 +10,7 @@ tags:
 format: video
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="630" loading="lazy" src="https://www.youtube.com/embed/cWt8hTayupE?feature=oembed" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cWt8hTayupE?si=J8CXDALYpovxl3xg" title="Visualizing Obama's budget cuts" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Be certain to view other videos in this same vein, which can be found at:
 
