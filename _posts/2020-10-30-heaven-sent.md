@@ -5,4 +5,8 @@ categories:
 - Cartoon
 ---
 
-<figure class="wp-block-image size-large">![](/assets/img/2020/10/locusts.jpg)</figure>
+"Biden and Harris were sent by God."
+
+"Why? Did he run out of locusts?"
+
+![Heaven-sent](/assets/img/2020/10/locusts.jpg "Heaven-sent")

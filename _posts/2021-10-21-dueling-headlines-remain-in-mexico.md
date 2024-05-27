@@ -17,4 +17,4 @@ Then:
 
 Now:
 
-![](/assets/img/2021/10/20211015-remain-in-mexico.png)
+![Biden administration to reinstate Trump-era 'Remain-in-Mexico' asylum policy to comply with court order](/assets/img/2021/10/20211015-remain-in-mexico.png "Biden administration to reinstate Trump-era 'Remain-in-Mexico' asylum policy to comply with court order")

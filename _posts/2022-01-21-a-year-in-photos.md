@@ -5,4 +5,22 @@ categories:
 - Memes
 ---
 
-<figure class="wp-block-image size-full">[![](/assets/img/2022/02/Bare_Shelves.png)](/assets/img/2022/02/Bare_Shelves.png)<figcaption>Bare shelves</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/Border_-_Del_Rio_Bridge.png)](/assets/img/2022/02/Border_-_Del_Rio_Bridge.png)<figcaption>The U.S. border at Del Rio, Texas</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/Closed_due_to_Staffing.jpg)](/assets/img/2022/02/Closed_due_to_Staffing.jpg)<figcaption>Staffing issues</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/COVID_Testing_Line.jpg)](/assets/img/2022/02/COVID_Testing_Line.jpg)<figcaption>Long lines for COVID-19 testing</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/Flash_Mob_Robbery.jpg)](/assets/img/2022/02/Flash_Mob_Robbery.jpg)<figcaption>Flash-mob robberies across the land</figcaption></figure><figure class="wp-block-image size-large is-resized">[![](/assets/img/2022/02/gas_prices-1024x764.jpg)](/assets/img/2022/02/gas_prices.jpg)<figcaption>Skyrocketing gas prices</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/Kabul_Airport.png)](/assets/img/2022/02/Kabul_Airport.png)<figcaption>Chaos at the Kabul Airport</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/Port_Congestion.jpg)](/assets/img/2022/02/Port_Congestion.jpg)<figcaption>Congested ports and transportation issues</figcaption></figure><figure class="wp-block-image size-full">[![](/assets/img/2022/02/Train_Robberies.jpg)](/assets/img/2022/02/Train_Robberies.jpg)<figcaption>Train robberies in Los Angeles, California</figcaption></figure><figure class="wp-block-image size-large is-resized">[![](/assets/img/2022/02/dozin-joe-1024x638.jpg)](/assets/img/2022/02/dozin-joe.jpg)<figcaption>Dozin' Joe</figcaption></figure>
+![Bare shelves](/assets/img/2022/02/Bare_Shelves.png "Bare shelves")
+
+![The U.S. border at Del Rio, Texas](/assets/img/2022/02/Border_-_Del_Rio_Bridge.png "The U.S. border at Del Rio, Texas") 
+
+![Staffing issues](/assets/img/2022/02/Closed_due_to_Staffing.jpg "Staffing issues") 
+
+![Long lines for COVID-19 testing](/assets/img/2022/02/COVID_Testing_Line.jpg "Long lines for COVID-19 testing") 
+
+![Flash-mob robberies across the land](/assets/img/2022/02/Flash_Mob_Robbery.jpg "Flash-mob robberies across the land") 
+
+![Skyrocketing gas prices](/assets/img/2022/02/gas_prices.jpg "Skyrocketing gas prices") 
+
+![Chaos at the Kabul Airport](/assets/img/2022/02/Kabul_Airport.png "Chaos at the Kabul Airport") 
+
+![Congested ports and transportation issues](/assets/img/2022/02/Port_Congestion.jpg "Congested ports and transportation issues")
+
+![Train robberies in Los Angeles, California](/assets/img/2022/02/Train_Robberies.jpg "Train robberies in Los Angeles, California")
+
+![Dozin' Joe](/assets/img/2022/02/dozin-joe.jpg "Dozin' Joe")

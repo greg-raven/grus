@@ -17,7 +17,9 @@ Perhaps Stanton is unaware that [92 percent of mass shootings since 2009 occurre
 
 However, Stanton cannot be unaware that the Town has erected signs inviting riff-raff to settle here. Nor can she be unaware of the fact that between [1988 and 2013 while the population increased 67 percent, the size of the police force increased 750 percent](https://waterwedoing.website/blog/2015/06/20150625-apple-valley-were-business-friendly.php).
 
-<figure class="wp-block-image">![inclusive-community.jpg](/assets/img/2015/12/inclusive-community.jpg)</figure>To top it off, as a public official who has sworn an oath to uphold the U.S. Constitution, Stanton should be aware of the Second Amendment, which as a reminder states in part, "the right of the people to keep and bear Arms, shall not be infringed."
+![Inclusive community](/assets/img/2015/12/inclusive-community.jpg "Inclusive community")
+
+To top it off, as a public official who has sworn an oath to uphold the U.S. Constitution, Stanton should be aware of the Second Amendment, which as a reminder states in part, "the right of the people to keep and bear Arms, shall not be infringed."
 
 Thomas Jefferson is quoted as having said, "[When the people fear their government there is tyranny; when the government fears the people, there is liberty](https://www.gregraven.website/tyranny-or-liberty/)." Echoing that, Jeffrey R. Snyder once said, "[Laws disarming honest citizens proclaim that the government is the master, not the servant, of the people](https://www.gregraven.website/master-and-servant/)."
 
