@@ -20,4 +20,4 @@ Below is a list of 10 of Obamacare's most costly taxes and fees, drawn from rese
 9. Reducing Medical Deductions. In 2013, Obamacare raises the floor on itemized medical deductions from 7.5 percent of adjusted gross income to 10 percent, meaning Americans must spend 2.5 percent more of their income before they get a medical deduction, costing $15 billion from 2013 to 2019.
 10. FSA Limits. Starting in 2014, Obamacare limits the amount of pre-tax dollars that taxpayers can deposit in flexible savings accounts (FSAs) to $2,500 a year. This results in an extra $13 billion in taxes from 2014 to 2019.
 
-END OBAMACARE – DEMAND FULL REPEAL – FAX CONGRESS NOW
+END OBAMACARE --- DEMAND FULL REPEAL --- FAX CONGRESS NOW

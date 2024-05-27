@@ -9,7 +9,7 @@ tags:
 - Senator Kamala Harris
 ---
 
-In a [national poll of our nation's police officers](https://tinyurl.com/ycjpuf5d), 81 percent say that teachers and school administrators need to be armed to stop tragedies such as the one happened in Florida recently.
+In a [national poll of our nation's police officers](https://www.police1.com), 81 percent say that teachers and school administrators need to be armed to stop tragedies such as the one happened in Florida recently.
 
 Our nation's responders have a point --- because the alternative is not working.
 

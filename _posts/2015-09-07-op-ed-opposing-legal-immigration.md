@@ -8,7 +8,7 @@ tags:
 - Representative Paul Cook
 ---
 
-Mark Krikorian has written an op-ed for the National Review detailing the dangers mass legal immigration is causing for American conservatism. I have attached the article and I hope you will find time to read it.
+Mark Krikorian has written an op-ed for the *National Review* detailing the dangers mass *legal* immigration is causing for American conservatism. I have attached the article and I hope you will find time to read it.
 
 > **Mass Legal Immigration Will Finish Conservatism**
 >
@@ -52,7 +52,7 @@ Mark Krikorian has written an op-ed for the National Review detailing the danger
 >
 > Trump's antics may well be a short-term problem for Republicans and conservatism. But mass immigration is a systemic threat to their viability. And if it continues, it won't matter a whit if every Republican candidate speaks non-stop Spanish and takes his immigration-policy cues from Chuck Schumer --- conservatism will be toast.
 >
-> --- Mark Krikorian is executive director of the Center for Immigration Studies. Published in [National Review](https://www.nationalreview.com/article/423288/real-threat-conservatism-isnt-trump-mark-krikorian)
+> --- Mark Krikorian is executive director of the Center for Immigration Studies. Published in [National Review](https://www.nationalreview.com/2015/08/real-threat-conservatism-isnt-trump-mark-krikorian/)
 
 Phone me if you would like to talk about this,
 

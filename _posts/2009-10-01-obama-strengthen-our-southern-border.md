@@ -8,7 +8,7 @@ tags:
 - Federal government
 ---
 
-It is deeply concerning that the Department of Homeland Security is considering reducing the number of Border Patrol agents on the U.S. – Mexico border. We are sure this cannot be true as nobody could be this foolish, but please check with DHS to ensure that this is not occurring.
+It is deeply concerning that the Department of Homeland Security is considering reducing the number of Border Patrol agents on the U.S. --- Mexico border. We are sure this cannot be true as nobody could be this foolish, but please check with DHS to ensure that this is not occurring.
 
 News outlets are reporting that DHS will relocate 384 Border Patrol agents from the U.S. --- Mexico border to the U.S. --- Canada border. I hope these reports are untrue as our southern border is far from secure.
 

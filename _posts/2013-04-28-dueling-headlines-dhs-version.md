@@ -13,6 +13,4 @@ Just so we're clear, "DHS" stands for Department of Homeland Security. It's a bi
 
 And whom does DHS view as threats? Military veterans, people who support the Constitution, people who want a return to the rule of law, Christians, home schoolers, etc.
 
-[DHS Training Video Depicts Gun Owners As "Militia Members" Planning Terror Attacks ...](https://weaselzippers.us/2013/04/27/dhs-training-video-depicts-gun-owners-as-militia-members-planning-terror-attacks/)
-
 Oddly, DHS is worried about people who own guns and stockpile ammunition, but it isn't worried about itself.

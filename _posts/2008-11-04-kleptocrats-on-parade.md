@@ -8,7 +8,7 @@ tags:
 - government power
 ---
 
-According to [this article](https://www.carolinajournal.com/articles/display_story.html?id=5081), "Democrats in the U.S. House have been conducting hearings on proposals to confiscate workers' personal retirement accounts --- including 401(k)s and IRAs --- and convert them to accounts managed by the Social Security Administration."
+According to an [article in the *Carolina Journal*](https://www.carolinajournal.com/dems-target-private-retirement-accounts/), "Democrats in the U.S. House have been conducting hearings on proposals to confiscate workers' personal retirement accounts --- including 401(k)s and IRAs --- and convert them to accounts managed by the Social Security Administration."
 
 Let me see if I've got this right:
 
@@ -22,6 +22,6 @@ Let me see if I've got this right:
 
 Aside from the fact that our elected officials have set aside for themselves a separate retirement plan (with lower requirements to qualify, and *much* better payouts), so that they needed suffer any impact from the retirement plan they force upon the rest of us, it's striking that time and again the answer to problems caused by government and the centralization of power is more centralization of power in the hands of those who caused the problem in the first place.
 
-It's difficult for me to approach this level of high-handedness, corruption, and lack of accountability dispassionately. Fortunately, [Nicki Fellenzer has done an excellent job on her blog](https://thelibertyzone.com/2008/11/08/arent-you-glad-you-gave-the-democrats-all-that-power.aspx).
+It's difficult for me to approach this level of high-handedness, corruption, and lack of accountability dispassionately. Fortunately, [Nicki Fellenzer has done an excellent job on her blog](https://web.archive.org/web/20081112053725/https://thelibertyzone.com/2008/11/08/arent-you-glad-you-gave-the-democrats-all-that-power.aspx).
 
 {% include signature.html %}

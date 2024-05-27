@@ -85,7 +85,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Fauci's criminal disregard of lifesaving treatment to keep people out of hospitals](https://www.theblaze.com/op-ed/horowitz-faucis-criminal-disregard-of-lifesaving-treatment-to-keep-people-out-of-hospitals)
 
-- [Vaccines: What if all the silenced scientists warning against them are right? – American Thinker](https://www.americanthinker.com/blog/2021/08/vaccines_what_if_all_the_silenced_scientists_warning_against_them_are_right.html)
+- [Vaccines: What if all the silenced scientists warning against them are right? --- American Thinker](https://www.americanthinker.com/blog/2021/08/vaccines_what_if_all_the_silenced_scientists_warning_against_them_are_right.html)
 
 - [Neurologist explains why unvaccinated previously infected people are less likely to spread COVID than never-infected vaccinated people](https://www.theblaze.com/news/neurologist-unvaccinated-previously-infected-less-likely-to-spread-covid)
 
@@ -151,23 +151,23 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - ['To avoid misinterpretation,' CDC says it withheld much of its critical COVID data, questions swirl · American Wire News](https://americanwirenews.com/to-avoid-misinterpretation-cdc-says-it-withheld-much-of-its-critical-covid-data-questions-swirl/)
 
-- [Official data: Fully vaccinated people account for 9 of 10 COVID deaths – WND News Center](https://www.wndnewscenter.org/official-data-fully-vaccinated-people-account-for-9-of-10-covid-deaths/)
+- [Official data: Fully vaccinated people account for 9 of 10 COVID deaths --- WND News Center](https://www.wndnewscenter.org/official-data-fully-vaccinated-people-account-for-9-of-10-covid-deaths/)
 
 - [More Harm Than Good | Steve Deace Show](https://rumble.com/v10u3d2-more-harm-than-good-steve-deace-show.html)
 
 - [CDC and FDA 'altered' Covid guidance while under pressure, bombshell report claims | Daily Mail Online](https://www.dailymail.co.uk/health/article-10759403/CDC-FDA-altered-Covid-guidance-pressure-bombshell-report-claims.html)
 
-- ["Brain Bleeds, Heart Attacks in Younger 50-Year-Olds. No Doctor Will Admit This Is from the Vaccine. They Won't Make the VAERS Report." – Southern California Nurse](https://www.thegatewaypundit.com/2021/12/brain-bleeds-heart-attacks-younger-50-year-olds-no-doctor-will-admit-vaccine-wont-make-vaers-report-southern-california-nurse/)
+- ["Brain Bleeds, Heart Attacks in Younger 50-Year-Olds. No Doctor Will Admit This Is from the Vaccine. They Won't Make the VAERS Report." --- Southern California Nurse](https://www.thegatewaypundit.com/2021/12/brain-bleeds-heart-attacks-younger-50-year-olds-no-doctor-will-admit-vaccine-wont-make-vaers-report-southern-california-nurse/)
 
 - [1 million COVID-vaccine injuries now reported on CDC's database](https://www.wnd.com/2022/01/1-million-covid-vaccine-injuries-now-reported-cdc-database/)
 
 - [A Pandemic of Deceit, Not the Unvaccinated](https://rumble.com/vz1z95-a-pandemic-of-deceit-not-the-unvaccinated.html)
 
-- [Are the vaccinated harming their immune systems? – American Thinker](https://www.americanthinker.com/blog/2022/01/are_the_vaccinated_harming_their_immune_systems.html)
+- [Are the vaccinated harming their immune systems? --- American Thinker](https://www.americanthinker.com/blog/2022/01/are_the_vaccinated_harming_their_immune_systems.html)
 
 - [Top Scientists At Vaccine Hearing Reveal Injections Killing More People Than Saving | Rallying Patriots](https://rallyingpatriots.com/bombshell-testimony-top-scientists-at-vaccine-hearing-reveal-injections-killing-more-people-than-saving/)
 
-- [All COVID Reports – OpenVAERS](https://openvaers.com/covid-data/covid-reports)
+- [All COVID Reports --- OpenVAERS](https://openvaers.com/covid-data/covid-reports)
 
 - ["The hotspot/vaxx overlap is curious https://t.co/M2FvQGWLMD" / Twitter](https://twitter.com/plzbepatient/status/1517974677678817280)
 
@@ -187,37 +187,37 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Chaotic death recording during the pandemic could mean thousands were WRONGLY blamed on Covid | Daily Mail Online](https://www.dailymail.co.uk/health/article-10630753/Chaotic-death-recording-pandemic-mean-thousands-WRONGLY-blamed-Covid.html)
 
-- [Cloth Masks Do Not Protect Against Virus as Effectively as Others, C.D.C. Says – The New York Times](https://www.nytimes.com/2022/01/14/health/cloth-masks-covid-cdc.html)
+- [Cloth Masks Do Not Protect Against Virus as Effectively as Others, C.D.C. Says --- The New York Times](https://www.nytimes.com/2022/01/14/health/cloth-masks-covid-cdc.html)
 
-- [Covid-19 Is Not a "Pandemic of the Unvaccinated" – Just Facts Daily](https://www.justfactsdaily.com/covid-19-is-not-a-pandemic-of-the-unvaccinated)
+- [Covid-19 Is Not a "Pandemic of the Unvaccinated" --- Just Facts Daily](https://www.justfactsdaily.com/covid-19-is-not-a-pandemic-of-the-unvaccinated)
 
 - [TOTAL U.S. DEATHS 2014, 2015, 2016, 2017, 2018, 2019 & 2020](https://www.myessentialnews.com/post/usdeaths)
 
-- [Dr. Ryan Cole – Covid Mistakes](https://www.bitchute.com/video/hfzL5gUeQvxr/)
+- [Dr. Ryan Cole --- Covid Mistakes](https://www.bitchute.com/video/hfzL5gUeQvxr/)
 
-- [New York Times: COVID Boosters May Cause 'Immune System Fatigue,' Compromise Ability to Fight Virus – National File](https://nationalfile.com/new-york-times-covid-boosters-may-cause-immune-system-fatigue-compromise-ability-fight-virus/)
+- [New York Times: COVID Boosters May Cause 'Immune System Fatigue,' Compromise Ability to Fight Virus --- National File](https://nationalfile.com/new-york-times-covid-boosters-may-cause-immune-system-fatigue-compromise-ability-fight-virus/)
 
 - [The Pfizer Inoculations Do More Harm Than Good](https://rumble.com/vqx3kb-the-pfizer-inoculations-do-more-harm-than-good.html)
 
-- [The Pfizer Inoculations For COVID-19 – More Harm Than Good – PDF – Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org/media-resources/the-pfizer-inoculations-for-covid-19-more-harm-than-good/)
+- [The Pfizer Inoculations For COVID-19 --- More Harm Than Good --- PDF --- Canadian Covid Care Alliance](https://www.canadiancovidcarealliance.org/media-resources/the-pfizer-inoculations-for-covid-19-more-harm-than-good/)
 
 - [E.U. admits frequent booster shots WEAKEN body's immune system](https://www.wnd.com/2022/01/e-u-admits-frequent-booster-shots-weaken-bodys-immune-system/)
 
-- [Why did scientists suppress the lab-leak theory? – spiked](https://www.spiked-online.com/2022/01/12/why-did-scientists-suppress-the-lab-leak-theory/)
+- [Why did scientists suppress the lab-leak theory? --- spiked](https://www.spiked-online.com/2022/01/12/why-did-scientists-suppress-the-lab-leak-theory/)
 
-- [New CDC study finds prior COVID infection offered stronger immunity than vaccines during Delta surge – TheBlaze](https://www.theblaze.com/news/cdc-prior-infection-stronger-immunity)
+- [New CDC study finds prior COVID infection offered stronger immunity than vaccines during Delta surge --- TheBlaze](https://www.theblaze.com/news/cdc-prior-infection-stronger-immunity)
 
-- [Jim Jordan Shreds Democrats On House Floor: 'They Used The Virus To Attack Our Freedoms' – YouTube](https://www.youtube.com/watch)
+- [Jim Jordan Shreds Democrats On House Floor: 'They Used The Virus To Attack Our Freedoms' --- YouTube](https://www.youtube.com/watch)
 
-- [Huge Number of Vax Deaths & It's Getting Worse – Dr. Pierre Kory](https://rumble.com/vs7c9i-huge-number-of-vax-deaths-and-its-getting-worse-dr.-pierre-kory.html)
+- [Huge Number of Vax Deaths & It's Getting Worse --- Dr. Pierre Kory](https://rumble.com/vs7c9i-huge-number-of-vax-deaths-and-its-getting-worse-dr.-pierre-kory.html)
 
 - [Most Important Video You'll See / Watch / Listen / Share With Loved Ones](https://www.bitchute.com/video/Pz0SBTvKrDrV/)
 
-- [The Real Anthony Fauci, Analysis by Dr. Joseph Mercola – Arlington Institute](https://arlingtoninstitute.org/the-real-anthony-fauci-analysis-by-dr-joseph-mercola/)
+- [The Real Anthony Fauci, Analysis by Dr. Joseph Mercola --- Arlington Institute](https://arlingtoninstitute.org/the-real-anthony-fauci-analysis-by-dr-joseph-mercola/)
 
-- [VAERS Summary for COVID-19 Vaccines through 12/17/2021 – VAERS Analysis](https://vaersanalysis.info/2021/12/25/vaers-summary-for-covid-19-vaccines-through-12-17-2021/)
+- [VAERS Summary for COVID-19 Vaccines through 12/17/2021 --- VAERS Analysis](https://vaersanalysis.info/2021/12/25/vaers-summary-for-covid-19-vaccines-through-12-17-2021/)
 
-- [Denmark: Vaccine a DANGER to the vaxxed – by Igor Chudov](https://igorchudov.substack.com/p/denmark-vaccine-a-danger-to-the-vaxxed)
+- [Denmark: Vaccine a DANGER to the vaxxed --- by Igor Chudov](https://igorchudov.substack.com/p/denmark-vaccine-a-danger-to-the-vaxxed)
 
 - [Oregon Health Authority: 622 Fully Vaccinated Residents Died Of COVID](https://www.thegatewaypundit.com/2021/12/oregon-health-authority-622-fully-vaccinated-residents-died-covid/)
 
@@ -225,19 +225,19 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Meningitis warning: Cases of fatal disease soar as pandemic fuels 'lack of immunity' | Science | News | Express.co.uk](https://www.express.co.uk/news/science/1552543/meningitis-warning-pandemic-covid-immunity-ukhsa-nhs-omicron)
 
-- [Horowitz: The very concerning data from Scotland – TheBlaze](https://www.theblaze.com/op-ed/horowitz-the-very-concerning-data-from-scotland)
+- [Horowitz: The very concerning data from Scotland --- TheBlaze](https://www.theblaze.com/op-ed/horowitz-the-very-concerning-data-from-scotland)
 
 - [Quadruple-Vaxed Israel Breaks World Record in Coronavirus Cases](https://www.breitbart.com/middle-east/2022/01/23/quadruple-vaxed-israel-breaks-world-record-in-coronavirus-cases/)
 
 - [Massive Johns Hopkins study: Lockdowns, masks, closures did NOT reduce death](https://www.wnd.com/2022/01/massive-johns-hopkins-study-lockdowns-masks-closures-not-reduce-death/)
 
-- [Life Insurance Companies Suffered while the Funeral Industry Prospered in 2021 After COVID Vaccines were Rolled Out – Vaccine Impact](https://vaccineimpact.com/2022/life-insurance-companies-suffered-while-the-funeral-industry-prospered-in-2021-after-covid-vaccines-were-rolled-out/)
+- [Life Insurance Companies Suffered while the Funeral Industry Prospered in 2021 After COVID Vaccines were Rolled Out --- Vaccine Impact](https://vaccineimpact.com/2022/life-insurance-companies-suffered-while-the-funeral-industry-prospered-in-2021-after-covid-vaccines-were-rolled-out/)
 
 - [Dr. Robert Malone: How Effective are Vaccines Against Omicron? | CLIP | American Thought Leaders](https://rumble.com/vt79nd-dr.-robert-malone-how-effective-are-vaccines-against-omicron-clip-american-.html)
 
 - [A fiasco in the making? In the coronavirus pandemic, we're making decisions without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)
 
-- [Horowitz: The Pentagon's RESPONSE to the explosive DOD medical data is an even bigger story than the data – TheBlaze](https://www.theblaze.com/op-ed/horowitz-the-pentagons-response-to-the-explosive-dod-medical-data-is-an-even-bigger-story-than-the-data)
+- [Horowitz: The Pentagon's RESPONSE to the explosive DOD medical data is an even bigger story than the data --- TheBlaze](https://www.theblaze.com/op-ed/horowitz-the-pentagons-response-to-the-explosive-dod-medical-data-is-an-even-bigger-story-than-the-data)
 
 - [What Do They Know that We Don't?... China Has Not Administered a Single mRNA Vaccine to Any of Its 1.45 Billion Citizens](https://www.thegatewaypundit.com/2022/02/know-dont-china-not-administered-single-mrna-vaccine-1-45-billion-citizens/)
 
@@ -247,9 +247,9 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [U.S. Agencies Quietly Studying Reports of Post-Vaccination Neurological Issues](https://www.theepochtimes.com/us-agencies-quietly-studying-reports-of-post-vaccination-neurological-issues_4262395.html)
 
-- [How prominent public health agencies are skewing vaccine effectiveness statistics in the U.S. – #Denominatorgate – TheBlaze](https://www.theblaze.com/news/denominatorgate-how-public-health-agencies-are-skewing-the-statistics-on-vaccine-effectiveness)
+- [How prominent public health agencies are skewing vaccine effectiveness statistics in the U.S. --- #Denominatorgate --- TheBlaze](https://www.theblaze.com/news/denominatorgate-how-public-health-agencies-are-skewing-the-statistics-on-vaccine-effectiveness)
 
-- [New Research Points to Wuhan Market as Pandemic Origin – The New York Times](https://archive.ph/SmvK5)
+- [New Research Points to Wuhan Market as Pandemic Origin --- The New York Times](https://archive.ph/SmvK5)
 
 - [The Huanan market was the epicenter of SARS-CoV-2 emergence | Zenodo](https://zenodo.org/record/6299600#.YiCxsC-B2X0)
 
@@ -257,31 +257,31 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Study finds genetic code in Covid's spike protein linked to Moderna patent | Daily Mail Online](https://www.dailymail.co.uk/news/article-10542309/Fresh-lab-leak-fears-study-finds-genetic-code-Covids-spike-protein-linked-Moderna-patent.html)
 
-- [Intelligence on Sick Staff at Wuhan Lab Fuels Debate on Covid-19 Origin – WSJ](https://archive.ph/20JW4)
+- [Intelligence on Sick Staff at Wuhan Lab Fuels Debate on Covid-19 Origin --- WSJ](https://archive.ph/20JW4)
 
 - [Researchers find coronavirus was circulating in Italy earlier than thought | Reuters](https://www.reuters.com/article/health-coronavirus-italy-timing/researchers-find-coronavirus-was-circulating-in-italy-earlier-than-thought-idUSKBN27W1J2)
 
 - [New Studies Revive Wet Market Covid Origin | Buried Study Shows Virus DNA Sequence Owned by Moderna](https://rumble.com/vw8sbk-new-studies-revive-wet-market-covid-origin-buried-study-shows-virus-dna-seq.html)
 
-- [Public Health and Medical Professionals for Transparency – Public Health and Medical Professionals for Transparency](https://phmpt.org/)
+- [Public Health and Medical Professionals for Transparency --- Public Health and Medical Professionals for Transparency](https://phmpt.org/)
 
-- [What if the COVID-19 vaccines are not really vaccines? – American Thinker](https://www.americanthinker.com/blog/2022/03/what_if_the_covid19_vaccines_are_not_really_vaccines.html)
+- [What if the COVID-19 vaccines are not really vaccines? --- American Thinker](https://www.americanthinker.com/blog/2022/03/what_if_the_covid19_vaccines_are_not_really_vaccines.html)
 
-- [The Medical Establishment's Willful Blindness About Vaccines and Children – American Thinker](https://www.americanthinker.com/articles/2022/03/the_medical_establishments_willful_blindness_about_vaccines_and_children.html)
+- [The Medical Establishment's Willful Blindness About Vaccines and Children --- American Thinker](https://www.americanthinker.com/articles/2022/03/the_medical_establishments_willful_blindness_about_vaccines_and_children.html)
 
-- [Horowitz: More VAERS-reported vaccine deaths in our military than COVID deaths – TheBlaze](https://www.theblaze.com/op-ed/horowitz-more-vaers-reported-vaccine-deaths-in-our-military-than-covid-deaths)
+- [Horowitz: More VAERS-reported vaccine deaths in our military than COVID deaths --- TheBlaze](https://www.theblaze.com/op-ed/horowitz-more-vaers-reported-vaccine-deaths-in-our-military-than-covid-deaths)
 
-- [FDA, CDC Guilty of Clinical Malpractice and Scientific Fraud by Inaction and Omission on mRNA Vaccine Safety Warnings – American Thinker](https://www.americanthinker.com/articles/2022/03/fda_cdc_guilty_of_clinical_malpractice_and_scientific_fraud_by_inaction_and_omission_on_mrna_vaccine_safety_warnings.html)
+- [FDA, CDC Guilty of Clinical Malpractice and Scientific Fraud by Inaction and Omission on mRNA Vaccine Safety Warnings --- American Thinker](https://www.americanthinker.com/articles/2022/03/fda_cdc_guilty_of_clinical_malpractice_and_scientific_fraud_by_inaction_and_omission_on_mrna_vaccine_safety_warnings.html)
 
-- [Genuine Facts About Omicron, Delta, Naturally Acquired Immunity, and Vaccines – Just Facts Daily](https://www.justfactsdaily.com/omicron-delta-naturally-acquired-immunity-vaccines)
+- [Genuine Facts About Omicron, Delta, Naturally Acquired Immunity, and Vaccines --- Just Facts Daily](https://www.justfactsdaily.com/omicron-delta-naturally-acquired-immunity-vaccines)
 
 - [The Countries That Locked Down The Hardest Are Now Being Decimated By COVID-19 | The Daily Caller](https://dailycaller.com/2022/04/01/lockdown-zero-covid-coronavirus-china-south-korea-new-zealand/)
 
-- [Israeli study finds 4th vaccine dose (2nd booster) gives only short-term increase in protection – TheBlaze](https://www.theblaze.com/news/israeli-study-finds-4th-vaccine-dose-2nd-booster-gives-only-short-term-increase-in-protection)
+- [Israeli study finds 4th vaccine dose (2nd booster) gives only short-term increase in protection --- TheBlaze](https://www.theblaze.com/news/israeli-study-finds-4th-vaccine-dose-2nd-booster-gives-only-short-term-increase-in-protection)
 
-- [Fauci warns COVID won't be eradicated, people need to assess personal risks. – TheBlaze](https://www.theblaze.com/news/anthony-fauci-covid-personal-risk-interview)
+- [Fauci warns COVID won't be eradicated, people need to assess personal risks. --- TheBlaze](https://www.theblaze.com/news/anthony-fauci-covid-personal-risk-interview)
 
-- [COVID-T Variant Looks Deadly to California Freedom – California Globe](https://californiaglobe.com/articles/covid-t-variant-looks-deadly-to-california-freedom/)
+- [COVID-T Variant Looks Deadly to California Freedom --- California Globe](https://californiaglobe.com/articles/covid-t-variant-looks-deadly-to-california-freedom/)
 
 - [Everything Wrong With COVID 'Science' Has Been Wrong With Global Warming 'Science' Longer](https://www.culturcidal.com/p/everything-wrong-with-covid-science)
 
@@ -303,7 +303,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Study: Feds pushing of Paxlovid could accelerate COVID mutations](https://www.wnd.com/2022/07/study-feds-pushing-paxlovid-accelerate-covid-mutations/)
 
-- [33 dead and sick friends in 8 months – all vaxxed!](https://www.wnd.com/2022/07/33-dead-sick-friends-8-months-vaxxed/)
+- [33 dead and sick friends in 8 months --- all vaxxed!](https://www.wnd.com/2022/07/33-dead-sick-friends-8-months-vaxxed/)
 
 - [Global Campaign Aims to Break Silence Around COVID Vaccine Injuries](https://www.theepochtimes.com/global-campaign-aims-to-break-silence-around-covid-vaccine-injuries_4617236.html)
 
@@ -317,7 +317,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Documents show collusion between the CDC and Big Tech](https://reclaimthenet.org/documents-show-collusion-between-cdc-and-big-tech/)
 
-- [More disappearing Covid vaccine data – by Alex Berenson](https://alexberenson.substack.com/p/more-disappearing-covid-vaccine-data)
+- [More disappearing Covid vaccine data --- by Alex Berenson](https://alexberenson.substack.com/p/more-disappearing-covid-vaccine-data)
 
 - [CDC's plan to work with big tech to suppress vaccine 'misinformation' resulted in censorship](https://thepostmillennial.com/cdcs-plan-to-work-with-big-tech-to-suppress-vaccine-misinformation-resulted-in-censorship)
 

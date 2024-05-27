@@ -44,7 +44,7 @@ To the weak minded these reforms will seem acceptable. Rest assured, however, th
 
 You are told gun confiscation will never happen, that gun registration is simply to prevent criminals from having guns, yet gun confiscation occurred after Hurricane Katrina and is happening now in the state of New York and in the state of California.
 
-The Nazis understood the effectiveness of using authority to manage average people who were reluctant to believe that the regime would ultimately harm them. The Warsaw Ghetto, where the Nazis segregated Polish Jews before sending most of them to die in Treblinka during WWII is a good example. Initially the Jews vastly outnumbered their Nazi overlords yet these people complied with the edicts imposed upon them, thinking it wise to do so – until it was too late. The same was true of the Russians who were murdered under Stalin, the Cambodians under Pol Pot, the Rwandan Tutsis under the Hutus, and every other example of the imposition of tyranny.
+The Nazis understood the effectiveness of using authority to manage average people who were reluctant to believe that the regime would ultimately harm them. The Warsaw Ghetto, where the Nazis segregated Polish Jews before sending most of them to die in Treblinka during WWII is a good example. Initially the Jews vastly outnumbered their Nazi overlords yet these people complied with the edicts imposed upon them, thinking it wise to do so --- until it was too late. The same was true of the Russians who were murdered under Stalin, the Cambodians under Pol Pot, the Rwandan Tutsis under the Hutus, and every other example of the imposition of tyranny.
 
 Don't think it could happen here?
 
@@ -60,12 +60,6 @@ Make no mistake. ANY politician who introduces, supports, or votes for ANY gun c
 
 Either way, whether an idiot or a traitor, THEY NEED TO BE VOTED OUT OF OFFICE. Make sure they know, each and every day through an e-mail, a call or a letter that YOU ARE WATCHING THEIR EVERY MOVE on the gun issue.
 
-Here is a link to find your representatives. <https://capwiz.com/gunowners/dbq/officials/>
-
 And remember, if all else fails, the only thing they can't take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.
-
-Go here <https://www.frontsight.com/patriot/> to grab a 5 Day Front Sight Course, plus 30 State Concealed Weapons Permit, and our entire set of 7 Front Sight Training Manuals for only $200.
-
-This is $2,500 in training, PLUS a full set of training manuals for only $200 as my way of putting my money where my mouth is to sharpen the teeth of the Second Amendment and prepare every responsible American citizen to protect and defend their freedom. Get trained NOW <https://www.frontsight.com/patriot/>
 
 Exercise your rights before they become weak and flabby!

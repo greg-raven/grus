@@ -124,10 +124,10 @@ https://dailybail.com/home/obama-discusses-the-message-of-massachusetts-healthca
 
 ### Lies During First Year
 
-**We began by passing a Recovery Act that has already saved or created over 150,000 jobs." – caught cooking the books and now changed to 'jobs supported' versus 'created/saved'**
+**We began by passing a Recovery Act that has already saved or created over 150,000 jobs." --- caught cooking the books and now changed to 'jobs supported' versus 'created/saved'**
 https://www.oregonlive.com/politics/index.ssf/2009/04/ap\_fact\_check\_obama\_disowns\_de.html
 
-**Number one, we inherited a $1.3 trillion deficit. ... That wasn't me." – Congress, under Democratic control in 2007 and 2008, controlled the purse strings that led to the deficit Obama inherited. Obama supported the emergency bailout package in Bush's final months --- a package Democratic leaders wanted to make bigger.**
+**Number one, we inherited a $1.3 trillion deficit. ... That wasn't me." --- Congress, under Democratic control in 2007 and 2008, controlled the purse strings that led to the deficit Obama inherited. Obama supported the emergency bailout package in Bush's final months --- a package Democratic leaders wanted to make bigger.**
 https://www.oregonlive.com/politics/index.ssf/2009/04/ap\_fact\_check\_obama\_disowns\_de.html
 
 **Collective salvation**
@@ -196,7 +196,7 @@ https://www.obamaslies.net/obama-wright-lies-exposed-18-months-late.html
 **Would have the most transparent administration in History**
 https://www.cato.org/pub\_display.php?pub\_id=11449
 
-**We will go through our federal budget – page by page, line by line – eliminating those programs we don't need, and insisting that those we do operate in a sensible cost-effective way.**
+**We will go through our federal budget --- page by page, line by line --- eliminating those programs we don't need, and insisting that those we do operate in a sensible cost-effective way.**
 https://www.boston.com/news/politics/politicalintelligence/2008/11/obama\_vows\_line.html
 
 **I have visited all 57 states.**

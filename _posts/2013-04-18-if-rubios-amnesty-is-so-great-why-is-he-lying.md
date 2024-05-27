@@ -15,7 +15,7 @@ Here is how Rubio explained the powerful border-enforcing mechanism in his bill 
 
 "Basically, Homeland Security will have five years to meet that goal. If after five years, Homeland Security has not met that number, it will trigger the Border Commission, who will then take over this issue for them."
 
-So the water torture awaiting the Department of Homeland Security if it fails to secure the border is ... ANOTHER GOVERNMENT COMMISSION WILL BE CREATED! Take that, Homeland Security! Ha – we have you now!
+So the water torture awaiting the Department of Homeland Security if it fails to secure the border is ... ANOTHER GOVERNMENT COMMISSION WILL BE CREATED! Take that, Homeland Security! Ha --- we have you now!
 
 The only thing more frightening than "another government commission" is a "strongly worded letter."
 
