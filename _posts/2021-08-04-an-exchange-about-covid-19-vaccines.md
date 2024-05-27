@@ -71,11 +71,11 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Pro-vaccine German pathologist believes vaccine deaths are undercounted based on autopsy findings](https://www.theblaze.com/op-ed/horowitz-pro-vaccine-german-pathologist-believes-vaccine-deaths-are-undercounted-based-on-autopsy-findings)
 
-- [Australian Professor Thomas Borody: Ivermectin 'Amazingly Successful' In Killing Coronavirus](https://gumshoenews.com/2020/08/18/australian-professor-thomas-borody-ivermectin-amazingly-successful-in-killing-coronavirus/)
+- [Australian Professor Thomas Borody: Ivermectin 'Amazingly Successful' In Killing Coronavirus](https://gumshoenews.com/australian-professor-thomas-borody-ivermectin-amazingly-successful-in-killing-coronavirus/)
 
 - [Understanding How COVID-19 Was 'Made Up,' by Dr. Sam Bailey](https://www.bitchute.com/video/zd16YdOlS4mC/)
 
-- [Vaccine Expert Gives 'Final Warning:' Stop all mass COVID vaccinations immediately or face unleashing incurable, deadly, unstoppable wave of disease](https://seemorerocks.is/vaccine-expert-gives-final-warning-stop-all-mass-covid-vaccinations-immediately-or-face-unleashing-incurable-deadly-unstoppable-wave-of-disease/)
+- Vaccine Expert Gives 'Final Warning:' Stop all mass COVID vaccinations immediately or face unleashing incurable, deadly, unstoppable wave of disease (formerly at https://seemorerocks.is/vaccine-expert-gives-final-warning-stop-all-mass-covid-vaccinations-immediately-or-face-unleashing-incurable-deadly-unstoppable-wave-of-disease/)
 
 - [CDC Confesses: Vaccinated People Spreading COVID Variants With High Viral Loads](https://thebeltwayreport.com/2021/08/cdc-confesses-vaccinated-people-spreading-covid-variants-with-high-viral-loads/)
 
@@ -117,7 +117,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [The data are in, and we are now worse off than before the experimental shots](https://www.theblaze.com/op-ed/horowitz-the-data-is-in-and-we-are-now-worse-off-than-before-the-experimental-shots)
 
-- [Indiana Doctor Exposes Vax At Mt. Vernon School Board Meeting](https://verumetinventa.wordpress.com/2021/08/10/indiana-doctor-exposes-vax-at-mt-vernon-school-board-meeting/)
+- Indiana Doctor Exposes Vax At Mt. Vernon School Board Meeting (formerly at https://verumetinventa.wordpress.com/2021/08/10/indiana-doctor-exposes-vax-at-mt-vernon-school-board-meeting/)
 
 - [Nebraska AG's devastating critique of the suppression of effective COVID therapies](https://www.americanthinker.com/blog/2021/10/nebraska_ags_devastating_critique_of_the_suppression_of_effective_covid_therapies.html)
 
@@ -153,9 +153,9 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Official data: Fully vaccinated people account for 9 of 10 COVID deaths --- WND News Center](https://www.wndnewscenter.org/official-data-fully-vaccinated-people-account-for-9-of-10-covid-deaths/)
 
-- [More Harm Than Good | Steve Deace Show](https://rumble.com/v10u3d2-more-harm-than-good-steve-deace-show.html)
+- [More Harm Than Good --- Steve Deace Show](https://rumble.com/v10u3d2-more-harm-than-good-steve-deace-show.html)
 
-- [CDC and FDA 'altered' Covid guidance while under pressure, bombshell report claims | Daily Mail Online](https://www.dailymail.co.uk/health/article-10759403/CDC-FDA-altered-Covid-guidance-pressure-bombshell-report-claims.html)
+- [CDC and FDA 'altered' Covid guidance while under pressure, bombshell report claims --- Daily Mail Online](https://www.dailymail.co.uk/health/article-10759403/CDC-FDA-altered-Covid-guidance-pressure-bombshell-report-claims.html)
 
 - ["Brain Bleeds, Heart Attacks in Younger 50-Year-Olds. No Doctor Will Admit This Is from the Vaccine. They Won't Make the VAERS Report." --- Southern California Nurse](https://www.thegatewaypundit.com/2021/12/brain-bleeds-heart-attacks-younger-50-year-olds-no-doctor-will-admit-vaccine-wont-make-vaers-report-southern-california-nurse/)
 
@@ -165,33 +165,33 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Are the vaccinated harming their immune systems? --- American Thinker](https://www.americanthinker.com/blog/2022/01/are_the_vaccinated_harming_their_immune_systems.html)
 
-- [Top Scientists At Vaccine Hearing Reveal Injections Killing More People Than Saving | Rallying Patriots](https://rallyingpatriots.com/bombshell-testimony-top-scientists-at-vaccine-hearing-reveal-injections-killing-more-people-than-saving/)
+- [Top Scientists At Vaccine Hearing Reveal Injections Killing More People Than Saving --- Rallying Patriots](https://rallyingpatriots.com/bombshell-testimony-top-scientists-at-vaccine-hearing-reveal-injections-killing-more-people-than-saving/)
 
-- [All COVID Reports --- OpenVAERS](https://openvaers.com/covid-data/covid-reports)
+- [All COVID Reports --- OpenVAERS](https://openvaers.com)
 
 - ["The hotspot/vaxx overlap is curious https://t.co/M2FvQGWLMD" / Twitter](https://twitter.com/plzbepatient/status/1517974677678817280)
 
-- [California, New York handled COVID-19 lockdowns the worst, Florida among the best, a new study shows | Fox News](https://www.foxnews.com/politics/california-new-york-covid-lockdowns-worst-florida-best-study)
+- [California, New York handled COVID-19 lockdowns the worst, Florida among the best, a new study shows --- Fox News](https://www.foxnews.com/politics/california-new-york-covid-lockdowns-worst-florida-best-study)
 
-- [Canadian Covid Care Alliance: Covid Inoculations Cause More Harm Than Good](https://brandnewtube.com/watch/canadian-covid-care-alliance-covid-inoculations-cause-more-harm-than-good_md15oJEcEKU1ndC.html)
+- Canadian Covid Care Alliance: Covid Inoculations Cause More Harm Than Good (formerly at https://brandnewtube.com/watch/canadian-covid-care-alliance-covid-inoculations-cause-more-harm-than-good_md15oJEcEKU1ndC.html)
 
 - [CDC data: Millennials experienced 'a Vietnam War' in 2nd half of 2021](https://www.wnd.com/2022/03/cdc-data-millennials-suffered-alarming-spike-excess-deaths-last-fall/)
 
-- [CDC Director cites study saying 75 percent of vaccinated people who died from COVID had at least four comorbidities | The Post Millennial](https://thepostmillennial.com/cdc-says-over-75-percent-of-covid-deaths-at-least-4-comorbidities)
+- [CDC Director cites study saying 75 percent of vaccinated people who died from COVID had at least four comorbidities --- The Post Millennial](https://thepostmillennial.com/cdc-says-over-75-percent-of-covid-deaths-at-least-4-comorbidities)
 
 - [CDC now considers changing vaccine protocol after acknowledging risk of heart inflammation · American Wire News](https://americanwirenews.com/cdc-now-proposes-changing-vaccine-protocol-after-acknowledging-risk-of-heart-inflammation/)
 
-- [CDC: Natural immunity stronger than vaccines alone in delta wave | FOX31 Denver](https://kdvr.com/news/coronavirus/covid-19-vaccine/cdc-report-natural-immunity-stronger-than-vaccines-alone-during-delta-wave/)
+- [CDC: Natural immunity stronger than vaccines alone in delta wave --- FOX31 Denver](https://kdvr.com/news/coronavirus/covid-19-vaccine/cdc-report-natural-immunity-stronger-than-vaccines-alone-during-delta-wave/)
 
 - [CDC, FDA Say No Deaths From COVID Vaccines. VAERS Data Tell Different Story. • Children's Health Defense](https://childrenshealthdefense.org/defender/jessica-rose-cdc-fda-covid-vaccines-deaths-vaers/)
 
-- [Chaotic death recording during the pandemic could mean thousands were WRONGLY blamed on Covid | Daily Mail Online](https://www.dailymail.co.uk/health/article-10630753/Chaotic-death-recording-pandemic-mean-thousands-WRONGLY-blamed-Covid.html)
+- [Chaotic death recording during the pandemic could mean thousands were WRONGLY blamed on Covid --- Daily Mail Online](https://www.dailymail.co.uk/health/article-10630753/Chaotic-death-recording-pandemic-mean-thousands-WRONGLY-blamed-Covid.html)
 
 - [Cloth Masks Do Not Protect Against Virus as Effectively as Others, C.D.C. Says --- The New York Times](https://www.nytimes.com/2022/01/14/health/cloth-masks-covid-cdc.html)
 
 - [Covid-19 Is Not a "Pandemic of the Unvaccinated" --- Just Facts Daily](https://www.justfactsdaily.com/covid-19-is-not-a-pandemic-of-the-unvaccinated)
 
-- [TOTAL U.S. DEATHS 2014, 2015, 2016, 2017, 2018, 2019 & 2020](https://www.myessentialnews.com/post/usdeaths)
+- TOTAL U.S. DEATHS 2014, 2015, 2016, 2017, 2018, 2019 & 2020 (formerly at https://www.myessentialnews.com/post/usdeaths)
 
 - [Dr. Ryan Cole --- Covid Mistakes](https://www.bitchute.com/video/hfzL5gUeQvxr/)
 
@@ -223,7 +223,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Dr. Ryan Cole Exposes Safety Dangers](https://odysee.com/@Jay:46/Dr-Ryan-Cole-Exposes-Safety-Dangers:6)
 
-- [Meningitis warning: Cases of fatal disease soar as pandemic fuels 'lack of immunity' | Science | News | Express.co.uk](https://www.express.co.uk/news/science/1552543/meningitis-warning-pandemic-covid-immunity-ukhsa-nhs-omicron)
+- [Meningitis warning: Cases of fatal disease soar as pandemic fuels 'lack of immunity' --- Science --- News --- Express.co.uk](https://www.express.co.uk/news/science/1552543/meningitis-warning-pandemic-covid-immunity-ukhsa-nhs-omicron)
 
 - [Horowitz: The very concerning data from Scotland --- TheBlaze](https://www.theblaze.com/op-ed/horowitz-the-very-concerning-data-from-scotland)
 
@@ -233,7 +233,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Life Insurance Companies Suffered while the Funeral Industry Prospered in 2021 After COVID Vaccines were Rolled Out --- Vaccine Impact](https://vaccineimpact.com/2022/life-insurance-companies-suffered-while-the-funeral-industry-prospered-in-2021-after-covid-vaccines-were-rolled-out/)
 
-- [Dr. Robert Malone: How Effective are Vaccines Against Omicron? | CLIP | American Thought Leaders](https://rumble.com/vt79nd-dr.-robert-malone-how-effective-are-vaccines-against-omicron-clip-american-.html)
+- [Dr. Robert Malone: How Effective are Vaccines Against Omicron? --- CLIP --- American Thought Leaders](https://rumble.com/vt79nd-dr.-robert-malone-how-effective-are-vaccines-against-omicron-clip-american-.html)
 
 - [A fiasco in the making? In the coronavirus pandemic, we're making decisions without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)
 
@@ -249,19 +249,19 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [How prominent public health agencies are skewing vaccine effectiveness statistics in the U.S. --- #Denominatorgate --- TheBlaze](https://www.theblaze.com/news/denominatorgate-how-public-health-agencies-are-skewing-the-statistics-on-vaccine-effectiveness)
 
-- [New Research Points to Wuhan Market as Pandemic Origin --- The New York Times](https://archive.ph/SmvK5)
+- New Research Points to Wuhan Market as Pandemic Origin --- *The New York Times* (formerly at https://archive.ph/SmvK5)
 
-- [The Huanan market was the epicenter of SARS-CoV-2 emergence | Zenodo](https://zenodo.org/record/6299600#.YiCxsC-B2X0)
+- [The Huanan market was the epicenter of SARS-CoV-2 emergence --- Zenodo](https://zenodo.org/record/6299600#.YiCxsC-B2X0)
 
 - [Wuhan market was epicentre of pandemic's start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
 
-- [Study finds genetic code in Covid's spike protein linked to Moderna patent | Daily Mail Online](https://www.dailymail.co.uk/news/article-10542309/Fresh-lab-leak-fears-study-finds-genetic-code-Covids-spike-protein-linked-Moderna-patent.html)
+- [Study finds genetic code in Covid's spike protein linked to Moderna patent --- Daily Mail Online](https://www.dailymail.co.uk/news/article-10542309/Fresh-lab-leak-fears-study-finds-genetic-code-Covids-spike-protein-linked-Moderna-patent.html)
 
 - [Intelligence on Sick Staff at Wuhan Lab Fuels Debate on Covid-19 Origin --- WSJ](https://archive.ph/20JW4)
 
-- [Researchers find coronavirus was circulating in Italy earlier than thought | Reuters](https://www.reuters.com/article/health-coronavirus-italy-timing/researchers-find-coronavirus-was-circulating-in-italy-earlier-than-thought-idUSKBN27W1J2)
+- [Researchers find coronavirus was circulating in Italy earlier than thought --- Reuters](https://www.reuters.com/article/health-coronavirus-italy-timing/researchers-find-coronavirus-was-circulating-in-italy-earlier-than-thought-idUSKBN27W1J2)
 
-- [New Studies Revive Wet Market Covid Origin | Buried Study Shows Virus DNA Sequence Owned by Moderna](https://rumble.com/vw8sbk-new-studies-revive-wet-market-covid-origin-buried-study-shows-virus-dna-seq.html)
+- [New Studies Revive Wet Market Covid Origin --- Buried Study Shows Virus DNA Sequence Owned by Moderna](https://rumble.com/vw8sbk-new-studies-revive-wet-market-covid-origin-buried-study-shows-virus-dna-seq.html)
 
 - [Public Health and Medical Professionals for Transparency --- Public Health and Medical Professionals for Transparency](https://phmpt.org/)
 
@@ -275,7 +275,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Genuine Facts About Omicron, Delta, Naturally Acquired Immunity, and Vaccines --- Just Facts Daily](https://www.justfactsdaily.com/omicron-delta-naturally-acquired-immunity-vaccines)
 
-- [The Countries That Locked Down The Hardest Are Now Being Decimated By COVID-19 | The Daily Caller](https://dailycaller.com/2022/04/01/lockdown-zero-covid-coronavirus-china-south-korea-new-zealand/)
+- [The Countries That Locked Down The Hardest Are Now Being Decimated By COVID-19 --- The Daily Caller](https://dailycaller.com/2022/04/01/lockdown-zero-covid-coronavirus-china-south-korea-new-zealand/)
 
 - [Israeli study finds 4th vaccine dose (2nd booster) gives only short-term increase in protection --- TheBlaze](https://www.theblaze.com/news/israeli-study-finds-4th-vaccine-dose-2nd-booster-gives-only-short-term-increase-in-protection)
 
@@ -309,7 +309,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Though saying so was banned by Big Tech, Dr. Birx says she 'knew' Covid vaccines wouldn't prevent infection](https://reclaimthenet.org/dr-birx-covid-vax-censorship/)
 
-- [Ivermectin is the 'most dynamic' and 'most rapidly-acting' medication for COVID](https://www.redvoicemedia.com/video/2022/07/horse-paste-ivermectin-is-the-most-dynamic-and-most-rapidly-acting-medication-for-covid/)
+- Ivermectin is the 'most dynamic' and 'most rapidly-acting' medication for COVID (formerly at https://www.redvoicemedia.com/video/2022/07/horse-paste-ivermectin-is-the-most-dynamic-and-most-rapidly-acting-medication-for-covid/)
 
 - [British Communist Party professor, who supported surveillance methods during Covid, joins the WHO](https://reclaimthenet.org/professor-susan-michie-joins-who/)
 
@@ -393,11 +393,11 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [CV19 mRNA Vaccines Were Meant to Harm & Kill People](https://usawatchdog.com/cv19-mrna-vaccines-were-meant-to-harm-kill-people-dr-michael-palmer/#more-28896)
 
-- [Newly Unclassified DARPA Docs Confirm SARS-CoV-2 Was Created by EcoHealth Alliance at the Wuhan Institute of Virology](https://theleadingreport.com/newly-unclassified-darpa-docs-confirm-sars-cov-2-was-created-by-ecohealth-alliance-at-the-wuhan-institute-of-virology/)
+- Newly Unclassified DARPA Docs Confirm SARS-CoV-2 Was Created by EcoHealth Alliance at the Wuhan Institute of Virology (formerly at https://theleadingreport.com/newly-unclassified-darpa-docs-confirm-sars-cov-2-was-created-by-ecohealth-alliance-at-the-wuhan-institute-of-virology/)
 
 - [17 million deaths from the COVID vax](https://www.redvoicemedia.com/video/2024/01/tucker-17-million-deaths-from-the-covid-vax-bret-weinstein/)
 
-- [FDA forced to release documents admitting they knew COVID vaccines caused heart inflammation](https://dcclothesline.com/2023/12/16/fda-forced-to-release-documents-admitting-they-knew-covid-vaccines-caused-heart-inflammation/)
+- FDA forced to release documents admitting they knew COVID vaccines caused heart inflammation (formerly at https://dcclothesline.com/2023/12/16/fda-forced-to-release-documents-admitting-they-knew-covid-vaccines-caused-heart-inflammation/)
 
 - [Mayo Clinic say hydroxychloroquine CAN be used to treat COVID-19 patients](https://www.thegatewaypundit.com/2023/09/mayo-clinic-website-now-says-hydroxychloroquine-can-be/)
 

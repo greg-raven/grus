@@ -11,4 +11,4 @@ The number was a sharp slide from February's upwardly revised 268,000.
 
 [Read the full story here](https://www.cnbc.com/id/100618938).
 
-[See the earlier hits here](https://www.gregraven.us/2013/04/04/the-hits-just-keep-on-comin/ "The hits just keep on comin'").
+[See the earlier hits here]({% post_url 2013-04-04-the-hits-just-keep-on-comin "The hits just keep on comin'" %}).
