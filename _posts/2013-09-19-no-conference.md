@@ -34,6 +34,6 @@ The letter reads as follows:
 
 Phone me if you would like to talk about this
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Boehner is a slippery eel. Don't let him get away from you on this one!

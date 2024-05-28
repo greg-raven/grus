@@ -18,4 +18,4 @@ An individual cannot be Attorney General if he/she is not willing to enforce the
 
 Please do not vote in favor of President Obama's nominee if he/she will not promise to enforce immigration laws.
 
-Greg Raven
+{% include signature.html %}

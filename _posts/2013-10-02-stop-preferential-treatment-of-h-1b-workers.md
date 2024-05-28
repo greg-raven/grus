@@ -20,6 +20,6 @@ Please act against the practice of hiring low-cost foreign workers at the expens
 
 Phone me if you would like to talk about this
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Congress created this mess, so it's up to Congress to fix it. Stop the preferential treatment of foreigners over U.S. citizens!

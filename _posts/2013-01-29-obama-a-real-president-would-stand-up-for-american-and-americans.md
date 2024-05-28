@@ -17,6 +17,6 @@ Americans need a president who will stand up for them, not one who stands up for
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Even as an illegal alien yourself, you should be at least a little concerned about the $2.6 trillion in additional costs created by your position.

@@ -16,4 +16,4 @@ Thank you for voting against the Senate's bill. Please continue to stand up for 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

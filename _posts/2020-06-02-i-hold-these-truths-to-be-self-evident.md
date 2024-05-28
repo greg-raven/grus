@@ -9,7 +9,7 @@ Dissecting "This I believe: A post in defense of rational liberalism," by Lori G
 
 (Found at: Flexible Reality, https://bizmarts.com/blog/?p=2239)
 
-Analysis by Greg Raven
+Analysis by {% include signature.html %}
 
 I saw this piece posted on Facebook, with a introductory paragraph not found in the original, misattributed to Ron Howard. I was so struck by the horrible logic that I had to respond. The author is entitled to her opinions, but not to her own facts, nor is she entitled to shift from one point to another unrelated point because it sounds good.
 

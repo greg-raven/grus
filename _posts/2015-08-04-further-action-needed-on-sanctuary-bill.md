@@ -18,6 +18,6 @@ Thank you again for passing legislation to restrict sanctuary funding, please fi
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. I know you feel passionately about this issue, so let's get to work.

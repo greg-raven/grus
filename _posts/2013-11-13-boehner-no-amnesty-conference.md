@@ -18,6 +18,6 @@ The House of Representatives must listen to American workers and must understand
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. This is only one step toward undoing the destruction to our economy caused by Barack Obama, but it is an important one. We must keep pushing in this direction.

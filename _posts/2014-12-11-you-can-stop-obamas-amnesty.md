@@ -16,4 +16,4 @@ After investigating the legality of this plan at the behest of Senator Sessions,
 
 I urge you to reconsider your plan and pass a bill that defunds President Obama's executive amnesty immediately.
 
-Greg Raven
+{% include signature.html %}

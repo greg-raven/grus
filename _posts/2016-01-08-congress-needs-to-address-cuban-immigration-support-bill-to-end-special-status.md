@@ -18,4 +18,4 @@ Rep. Gosar's legislation would repeal the Cuban Adjustment Act of 1966 and end t
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

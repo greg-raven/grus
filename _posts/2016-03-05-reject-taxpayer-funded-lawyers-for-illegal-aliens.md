@@ -18,4 +18,4 @@ This legislation is simply a ploy to amnesty illegal aliens and a handout to imm
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

@@ -21,6 +21,6 @@ Your votes against S. 3100 and S. 2193 defy reason. I urge you to reconsider you
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Sanctuary cities threaten American lives, and yet, you have voted to protect these bastions of crime, violence and danger from the law.

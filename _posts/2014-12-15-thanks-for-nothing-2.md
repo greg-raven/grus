@@ -21,6 +21,6 @@ I am disappointed that you are choosing to help illegal aliens over struggling A
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. So much for being a tax fighter and fiscal conservative ... let alone a conservative, period. Thanks for nothing.

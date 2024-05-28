@@ -21,6 +21,6 @@ Regardless of whether or not one believes the end-result of the DREAM Directive 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. If our leaders won't return this country to the rule of law, we are lost.

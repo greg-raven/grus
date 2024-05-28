@@ -16,4 +16,4 @@ These are commonsense solutions that have broad support among the American peopl
 
 With more than 15 million Americans looking for full-time work, does it really make sense to continue to import more than 1 million new foreign workers each year? I don't think it does, and I urge you enact the Commission's recommendations.
 
-Greg Raven
+{% include signature.html %}

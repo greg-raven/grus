@@ -30,4 +30,4 @@ In this case, I urge you not to reward anyone for being associated with the horr
 
 Our recommendation would be that you appoint former Maricopa County Sheriff Joe Arpaio. He is a strong supporter both of our laws and our president. Also, at his age, he won't be able to make a career out of service in the Senate; he may be done by the end of this term, which would allow someone else to win this seat by election.
 
-Greg Raven
+{% include signature.html %}

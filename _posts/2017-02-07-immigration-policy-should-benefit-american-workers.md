@@ -18,4 +18,4 @@ I hope you can work with the president to change our nation's policies and laws 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

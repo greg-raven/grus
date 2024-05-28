@@ -22,6 +22,6 @@ Specifically, Heritage notes that "It is true that low-skill immigrant household
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. The next administration needs to represent Americans and American interests, not foreigners and foreign interests.

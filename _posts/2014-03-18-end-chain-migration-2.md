@@ -20,4 +20,4 @@ I hope you'll work with your House colleagues to end Chain Migration and instead
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

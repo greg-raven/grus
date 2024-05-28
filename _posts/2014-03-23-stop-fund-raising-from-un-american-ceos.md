@@ -16,4 +16,4 @@ American workers deserve better than legislation that would increase foreign wor
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

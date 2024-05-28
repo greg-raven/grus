@@ -18,4 +18,4 @@ I urge you to finally put an end to our government's refusal to secure our natio
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

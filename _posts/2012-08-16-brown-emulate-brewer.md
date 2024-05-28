@@ -18,4 +18,4 @@ I urge you to take similar measures immediately.
 
 If you're really serious about getting the economy in California back on track, you start enforcing our existing laws and crack down on illegal immigration.
 
-Greg Raven
+{% include signature.html %}

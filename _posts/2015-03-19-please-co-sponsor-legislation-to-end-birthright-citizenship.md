@@ -16,6 +16,6 @@ The United States is almost the only industrialized nation to still practice jus
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. After you voted last year to continue supporting Obama's illegitimate government-by-fiat, your staff promised us you'd get tough on illegal immigration. Get going!

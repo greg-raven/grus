@@ -16,4 +16,4 @@ If Republicans support efforts to bring in more foreign workers to fight for the
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

@@ -25,6 +25,6 @@ These bills, if passed, would mandate use of the E-Verify system, end restrictio
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. A group of us met with your staff after the last mid-term elections, and they promised that after everyone was sworn in, Republicans were going to get tough on immigration. We're still waiting, and people are still dying as a result of your inaction.

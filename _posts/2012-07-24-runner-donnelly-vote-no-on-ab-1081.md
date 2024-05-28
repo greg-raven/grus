@@ -21,6 +21,6 @@ Voters like me understand that this measure is nothing but pandering. I, for one
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. And don't forget California Penal Code Section 834b.

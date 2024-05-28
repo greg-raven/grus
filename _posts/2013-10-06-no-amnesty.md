@@ -22,6 +22,6 @@ Please oppose these efforts to harm American and legal immigrant workers. Say no
 
 Phone me if you would like to talk about this
 
-Greg Raven
+{% include signature.html %}
 
 P.S. I suspect the true aim of these rallies is not "immigration," but rather revanchism, or the "reconquest" of the United States by foreign invaders through demographics. For America to stay American, it must secure it's borders and repel the invaders from within and without.

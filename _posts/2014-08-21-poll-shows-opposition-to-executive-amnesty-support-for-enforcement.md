@@ -18,4 +18,4 @@ I am glad that House Republicans have taken concrete action to stop these execut
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

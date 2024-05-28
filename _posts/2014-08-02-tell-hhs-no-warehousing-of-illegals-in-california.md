@@ -20,6 +20,6 @@ Baltimore is just one of many cities around the country that have stood up and r
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. First, they should be deported immediately, not housed anywhere in the U.S. Second, we keep hearing about the seriousness of the water shortage here in California; why not mitigate it by kicking out all our illegals and prevent others from entering?

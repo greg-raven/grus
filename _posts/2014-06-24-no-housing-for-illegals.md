@@ -22,6 +22,6 @@ I hope you will protect our community like Rep. Hurt did. Please don't allow DHS
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We need to secure our borders and evict all the illegals NOW!

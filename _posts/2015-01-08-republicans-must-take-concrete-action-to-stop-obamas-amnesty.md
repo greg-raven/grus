@@ -18,6 +18,6 @@ At the moment, the best way to stop President Obama's amnesty is to make sure it
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Enough screwing around. Your staff promised us action this year. Stop caving in to Obama and the progressives and start landing some punches!

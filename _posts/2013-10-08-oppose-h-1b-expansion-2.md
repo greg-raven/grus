@@ -22,4 +22,4 @@ Please act against the practice of hiring low-cost foreign workers at the expens
 
 Phone me if you would like to talk about this
 
-Greg Raven
+{% include signature.html %}

@@ -20,6 +20,6 @@ I hope you will support this resolution. The National Guard needs to be called o
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. A nation without borders is not a nation!

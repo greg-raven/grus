@@ -28,4 +28,4 @@ Other states are considering resolutions that expose Agenda 21 and rejects its i
 
 It is imperative that you draft and support passage of a similar resolution in your state and do everything in your power to stop Agenda 21 dead in its tracks.
 
-Greg Raven
+{% include signature.html %}

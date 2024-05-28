@@ -18,6 +18,6 @@ Laws to end the practice, S. 45 and H.R. 140, are currently before Congress and 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Birthright citizenship has never been the law in this country. We need to end the practice immediately.

@@ -20,4 +20,4 @@ The numbers don't lie: the jobs depression isn't over and Americans are not gett
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

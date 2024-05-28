@@ -16,6 +16,6 @@ I know you oppose amnesty and don't want to put millions of Americans permanentl
 
 Phone me if you would like to talk about this
 
-Greg Raven
+{% include signature.html %}
 
 P.S. No amnesty. Not no way, not no how!

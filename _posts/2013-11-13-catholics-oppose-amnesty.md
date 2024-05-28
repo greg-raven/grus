@@ -18,6 +18,6 @@ While Catholics are definitely not uniformly against helping illegal immigrants,
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. The Catholic man-in-the-street is better informed than his so-call church leaders.

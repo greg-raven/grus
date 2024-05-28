@@ -16,4 +16,4 @@ I hope you will decide to oppose the Speaker's principles and the Democrats' war
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

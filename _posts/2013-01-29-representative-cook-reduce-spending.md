@@ -17,6 +17,6 @@ You will probably get a lot of advice from Democrats in Washington who want you 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Please help fight for America and Americans: STOP immigration; STOP increases to the debt ceiling; STOP further infringements on our 2nd Amendment rights; DISMANTLE the welfare state; REPEAL Obamacare.

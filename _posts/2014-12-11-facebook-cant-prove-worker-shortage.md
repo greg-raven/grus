@@ -24,4 +24,4 @@ I urge you to give Americans who have worked hard to obtain the skills necessary
 
 I urge you to resist any pressure to increase tech-worker visas for foreign workers.
 
-Greg Raven
+{% include signature.html %}

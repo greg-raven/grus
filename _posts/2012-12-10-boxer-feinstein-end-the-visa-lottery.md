@@ -19,4 +19,4 @@ I hope your party will put jobless Americans first and support efforts to end th
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

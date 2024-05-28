@@ -20,6 +20,6 @@ I urge you to tell GOP Leadership to include Rep. Aderholt's bill in the upcomin
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Time for you to step up.

@@ -18,6 +18,6 @@ Congress cannot endorse the president's actions; doing so will only encourage hi
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. You PROMISED you would fight amnesty and illegal immigration after the elections, and then you do this? Illegal aliens didn't elect you, American citizens did, and you need to uphold your oath of office and serve them, instead of criminal foreign invaders.

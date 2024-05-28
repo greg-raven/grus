@@ -18,4 +18,4 @@ I urge you to support legislation to put Americans back to work. However, please
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

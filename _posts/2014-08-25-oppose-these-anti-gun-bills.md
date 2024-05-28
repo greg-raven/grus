@@ -18,4 +18,4 @@ No matter what his intentions, though, again I urge you to vote no on each of th
 
 Thank you for your time.
 
-Greg Raven
+{% include signature.html %}

@@ -18,6 +18,6 @@ Please do not support any effort by Rep. McCaul to include his border bill to th
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Evict all the invaders now, old and new!

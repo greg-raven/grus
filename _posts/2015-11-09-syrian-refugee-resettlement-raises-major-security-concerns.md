@@ -23,6 +23,6 @@ The United States faces the same collapse if it admits more fleeing Syrians. Ple
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We must secure our borders!

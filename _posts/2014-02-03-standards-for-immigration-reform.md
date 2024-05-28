@@ -16,4 +16,4 @@ With the November elections fast approaching, I thought your party would be seek
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

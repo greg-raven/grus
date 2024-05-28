@@ -18,6 +18,6 @@ I urge you to face down those on your party that want to bail out illegal aliens
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Stop these idiots from selling out our country!

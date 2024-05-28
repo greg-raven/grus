@@ -17,6 +17,6 @@ The United States is almost the only industrialized nation to still practice jus
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. "A country without borders is not a country." --- Ronald Reagan.

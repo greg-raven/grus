@@ -25,6 +25,6 @@ It is your duty to protect constituents, not throw us under the bus. Vote NO on 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We can't trust Governor Brown to do the right thing and veto this bill, so it's defeat is up to you.

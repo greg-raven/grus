@@ -23,6 +23,6 @@ The Jordan Commission concluded that immigration must serve the national interes
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. This is absolutely key to regaining control of our immigration situation.

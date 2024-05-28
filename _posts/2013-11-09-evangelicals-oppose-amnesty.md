@@ -22,4 +22,4 @@ I hope you will take the results of this poll to heart, and not the advice of th
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

@@ -18,4 +18,4 @@ I hope you will not make the same mistake as Rep. Garcia. Please do not support 
 
 Phone me if you would like to talk about this
 
-Greg Raven
+{% include signature.html %}

@@ -22,4 +22,4 @@ Both of these steps will help ensure a thorough vetting process that aims to kee
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

@@ -16,6 +16,6 @@ Any immigration legislation passed by the House would give Harry Reid the House-
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Stop these idiots from selling out our country!

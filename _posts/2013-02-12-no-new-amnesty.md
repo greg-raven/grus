@@ -24,4 +24,4 @@ Combined with current laws, the legalization would be a pathway to massive new w
 
 4. It would immediately legalize 11 million illegal aliens without requiring triggers that fully implement enforcement first. The previous seven amnesties between 1986 and 2000 had no enforcement triggers and served only to entice 11 million new illegal immigrants who now demand their own amnesty.
 
-Greg Raven
+{% include signature.html %}

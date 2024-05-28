@@ -19,6 +19,6 @@ All murders are tragic, but the recent shooting death in San Francisco is sensel
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. If the Feds can go after Arizona for trying to enforce immigration law, they should also go after sanctuary cities for breaking the law!

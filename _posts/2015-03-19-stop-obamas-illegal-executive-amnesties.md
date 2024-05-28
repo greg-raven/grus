@@ -18,4 +18,4 @@ I hope this judicial decision will spur you and your colleagues to take the init
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

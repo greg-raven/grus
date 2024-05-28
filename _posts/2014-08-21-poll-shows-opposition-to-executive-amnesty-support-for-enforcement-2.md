@@ -17,6 +17,6 @@ It's clear that American voters do not support President Obama's immigration age
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. I also e-mailed you about this yesterday, with details about the three steps you could take right now to prevent Obama's illegal executive amnesty.

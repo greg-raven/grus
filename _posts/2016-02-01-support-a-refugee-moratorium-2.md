@@ -21,6 +21,6 @@ Please do all you can to protect our country by supporting H.R. 4218.
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. While you're at it, please consider a complete moratorium on all immigration, secure our border, and evict the illegals already here.

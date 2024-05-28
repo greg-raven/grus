@@ -17,6 +17,6 @@ S. 723 in the Senate would eliminate birthright citizenship for the children of 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. This is key to the survival of our republic.

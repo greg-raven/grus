@@ -21,4 +21,4 @@ Thank you again for doing what is best for the United States and please continue
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

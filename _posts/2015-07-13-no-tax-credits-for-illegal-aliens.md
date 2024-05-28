@@ -20,4 +20,4 @@ The president's actions are not fair for the millions of hard-working, taxpaying
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

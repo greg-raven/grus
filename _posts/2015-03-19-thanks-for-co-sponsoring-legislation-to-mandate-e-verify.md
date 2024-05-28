@@ -16,4 +16,4 @@ I'm very glad you care about putting jobless Americans back to work. Please conv
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

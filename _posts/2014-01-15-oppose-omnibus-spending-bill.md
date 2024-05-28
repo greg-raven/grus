@@ -12,4 +12,4 @@ Please oppose the 1,500-page, trillion-dollar, sequester-scrapping secret spendi
 
 How about we cut $2.4 trillion out of the budget for starters, and then start looking for other ways to reduce government?
 
-Greg Raven
+{% include signature.html %}

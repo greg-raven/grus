@@ -23,6 +23,6 @@ Voters like me need your help now! Please study the executive orders released by
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. If we do not observe the rule of law our nation is lost.

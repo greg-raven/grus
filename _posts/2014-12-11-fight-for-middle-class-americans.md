@@ -16,4 +16,4 @@ According to a study from the Center for Immigration Studies, nearly all job gro
 
 To give our struggling middle-class a clean shot at finding a good job, I urge you to limit new legal immigration and defund the President's executive amnesty.
 
-Greg Raven
+{% include signature.html %}

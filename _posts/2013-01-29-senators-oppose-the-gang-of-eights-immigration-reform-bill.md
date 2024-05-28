@@ -19,4 +19,4 @@ I urge you to oppose amnesty and support real solutions that finally solve the i
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

@@ -15,6 +15,6 @@ I am not in favor of using eminent domain to "assist" financially distressed hom
 
 Signed,
 
-Greg Raven
+{% include signature.html %}
 
 cc: Federal Housing Finance Authority (FHFA)

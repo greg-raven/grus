@@ -18,4 +18,4 @@ You have a poor record of defending these victims of illegal immigration but at 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

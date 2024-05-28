@@ -20,6 +20,6 @@ You can help to solve this problem by cosponsoring H.R. 604. I hope you will do 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. After you voted last year to continue supporting Obama's illegitimate government-by-fiat, your staff promised us you'd get tough on illegal immigration. Get going!

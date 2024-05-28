@@ -20,6 +20,6 @@ By ignoring immigration's role in expanding the job market, you are doing a diss
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. The next administration needs to represent Americans, not foreigners.

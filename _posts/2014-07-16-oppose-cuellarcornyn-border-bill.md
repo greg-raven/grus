@@ -23,6 +23,6 @@ While Rep. Cuellar and Sen. Cornyn have genuinely tried to combat the border cri
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We must secure our border now, and send each of the illegals back home. No housing here! No hand-outs here! No amnesty!

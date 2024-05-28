@@ -16,6 +16,6 @@ The National Guard can and should play a vital role in keeping our nation safe. 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. As a great former governor of California once said, "A country without a border is not a country."

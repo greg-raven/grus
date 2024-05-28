@@ -18,6 +18,6 @@ I urge you to reconsider your support for the president's executive amnesties. S
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Is it because Obama himself is an illegal alien, and you refuse to do anything about that? Your job is to enforce the law, not figure out ways of skirting it when it suits your purposes.

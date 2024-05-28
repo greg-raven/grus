@@ -16,4 +16,4 @@ I urge you to follow the president's lead and keep the good news American worker
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

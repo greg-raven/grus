@@ -18,6 +18,6 @@ Allowing DHS to act as it has been constitutes a threat to our national security
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. If you voted for this, it must be because you and your husband are making money off it it somehow.

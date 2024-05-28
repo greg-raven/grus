@@ -19,6 +19,6 @@ I urge you to use the next two months to convince the president rethink his amne
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Keep in mind that any amnesty will also put an end to any hopes that we might have for repairing our crumbling infrastructure and welfare systems.

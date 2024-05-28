@@ -18,6 +18,6 @@ The increase in H-2B visas would mostly harm these young Americans without highe
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. I know you are concerned about jobs. We need to give what jobs are available to U.S. citizens, not to foreigners.

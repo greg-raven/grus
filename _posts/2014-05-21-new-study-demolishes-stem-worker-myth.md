@@ -14,4 +14,4 @@ I am a science and technology worker and I know that many Americans with degrees
 
 The CIS study found that only one-third of Americans with an undergraduate STEM degree actually have a job requiring such a degree. Unfortunately, the rest of these Americans either don't work in the STEM fields or don't have jobs. I hope you will look at the study. There is not a STEM worker shortage, but there is a shortage of STEM jobs.
 
-Greg Raven
+{% include signature.html %}

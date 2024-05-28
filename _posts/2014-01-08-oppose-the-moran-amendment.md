@@ -21,4 +21,4 @@ I urge you to oppose this amendment. It can only harm American workers.
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

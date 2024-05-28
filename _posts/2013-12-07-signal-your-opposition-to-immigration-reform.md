@@ -17,4 +17,4 @@ I hope you will not sign this letter. Passing amnesty and comprehensive immigrat
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

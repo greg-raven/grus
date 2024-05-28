@@ -16,4 +16,4 @@ I realize that these amendments are only the first step to stopping Obama's amne
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

@@ -31,6 +31,6 @@ It is totally ridiculous for laws to be passed by Congress for the good of the A
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Don't let the illegal alien in the White House run our immigration policies!
