@@ -30,12 +30,12 @@ tags:
 - Doug LaMalfa
 - Lee
 - Lofgren
-- Lowenthal
-- Matsui
+- Alan Lowenthal
+- Doris Matsui
 - Maxine Waters
-- McCarthy
-- McClintock
-- McKeon
+- Kevin McCarthy
+- Tom McClintock
+- Howard McKeon
 - McNerney
 - Miller
 - Janet Napolitano
