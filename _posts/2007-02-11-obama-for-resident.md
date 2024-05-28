@@ -13,10 +13,9 @@ format: video
 
 Today's paper reports that Barack Obama "announced his bid for president Saturday, a black man evoking Abraham Lincoln's ability to unite a nation." I don't know which is more frightening: That the AP reporters and editors who produced this story are insane, or Obama is and no one else has yet noticed it.
 
-
 Obama would be like Lincoln (and, to be fair, just about every other politician) in saying one thing and meaning or doing another. Just as one example, there's his statement that he would not run for president in 2008.
 
-<iframe allowfullscreen="" height="630" loading="lazy" src="https://www.youtube.com/embed/XNq-dpGqszQ?feature=oembed" width="840"></iframe>
+<video  width="640" height="360" src="https://www.glockspiel.com/grus/2006-barack-hussein-obama.mp4" controls></video>
 
 At that time, it was "silly" to speak of such matters, and he thought he had made himself perfectly clear. Keep that in mind as you listen to him in the future.
 
