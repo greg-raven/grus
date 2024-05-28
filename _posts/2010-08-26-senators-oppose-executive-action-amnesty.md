@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 How could Resident Obama even consider instructing USCIS to draw up a memorandum entitled "Administrative Alternatives to Comprehensive Immigration Reform?" Does he not believe it is the job of the people's Congress to set immigration policy?

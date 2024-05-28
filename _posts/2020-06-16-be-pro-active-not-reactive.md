@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- President Donald Trump
+- Donald Trump
 ---
 
 I am very disappointed that you have gone from being somewhat pro-active to being almost totally reactive. From where I sit, it seems that your successes have come from being proactive, while most of your problems come from being reactive.

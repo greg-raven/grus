@@ -4,10 +4,10 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Anthony Adams
+- Anthony Adams
 - California
-- Governor Arnold Schwarzenegger
-- Senator George Runner
+- Arnold Schwarzenegger
+- George Runner
 - taxes
 ---
 

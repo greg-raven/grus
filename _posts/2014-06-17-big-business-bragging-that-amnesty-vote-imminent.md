@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I was appalled to learn that Reps. Paul Ryan, Mick Mulvaney, and Mario Diaz-Balart are about to do an informal whip count on moving immigration legislation. If this goes well, it is expected that the House Republican leadership will join their skulduggery and hold an official whip count and hopefully hold "comprehensive amnesty votes" before August. I cannot understand why these Representatives would go behind the backs of their Republican colleagues and do something that, in the long rung, would harm all Americans.

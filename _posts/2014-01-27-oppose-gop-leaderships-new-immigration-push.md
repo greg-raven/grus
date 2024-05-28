@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 News reports, quoting unnamed GOP leadership aides, are suggesting that House Republicans are planning to push for work permits for illegal aliens in the coming weeks and months. These reports have obviously troubled me greatly and I hope they aren't true.

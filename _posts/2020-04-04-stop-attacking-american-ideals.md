@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- Representative Nancy Pelosi
+- Nancy Pelosi
 ---
 
 I implore you to stop your attacks against conservative ideals and people.

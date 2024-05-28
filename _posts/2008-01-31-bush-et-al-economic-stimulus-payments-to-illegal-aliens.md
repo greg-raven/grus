@@ -5,10 +5,10 @@ categories:
 - Letters
 tags:
 - Federal government
-- President George Bush
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- George Bush
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm writing today about H.R. 5140, which apparently includes a loophole that allows the IRS to send "Economic Stimulus" payments to illegal aliens.

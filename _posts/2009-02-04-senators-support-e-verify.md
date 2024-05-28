@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is important that only American workers benefit from any jobs encouraged by the economic stimulus package. Please ensure that the two E-Verify amendments approved by the House of Representatives are in Senate version of American Recovery and Reinvestment Act of 2009.

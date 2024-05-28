@@ -8,8 +8,8 @@ tags:
 - environment
 - illegal immigration
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 America's remaining open spaces, especially our majestic national parks, are being "used to death." As our population grows, parks and beaches cannot keep up with the demand. Unless America can achieve a stable sustainable population, the trampling of our remaining open spaces will worsen. This is why Congress must revisit our immigration policies. The Census Bureau projects the U.S. that 75 million people will be added to America's population by the Year 2060, with roughly 90 percent of that growth due to immigration.

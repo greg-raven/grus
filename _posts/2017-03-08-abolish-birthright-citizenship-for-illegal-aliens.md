@@ -6,9 +6,9 @@ categories:
 tags:
 - birthright citizenship
 - illegal aliens
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Birthright citizenship is an outdated practice that lures foreign nationals to the United States so their unborn children can become U.S. citizens. Please work to end this policy that most industrialized nations have already abandoned.

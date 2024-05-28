@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - jobs
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I am disappointed that some of your Senate colleagues are pushing for an increase in H-2B numbers. As H-2B visas typically cover seasonal, entry-level, or unskilled jobs, these visas disproportionately harm young Americans. Increasing H-2B visa numbers would prevent thousands of more young Americans from entering the workplace.

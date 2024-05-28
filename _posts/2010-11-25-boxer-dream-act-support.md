@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator Barbara Boxer
+- Barbara Boxer
 ---
 
 We truly are disappointed that you have decided to support the DREAM Act amnesty. We thought that, given the recent election, you would be opposing, not supporting, an anti-American amnesty bill.

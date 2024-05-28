@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - Internet
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Facebook and Google lied to us, and they must be stopped.

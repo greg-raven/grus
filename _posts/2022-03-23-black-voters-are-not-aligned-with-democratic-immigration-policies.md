@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Do you support Black workers or favor importing foreign workers?

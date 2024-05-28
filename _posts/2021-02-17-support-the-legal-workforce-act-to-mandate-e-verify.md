@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I hope you will cosponsor and support the Legal Workforce Act, H.R. 78.

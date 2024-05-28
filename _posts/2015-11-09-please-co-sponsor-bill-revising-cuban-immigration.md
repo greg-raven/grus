@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 The immigration laws passed by Congress after the Cuban revolution are now being abused by many Cubans to abuse America's welfare system. Rep. Paul Gosar's Ending Special National Origin-Based Immigration Programs for Cubans Act of 2015 would end the "wet foot/dry foot" policy and repeal the Cuban Adjustment Act of 1966. Please cosponsor this legislation.

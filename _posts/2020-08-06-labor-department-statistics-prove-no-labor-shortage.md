@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 According to recent statistics released by the Labor Department, there has been some improvement in the current jobs crisis facing American workers. Sadly, there is much work to be done in reversing the disastrous effects the COVID-19 panic has had on our economy and labor force.

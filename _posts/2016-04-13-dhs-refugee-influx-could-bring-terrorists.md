@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - refugees
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 DHS Secretary Jeh Johnson recently told a House panel that the influx of refugees from the Middle East creates a perfect opportunity for terrorists to enter the United States. Please pass H.R. 4731, the Refugee Program Integrity Restoration Act, which would reform the refugee program and increase its security.

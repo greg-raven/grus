@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Support American workers, not Big Tech's profits. Cosponsor H.R. 6206.

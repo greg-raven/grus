@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 A new Politico article highlights a poll which shows that Democratic voters are supportive of H.R. 5272, the House-passed legislation to stop President Obama's executive amnesty actions, but are against S. 744, the Senate-passed "Gang of Eight" amnesty. I hope you will take this poll to heart and support policies that stop these amnesties and protect American workers.

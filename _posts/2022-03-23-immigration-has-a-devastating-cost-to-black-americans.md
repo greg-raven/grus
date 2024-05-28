@@ -6,8 +6,8 @@ categories:
 tags:
 - chain migration
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Reducing immigration helps American minorities.

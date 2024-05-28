@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Obamacare
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 RE: No to government health care meddling

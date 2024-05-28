@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 As your constituent, I ask that you fight to defend, advance, and secure my freedom, as required by your oath of office.

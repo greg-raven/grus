@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I wanted to let you know that House Speaker Boehner just said that he has no intention of conferencing any legislation with the Senate's "Gang of Eight" amnesty. Please make sure no other amnesty or immigration legislation that harms American workers is passed by the House.

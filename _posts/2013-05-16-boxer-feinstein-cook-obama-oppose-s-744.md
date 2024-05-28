@@ -8,9 +8,9 @@ tags:
 - Barack Hussein Obama
 - chain migration
 - population
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please oppose the S. 744 immigration bill, that would give out a minimum of 33 million lifetime work permits to foreign citizens in the first decade alone.

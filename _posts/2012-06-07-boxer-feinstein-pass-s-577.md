@@ -6,8 +6,8 @@ categories:
 tags:
 - Federal government
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 - taxes
 ---
 

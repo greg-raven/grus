@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is appalling that after the deaths of Kate Steinle and numerous other innocent Americans, Congress has still not acted to reign in sanctuary cities. I urge you to stand up for the rule of law and American lives by doing all you can to make sure sanctuary cities are defunded as part of the FY2017 appropriations process.

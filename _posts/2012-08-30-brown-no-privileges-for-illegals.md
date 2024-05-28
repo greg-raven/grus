@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - California
-- Governor Jerry Brown
+- Jerry Brown
 - illegal aliens
 ---
 

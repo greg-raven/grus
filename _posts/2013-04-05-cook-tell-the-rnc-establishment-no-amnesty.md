@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We are disappointed that Sen. Rand Paul and GOP Chairman Reince Priebus are rushing to amnesty illegal aliens in an effort to reach Hispanic voters. Instead of amnestying illegal aliens and putting millions of Americans out of work, Republicans would be wise to push legislation to bring Hispanic Americans into the middle class. This is the best way of making Hispanic voters into Republican voters.

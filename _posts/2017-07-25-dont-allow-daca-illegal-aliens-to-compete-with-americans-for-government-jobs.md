@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal aliens
 - jobs
-- Representative Paul Cook
+- Paul Cook
 ---
 
 The House Appropriations Committee approved an amendment to the Financial Services spending bill that would allow DACA recipients to compete with American workers for Federal jobs. So much for Congress putting American workers first!

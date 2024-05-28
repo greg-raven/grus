@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I was disappointed to learn that DHS Secretary Mayorkas has issued an additional 65,000 H-2B visas. As H-2B visas typically cover seasonal and temporary low-skill jobs, these visas disproportionately harm young and less-educated Americans. Increasing H-2B visa numbers would prevent thousands more young Americans from entering the workplace.

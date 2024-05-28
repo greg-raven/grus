@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I hope you will do all you can to make sure you and your fellow Democrats do not shut down the government if the December spending bill doesn't amnesty DACA recipients.

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Chuck Grassley
+- Paul Cook
+- Chuck Grassley
 ---
 
 Oppose the Trump administration's amnesty and guest worker expansion!

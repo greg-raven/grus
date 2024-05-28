@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I am writing to you today to inform you that I stand in opposition to H.R. 1004, H.R. 1005, H.R. 1006, H.R. 1007 and H.R. 1008.

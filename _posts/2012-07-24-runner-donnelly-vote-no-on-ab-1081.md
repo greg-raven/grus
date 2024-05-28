@@ -4,11 +4,11 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Tim Donnelly
+- Tim Donnelly
 - California
 - economy
 - immigration
-- Senator Sharon Runner
+- Sharon Runner
 ---
 
 I am a voter in your district who wants you to vote no on AB1081 when it comes up for a concurrence vote. It is wrong to tie the hands of police and ICE agents by limiting detainers to illegal immigrants who committed serious offenses.

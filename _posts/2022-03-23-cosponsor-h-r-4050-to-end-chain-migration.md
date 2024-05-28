@@ -6,7 +6,7 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Please add your name as a cosponsor to H.R. 4050 to end chain migration.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I was outraged to learn that the House of Representatives will hold a vote on H.R. 6 sometime this week. H.R. 6 is a mass amnesty bill that will give amnesty to millions of Dreamers and TPS recipients --- including gang members, human traffickers, and other criminals --- without doing anything to secure the border. Specifically, Dreamers may have committed serious crimes and still qualify for an amnesty:

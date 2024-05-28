@@ -6,8 +6,8 @@ categories:
 tags:
 - Federal government
 - population
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 We are glad Resident Obama pointed out that America needs to create 150,000 new jobs each month simply to employ those Americans entering the workforce. With this in mind, why is the Congress allowing businesses to import 125,000 new foreign workers each month?

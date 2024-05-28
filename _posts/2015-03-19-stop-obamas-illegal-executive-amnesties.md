@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am very pleased that U.S. District Court Judge Andrew Hanen has decided that President Obama cannot, for the moment, follow through on his plans to break the law by unilaterally granting amnesty to millions of illegal aliens. I hope Congress will use this opportunity to bring immigration policy back to Congress by passing legislation stopping the president's actions.

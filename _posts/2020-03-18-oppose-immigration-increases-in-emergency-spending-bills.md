@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I have heard that there is a handful of Senators, along with some in the White House, who are looking to slip an INCREASE of legal immigration into the emergency spending bills currently being drafted to deal with the coronavirus outbreak.

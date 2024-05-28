@@ -7,7 +7,7 @@ tags:
 - border control
 - Federal government
 - national security
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I hope you will use your influence to get a fence built along our border.

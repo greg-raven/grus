@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I was disturbed to learn that the House of Representatives is planning to proceed with the FY 2024 DHS Appropriations Bill, H.R. 4367! This legislation, if passed and signed into law, would harm hundreds of thousands of less-educated and lower-skilled American workers and their families.

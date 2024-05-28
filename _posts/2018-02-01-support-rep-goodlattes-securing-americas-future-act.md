@@ -7,7 +7,7 @@ tags:
 - amnesty
 - chain migration
 - immigration
-- Representative Paul Cook
+- Paul Cook
 - visa lottery
 ---
 

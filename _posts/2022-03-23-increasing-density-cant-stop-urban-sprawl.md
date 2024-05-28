@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Density alone isn't enough: reduce our immigration-driven population growth.

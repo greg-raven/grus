@@ -8,8 +8,8 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 We are witnessing the dramatic loss of farmland in America. Plus, the farmland remaining is being degraded due to fragmentation, salinization, and/or topsoil erosion. This permanent loss of the means to produce food has been driven by our own population growth. What makes America unique among rapidly-growing countries is that our high growth in numbers is facilitated primarily through permissive immigration policies.

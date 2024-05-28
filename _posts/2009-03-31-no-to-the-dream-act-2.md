@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 You have shown a tendency of preferring illegal alien workers over unemployed Americans. Please change this tendency and oppose the anti-American worker DREAM Act amnesty.

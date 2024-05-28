@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The refugee resettlement program represents a security risk to our nation and a financial risk to taxpayers. I hope you will oppose any renewal or expansion of the program in the FY17 budget until refugee resettlement from terrorist-producing countries is halted.

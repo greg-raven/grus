@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 While we do wish to secure the border, secure the workplace, and mandate use of the E-Verify system, passing any immigration legislation while the Senate's mass amnesty bill is still active would give the Senate the vehicle it needs to pass a mass amnesty. Please share this message with the GOP Leadership who is considering bringing this legislation to the floor for a vote.

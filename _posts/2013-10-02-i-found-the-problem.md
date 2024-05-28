@@ -4,7 +4,7 @@ layout: post
 categories:
 - Information
 tags:
-- Senator Harry Reid
+- Harry Reid
 format: video
 ---
 

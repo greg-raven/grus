@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Thank you for voting in favor of the Blackburn and Aderholt amendments that defund Obama's amnesties and protect American workers. This is only the first step. I hope you'll continue to fight until this becomes law.

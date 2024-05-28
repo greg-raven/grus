@@ -5,10 +5,10 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jay Obernolte
-- Representative Kevin McCarthy
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Kevin McCarthy
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 - No immigration increases during COVID-enforced unemployment!

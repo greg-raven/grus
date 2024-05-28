@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is disappointing that so many of your Democratic colleagues are rushing to give an amnesty to illegal aliens. I am counting on you to oppose these efforts and help preserve jobs for unemployed American workers.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 H.R. 5038 takes U.S. jobs and rewards illegal workers --- please oppose it!

@@ -6,8 +6,8 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I am disappointed that recent media reports and statements from Biden administration officials indicate that the historic border crisis is beginning to wind down.

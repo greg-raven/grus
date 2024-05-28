@@ -6,41 +6,41 @@ categories:
 tags:
 - Federal government
 - immigration
-- Representative Adam Schiff
-- Representative Anna Eshoo
-- Representative Barbara Lee
-- Representative Bob Filner
-- Representative Dennis Cardoza
-- Representative Diane Watson
-- Representative Doris Matsui
-- Representative George Miller
-- Representative Grace Napolitano
-- Representative Henry Waxman
-- Representative Howard Berman
-- Representative Jackie Speier
-- Representative Jane Harman
-- Representative Jerry McNerney
-- Representative Jim Costa
-- Representative Joe Baca
-- Representative John Garamendi
-- Representative Judy Chu
-- Representative Laura Richardson
-- Representative Linda Sanchez
-- Representative Lois Capps
-- Representative Loretta Sanchez
-- Representative Lucille Roybal-Allard
-- Representative Lynn Woolsey
-- Representative Maxine Waters
-- Representative Mike Honda
-- Representative Mike Thompson
-- Representative Nancy Pelosi
-- Representative Pete Stark
-- Representative Sam Farr
-- Representative Susan Davis
-- Representative Xavier Becerra
-- Representative Zoe Lofgren
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Adam Schiff
+- Anna Eshoo
+- Barbara Lee
+- Bob Filner
+- Dennis Cardoza
+- Diane Watson
+- Doris Matsui
+- George Miller
+- Grace Napolitano
+- Henry Waxman
+- Howard Berman
+- Jackie Speier
+- Jane Harman
+- Jerry McNerney
+- Jim Costa
+- Joe Baca
+- John Garamendi
+- Judy Chu
+- Laura Richardson
+- Linda Sanchez
+- Lois Capps
+- Loretta Sanchez
+- Lucille Roybal-Allard
+- Lynn Woolsey
+- Maxine Waters
+- Mike Honda
+- Mike Thompson
+- Nancy Pelosi
+- Pete Stark
+- Sam Farr
+- Susan Davis
+- Xavier Becerra
+- Zoe Lofgren
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Your immigration voting record and that of most of your Democratic colleagues is absolutely dismaying. How can you and your colleagues support foreign worker increases when so many Americans cannot find a job?

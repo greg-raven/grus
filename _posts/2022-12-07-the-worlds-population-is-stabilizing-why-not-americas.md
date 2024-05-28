@@ -7,8 +7,8 @@ tags:
 - chain migration
 - environment
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 - Reducing immigration can lead to a sustainable America.

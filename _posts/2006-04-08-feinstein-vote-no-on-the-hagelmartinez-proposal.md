@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am very disappointed to hear that you voted YEA on yesterday's S. Amdt. 3192 to S 2454. Thank goodness it failed anyway. Today, I am writing in regards to the Hagel/Martinez bill, which as I understand it is 95% of the Judiciary Committee's horrid amnesty proposal, which was voted down Thursday.

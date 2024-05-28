@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Darrell Issa
+- Darrell Issa
 ---
 
 Representative Darrell Issa:

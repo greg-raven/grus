@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Stand up for workers and cosponsor E-Verify legislation.

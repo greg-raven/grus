@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Mitch McConnell
+- Mitch McConnell
 ---
 
 I implore you to be an authentic, impassioned, fearless conservative.

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Open the doors to the Senate Judiciary Committee's secret meeting on amnesties for illegal aliens and let the American citizens know which Senators are responsible for making the right or wrong decisions.

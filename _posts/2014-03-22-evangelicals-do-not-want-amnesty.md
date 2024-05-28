@@ -7,9 +7,9 @@ tags:
 - amnesty
 - Barack Hussein Obama
 - Joe Biden
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 News reports are saying that evangelical leaders have been lobbying Republican Congressmen in favor of work permits and other benefits for illegal aliens. I hope you have heard about the new poll showing that the vast majority of evangelical Christians oppose Speaker John Boehner's immigration proposals to reward illegal aliens with work permits and legal status. Please follow the immigration opinions of evangelicals --- not evangelical leaders --- as they happen to match my own.

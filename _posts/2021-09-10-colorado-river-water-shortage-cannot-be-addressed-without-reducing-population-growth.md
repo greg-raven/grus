@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Water is dwindling, but the population is growing.

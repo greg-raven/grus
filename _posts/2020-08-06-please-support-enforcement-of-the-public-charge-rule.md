@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I was saddened to hear that New York District Judge George Daniels halted the Trump Administration's Public Charge rule, again, even after the Supreme Court struck down an identical nationwide injunction put in place by Daniels in January.

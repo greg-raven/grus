@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Americans want to cut immigration. The polls show this. Any immigration bill coming out of the House has to make deep cuts in immigration numbers next year and 10 years from now."

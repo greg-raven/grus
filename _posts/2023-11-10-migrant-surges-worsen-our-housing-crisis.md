@@ -7,8 +7,8 @@ tags:
 - border control
 - illegal immigration
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
+- Jay Obernolte
+- Alex Padilla
 ---
 
 - Include H.R. 2 in funding bill.

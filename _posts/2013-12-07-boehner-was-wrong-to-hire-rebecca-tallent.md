@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I am deeply disturbed that Speaker Boehner has hired a former McCain immigration advisor and chief of staff to be his immigration legislative advisor. Her hiring is a clear sign that he intends to push for amnesty and comprehensive immigration reform in 2014. She worked on amnesty for Sen. McCain and previously worked for the pro-amnesty Bipartisan Policy Center. Please keep this in mind when dealing with the speaker on immigration issues.

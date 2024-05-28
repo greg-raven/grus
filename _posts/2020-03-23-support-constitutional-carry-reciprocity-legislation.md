@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Have you cosponsored the concealed carry reciprocity bill?

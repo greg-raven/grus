@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Recently, Rep. Don Beyer was fact checked on his claim that U.S. population would actually shrink if legal immigration were reduced, but his claim was rated "mostly false" by Politifact. I hope you will not believe anyone who says that mass immigration is required to grow or sustain America's population.

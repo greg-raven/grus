@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I hope you find Resident Obama's willingness to circumvent Congress and allow USCIS and ICE to issue de fact amnesties to illegal aliens as repulsive and outrageous as I do. Please ask to become an original cosponsor of Rep. Lamar Smith's HALT Act so that this practice is stopped at once.

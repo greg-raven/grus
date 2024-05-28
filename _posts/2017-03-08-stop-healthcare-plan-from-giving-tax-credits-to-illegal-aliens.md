@@ -6,9 +6,9 @@ categories:
 tags:
 - health care
 - illegal aliens
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I know that Congressional Republicans are working on an Obamacare replacement. However, I am very disappointed with the GOP's replacement legislation because it would allow illegal aliens to receive healthcare tax credits. I hope you will oppose any healthcare overhaul until it an be guaranteed that stringent verification measures are in place.

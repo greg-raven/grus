@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - Free speech
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please block attacks on freedom of speech.

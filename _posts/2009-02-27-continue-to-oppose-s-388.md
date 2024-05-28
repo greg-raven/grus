@@ -7,7 +7,7 @@ tags:
 - Federal government
 - immigration
 - jobs
-- Senator Barbara Boxer
+- Barbara Boxer
 ---
 
 There are millions of teenagers who would like to work summer jobs, but Sen. Mikulski's bill, S. 388, would prevent hundreds of thousands of American youngsters from finding jobs. I know you cosponsored a similar bill during the 110th congress, but have so far refrained from cosponsoring this bill. Please do not cosponsor this bill or any other bill that would harm American workers.

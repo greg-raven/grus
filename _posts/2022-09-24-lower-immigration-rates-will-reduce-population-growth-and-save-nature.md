@@ -7,8 +7,8 @@ tags:
 - chain migration
 - illegal immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I believe in welcoming immigrants to America, and having a humane immigration system that respects the dignity of every person. However, I'm concerned about how big our population will grow and, in turn, the fate of our nation's wilderness areas.

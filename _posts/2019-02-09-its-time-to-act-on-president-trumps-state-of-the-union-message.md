@@ -6,9 +6,9 @@ categories:
 tags:
 - border control
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please work to make President Trump's State of the Union immigration goals a reality!

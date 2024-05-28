@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - California
-- Governor Arnold Schwarzenegger
+- Arnold Schwarzenegger
 ---
 
 I am sending this to you in case you missed it:

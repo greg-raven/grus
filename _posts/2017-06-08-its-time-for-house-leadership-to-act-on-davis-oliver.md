@@ -7,10 +7,10 @@ tags:
 - border control
 - illegal immigration
 - national security
-- Representative Cathy McMorris-Rodgers
-- Representative Kevin McCarthy
-- Representative Paul Ryan
-- Representative Steve Scalise
+- Cathy McMorris-Rodgers
+- Kevin McCarthy
+- Paul Ryan
+- Steve Scalise
 ---
 
 A few weeks ago, the House Judiciary Committee has approved H.R. 2431, the Davis-Oliver Act, that would strengthen interior enforcement. This critical piece of legislation is badly needed to ensure that the Executive Branch upholds its duty to enforce federal immigration laws.

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Post-Brexit, there is no place for scapegoating immigrants or for bashing those of us who recognize the need to moderate immigration numbers.

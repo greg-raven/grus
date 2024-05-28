@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I understand that outgoing House Speaker Nancy Pelosi is trying to force the DREAM Act amnesty through the House during the lame duck session. I hope you realize that the American people have made it loud and clear that we oppose amnesty and we expect Congress to uphold our will.

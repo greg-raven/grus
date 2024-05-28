@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Secretary Janet Napolitano
+- Janet Napolitano
 ---
 
 I am concerned that the Department of Homeland Security is not implementing measures that would protect American workers.

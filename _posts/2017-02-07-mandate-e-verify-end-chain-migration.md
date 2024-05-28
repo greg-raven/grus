@@ -6,7 +6,7 @@ categories:
 tags:
 - chain migration
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 During the GOP's upcoming policy retreat in Philadelphia, I urge you and your fellow Republicans to make mandating use of the E-Verify system and ending chain migration legislative priorities, as doing so would fulfill GOP campaign promises to stand up for American workers.

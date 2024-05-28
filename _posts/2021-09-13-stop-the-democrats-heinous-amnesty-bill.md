@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Why are Democrats trying to force a massive amnesty on the American people when there is a crisis at the border and Americans are still out of work and suffering due to the COVID-19 pandemic? The Democrats' plans include: the DACA and DREAM amnesties, the "essential worker amnesty," the TPS amnesty, and the DED amnesty. Millions of Americans are out of work and amnestying more than 8 million illegal aliens will only make it more difficult for them to find work.

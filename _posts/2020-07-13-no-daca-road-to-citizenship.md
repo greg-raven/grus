@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- President Donald Trump
+- Donald Trump
 ---
 
 I am writing in response to your Telemundo interview of June 10, 2020, where you stated that you will be giving certain illegal aliens a "road to citizenship" by signing a major immigration Executive Order. This unlawful unilateral action would legitimize Obama's unlawful DACA (Deferred Action for Childhood Arrivals) protections for illegal alien offspring.

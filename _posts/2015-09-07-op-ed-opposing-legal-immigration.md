@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Mark Krikorian has written an op-ed for the *National Review* detailing the dangers mass *legal* immigration is causing for American conservatism. I have attached the article and I hope you will find time to read it.

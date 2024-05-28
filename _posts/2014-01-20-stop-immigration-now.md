@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Martin Luther King, Jr. strived for racial equality and that equality has been achieved in many arenas. However, it is still lacking in terms of employment, particularly for Black men. I urge you to consider reducing immigration numbers, which are far too high, so that all Americans have a good chance of finding a job.

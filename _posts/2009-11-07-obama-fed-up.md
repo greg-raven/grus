@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - national debt
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 As a taxpaying citizen, I'm fed up with lawmakers and policymakers who are pushing our nation to the brink of bankruptcy with the greatest deficit spending and most burdensome bailouts in history. This means you! These insane, failed policies only prolong the agony and double the burden for our children and grandchildren for generations to come.

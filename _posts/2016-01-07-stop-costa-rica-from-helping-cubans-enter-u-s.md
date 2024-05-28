@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 We're disappointed that Costa Rica, El Salvador, and Mexico have struck a deal to send thousands of Cubans who are stranded in Costa Rica to Mexico, via El Salvador. This deal will only encourage more Cubans to try to enter the U.S. illegally and needs to be opposed. he just-passed omnibus spending bill allows aid dollars for El Salvador to be reduced if the country is not certified by the Secretary of State as doing enough to combat illegal immigration. We believe this deal should prevent their certification and we hope you will convey this message to the State Department.

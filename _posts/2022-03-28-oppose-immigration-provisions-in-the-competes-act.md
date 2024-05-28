@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Please oppose adding House provisions to America COMPETES Act.

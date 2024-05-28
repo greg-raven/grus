@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Sen. Sessions' amendment to the omnibus would have protected millions of American jobs, yet you would not even support giving it a straight vote. How appalling!

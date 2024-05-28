@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - Obamacare
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm outraged by Congress's use of procedural trickery to put socialized healthcare on the fast-track in the Obama revised budget!

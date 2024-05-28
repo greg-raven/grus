@@ -4,9 +4,9 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Anthony Adams
-- Congressman George Runner
-- Governor Arnold Schwarzenegger
+- Anthony Adams
+- George Runner
+- Arnold Schwarzenegger
 - taxes
 ---
 

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I wanted to tell you about the March jobs reports from the Bureau of Labor Statistics. About 663,000 Americans gave up their job search in March and there are now more than 55 million working-age Americans no longer working. Why would Congress seek to increase the number of green cards the federal government issues? I urge you to oppose legislation that would bring in more foreign workers.

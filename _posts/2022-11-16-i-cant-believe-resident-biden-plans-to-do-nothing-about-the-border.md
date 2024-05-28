@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Immigration is one of the top issues in exit polls.

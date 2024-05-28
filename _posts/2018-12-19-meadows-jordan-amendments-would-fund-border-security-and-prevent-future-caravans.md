@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please support the Meadows/Jordan amendments to the upcoming spending bill!

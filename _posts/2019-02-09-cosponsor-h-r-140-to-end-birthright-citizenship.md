@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please help to end birthright citizenship by cosponsoring H.R. 140

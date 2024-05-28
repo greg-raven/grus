@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
+- Paul Cook
 ---
 
 As a Second Amendment supporter, I am writing to express my gratitude for your No votes on H.R. 8 and H.R. 1112.

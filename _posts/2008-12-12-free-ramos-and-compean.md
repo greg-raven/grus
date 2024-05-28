@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- President George Bush
+- George Bush
 ---
 
 Please pardon or commute the sentences of Border Patrol agents Compean and Ramos. They have been sentenced to prison for stopping a drug-smuggler.

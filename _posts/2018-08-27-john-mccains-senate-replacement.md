@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Governor Doug Ducey
+- Doug Ducey
 ---
 
 I am contacting you today to give input on your upcoming appointment for a replacement for the Senate seat of John McCain.

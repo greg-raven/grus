@@ -6,9 +6,9 @@ categories:
 tags:
 - border control
 - child labor
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 It frustrates me that, instead of securing the border, the Administration is allocating large grants that do not even cover the costs of cities overburdened with the migrant crisis.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Lois Wolk
+- Lois Wolk
 ---
 
 I am not in your district, but you are about to vote on a matters that could have direct negative impact on me if passed. Therefore, I am asking that you vote no on SB 53 and AB 1014. I do not support ammunition sales restrictions and registration or allowing my gun rights to be stripped away with restraining orders.

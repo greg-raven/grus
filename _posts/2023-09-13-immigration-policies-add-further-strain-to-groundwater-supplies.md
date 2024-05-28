@@ -8,9 +8,9 @@ tags:
 - chain migration
 - E-Verify
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 America's underground water supplies are being severely depleted (*The New York Times,* 8/28/23). The "mining" of groundwater causes critical problems and is happening across America, especially in arid areas with runaway urban sprawl.

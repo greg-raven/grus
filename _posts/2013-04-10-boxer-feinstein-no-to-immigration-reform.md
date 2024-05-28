@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is disappointing that pro-illegal alien protestors are on the National Mall demanding an amnesty for lawbreakers. I urge you to rebuff their demands and help put jobless Americans into construction and service jobs held by millions of illegal aliens.

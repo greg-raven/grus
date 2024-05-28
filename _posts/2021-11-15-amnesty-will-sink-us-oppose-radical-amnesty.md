@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Please read "Bill Clinton Saved His Presidency. Here's How Biden Can, Too." (*The New York Times,* November 8). Democrats Mark Penn (adviser to the Clintons) and Andrew Stein (former president of the New York City Council) have important advice for Democrats:

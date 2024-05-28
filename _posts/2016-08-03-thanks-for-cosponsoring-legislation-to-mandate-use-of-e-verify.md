@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 The hiring of illegal aliens is a major problem in our country and the Legal Workforce Act, H.R. 1147, mandates use of the E-Verify system to prevent this from occurring. I am glad you care as much about this problem as I do. Thank you for cosponsoring this legislation.

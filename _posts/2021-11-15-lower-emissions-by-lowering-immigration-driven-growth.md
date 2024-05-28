@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 To achieve a long-term reduction in greenhouse gas emissions, America must work toward population stabilization. This is a daunting goal because, as of today, the U.S. Census Bureau predicts that by 2060 America will grow by 79 million people, with roughly 90% due to immigration.

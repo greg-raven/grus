@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - judiciary
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please join Senator James Inhofe to oppose and filibuster Resident Obama's nomination of anti-life, anti-liberty, and anti-Christian Judge David Hamilton to the 7th Circuit Court of Appeals.

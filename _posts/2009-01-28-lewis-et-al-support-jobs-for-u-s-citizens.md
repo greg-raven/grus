@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 December's unemployment figures are deeply troubling. All must be done to promote job growth!

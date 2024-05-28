@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I completely agree with the Heritage Foundation's assertion that the White House is promulgating falsehoods in an effort to force the Senate's immigration bill on the American people. Please do all you can to prevent this bill from becoming law.

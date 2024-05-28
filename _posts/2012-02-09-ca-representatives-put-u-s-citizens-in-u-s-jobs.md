@@ -6,24 +6,24 @@ categories:
 tags:
 - California
 - economy
-- Representative Brian Bilbray
-- Representative Dan Lungren
-- Representative Dana Rohrabacher
-- Representative Darrell Issa
-- Representative David Dreier
-- Representative Devin Nunes
-- Representative Duncan D. Hunter
-- Representative Ed Royce
-- Representative Elton Gallegly
-- Representative Gary Miller
-- Representative Howard McKeon
-- Representative Jerry Lewis
-- Representative John Campbell
-- Representative Ken Calvert
-- Representative Kevin McCarthy
-- Representative Mary Bono Mack
-- Representative Tom McClintock
-- Representative Wally Herger
+- Brian Bilbray
+- Dan Lungren
+- Dana Rohrabacher
+- Darrell Issa
+- David Dreier
+- Devin Nunes
+- Duncan D. Hunter
+- Ed Royce
+- Elton Gallegly
+- Gary Miller
+- Howard McKeon
+- Jerry Lewis
+- John Campbell
+- Ken Calvert
+- Kevin McCarthy
+- Mary Bono Mack
+- Tom McClintock
+- Wally Herger
 ---
 
 Representative Brian Bilbray,

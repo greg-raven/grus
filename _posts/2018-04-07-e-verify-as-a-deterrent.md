@@ -6,9 +6,9 @@ categories:
 tags:
 - illegal aliens
 - illegal immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 E-Verify can act as a major deterrent for future illegal immigration. As long as employers are able to hire illegal workers, foreign nationals will continue to attempt to enter the country illegally, either through illegal border crossings or overstaying a visa.

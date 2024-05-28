@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 - visa lottery
 ---
 

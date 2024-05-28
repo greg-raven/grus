@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 The Massachusetts Coalition for Immigration Reform (MCIR) is suing several federal agencies based on their failure to comply with the National Environmental Policy Act (NEPA) regarding Resident Biden's immigration policies. These policies, notably terminating "remain in Mexico," preventing deportation proceedings for illegal aliens, and failure to finish the southern border wall are all subject to NEPA analysis, due to the huge environmental impact of adding millions of immigrants to the U.S. population.

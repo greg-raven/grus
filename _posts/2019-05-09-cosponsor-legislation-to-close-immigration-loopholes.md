@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
  Please cosponsor H.R. 586, the Fix the Immigration Loopholes Act.

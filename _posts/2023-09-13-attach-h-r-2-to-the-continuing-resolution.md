@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal aliens
 - illegal immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S. / Mexico border. This legislation would:

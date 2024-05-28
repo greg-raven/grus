@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Laphonza Butler
+- Laphonza Butler
 - illegal immigration
 - environment
 - immigration

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please oppose the Sentencing Reform Act of 2015 as it is currently written. This legislation would release thousands of dangerous non-citizen offenders at a time when the Obama administration has shown a refusal to deport even the most violent criminal aliens.

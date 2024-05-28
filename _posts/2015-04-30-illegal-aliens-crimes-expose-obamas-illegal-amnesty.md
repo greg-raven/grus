@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 A new Washington Times article by Stephen Dinan highlights the dangers of Barack Obama's failed --- and illegal --- immigration policies:

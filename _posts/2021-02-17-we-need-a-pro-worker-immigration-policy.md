@@ -7,8 +7,8 @@ tags:
 - immigration
 - jobs
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 You now have control of Congress. However, 20% of low-wage workers are unemployed.

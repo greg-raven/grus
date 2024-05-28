@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Members of Congress have used past spending bills to increase H-2B visas or to authorize DHS to increase H-2B visas. Please oppose any attempt at doing this in the upcoming spending bill.

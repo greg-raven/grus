@@ -4,11 +4,11 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Anthony Adams
+- Anthony Adams
 - Barack Hussein Obama
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I write to express my about the endangerment finding for greenhouse gas (GHG) emissions that EPA plans to issue later this month as part of its response to Massachusetts v. EPA. The endangerment finding will set the stage for an economic train wreck and a constitutional crisis.

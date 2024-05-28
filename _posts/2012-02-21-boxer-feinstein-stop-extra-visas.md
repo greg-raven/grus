@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Senator Barbara Boxer

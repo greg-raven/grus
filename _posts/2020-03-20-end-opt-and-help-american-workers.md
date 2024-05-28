@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please cosponsor H.R. 3564 to end the OPT program.

@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Despite, and perhaps because of, the growing population density of our nation, Americans more than ever feel strongly about the need to protect open spaces. These natural areas support agricultural and forest production, and provide clean water, flood control, wildlife habitat and biodiversity, and recreational opportunities.

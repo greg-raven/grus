@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 A handful of bipartisan U.S. Senators have introduced S. 4787 to give green cards to more than 100,000 Afghan evacuees who don't qualify for refugee status or special immigrant visas. I oppose this legislation!

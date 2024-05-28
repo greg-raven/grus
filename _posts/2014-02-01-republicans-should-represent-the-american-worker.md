@@ -5,7 +5,7 @@ categories:
 - Information
 tags:
 - immigration
-- Senator Jeff Sessions
+- Jeff Sessions
 ---
 
 "The arguments compiled by FWD.us pushing for a massive surge in new workers from abroad have ignored the overwhelming literature, including broad research by the Congressional Budget Office, demonstrating that such a plan would reduce wages and job prospects for millions of struggling workers living here today.

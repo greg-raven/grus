@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- President Donald Trump
+- Donald Trump
 ---
 
 I implore you to be an authentic, impassioned, fearless conservative around whom freedom-loving Americans can rally.

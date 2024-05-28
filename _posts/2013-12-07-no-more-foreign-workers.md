@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is disappointing that so many Americans are out of work. This is exactly the reason that Americans4work was founded --- to help Americans get back into jobs. This non-partisan organization recently hosted its first event at the National Press Club and its list of speakers was impressive. After listening to the speakers, it became clear that high levels of immigration is one of the root causes of the jobs crisis we are currently experiencing.

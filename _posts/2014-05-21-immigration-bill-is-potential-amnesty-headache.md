@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I find it disturbing that H.R. 3344, the Fraudulent Overseas Recruitment and Trafficking Elimination Act, that may soon receive a floor vote, shares language with S. 744, the Obama-Schumer amnesty. Passage of this bill would give Harry Reid the House-passed immigration bill he needs to force S. 744 on the American people. Please do not vote for H.R. 3344's passage.

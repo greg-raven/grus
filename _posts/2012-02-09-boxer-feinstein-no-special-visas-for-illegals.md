@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please oppose Sen. Brown's bill to import more foreign workers from Ireland.

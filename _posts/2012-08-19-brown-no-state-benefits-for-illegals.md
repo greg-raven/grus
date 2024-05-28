@@ -4,9 +4,9 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Gil Cedillo
+- Gil Cedillo
 - California
-- Governor Jerry Brown
+- Jerry Brown
 - illegal aliens
 ---
 

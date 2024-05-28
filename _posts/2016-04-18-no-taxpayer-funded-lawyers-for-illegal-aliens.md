@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is ridiculous that Sen. Harry Reid and Rep. Zoe Lofgren have introduced legislation that would require the government to use tax dollars to provide UACs with lawyers. Individuals who came to this country illegally should not receive any more handouts and you should not support this legislation.

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is absolutely disgusting that Majority Leader Reid wants to force the DREAM Act amnesty through the lame duck session! I expect you to do the right thing for American workers and oppose this horrible mass amnesty.

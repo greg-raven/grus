@@ -7,8 +7,8 @@ tags:
 - amnesty
 - chain migration
 - E-Verify
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 - visa lottery
 ---
 

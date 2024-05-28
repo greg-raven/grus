@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Assemblyman Frank Bigelow
-- Assemblyman Marc Levine
+- Frank Bigelow
+- Marc Levine
 ---
 
 As a fellow California resident, I ask you to please oppose Assembly Bills 1223, 1237, and 1509.

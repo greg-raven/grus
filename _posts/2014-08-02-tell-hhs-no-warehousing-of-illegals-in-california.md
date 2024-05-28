@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please do not allow the federal government to house illegal aliens in our state. The Obama administration is responsible for the influx at the border and should not be forcing our state to deal with the consequences.

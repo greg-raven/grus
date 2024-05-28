@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 - visa lottery
 ---
 

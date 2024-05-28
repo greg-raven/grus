@@ -6,8 +6,8 @@ categories:
 tags:
 - border control
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 DACA recipients are still protected, and can work in US. In the meantime, the border remains open, and a record number of migrants are entering (and too often perishing) in the hope of getting jobs. Border enforcement, not DACA protections, must be Congress' priority.

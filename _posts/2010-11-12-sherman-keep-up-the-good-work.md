@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Brad Sherman
+- Brad Sherman
 ---
 
 We are glad you have worked to protect at-risk American workers from increased foreign worker imports! 22 million Americans cannot find a job and we are glad you are looking out for them. We hope you will do even more to help out these Americans.

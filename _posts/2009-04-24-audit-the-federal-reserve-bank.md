@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal Reserve
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Now that over $12 trillion have been pledged toward our financial crisis, more people than ever are concerned about where their money is going, and if it's accomplishing anything.

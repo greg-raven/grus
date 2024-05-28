@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - birthright citizenship
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 We see the problem of anchor babies as a serious flaw in our immigration law. I hope you will take action to end it by cosponsoring S.45 and H.R.140 that would end Birthright Citizenship.

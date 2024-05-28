@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 As a voter in your district, I'm writing today to ask that you please oppose any new gun control legislation. Rather than blaming law-abiding gun owners for the acts of criminals and widespread failings of government agencies at the federal and state level, please support and focus on legislation that will protect our schools and fix our broken mental health system.

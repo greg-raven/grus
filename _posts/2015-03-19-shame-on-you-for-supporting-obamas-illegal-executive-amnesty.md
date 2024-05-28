@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- AG Kamala Harris
+- Kamala Harris
 - amnesty
 ---
 

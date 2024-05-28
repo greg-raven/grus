@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Eric Cantor
+- Eric Cantor
 ---
 
 Thank you for going on Greta Van Susteren and telling America that you care so deeply about what bills Americans want to "cosponsor." I wanted to let you know that I'm "cosponsoring" H.R. 2885, the Legal Workforce Act.

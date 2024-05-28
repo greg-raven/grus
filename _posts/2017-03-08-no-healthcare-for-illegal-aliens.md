@@ -6,9 +6,9 @@ categories:
 tags:
 - health care
 - illegal aliens
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 The House Republicans' decision to replace Obamacare with a a government-run health care exchange that benefits illegal aliens defies all logic. Illegal aliens should not receive any handouts from American taxpayers and I urge you to oppose the GOP's Obamacare overhaul until stringent verification measures are put in place to prevent illegal aliens from receiving healthcare tax credits or subsidies.

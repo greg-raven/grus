@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 The new omnibus unveiled by the House Appropriations Committee calls for increases in the number of H-2B visas issued every year. I urge you to strip this provision out before it comes to the floor for a vote.

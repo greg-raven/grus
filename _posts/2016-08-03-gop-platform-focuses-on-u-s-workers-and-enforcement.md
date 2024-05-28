@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We are glad that the Republican Party, as part of its new platform, has decided to focus on immigration enforcement and protecting American workers. We hope you will do all you can to see these policies made into law.

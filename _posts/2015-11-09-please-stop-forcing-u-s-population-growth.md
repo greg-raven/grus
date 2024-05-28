@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - population
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The population of the United States is on track to hit 444 million by 2050. Please reflect on your policies that are causing this detrimental and unsustainable growth.

@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - national security
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Vote against H.R. 2214 and H.R. 5581 --- they will harm our country!

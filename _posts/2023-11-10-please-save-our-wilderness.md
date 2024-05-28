@@ -8,8 +8,8 @@ tags:
 - environment
 - illegal immigration
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
+- Jay Obernolte
+- Alex Padilla
 ---
 
 - Reduce America's high population growth.

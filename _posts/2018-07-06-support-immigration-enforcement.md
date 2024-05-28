@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 - Ending enforcement of immigration laws would harm vulnerable Americans the most

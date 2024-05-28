@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 H.R. 5038, the so-called Farm Workforce Modernization Act, is a terrible bill that rewards businesses that have knowingly broken U.S. immigration laws, reward illegal aliens with work permits (after a period of indentured farm servitude), and harm U.S. and legal immigrant workers by increasing the number of H-2A visas issued each year by 40,000.

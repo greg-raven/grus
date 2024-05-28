@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I have ready in many newspapers that Congress is coming up with "immigration principles." This can be a positive development if the correct principles are agreed upon. I hope you will accept this as an immigration principle:

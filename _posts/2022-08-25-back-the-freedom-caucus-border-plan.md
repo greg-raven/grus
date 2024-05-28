@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 It is incredibly disappointing that the White House has taken no steps to address the Biden Border Crisis. The situation at the border represents a threat to our national security, and you and your fellow Republicans need to keep it front and center.

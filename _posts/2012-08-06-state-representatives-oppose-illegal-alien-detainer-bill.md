@@ -4,11 +4,11 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Tim Donnelly
+- Tim Donnelly
 - California
 - illegal aliens
 - immigration
-- Senator Sharon Runner
+- Sharon Runner
 ---
 
 Senator Sharon Runner:

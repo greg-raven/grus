@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
+- Paul Cook
 ---
 
 *Roll Call* reports that congressmen are considering adding the anti-gun Fix NICS bill to the annual spending bill, called the "Omnibus."

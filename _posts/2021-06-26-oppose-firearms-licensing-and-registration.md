@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I urge you to OPPOSE H.R. 3740.

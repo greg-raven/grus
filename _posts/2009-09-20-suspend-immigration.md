@@ -6,9 +6,9 @@ categories:
 tags:
 - Federal government
 - immigration
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Another 12,300 jobs were lost in California last month. The unemployment rate is 12.2%! It is time for a suspension of most immigration at least until our state's unemployment gets back down below 5%.

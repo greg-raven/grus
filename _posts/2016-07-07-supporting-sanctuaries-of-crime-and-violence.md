@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is disappointing that you voted against the motions to invoke cloture on S. 3100 and S. 2193. The bills would have stopped sanctuary cities from shielding criminal aliens and would have saved Americans' lives. I cannot understand you willingness to protect illegal aliens at the expense of innocent Americans.

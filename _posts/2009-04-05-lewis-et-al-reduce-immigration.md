@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 There are more than 13 million out-of-work Americans and the number is growing by the day. Something must be done!

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Democratic cities are being overwhelmed with migrants.

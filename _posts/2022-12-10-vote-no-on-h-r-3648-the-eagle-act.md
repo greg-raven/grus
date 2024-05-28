@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 In case you missed it, the big Tech companies that are lobbying for the EAGLE Act and more captive foreign workers just laid off more workers than in 2020 and 2021 combined. There is no labor shortage.

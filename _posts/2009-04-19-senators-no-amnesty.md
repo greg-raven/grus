@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It did not take long for Resident Obama to shift his priorities from putting Americans back to work to keeping illegal workers in U.S. jobs. The unnamed Democratic operatives mentioned in the recent *New York Times* article are right to be concerned.

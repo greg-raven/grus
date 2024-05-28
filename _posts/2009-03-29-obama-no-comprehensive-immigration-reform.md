@@ -6,9 +6,9 @@ categories:
 tags:
 - amnesty
 - Barack Hussein Obama
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 In 2007 the American people rose up and prevented Congress from passing amnesty. With this in mind, why would you tell members of the Congressional Hispanic Caucus that you supported "comprehensive immigration reform?" We both know this is nothing more than a fancy term for amnesty.

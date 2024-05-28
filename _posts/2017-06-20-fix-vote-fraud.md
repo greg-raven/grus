@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - elections
-- President Donald Trump
+- Donald Trump
 ---
 
 As a candidate, you made references to vote fraud as a serious issue in the United States. I agree, which is why I applauded your executive order establishing a commission to investigate vote fraud.

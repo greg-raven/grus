@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Constitutional rights cannot be denied without due process of law. But that's exactly what the Obama administration is doing. Mismatched fingerprints, spelling errors and duplicate names mean thousands of law-abiding Americans are wrongly flagged as criminals and denied the right to buy a gun.

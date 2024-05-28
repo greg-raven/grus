@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
+- Barbara Boxer
 ---
 
 I am disappointed by your tendency to support amnesty legislation! Why would you support legislation that harms the job prospects of disabled Americans?

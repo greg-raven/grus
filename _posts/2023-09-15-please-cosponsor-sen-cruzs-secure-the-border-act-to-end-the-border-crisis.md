@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - border control
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Sen. Ted Cruz has introduced the Senate version of the House-passed H.R. 2, the Secure the Border Act. This legislation, if passed by the Senate, would help to end the crisis at the U.S. / Mexico border. This legislation would:

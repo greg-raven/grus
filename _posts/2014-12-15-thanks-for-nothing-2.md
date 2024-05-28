@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - Obamacare
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Your vote for the 2015 CRomnibus not only usurped the will of the American people, but hurt American workers by voting for the bill that will fund President Obama's executive amnesty. I am disappointed that you are choosing to help illegal aliens over struggling American families.

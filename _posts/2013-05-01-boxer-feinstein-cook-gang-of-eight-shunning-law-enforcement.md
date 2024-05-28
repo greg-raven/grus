@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Recently, ICE Union President Chris Crane told a Senate Committee about the Gang of Eight's refusal to meet with any law enforcement when they drafted its immigration bill. How are we supposed to enforce our nation's immigration laws when the opinions of these men and women are ignored by Congress? I hope you'll ensure these Americans are heard.

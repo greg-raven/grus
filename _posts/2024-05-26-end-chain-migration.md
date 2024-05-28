@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Jay Obernolte
+- Jay Obernolte
 - chain migration
 ---
 

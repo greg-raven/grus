@@ -6,9 +6,9 @@ categories:
 tags:
 - amnesty
 - Barack Hussein Obama
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Amnesty is not the answer to America's illegal immigration debacle and would only make matters worse. Please do not support any amnesty proposed by the Congressional Hispanic Caucus.

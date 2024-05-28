@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Make sure the omnibus spending bill doesn't increase H-2B visas!

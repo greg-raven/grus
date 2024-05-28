@@ -8,8 +8,8 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Nature-lovers such as myself care most about biodiversity/species extinction and the incremental loss of America's dwindling open spaces, e.g., wildlife habitat and wilderness. These problems are a direct and readily-observable result of our nation's population growth.

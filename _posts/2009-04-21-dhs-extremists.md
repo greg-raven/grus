@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - Federal government
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 As a tax-paying citizen and American patriot, I am outraged that the Department of Homeland Security would label me as a right-wing extremist, apparently as part of an attempt to silence opposition to the ever-burgeoning Federal government, the size and scope of which are being greatly boosted by your Administration's Marxist and anti-American policies.

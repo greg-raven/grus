@@ -6,10 +6,10 @@ categories:
 tags:
 - bailouts
 - Federal government
-- President George Bush
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- George Bush
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I urge you to oppose any bailout of the auto industry, whether by taking existing funds from TARP, revising any previous loans, or making new grants.

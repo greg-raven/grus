@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 <span style="line-height: 1.5;">I wanted to share this news article where a federal judge accuses DHS agents of helping illegal immigration instead of enforcing the law.</span>

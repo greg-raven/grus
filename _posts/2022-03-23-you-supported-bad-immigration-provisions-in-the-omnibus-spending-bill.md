@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 The EB-5 visa program is full of fraud. I was disappointed by your omnibus vote.

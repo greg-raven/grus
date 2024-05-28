@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Why is Resident Biden failing to help the Pacific salmon?

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Very shortly, Rep. Steve King will introduce a resolution that urges border state governors to call out the National Guard to help secure the border. I hope you will contact Rep. King's office and tell him you want to be an original cosponsor.

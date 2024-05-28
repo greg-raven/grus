@@ -6,8 +6,8 @@ categories:
 tags:
 - environment
 - population
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 A recent article in *The New York Times Magazine* ("How Humanity Unleashed a Flood of New Diseases," 6/17/20) describes that as expanding human populations lead to more deforestation, mining, intensive agriculture, and urban sprawl, natural habitats, in turn, are destroyed, forcing wild creatures to venture into human communities. As most predators are eliminated, the remaining animals are forced into unnatural and hazardous arrangements, ultimately jeopardizing our own health. This has created an increase in the frequency of zoonosis outbreaks, including COVID-19, which are diseases that move from animals to humans.

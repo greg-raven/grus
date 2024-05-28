@@ -7,7 +7,7 @@ tags:
 - chain migration
 - Federal government
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 According to every single news outlet, House Speaker Nancy Pelosi wants to try one more time to force the DREAM Act amnesty on the American people, even though the vast majority of Americans oppose giving any amnesty to illegal aliens. Please prove you care about the 22 million Americans who cannot find a job by opposing the DREAM Act amnesty.

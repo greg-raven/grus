@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 *Sun Journal:* Tight labor markets help American workers.

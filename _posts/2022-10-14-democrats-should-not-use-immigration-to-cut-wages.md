@@ -8,8 +8,8 @@ tags:
 - E-Verify
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 It troubles me that the Democratic party is intent on sabotaging U.S. workers through mass immigration.

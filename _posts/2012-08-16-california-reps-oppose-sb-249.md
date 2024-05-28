@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Tim Donnelly
+- Tim Donnelly
 - Bob Blumenfield
 - California
 - Carol Liu
@@ -31,12 +31,12 @@ tags:
 - Mike Gatto
 - Nancy Skinner
 - Nora Campos
-- Representative Jerry Lewis
+- Jerry Lewis
 - Ricardo Lara
 - Ron Calderon
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
-- Senator Leland Yee
+- Barbara Boxer
+- Dianne Feinstein
+- Leland Yee
 - Steve Knight
 - Steven Bradford
 - Tom Ammiano

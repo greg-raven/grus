@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Representative Paul Cook

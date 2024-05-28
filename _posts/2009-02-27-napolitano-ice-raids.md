@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Secretary Janet Napolitano
+- Janet Napolitano
 ---
 
 It is absurd that you would even consider opposing ICE's work site enforcement raids when more than 11.5 million Americans cannot find a job.

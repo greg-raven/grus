@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - population
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Nature needs half, S.372 is just a beginning.

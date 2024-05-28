@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - Federal government
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 President Donald Trump was duly elected by the American people and it is far past time that Congress accept the results of the election and get back to doing the work of the American people.

@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am disappointed that some in Congress are pushing for the FY2017 DHS appropriations bill to quadruple H-2B numbers to 264,000. Doing so would harm all American workers, especially lower-skilled and less-educated Americans. Please do all you can to ensure the FY2017 DHS appropriations bill doesn't increase H-2B numbers.

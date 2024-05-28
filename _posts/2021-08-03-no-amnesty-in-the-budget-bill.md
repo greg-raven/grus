@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Please oppose the budget reconciliation amnesty!

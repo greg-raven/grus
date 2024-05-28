@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Thanks for cosponsoring H.R. 250 to mandate E-Verify.

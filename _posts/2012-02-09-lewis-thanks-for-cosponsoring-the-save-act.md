@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I was thrilled to learn that you are a cosponsor of the SAVE Act!

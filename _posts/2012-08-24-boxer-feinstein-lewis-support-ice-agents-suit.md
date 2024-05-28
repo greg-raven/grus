@@ -6,9 +6,9 @@ categories:
 tags:
 - border control
 - Federal government
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Representatives:

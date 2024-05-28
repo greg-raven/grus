@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Tim Donnelly
+- Tim Donnelly
 - California
 - immigration
 - jobs

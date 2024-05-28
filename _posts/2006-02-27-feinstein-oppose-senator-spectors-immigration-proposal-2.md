@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 No more amnesties! Please oppose Sen. Specter's immigration proposal because it includes a major amnesty.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - economy
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 The American people don't need more foreign workers; we need more jobs. The Startup Act 2.0, H.R. 5893, is going to put a lot more foreign workers in jobs America just doesn't have and put even more Americans out of work. Please help a lot of recent college graduates and unemployed Americans out by opposing this legislation.

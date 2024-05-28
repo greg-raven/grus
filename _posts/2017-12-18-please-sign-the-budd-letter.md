@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Congressman Ted Budd (R-NC) is circulating a very important letter to the House leadership.

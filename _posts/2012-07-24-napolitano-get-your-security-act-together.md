@@ -7,7 +7,7 @@ tags:
 - border control
 - Federal government
 - illegal aliens
-- Secretary Janet Napolitano
+- Janet Napolitano
 ---
 
 Secretary Napolitano:

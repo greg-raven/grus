@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - border control
-- President Donald Trump
+- Donald Trump
 ---
 
 I urge you to not sign any relevant spending legislation that does not fund the border requests listed in the White House's FY2018 proposed budget. For too long, the federal government has ignored border security, and I'm confident that the President's request for funding would reduce illegal immigration at the border and strengthen national security.

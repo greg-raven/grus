@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - national security
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 The Department of Homeland Security (DHS) released its FY 2017 Entry/Exit Overstay Report, which says that 701,900 foreign nationals overstayed their visa. The Washington Examiner notes the amount is greater than the number (526,901) who crossed the southwest border illegally that year.

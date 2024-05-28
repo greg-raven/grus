@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We cannot understand why Congress and the Obama administration are not requiring federal agencies to enforce immigration laws and not requiring states and localities to assist in enforcing the law. The tragic shooting death of Kate Steinle by a five-times deported illegal alien could have been prevented if the laws currently on the books were enforced. Please support and help to pass H.R. 1148, the Davis-Oliver Act. This bill would outlaw sanctuary cities and require all immigration laws to be enforced.

@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal aliens
 - illegal immigration
-- President Donald Trump
+- Donald Trump
 ---
 
 As a candidate, you made numerous promises regarding illegal immigration, including building a wall. Clearly, you are not going to make good on that promise any time soon.

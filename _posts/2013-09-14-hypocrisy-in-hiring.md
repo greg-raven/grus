@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I was sickened to learn that companies that have laid off thousands of American workers are now asking Congress to increase the number of foreign workers they are able to hire. I hope you will not accede to their demands and will work to protect American workers. Please read the attached article about their efforts.

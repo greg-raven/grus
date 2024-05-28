@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Florida is now America's third most populated state at 21 million people (2020). Last week the state was, once again, set upon by a massive hurricane --- Hurricane Ian. This was Florida's most costly storm ever, with storm-related costs estimated at $66 billion in property damage, and almost 100 deaths. It's simple --- more people mean more houses and infrastructure, which makes hurricanes more costly and destructive.

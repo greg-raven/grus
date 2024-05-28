@@ -6,7 +6,7 @@ categories:
 tags:
 - environment
 - globalism
-- Governor Jerry Brown
+- Jerry Brown
 - United Nations
 ---
 

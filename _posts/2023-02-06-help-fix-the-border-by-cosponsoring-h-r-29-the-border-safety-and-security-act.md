@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I hope you will cosponsor H.R. 29, Rep. Chip Roy's Border Safety and Security Act. The Biden administration refuses to do what is required to end the crisis at the border and H.R. 29 would force his Department of Homeland Security to end the flow of illegal aliens across the border. Specifically, this bill would:

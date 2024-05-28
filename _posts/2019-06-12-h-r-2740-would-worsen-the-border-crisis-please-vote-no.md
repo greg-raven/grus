@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - border control
-- Representative Paul Cook
+- Paul Cook
 ---
 
 H.R. 2740 only benefits drug cartels and people traffickers --- please oppose it!

@@ -7,7 +7,7 @@ tags:
 - chain migration
 - E-Verify
 - immigration
-- Representative Paul Cook
+- Paul Cook
 - visa lottery
 ---
 

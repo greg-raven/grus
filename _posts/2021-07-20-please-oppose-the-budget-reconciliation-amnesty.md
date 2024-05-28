@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I was alarmed to learn that Congressional Democrats are plotting to include a massive amnesty for illegal aliens in the upcoming budget reconciliation bill. In addition to violating the Byrd Rule, an amnesty for illegal aliens would only exacerbate the border crisis by encouraging more people to illegally cross the border.

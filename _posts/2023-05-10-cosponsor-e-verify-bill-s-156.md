@@ -6,8 +6,8 @@ categories:
 tags:
 - E-Verify
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Please cosponsor S. 156, the Accountability Through Electronic Verification Act, as Title 42 ends and our border crisis worsens.

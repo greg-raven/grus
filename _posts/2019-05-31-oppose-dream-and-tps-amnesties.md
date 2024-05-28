@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please oppose any dangerous pro-criminal amnesty, including the proposed DREAM and TPS Amnesties currently before you.

@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I am writing to you because the U.S. Bureau of Reclamation just declared a "Tier 2" water shortage for the Colorado River and Lake Mead. This trend threatens the drinking water of Southwest cities like Phoenix, Tucson, Las Vegas, and Los Angeles. Leaders like you need to heed the warning signs that America's population growth is unsustainable.

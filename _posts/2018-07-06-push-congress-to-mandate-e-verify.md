@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- President Donald Trump
+- Donald Trump
 ---
 
 Please push for mandatory E-Verify!

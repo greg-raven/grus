@@ -7,9 +7,9 @@ tags:
 - chain migration
 - E-Verify
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I was very pleased to see President Trump's list of immigration principles and I support each and every one. Foremost among these principles are mandating use of the E-Verify system and ending the chain migration.

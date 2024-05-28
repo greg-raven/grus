@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Congressman Jerry Lewis
+- Jerry Lewis
 - border control
 ---
 

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I hope you are contemplating what can be done to prevent the caravan of Central American economic migrants from illegally entering the U.S. and claiming asylum.

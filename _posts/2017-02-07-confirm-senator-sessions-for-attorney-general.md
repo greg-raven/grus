@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please vote in favor of Sen. Sessions' nomination for the post of Attorney General. Sen. Sessions has consistently expressed a desire to uphold the law and to make sure our nation's laws are enforced. He will make a fine attorney general and I urge you to vote to approve his nomination.

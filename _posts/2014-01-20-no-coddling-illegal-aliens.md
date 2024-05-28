@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Why are House Republican leadership aides telling reporters that your party is planning a push to give illegal aliens work permits? I hope this isn't true.

@@ -7,7 +7,7 @@ tags:
 - Federal government
 - immigration
 - population
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I'm sending you this article in case you missed it:

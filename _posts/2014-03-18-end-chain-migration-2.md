@@ -7,7 +7,7 @@ tags:
 - chain migration
 - immigration
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Chain Migration refers to the endless and often-snowballing chains of foreign nationals who are allowed to immigrate because the law allows citizens and lawful permanent residents to bring in their extended, non-nuclear family members. This has resulted in the doubling of legal immigration in recent decades. I oppose Chain Migration, and I hope you'll support efforts to change the law, which will reduce overall immigration numbers.

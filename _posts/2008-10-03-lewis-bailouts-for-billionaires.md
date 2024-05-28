@@ -6,8 +6,8 @@ categories:
 tags:
 - bailouts
 - Federal government
-- President George Bush
-- Representative Jerry Lewis
+- George Bush
+- Jerry Lewis
 ---
 
 I was very disappointed to hear that you voted for the last "bailout for billionaires" plan. Thank goodness it did not pass.

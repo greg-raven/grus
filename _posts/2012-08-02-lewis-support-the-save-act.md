@@ -6,7 +6,7 @@ categories:
 tags:
 - border control
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 The SAVE Act is a bipartisan bill that would require the building of thousands of detention beds, thus putting a stop to the Obama administration's dangerous "catch and release" program. Please support H.R. 2000, Rep. Heath Shuler's SAVE Act, today!

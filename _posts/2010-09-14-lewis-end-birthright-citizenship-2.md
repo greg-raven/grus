@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - birthright citizenship
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 An op-ed in August 31's *USA Today* explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation.

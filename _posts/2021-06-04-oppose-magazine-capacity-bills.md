@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Please oppose H.R. 2510/S. 1108.

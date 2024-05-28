@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Gun Owners of America has just informed me that you voted against the right to bear arms by supporting the Active Shooter Alert Act. H.R. 6538 will lead to deceptive anti-gun propaganda under the guise of "awareness."

@@ -6,9 +6,9 @@ categories:
 tags:
 - border control
 - national security
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I urge you to support spending legislation for FY18 that will fund border improvements along the southern border.

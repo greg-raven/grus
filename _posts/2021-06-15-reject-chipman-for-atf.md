@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Please heed the strong warning about David Chipman from a past ATF head.

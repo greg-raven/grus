@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Representative Paul Cook:

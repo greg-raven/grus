@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Secretary Janet Napolitano
+- Janet Napolitano
 ---
 
 I am absolutely appalled by your comments on CNN's "State of the Union" program! Crossing the border without permission is a crime!

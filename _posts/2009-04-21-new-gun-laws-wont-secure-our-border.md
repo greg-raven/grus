@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - Federal government
-- Governor Arnold Schwarzenegger
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Arnold Schwarzenegger
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm sending this in case you missed it:

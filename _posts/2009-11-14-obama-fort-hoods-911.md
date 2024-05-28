@@ -7,9 +7,9 @@ tags:
 - Barack Hussein Obama
 - Federal government
 - national security
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Barack Obama

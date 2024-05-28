@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 David Leonhardt is right: Progressives should lower future immigration.

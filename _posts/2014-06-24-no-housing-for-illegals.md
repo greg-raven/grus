@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I cannot understand why the federal government is allowing illegal aliens to flood into our country. The end result is that DHS and HHS are trying to house illegal aliens at sites around the country. Please make sure that no illegal aliens are brought to our state.

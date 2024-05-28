@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I vehemently oppose adding an amnesty for millions of illegal aliens in budget reconciliation.

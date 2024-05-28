@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Supporting H.R. 2330 suggests that one supports amnesty for illegal aliens. If that is not the case, I suggest you keep your name off this amnesty bill.

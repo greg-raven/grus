@@ -5,11 +5,11 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Henry Waxman
-- Representative Maxine Waters
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Henry Waxman
+- Maxine Waters
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is disappointing that a reputable company such as IBM would post jobs that preferred temporary foreign workers over U.S. citizens. How are American tech workers, like me, supposed to find work? Please make sure that IBM is forced to hire jobless Americans by reducing, not increasing, foreign worker numbers.

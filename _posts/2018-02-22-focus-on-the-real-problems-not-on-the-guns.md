@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 In a [national poll of our nation's police officers](https://www.police1.com), 81 percent say that teachers and school administrators need to be armed to stop tragedies such as the one happened in Florida recently.

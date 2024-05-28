@@ -6,9 +6,9 @@ categories:
 tags:
 - illegal aliens
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I urge you to take legislative steps that strengthen interior enforcement, end policies that encourage illegal immigration and achieve 100% operational control at and in between all ports of entry.

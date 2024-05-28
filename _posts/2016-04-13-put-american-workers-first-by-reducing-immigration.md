@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 As you know, our nation is still recovering from one of its most trying economic times since the Great Depression. Millions of Americans are struggling to find jobs, and the workforce participation rate is at its lowest in decades. But not a day goes by that business groups and labor unions aren't pushing for more legal immigration.

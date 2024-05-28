@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I hope you will take a look at the Senate's recent hearing into the Syrian refugee situation. Multiple Obama administration officials, including FBI Director James Comey, have admitted that there is no way to determine which applicants pose a security threat. Efforts to allocate $1 billion to resettle Syrians in the United States, while well-meaning, are dangerous and should not be supported. The United States' efforts should focus on helping the millions of Syrians who have fled to Turkey and Jordan.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Kevin McCarthy
+- Kevin McCarthy
 ---
 
 Why did you go on CNN's "State of the Union" program and give your support to amnesty legislation? Californians expect you to oppose, not support, an amnesty for illegal aliens!

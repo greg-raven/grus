@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Scott Wilk
+- Scott Wilk
 ---
 
 I am in opposition to AB 2552 which requires notices to be posted at each public entrance of every gun show in California on the storage, handling, purchase, and theft of firearms.

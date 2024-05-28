@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - judiciary
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I urge you to reject any filibuster of the Neil Gorsuch nomination --- and to vote for him as the Court's next Supreme Court Justice.

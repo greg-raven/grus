@@ -7,9 +7,9 @@ tags:
 - amnesty
 - chain migration
 - jobs
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 - visa lottery
 ---
 

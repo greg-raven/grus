@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I am writing to you today to alert you to legislation which would severely infringe on the rights of law-abiding gun owners. As a supporter of the Firearms Policy Coalition (FPC), I strongly oppose these bills.

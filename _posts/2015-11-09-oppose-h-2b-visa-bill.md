@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I hope you will oppose H.R. 3918, legislation to increase H-2B worker numbers. This legislation excludes returning H-2B workers from the annual cap and needs to be opposed.

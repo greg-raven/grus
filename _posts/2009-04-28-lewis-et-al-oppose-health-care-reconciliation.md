@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Obamacare
-- Representative Jerry Lewis
-- Senator Barbara Boxer
+- Jerry Lewis
+- Barbara Boxer
 ---
 
 I urge you to oppose health care reconciliation.

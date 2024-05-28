@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - birthright citizenship
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Lost in the immigration debate over the last six months has been the issue of Birthright Citizenship. Birthright Citizenship is an outdated practice that lures foreign nationals to the United States so their unborn children can become U.S. citizens. Please work to end this ridiculous policy!

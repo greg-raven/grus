@@ -5,16 +5,16 @@ categories:
 - Letters
 tags:
 - judicial
-- Senator Cory Gardner
-- Senator James Risch
-- Senator John Thune
-- Senator Lamar Alexander
-- Senator Lindsey Graham
-- Senator Lisa Murkowski
-- Senator Michael Crapo
-- Senator Mitch McConnell
-- Senator Susan Collins
-- Senator Todd Young
+- Cory Gardner
+- James Risch
+- John Thune
+- Lamar Alexander
+- Lindsey Graham
+- Lisa Murkowski
+- Michael Crapo
+- Mitch McConnell
+- Susan Collins
+- Todd Young
 ---
 
 As a FreedomWorks activist I'm urging you to confirm President Trump's conservative nominees.

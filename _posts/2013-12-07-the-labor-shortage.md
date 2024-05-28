@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 As a construction worker, it disappoints me that construction employment is nearly 2 million below is previous peak. There's a lot of hiring to be done and a lot of unemployed Americans willing to work in the industry if Congress passes legislation to get things moving. However, passing any amnesty or immigration reform will only make things worse for all American workers.

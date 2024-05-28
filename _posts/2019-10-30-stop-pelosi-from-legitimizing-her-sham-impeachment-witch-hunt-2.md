@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - government
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I've learned that Nancy Pelosi and more radical elements of the Democratic Party in Congress have officially launched impeachment proceedings against President Trump.

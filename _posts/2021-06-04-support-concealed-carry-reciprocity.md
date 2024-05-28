@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I urge you to support Concealed Carry Reciprocity (S. 1522).

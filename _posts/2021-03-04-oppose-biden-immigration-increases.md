@@ -7,7 +7,7 @@ tags:
 - amnesty
 - immigration
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 - visa lottery
 ---
 

@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I hope that you oppose any lame-duck Congress attempts to pass more immigration expansions to keep wages down and undermine tech workers.

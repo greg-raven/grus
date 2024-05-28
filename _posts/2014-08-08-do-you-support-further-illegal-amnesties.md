@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The House recently voted against President Obama's expansion of executive amnesties. Do you support the House bill to block the president's executive amnesty program and will you demand it receive a vote in the Senate?

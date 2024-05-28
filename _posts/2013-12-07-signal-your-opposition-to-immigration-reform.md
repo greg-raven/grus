@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Republican pro-amnesty Representatives are circulating a letter urging the House Republican leadership to support comprehensive immigration. I urge you not to sign this letter. Signing this letter will give President Obama a hope because comprehensive immigration reform is one of his biggest policy goals and would include and amnesty for illegal aliens.

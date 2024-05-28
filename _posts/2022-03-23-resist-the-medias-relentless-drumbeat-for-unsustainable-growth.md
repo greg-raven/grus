@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Population stabilization will bring us a sustainable future.

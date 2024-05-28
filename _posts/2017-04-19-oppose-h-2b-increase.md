@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - jobs
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 It is disappointing that some of your colleagues are pushing for returning H-2B visa holders to be exempted from the H-2B cap as part of the new spending bill. If they are successful, young and less-educated Americans who depend on these jobs will find be more likely to join the ranks of the permanently unemployed. Please do all you can to ensure that the next spending bill does not increase H-2B numbers.

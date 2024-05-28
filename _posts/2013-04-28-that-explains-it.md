@@ -4,7 +4,7 @@ layout: post
 categories:
 - Information
 tags:
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 **Bullet train bid rules altered** (4/19/2013)

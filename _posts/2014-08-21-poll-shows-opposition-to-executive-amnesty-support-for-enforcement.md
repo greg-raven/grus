@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I am glad that House Republicans voted in favor of H.R. 5272. President Obama should not be able to amnesty illegal aliens at will. A new poll highlighted by Politico shows that most Americans support this legislation.

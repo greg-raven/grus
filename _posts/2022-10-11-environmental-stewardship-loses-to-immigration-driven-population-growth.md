@@ -8,8 +8,8 @@ tags:
 - environment
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I'm concerned about the persistent environmental degradation in America, such as water shortages, biodiversity loss, deforestation, pollution, and traffic congestion. It's clear that we will never be able to resolve these problems without the gradual transition to population stabilization.

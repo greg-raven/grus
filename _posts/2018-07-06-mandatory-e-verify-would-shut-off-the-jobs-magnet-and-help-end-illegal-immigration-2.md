@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I hope I can count on you to support legislation that requires all employers to use E-Verify. With 15 million Americans unable to find a full-time job and millions more suffering from the ramifications of a stolen identity, passing E-Verify is the single best action you can take to end illegal hiring and turn off the jobs magnet.

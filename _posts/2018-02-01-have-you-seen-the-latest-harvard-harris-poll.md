@@ -6,9 +6,9 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 - visa lottery
 ---
 

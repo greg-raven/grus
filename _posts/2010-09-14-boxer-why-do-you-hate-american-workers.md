@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Barbara Boxer
+- Barbara Boxer
 ---
 
 I must admit that I have no idea why you support the anti-American worker, anti-American student DREAM Act amnesty. However, I hope you realize that a jobs depression is the wrong time to try to force this legislation through Congress.

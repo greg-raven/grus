@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is ironic that the sponsors of H.R. 5038, The Farm Workforce Modernization Act of 2019, put the word "modernization" in the title, since the legislation actually proposes variations on two tried, and demonstrably failed, policies of the past: amnesty and indentured servitude.

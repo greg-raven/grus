@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 American workers must take priority over amnesty!

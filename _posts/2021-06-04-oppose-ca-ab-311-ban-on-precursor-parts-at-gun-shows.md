@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Assemblyman Thurston Smith
+- Thurston Smith
 ---
 
 I stand with FPC and I am writing to you today to express my opposition to California AB-311, a bill that would make participation in free trade and free association even more difficult, and without any real benefit.

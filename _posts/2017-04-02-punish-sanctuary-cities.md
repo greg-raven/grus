@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Our American way of life is threatened by the influx of illegal aliens into the United States. Once here, many of them engage in further criminal activities, including drunk driving, drug use and dealing, robbery, assault, rape, identity theft, kidnapping, sex trafficking, and even murder and terrorism. Regardless of further criminal behavior, their very presence increases the strain on our already-taxed infrastructure, including roads, justice system, water supplies, traffic, and medical facilities, and their children have all but destroyed our education system.

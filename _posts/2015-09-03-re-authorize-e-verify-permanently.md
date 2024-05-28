@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 E-Verify expires at the end of September and it's time for Congress to permanently authorize the program and make its use mandatory for all employers. H.R. 1147, the Legal Workforce Act, would permanently authorize the program and mandate its use. I hope you will push for its passage.

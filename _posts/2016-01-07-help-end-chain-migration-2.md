@@ -6,7 +6,7 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Rep. Jody Hice's Nuclear Family Priority Act, H.R. 604, is a fantastic bill that will help solve America's immigration problems. Please cosponsor it!

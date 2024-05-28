@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please consider the impact of mass immigration on the quality of life of your constituents.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I am glad you wrote an op-ed to highlight the dangers of the EB-5 visa program. I hope you will do all you can to make sure the program is not renewed.

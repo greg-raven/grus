@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - border control
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please focus on securing the border, not on amnestying illegal aliens!

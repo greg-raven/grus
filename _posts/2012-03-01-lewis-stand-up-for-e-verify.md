@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I hope you will tell the House Whip that you want mandatory E-Verify language added to the transportation spending bill, which will be voted on next week.

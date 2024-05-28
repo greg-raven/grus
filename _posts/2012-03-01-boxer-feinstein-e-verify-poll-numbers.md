@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I just learned that 88% of American voters who consider themselves to be moderates support requiring employers to verify the immigration status of their employees. If self-proclaimed moderates (the very swing-voters that Democrats need to win back the House) support programs such as E-Verify, the Democratic Party needs to support legislation that would require its use!

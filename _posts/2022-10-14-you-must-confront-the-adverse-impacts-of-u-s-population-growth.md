@@ -8,8 +8,8 @@ tags:
 - environment
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Our ecologically-illiterate immigration policy is pushing us towards half a billion Americans by the end of the century, with some arguing that we should be aiming for a billion to ensure our power and prominence on the international stage.

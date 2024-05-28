@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please do all you can to end the crisis on the Southern border!

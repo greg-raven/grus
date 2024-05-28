@@ -6,7 +6,7 @@ categories:
 tags:
 - Federal government
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I'm writing to ask you to support H.R. 1196, the "Loophole Elimination and Verification Enforcement Act," or "LEAVE Act."

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I urge you to support the recently passed House bill, H.R. 3003 that would end sanctuary cities, if it reaches the Senate floor for a vote.

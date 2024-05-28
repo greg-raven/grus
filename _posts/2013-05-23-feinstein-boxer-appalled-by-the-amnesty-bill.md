@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I was appalled that the Senate Judiciary Committee just approved the Gang of Eight's comprehensive amnesty bill. This legislation would repeat the mistakes of the 1986 amnesty bill by promising enforcement while ensuring amnesty. 33 million new work permits will be issued in the first ten years after the bill's passage and you need to oppose this legislation.

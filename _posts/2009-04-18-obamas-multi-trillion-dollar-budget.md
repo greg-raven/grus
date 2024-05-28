@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - Federal government
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Fiscal irresponsibility and massive new deficits are not solutions to our economic problems.

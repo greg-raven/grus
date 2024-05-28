@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Scott Wilk
+- Scott Wilk
 ---
 
 I am a concerned resident of California writing to urge you to OPPOSE AB 2888.

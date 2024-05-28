@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I'm very disturbed by a D.C. court ruling against American tech workers, not least because the "Optional Practical Training" program is a blatant attack on the American middle class. Moreover, the OPT program unfairly disadvantages Americans in competitive STEM fields where Blacks, Hispanics and older workers often struggle to find opportunities.

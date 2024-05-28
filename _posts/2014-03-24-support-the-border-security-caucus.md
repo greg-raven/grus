@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Rep. Lamar Smith has started the House Border Security Caucus. I know you agree with its aims, so I hope you will join.

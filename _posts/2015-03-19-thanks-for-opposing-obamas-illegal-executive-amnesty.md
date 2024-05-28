@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Thank you for voting against the revised DHS funding bill. Leaving the funding for the president's amnesties in tact is the same as supporting amnesty.

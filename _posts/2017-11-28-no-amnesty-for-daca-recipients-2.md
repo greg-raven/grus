@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Representative Paul Cook
-- Representative Paul Ryan
+- Paul Cook
+- Paul Ryan
 - visa lottery
 ---
 

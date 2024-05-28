@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - judiciary
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Yesterday, Judge Brett Kavanaugh appeared before the Senate Judiciary Committee for the beginning of his confirmation hearing for the U.S. Supreme Court. Predictably, you attempted to thwart even holding a hearing on the Judge's nomination, rather than focusing on his record.

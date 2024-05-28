@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Due to the actions (or inaction) of the Biden administration, the border is out of control and illegal immigration is rampant. Congress must make securing the border and tackling illegal immigration a priority during the remainder of the 117th Congress and during the 118th Congress. Legislation must include:

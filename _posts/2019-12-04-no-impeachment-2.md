@@ -4,9 +4,9 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Adam Schiff
-- Representative Jerrod Nadler
-- Representative Nancy Pelosi
+- Adam Schiff
+- Jerrod Nadler
+- Nancy Pelosi
 ---
 
 I write to oppose the coup that Democrats are pretending is an "impeachment inquiry."

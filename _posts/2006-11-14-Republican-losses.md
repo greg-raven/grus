@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Congressman Jerry Lewis
+- Jerry Lewis
 ---
 
 Some newspaper editorial writers have tried to spin the Republicans' loss of the House of Representatives as proof that getting tough on illegal immigration is a political loser, but nothing could be further from the truth.

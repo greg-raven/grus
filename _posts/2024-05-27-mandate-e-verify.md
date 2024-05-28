@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Jay Obernolte
-- Senator Alex Padilla
+- Jay Obernolte
+- Alex Padilla
 - E-Verify
 - jobs
 ---

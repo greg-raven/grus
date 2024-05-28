@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I urge you to bring those U.S. workers who are struggling on the sidelines into our workforce.

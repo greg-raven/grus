@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal immigration
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 The Optional Practical Training (OPT) program for foreign graduates of American universities harms all American and legal immigrant graduates, but it harms STEM graduates the most. Currently, all foreign graduates are eligible for a 12-month OPT visa to work in their fields of study after graduation. To make matters much worse, foreign STEM graduates are eligible for an additional 24-month OPT visa.

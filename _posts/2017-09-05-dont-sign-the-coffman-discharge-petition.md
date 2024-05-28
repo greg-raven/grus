@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Rep. Mike Coffman (R-Colo.) announced last week that he will start a Discharge Petition in the House to force a floor vote on his BRIDGE Act that would make Deferred Action for Childhood Arrivals (DACA) permanent --- the unconstitutional Obama executive amnesty that allows younger illegal aliens to receive work permits.

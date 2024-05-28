@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Pro-amnesty groups are holding a cynical "Day of Dignity &amp; Respect" for illegal aliens. These groups fail to recognize that an amnesty would undermine those already in the United States legally. Please respect the dignity of legal citizens by drastically and permanently reducing legal immigration.

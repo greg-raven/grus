@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I am dismayed that Resident Biden is misusing immigration parole to continue to release large numbers into the country while making it less visible on paper.

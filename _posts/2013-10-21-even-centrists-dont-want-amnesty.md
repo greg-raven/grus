@@ -6,9 +6,9 @@ categories:
 tags:
 - amnesty
 - population
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 A new NBC News poll shows that swing voters --- what the pollsters dub the "new American Center" --- have little appetite for giving illegal aliens a pathway to citizenship. Given this fact, I hope you will not go along with plans to force his amnesty on the American people.

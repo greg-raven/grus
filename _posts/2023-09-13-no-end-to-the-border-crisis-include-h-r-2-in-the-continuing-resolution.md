@@ -7,8 +7,8 @@ tags:
 - child labor
 - illegal aliens
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 It infuriates me that border crossings rose in July, proving that the end of the border crisis is nowhere in sight. I hope that the Senate will use the fiscal year appropriations process to include provisions in the House-passed H.R. 2, the Secure the Border Act, in the Continuing Resolution.

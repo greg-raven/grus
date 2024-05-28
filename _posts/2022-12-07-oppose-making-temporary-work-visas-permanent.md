@@ -7,7 +7,7 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 - Keep H-1B visas 'TEMPORARY' --- Vote NO on H.R. 3648

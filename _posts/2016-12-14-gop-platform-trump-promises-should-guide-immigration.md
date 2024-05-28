@@ -6,7 +6,7 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I am glad that the Republican Party's immigration platform closely matched many of President-elect Trump's immigration enforcement pledges. I urge you to work with the incoming president to make these pledges into law.

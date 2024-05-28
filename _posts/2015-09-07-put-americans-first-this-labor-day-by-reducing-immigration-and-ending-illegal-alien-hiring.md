@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Labor Day provides the nation the opportunity to reflect on the hard work performed by all Americans. With this in mind how can the Congress continue to allow employers to employ 8 million illegal alien workers and push for more foreign workers when 17 million Americans are without a full-time job?

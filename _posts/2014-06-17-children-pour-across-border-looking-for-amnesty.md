@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Border Patrol estimates that more than 90,000 unaccompanied children from Central America will make the dangerous trek to enter the United States illegally this year. This could end up being a crisis of epic proportion, and it's all due to our nation's failure to enforce federal immigration laws, while providing protections for those already here illegally.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Anti-gun advocates are waging war against the Second Amendment, but you have the opportunity to stand up for the God-given rights of millions of Americans.

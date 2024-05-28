@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Please cosponsor H.R. 78 to mandate E-Verify.

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Please support PLCAA protections for our firearms industries.

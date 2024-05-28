@@ -6,9 +6,9 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 The White House has released a set of immigration principles that would increase border security, strengthen interior enforcement, including a requirement for all employers to use E-Verify, and reform the current green card system, including an end to chain migration.

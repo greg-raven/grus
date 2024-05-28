@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am contacting you to register my opposition to Senator Cornyn's SKIL bill. Please, NO MORE IMMIGRATION!

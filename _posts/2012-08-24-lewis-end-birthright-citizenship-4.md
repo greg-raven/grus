@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I oppose automatic citizenship granted to the children of illegal aliens.

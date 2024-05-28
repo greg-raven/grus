@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Gun Owners of America alerted me to the unconstitutional actions of the Biden Administration to restrict pistol braces. This trend of restricting my Second Amendment rights cannot continue. In the last election, all Governors who signed constitutional carry into law won reelection. Clearly, support for gun rights is an issue you can win on.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 As a freedom-loving American, I strongly oppose the nomination of David Chipman for Director of the ATF.

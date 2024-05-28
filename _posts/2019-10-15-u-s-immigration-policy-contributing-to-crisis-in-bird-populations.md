@@ -7,8 +7,8 @@ tags:
 - environment
 - immigration
 - population
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 North America's bird populations are being pushed by us to the edge of extinction. Will you stand up to confront the elephant in the room?

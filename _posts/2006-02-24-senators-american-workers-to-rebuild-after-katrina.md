@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I think most of the victims of Hurricane Katrina will tell you that a guest worker program will NOT benefit the American people.

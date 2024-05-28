@@ -7,8 +7,8 @@ tags:
 - amnesty
 - chain migration
 - immigration
-- Representative Jay Obernolte
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Dianne Feinstein
 - visa lottery
 ---
 

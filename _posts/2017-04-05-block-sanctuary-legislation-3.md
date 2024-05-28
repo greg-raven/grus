@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Jay Obernolte
+- Jay Obernolte
 - illegal aliens
 ---
 

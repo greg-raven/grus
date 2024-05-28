@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please oppose the Ryan Amnesty plan.

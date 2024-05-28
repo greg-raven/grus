@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 New analysis from Democratic political consultant David Shor indicates that Democrats do worse when they talk about their preferred immigration policies.

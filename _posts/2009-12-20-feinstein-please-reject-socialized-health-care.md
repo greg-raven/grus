@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Obamacare
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm writing to ask you to please REJECT H.R. 3962, the "Affordable Health Care for America Act," and ALL other attempts to force socialized health care or government-mandated health insurance on Americans.

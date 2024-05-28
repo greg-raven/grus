@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 President Obama's executive actions on immigration goes against the will and the best interests of the American people. I urge you to defund all of the administration's immigration actions in the upcoming DHS Appropriations bill.

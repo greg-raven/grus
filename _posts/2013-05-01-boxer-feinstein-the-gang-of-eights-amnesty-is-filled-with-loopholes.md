@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is important that you act against the Schumer-McCain amnesty legislation. I agree with the growing chorus who say that the bill will not secure the border and will not stop the flow of illegal aliens. However, it is clear that the bill will provide an easy path to amnesty for illegal aliens.

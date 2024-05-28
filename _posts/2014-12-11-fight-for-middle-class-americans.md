@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative John Boehner
+- John Boehner
 ---
 
 In your op-ed in the Wall Street Journal, you talk about this Congress being an "opportunity to help struggling middle-class Americans who are clearly frustrated by an increasing lack of opportunity," One way that goal can be accomplished is by defunding Pres. Obama's executive amnesty and curbing the high rates of immigration into the U.S.

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - jobs
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Give minorities in STEM fields a chance to find work: stop the OPT program!

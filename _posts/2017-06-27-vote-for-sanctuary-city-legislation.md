@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Sanctuary cities are out of control and put themselves, and illegal aliens, above the law. This disregard for the law has cost scores of innocent Americans their lives. H.R. 3003, legislation that would help to end this lawless activity, will receive a House floor vote this week and I urge you to support it.

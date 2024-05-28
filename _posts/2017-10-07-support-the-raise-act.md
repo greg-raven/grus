@@ -6,8 +6,8 @@ categories:
 tags:
 - chain migration
 - immigration
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I urge you to support the new RAISE Act introduced by Senators Tom Cotton and David Perdue. Recent polling has found that 72% of American voters support a key element of their bill which would eliminate extended family immigration.

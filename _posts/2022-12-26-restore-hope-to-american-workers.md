@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Immigration should not undermine U.S. workers.

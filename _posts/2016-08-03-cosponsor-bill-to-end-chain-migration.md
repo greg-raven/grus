@@ -7,7 +7,7 @@ tags:
 - chain migration
 - immigration
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We would be grateful if you cosponsored H.R. 604, the Nuclear Family Priority Act, to end America's chain migration problem.

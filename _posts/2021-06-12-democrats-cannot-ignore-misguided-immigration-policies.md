@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Biden's asylum expansion plan will turbocharge the border crisis.

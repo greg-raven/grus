@@ -4,9 +4,9 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Senator Barbara Boxer,

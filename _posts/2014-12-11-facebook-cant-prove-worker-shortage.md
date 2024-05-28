@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Facebook CEO Mark Zuckerberg's FWD.us is pushing for an expansion of H-1B visas for foreign tech workers to fill a "skills gap that threatens the competitiveness of the tech sector." However, there is an overwhelming amount of evidence to suggest that not only is there not a shortage of American workers for these jobs, but H-1B visa workers are stagnating the wages in these high-tech jobs.

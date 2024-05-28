@@ -6,7 +6,7 @@ categories:
 tags:
 - Barack Hussein Obama
 - politics
-- Senator John McCain
+- John McCain
 ---
 
 I can understand not wanting to vote for John McCain --- he's a deeply flawed (and possibly insane) individual. However, this doesn't explain the cult-like fervor of Obama supporters.

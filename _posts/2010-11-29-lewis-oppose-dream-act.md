@@ -7,7 +7,7 @@ tags:
 - chain migration
 - Federal government
 - immigration
-- Representative Eric Cantor
+- Eric Cantor
 ---
 
 The American people proved on November 2nd that we are sick and tired of Congress' refusal to address the current jobs depression. With this in mind, I encourage you to oppose the job-destroying DREAM Act amnesty.

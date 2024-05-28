@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The U.S. Senate will hold a motion to proceed with S. 744, the Gang of Eight's immigration bill --- I urge you to strongly oppose it. The legislation does not secure our nation's borders and gives protected status and work permits to millions of illegal aliens; this bill is a repeat of 1986. Immigration reform is necessary and must occur, but this bill is not the answer. Please oppose this bill on Tuesday and start with again with an open process.

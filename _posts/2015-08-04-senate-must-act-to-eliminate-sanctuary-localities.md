@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is disappointing that the Senate has not yet acted to prevent sanctuary cities from receiving federal law enforcement funding. Now that the House has passed such legislation, I hope the Senate will follow suit by passing S. 1640, the Davis-Oliver Act. Please do all you can to make this happen.

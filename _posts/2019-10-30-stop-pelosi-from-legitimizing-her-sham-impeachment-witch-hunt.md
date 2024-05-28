@@ -5,14 +5,14 @@ categories:
 - Letters
 tags:
 - government
-- Senator Doug Jones
-- Senator Gary Peters
-- Senator Jon Tester
-- Senator Joseph Manchin
-- Senator Kyrsten Sinema
-- Senator Lisa Murkowski
-- Senator Mitt Romney
-- Senator Susan Collins
+- Doug Jones
+- Gary Peters
+- Jon Tester
+- Joseph Manchin
+- Kyrsten Sinema
+- Lisa Murkowski
+- Mitt Romney
+- Susan Collins
 ---
 
 I've learned that Nancy Pelosi and more radical elements of the Democratic Party in Congress have officially launched impeachment proceedings against President Trump.

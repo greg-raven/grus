@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- President Donald Trump
+- Donald Trump
 ---
 
 Do not issue a DACA amnesty executive order!

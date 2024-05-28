@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - judiciary
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 We should brook no further delay of a full Senate confirmation of Judge Brett Kavanaugh's appointment to the Supreme Court.

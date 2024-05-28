@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Barack Obama's recent decision to attempt to extend work authorization to the spouses of H-1B workers is downright disgusting. He is simply pandering to the unscrupulous business hucksters who would rather hire cheap foreign workers instead of paying a living wage to U.S. workers.

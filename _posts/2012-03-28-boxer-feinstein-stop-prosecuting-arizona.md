@@ -9,8 +9,8 @@ tags:
 - economy
 - illegal aliens
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is ridiculous that our state's attorney general is trying to get Arizona's SB 1070 overturned at the Supreme Court! You can help to alleviate the attorney general's concerns by cosponsoring mandatory E-Verify legislation.

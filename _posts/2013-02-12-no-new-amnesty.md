@@ -6,10 +6,10 @@ categories:
 tags:
 - Barack Hussein Obama
 - chain migration
-- Governor Jerry Brown
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Brown
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I oppose the Senate Gang of Eight's amnesty proposal to legalize millions of illegal immigrants.

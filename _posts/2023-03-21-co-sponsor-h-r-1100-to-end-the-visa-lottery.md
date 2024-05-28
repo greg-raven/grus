@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 - visa lottery
 ---
 

@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Your misplaced "compassion" contributes to the border crisis. We need competency. As the worst border crisis in over 20 years continues, the Biden administration has announced new curbs on enforcement in the interior and the workplace, and Democrats in Congress are working on their third attempt to include rewards for illegal immigration in the budget reconciliation bill.

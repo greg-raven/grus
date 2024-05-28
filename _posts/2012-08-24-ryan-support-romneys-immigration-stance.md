@@ -7,7 +7,7 @@ tags:
 - economy
 - Federal government
 - immigration
-- Representative Paul Ryan
+- Paul Ryan
 ---
 
 Representative Paul Ryan,

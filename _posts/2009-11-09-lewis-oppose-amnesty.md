@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - Federal government
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I was appalled to learn that "comprehensive immigration reform" still has sincere proponents. Don't these people realize that such a plan would devastate millions of Americas?

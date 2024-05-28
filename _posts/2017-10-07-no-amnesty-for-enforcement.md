@@ -8,10 +8,10 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Chuck Grassley
-- Senator John Cornyn
-- Senator John Thune
-- Senator Mitch McConnell
+- Chuck Grassley
+- John Cornyn
+- John Thune
+- Mitch McConnell
 ---
 
 I expect you to oppose the SUCCEED Act any effort to trade amnesty for immigration enforcement --- it's simply not enough and won't stop illegal immigration!

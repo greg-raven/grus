@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Vote NO on H.R. 51 --- a bill that will violate the Constitution and permanently add two anti-gun Senators in the Congress.

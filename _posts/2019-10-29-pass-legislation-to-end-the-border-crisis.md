@@ -6,9 +6,9 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Support the Border Patrol and end the border surge!

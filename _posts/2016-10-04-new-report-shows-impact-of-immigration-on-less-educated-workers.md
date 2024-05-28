@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Research by the National Academy of Sciences has concluded that high levels of immigration benefit businesses instead of workers and reduces wages for low-skilled and less-educated workers. Please support overall reductions in immigration numbers to protect jobs and wages for all Americans.

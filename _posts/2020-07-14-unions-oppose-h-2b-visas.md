@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please read union-written H-2B op-ed!

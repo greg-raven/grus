@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 The House of Representatives will vote TODAY on H.R. 3401, the Emergency Supplemental Appropriations for Humanitarian Assistance and Security at the Southern Border Act.

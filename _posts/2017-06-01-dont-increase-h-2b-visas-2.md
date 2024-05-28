@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- Secretary John Kelly
+- John Kelly
 ---
 
 We are writing to express our concerns with the increase in H-2B visas for FY2017 authorized by Congress through the Omnibus appropriations bill last month. There is simply no evidence of a labor shortage, especially among the most vulnerable American workers, to necessitate this increase.

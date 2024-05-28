@@ -6,8 +6,8 @@ categories:
 tags:
 - chain migration
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Black abolitionists and civil rights leaders have been unapologetic about putting Americans first in immigration policy. As Pamela Denise Long writes in *American Affairs* ("Immigration Viewed From the Back of the Hiring Line," August, 2022):

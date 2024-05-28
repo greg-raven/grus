@@ -6,7 +6,7 @@ categories:
 tags:
 - California
 - gun control
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Thank you for your response regarding H.R. 822 (recognizing reciprocal carry laws nation-wide).

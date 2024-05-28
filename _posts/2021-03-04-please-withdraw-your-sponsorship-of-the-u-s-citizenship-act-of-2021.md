@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I'm disappointed to learn that you want to double immigration.

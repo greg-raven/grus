@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I was outraged to learn that the Obama administration is using taxpayer dollars to bring the children of illegal aliens to the United States. This simply encourages illegal immigration and I urge you to work to defund it.

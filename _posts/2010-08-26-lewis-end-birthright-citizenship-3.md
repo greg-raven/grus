@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - birthright citizenship
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I see the problem of anchor babies as a serious flaw in our immigration law. I am asking you to cosponsor H.R. 1868.

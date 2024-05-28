@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 - visa lottery
 ---
 

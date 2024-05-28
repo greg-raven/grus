@@ -6,9 +6,9 @@ categories:
 tags:
 - amnesty
 - population
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I was outraged to learn that the Gang of Eight's amnesty bill will add 33 million people to the United States' population in the next ten years, and 20 million people every decade after that! How is this just to the 22 million Americans unable to find a full-time job? I urge you to oppose this horrible bill.

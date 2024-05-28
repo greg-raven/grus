@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - censorship
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Right now, the same folks that brought us the so-called "Patriot" Act, indefinite detention of American citizens, and an out-of-control TSA and Department of Homeland Security are preparing to wage war on our freedom online.

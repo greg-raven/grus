@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - E-Verify
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I hope you will follow House Minority Leader Kevin McCarthy's lead by coming out against trading a "pathway to citizenship" or a DACA amnesty for border security. Rep. McCarthy said:

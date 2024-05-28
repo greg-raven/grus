@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Assemblyman Anthony Adams
+- Anthony Adams
 - California
-- Senator George Runner
+- George Runner
 ---
 
 California is swimming in red ink. We cannot afford legislation that will unnecessarily increase our fiscal crisis. Please ask Gov. Schwarzenegger to veto SB 1460 and AB 1413 today.

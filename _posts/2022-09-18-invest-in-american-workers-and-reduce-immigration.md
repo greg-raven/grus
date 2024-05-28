@@ -6,8 +6,8 @@ categories:
 tags:
 - chain migration
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Former Democratic Texas congresswoman and civil rights champion Barbara Jordan chaired the U.S. Commission on Immigration Reform under President Bill Clinton.

@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Why are people in California living in fire-prone areas? Because population overgrowth is pushing them there!

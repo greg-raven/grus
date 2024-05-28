@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Why is Roll Call saying that you haven't decided whether to support Speaker Boehner's "immigration principles?" These principles would devastate American workers and should not be supported. I hope you will make it clear that you actually oppose these principles.

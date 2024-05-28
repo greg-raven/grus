@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 There should be no immigration expansions in lame-duck session amid slowing economy.

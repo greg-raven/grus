@@ -6,8 +6,8 @@ categories:
 tags:
 - illegal aliens
 - jobs
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Sen. Ron Johnson's new legislation, the State Sponsored Visa Pilot Program of 2017, is a travesty on so many levels. Importing 500,000 foreign workers each year will directly harm the more than 9 million Americans who cannot find a full-time job and make it much more unlikely that any of the 95 million Americans outside the labor force will return to it. To make matters worse, the spouses and children of these new foreign workers would receive work permits, adding hundreds of thousands of additional new workers.

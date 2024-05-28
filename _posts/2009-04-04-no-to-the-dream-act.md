@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Why would you consider sponsoring the DREAM Act amnesty without first eliminating the chain migration categories that would reward the illegal alien parents of the amnestied illegal alien "children?"

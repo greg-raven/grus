@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please do whatever you can to oppose S. 1033, a bill by Senators McCain and Kennedy that would result in 25 million more foreign workers and dependents over the next decade.

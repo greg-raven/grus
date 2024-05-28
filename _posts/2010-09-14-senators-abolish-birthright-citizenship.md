@@ -6,8 +6,8 @@ categories:
 tags:
 - birthright citizenship
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 An op-ed I read in Tuesday, August 31's *USA Today* made some valid points regarding birthright citizenship loopholes that illegal workers exploit in order to stay in their U.S. jobs. I hope the points made in this editorial will convince you to sponsor a Senate version of H.R. 1868, a House bill to eliminate birthright citizenship for the children of illegal aliens.

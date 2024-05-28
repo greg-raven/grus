@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Democrats are making a terrible error by trying to use the budget reconciliation process to issue permanent work permits to 8 million illegal border crossers and visa overstayers. This is especially true while human smugglers and cartels make billions of dollars promising impoverished Central Americans that illegal immigration pays off.

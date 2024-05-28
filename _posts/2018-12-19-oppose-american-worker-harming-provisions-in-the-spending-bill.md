@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 According to the *Washington Times,* Congressional Republicans are working with the pro-foreign worker business lobby to make it even more difficult for less-educated and lower-skilled Americans to find work. I urge you not to increase H-2B visas during the lame duck and to oppose a provision that would lift the per-country caps for employment-based green cards.

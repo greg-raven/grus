@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- President Donald Trump
+- Donald Trump
 ---
 
 I was concerned by your recent statements to the Economist where you said that you did not want to reduce legal immigration levels. These statements contradict your Joint Address to Congress when you said, "Protecting our workers also means reforming our system of legal immigration. The current, outdated system depresses wages for our poorest workers, and puts great pressure on taxpayers."

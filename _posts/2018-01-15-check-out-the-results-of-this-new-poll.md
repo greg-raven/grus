@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I was heartened by the results of a new poll, which found that likely American voters overwhelmingly want to reform our immigration system to serve the national interest and work for the American people by ending Chain Migration.

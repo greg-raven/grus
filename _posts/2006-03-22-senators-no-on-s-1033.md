@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm writing to make sure you fully understand the numeric impact of the McCain-Kennedy immigration proposal, S. 1033. It would add at least 25 million foreign workers and their dependents to our already overcrowded communities over the next ten years.

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Birthright citizenship is an outdated practice that lures foreign nationals to the United States so their unborn children can become U.S. citizens. Please work to end this policy that most industrialized nations have already abandoned.

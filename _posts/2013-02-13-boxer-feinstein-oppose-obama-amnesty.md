@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I could not believe that Sen. Schumer said that the border doesn't need to be secure before illegal aliens receive their amnesty and "pathway to citizenship!" What is he thinking?

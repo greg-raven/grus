@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
+- Paul Cook
 - visa lottery
 ---
 

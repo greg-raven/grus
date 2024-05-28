@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Governor Arnold Schwarzenegger
+- Arnold Schwarzenegger
 ---
 
 I am very concerned about AB 1288, a bill that would prohibit E-Verify mandates on government contractors and preempt the ability of local governments to mandate E-Verify for other businesses. We should encourage businesses to use E-Verify, not prohibit them from doing so. Please veto AB 1288.

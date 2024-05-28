@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is disappointing that some in Congress still want to give illegal aliens an amnesty, despite the current economic jobs climate. Please cosponsor H. Res. 326, a resolution that calls on Congress to reject any immigration reform that provides illegal aliens with legal status or amnesty.

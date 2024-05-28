@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please cosponsor H.R. 3314, the Protecting American Lives Act. Far too many Americans are dying at the hands of illegal aliens who have been arrested, but given sanctuary by sanctuary cities. I hope you will help save American lives by supporting this bill.

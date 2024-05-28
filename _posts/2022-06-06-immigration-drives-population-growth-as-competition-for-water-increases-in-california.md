@@ -8,8 +8,8 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Stop enticing illegal immigrants to California while our water supply shrinks.

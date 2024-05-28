@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Ask Biden to reopen OPT compliance unit!

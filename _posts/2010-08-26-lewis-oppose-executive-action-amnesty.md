@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Why on Earth would Resident Obama or his appointees at USCIS ever consider using executive actions to amnesty the 12-18 million (lawbreaking) illegal aliens living in the United States? The USCIS memo called "Administrative Alternatives to Comprehensive Immigration Reform" is truly odious.

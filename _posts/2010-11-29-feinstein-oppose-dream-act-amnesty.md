@@ -6,8 +6,8 @@ categories:
 tags:
 - Federal government
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 2012 is a long way away, but if this last election taught us anything, it is that politicians can no longer hope that their controversial votes will be forgotten come election time. Sen. Reid is setting you up for trouble. You need to vote "NO" on the DREAM Act.

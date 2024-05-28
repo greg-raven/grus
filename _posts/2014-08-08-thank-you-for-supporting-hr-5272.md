@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I am glad you voted in favor of H.R. 5272. Please continue to do all you can to stop President Obama's pro-illegal alien policies.

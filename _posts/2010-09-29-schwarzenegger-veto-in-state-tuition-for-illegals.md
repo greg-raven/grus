@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Governor Arnold Schwarzenegger
+- Arnold Schwarzenegger
 ---
 
 Please veto SB 1460 and AB 1413. Both bills will greatly add to California's desperate financial situation.

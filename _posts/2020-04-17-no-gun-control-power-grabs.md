@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Mitch McConnell
+- Mitch McConnell
 ---
 
 WHEREAS: The Second Amendment to the United States Constitution protects the individual right to keep and bear arms; and

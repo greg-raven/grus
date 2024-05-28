@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 - visa lottery
 ---
 

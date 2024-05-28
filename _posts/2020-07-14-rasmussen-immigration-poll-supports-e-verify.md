@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Rasmussen polling shows American voters want mandatory E-Verify.

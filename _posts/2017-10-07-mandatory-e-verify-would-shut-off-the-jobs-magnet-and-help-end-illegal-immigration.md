@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please pass legislation that would require all employers to use E-Verify. Mandating E-Verify will prevent illegal aliens from finding jobs and help Americans get back to work.

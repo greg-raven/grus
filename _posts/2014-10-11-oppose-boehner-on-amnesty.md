@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Why did House Speaker John Boehner tell an American Enterprise Institute audience that "immigration reform would help our economy?" How does amnestying illegal aliens and increasing work permits for foreign workers help the 18 million Americans unable to find a full-time job? Businesses are not people and do not deserve low-cost foreign labor when it harms American workers.

@@ -7,8 +7,8 @@ tags:
 - chain migration
 - Federal government
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I understand that Senate Majority Leader Harry Reid is trying to force the DREAM Act amnesty through the Senate during the lame duck session. I also understand that you are planning on supporting this anti-American worker amnesty. If you plan on winning reelection in 2012, I strongly urge you to reconsider your pro-amnesty position.

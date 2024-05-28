@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Please support Rep. Bishop's Border amendment to the Interior Department spending bill. This amendment protects national forests and lands along the border from being overrun by illegal aliens.

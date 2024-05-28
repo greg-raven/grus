@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I, along with the 18 million Americans unable to find a full-time job, am pleased that President Obama has decided to delay the implementation of his executive amnesty. However, his decision to carry on with amnestying millions of illegal aliens after the election is extremely disheartening. I hope you will use the next two months to tell President Obama that an amnesty would harm America's unemployed and underemployed.

@@ -5,7 +5,7 @@ categories:
 - Information
 tags:
 - immigration
-- Senator Harry Reid
+- Harry Reid
 ---
 
 In 1993, Sen. Harry Reid (D-NV) stood on the floor of the Senate and made a speech lamenting the fact that illegal aliens were flooding this country, and how the U.S. rewards them.

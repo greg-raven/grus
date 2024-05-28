@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We are appalled that Costa Rica, El Salvador, and Mexico can get away with striking an immigration deal that will increase the number of people trying to enter the U.S. illegally! The just-signed agreement allows Costa Rica to fly Cuban illegal aliens to El Salvador, where they will be bused to Mexico. This is absurd and will only encourage more economic migrants from Cuba to try to come to the U.S. illegally. Rep. Paul Gosar's Ending Special National Origin-Based Immigration Programs for Cubans Act of 2015, H.R. 3818, would scrap the Cuban Adjustment Act of 1966 and the "wet foot/dry foot" policy that applies to Cubans entering the country illegally. We hope you will support this legislation.

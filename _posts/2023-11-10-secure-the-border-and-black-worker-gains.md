@@ -8,8 +8,8 @@ tags:
 - illegal immigration
 - immigration
 - jobs
-- Representative Jay Obernolte
-- Senator Alex Padilla
+- Jay Obernolte
+- Alex Padilla
 ---
 
 Please work to protect Black worker gains by including by H.R. 2 in any funding bill.

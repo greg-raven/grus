@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I hope you find the unilateral Obama Amnesty as appalling as I do. This action will harm millions of jobless Americans and will devastate the Democrats at the November polls. I'm sure you won't be supporting this action.

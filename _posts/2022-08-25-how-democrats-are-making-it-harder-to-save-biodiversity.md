@@ -7,8 +7,8 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I am writing to you because I am concerned about our unsustainable population growth, driven primarily by your immigration policies, which add more than one million per year (more than two million since the current border crisis began). America is inexorably losing its open spaces and wilderness areas, along with a wide array of wildlife.

@@ -8,8 +8,8 @@ tags:
 - E-Verify
 - illegal immigration
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
+- Jay Obernolte
+- Alex Padilla
 ---
 
 The ongoing crisis at the U.S. / Mexico border will not end unless Congress takes steps to change the government's immigration and border policies. H.R. 2, the Secure the Border Act, would end the crisis by:

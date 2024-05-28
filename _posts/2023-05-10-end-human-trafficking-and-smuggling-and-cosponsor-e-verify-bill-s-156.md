@@ -6,8 +6,8 @@ categories:
 tags:
 - E-Verify
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Democratic Senator Amy Klobuchar stated: "We must do all we can to prevent human smuggling and trafficking across both our country's borders."

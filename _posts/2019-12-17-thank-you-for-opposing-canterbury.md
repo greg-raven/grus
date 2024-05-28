@@ -5,10 +5,10 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Benjamin Sasse
-- Senator John Kennedy
-- Senator Josh Hawley
-- Senator Mike Lee
+- Benjamin Sasse
+- John Kennedy
+- Josh Hawley
+- Mike Lee
 ---
 
 - Nominee to lead ATF supports "red flag" gun confiscation orders.

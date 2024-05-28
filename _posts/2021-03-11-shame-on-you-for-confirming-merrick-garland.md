@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Gun Owners of America tells me that you voted to confirm Merrick Garland for Attorney General on Wednesday afternoon.

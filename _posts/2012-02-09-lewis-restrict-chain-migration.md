@@ -6,7 +6,7 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 I would be grateful if you were to consider cosponsoring H.R. 692, the Nuclear Family Priority Act.

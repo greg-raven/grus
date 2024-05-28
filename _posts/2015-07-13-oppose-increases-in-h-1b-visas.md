@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 A recent *New York Times* report highlights the stories of laid-off tech workers who have been forced to train their foreign-worker, H-1B replacements. I urge you to oppose increases in H-1B visas and instead help stop this ongoing and disturbing trend.

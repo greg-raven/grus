@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We are glad you cosponsored the Legal Workforce Act, H.R. 1147. This bill provides for a sensible phase-in of mandatory use of the E-Verify system and will help combat identity fraud. With 18 million Americans unable to find a full-time job and millions more suffering from the ramifications of a stolen identity, this legislation is truly important. Thank you for cosponsoring it.

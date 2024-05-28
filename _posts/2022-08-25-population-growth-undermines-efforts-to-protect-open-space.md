@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - population
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 The Biden Administration's "Conserving and Restoring America the Beautiful" plan aims to protect 30 percent of America's land from development by 2030. The more-ambitious "Nature Needs Half" movement argues for stopping the destruction of natural habitat before the ratio falls below 50 percent (already too late for many countries, but not the United States).

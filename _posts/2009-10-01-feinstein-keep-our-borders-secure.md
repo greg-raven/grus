@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I have heard that DHS will be reducing the number of Border Patrol agents on the U.S. --- Mexico border. I hope this is not true!

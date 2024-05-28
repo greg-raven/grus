@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Dianne Feinstein
+- Dianne Feinstein
 - spying
 ---
 

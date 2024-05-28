@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 U.S. tech talent struggle to find work. Limit immigration.

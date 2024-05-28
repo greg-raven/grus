@@ -7,7 +7,7 @@ tags:
 - chain migration
 - immigration
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I urge you to co-sponsor H.R. 891, the Nuclear Family Priority Act!

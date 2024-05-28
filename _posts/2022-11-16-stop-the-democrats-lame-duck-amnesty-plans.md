@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I am concerned that lame duck Democrats will try to force an illegal alien amnesty through Congress while they still control the House of Representatives. According to one pro-illegal alien activist, the lame duck session is a "golden opportunity" to pass an amnesty, while another activist said that "another chance \[to amnesty illegal aliens\] likely won't come for years."

@@ -6,8 +6,8 @@ categories:
 tags:
 - illegal aliens
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I urge you to work to end current catch-and-release policies.

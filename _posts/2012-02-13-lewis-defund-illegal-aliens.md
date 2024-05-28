@@ -6,7 +6,7 @@ categories:
 tags:
 - Federal government
 - illegal aliens
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Representative Jerry Lewis,

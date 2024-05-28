@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - immigration
-- Senator Jeff Sessions
+- Jeff Sessions
 ---
 
 > WASHINGTON --- U.S. Sen. Jeff Sessions (R-AL), a senior member of the Senate Judiciary Committee, commented on the Administration's latest executive immigration decree which loosens immigration screening standards for those who may pose a threat to national security:

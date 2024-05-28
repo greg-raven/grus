@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Nearly 40% of young Americans with a high school education or less cannot find a job. The seasonal and entry-level jobs available for previous generations are simply not there because employers are able to hire an increasing number of H-2B workers. To make matters worse, some of your colleagues want to quadruple H-2B numbers as part of the FY2017 DHS appropriations bill. Please do all you can to prevent this from happening so that these Americans are able to enter the workforce.

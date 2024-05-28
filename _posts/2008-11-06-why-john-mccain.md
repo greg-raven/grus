@@ -6,7 +6,7 @@ categories:
 tags:
 - politics
 - "Hillary Clinton"
-- Senator John McCain
+- John McCain
 - world government
 ---
 

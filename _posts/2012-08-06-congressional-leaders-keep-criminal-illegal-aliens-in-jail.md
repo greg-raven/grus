@@ -7,16 +7,16 @@ tags:
 - Federal government
 - illegal aliens
 - immigration
-- Representative James Clyburn
-- Representative John Boehner
-- Representative Kevin McCarthy
-- Representative Nancy Pelosi
-- Representative Steny Hoyer
-- Senator Debbie Stabenow
-- Senator Harry Reid
-- Senator Jon Kyl
-- Senator Mitch McConnell
-- Senator Richard Durbin
+- James Clyburn
+- John Boehner
+- Kevin McCarthy
+- Nancy Pelosi
+- Steny Hoyer
+- Debbie Stabenow
+- Harry Reid
+- Jon Kyl
+- Mitch McConnell
+- Richard Durbin
 ---
 
 Senator Richard Durbin:

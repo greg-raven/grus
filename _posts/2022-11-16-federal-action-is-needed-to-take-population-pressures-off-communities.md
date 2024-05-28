@@ -8,8 +8,8 @@ tags:
 - environment
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I can't believe how much urban sprawl there's been in America during the past 20 years --- more than 11.5 million acres of open land (an area about the size of New Jersey and New Hampshire combined) has been developed. This trend is being fueled by population growth.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I hope you will sign the letter Rep. Steve Stockman has written to House Speaker John Boehner. In it he argues that the Senate will use any House-passed immigration legislation as a vehicle to get their amnesty legislation to President Obama's desk. I hope you will sign this letter and show Speaker Boehner that he must ensure that amnesty is not passed through a conference committee.

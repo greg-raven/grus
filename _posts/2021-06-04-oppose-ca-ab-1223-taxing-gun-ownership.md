@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Assemblyman Thurston Smith
+- Thurston Smith
 ---
 
 I am writing to you today to express my opposition to AB-1223, which would impose an unjust financial burden on working-class Californians by placing a tax on firearms and ammunition sales.

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 As your constituent, I am writing you today to urge you to oppose any and all gun control legislation that may be considered in the wake of the terrorist attack in Orlando.

@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please confirm Judge Brett M. Kavanaugh of the U.S. Court of Appeals for the District of Columbia Circuit to fill the Supreme Court vacancy created by Justice Anthony Kennedy's retirement.

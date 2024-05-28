@@ -6,7 +6,7 @@ categories:
 tags:
 - Federal government
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 - visa lottery
 ---
 

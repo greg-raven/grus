@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 The people of California are counting on you to oppose amnesty. Just say "NO" to amnesty.

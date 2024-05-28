@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is outlandish that amnestied illegal aliens are not forced to pay as part of the Schumer-Rubio-McCain amnesty bill. I hope you will oppose this bill!

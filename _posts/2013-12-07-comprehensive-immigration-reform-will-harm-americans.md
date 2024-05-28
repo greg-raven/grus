@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is important for you to listen to your Republican colleagues who realize that comprehensive immigration reform would harm American workers. The best way for your party to reach out to voters, especially working class voters, is to improve the job prospects of all Americans. The worst way to do this is to support legislation that gives work permits to illegal aliens and increases foreign worker numbers.

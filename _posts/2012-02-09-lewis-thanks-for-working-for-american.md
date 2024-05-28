@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - chain migration
-- Representative Jerry Lewis
+- Jerry Lewis
 - visa lottery
 - E-Verify
 

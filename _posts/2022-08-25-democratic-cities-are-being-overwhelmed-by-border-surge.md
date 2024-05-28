@@ -6,8 +6,8 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 New York City Mayor Adams is overwhelmed by busloads of migrants coming from the border. Cities closer to the border have been overwhelmed for months. There is nothing "compassionate" about facilitating a border crisis. End asylum fraud, catch and release, and the abuse of parole authority. Reinstate and mandate the Migration Protection Protocols program.

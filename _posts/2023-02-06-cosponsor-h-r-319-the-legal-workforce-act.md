@@ -7,7 +7,7 @@ tags:
 - E-Verify
 - immigration
 - jobs
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 H.R. 319, in addition to requiring employers to run new hires through the Chamber of Commerce-approved E-Verify system, would move illegal aliens out of U.S. jobs. Over time, the more than 7 million illegal aliens in non-agricultural jobs would be replaced by unemployed Americans and legal immigrants. While not solving America's unemployment or illegal immigration problems, the Legal Workforce Act would certainly lessen their severity.

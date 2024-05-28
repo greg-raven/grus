@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Scott Wilk
+- Scott Wilk
 ---
 
 I am in strong opposition to AB 1227, which seeks to impose an excise tax on each new gun purchased in California.

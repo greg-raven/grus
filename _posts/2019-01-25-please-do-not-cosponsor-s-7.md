@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I encourage you to REFUSE to cosponsor S. 7, the "red flag" gun grab bill.

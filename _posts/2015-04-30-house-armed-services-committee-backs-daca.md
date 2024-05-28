@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is disappointing that the Gallego amendment to the NDAA passed. Thank you for voting against it and voting against the president's DACA amnesty.

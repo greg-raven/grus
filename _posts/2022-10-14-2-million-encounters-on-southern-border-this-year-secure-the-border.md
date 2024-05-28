@@ -7,7 +7,7 @@ tags:
 - border control
 - child labor
 - illegal immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 The Biden-Harris "root cause" migration plan has failed, as is documented in The Washington Post column "U.S. arrests along Mexico border top 2 million a year for first time" that was published this month.

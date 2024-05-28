@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 E-Verify must be mandated and chain migration must be ended before Congress can even consider passing an amnesty for DACA recipients.

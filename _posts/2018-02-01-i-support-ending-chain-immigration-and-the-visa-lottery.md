@@ -7,7 +7,7 @@ tags:
 - amnesty
 - chain migration
 - immigration
-- President Donald Trump
+- Donald Trump
 - visa lottery
 ---
 

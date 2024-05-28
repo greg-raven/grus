@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - border control
-- Governor Jerry Brown
+- Jerry Brown
 - immigration
 ---
 

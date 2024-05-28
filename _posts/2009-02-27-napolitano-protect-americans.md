@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Secretary Janet Napolitano
+- Janet Napolitano
 ---
 
 I am starting to see a worrisome trend at the Department of Homeland Security. It appears that you are postponing the implementation of new rules which help American and legal immigrant workers.

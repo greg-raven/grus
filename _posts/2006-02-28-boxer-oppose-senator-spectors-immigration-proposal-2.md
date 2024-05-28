@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 If you oppose amnesty, you must vote against Sen. Specter's immigration proposal. It is a major illegal-alien amnesty.

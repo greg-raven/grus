@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Federal government
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Chairman Intel's comment makes clear how little the tech industry values the American worker. You have a responsibility to protect us from people like him.

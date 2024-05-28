@@ -7,8 +7,8 @@ tags:
 - chain migration
 - illegal aliens
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Our beautiful nation has become stricken with immigration-driven population growth even though most Americans want slower population growth. Urban sprawl, and the subsequent loss of community cohesion, will only worsen as our population continues to soar by millions every year. The Census Bureau predicts that the U.S. population will soar to 404 million by the Year 2060, with more than 90% due to immigration.

@@ -6,8 +6,8 @@ categories:
 tags:
 - environment
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 The Real Clear Policy article, "Our De Facto Open Border Makes Inflation &amp; Climate Change Worse" (October 4, 2022) tells the sad truth:

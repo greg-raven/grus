@@ -6,9 +6,9 @@ categories:
 tags:
 - amnesty
 - Federal government
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I find it odd that Sen. Charles Schumer's Immigration Subcommittee is debating granting amnesty to millions of illegal aliens when so many Americans are out of work. I believe the subcommittee should be debating how mass, unfettered illegal immigration harms Americans instead of debating the best way to reward illegal aliens.

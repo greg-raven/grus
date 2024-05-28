@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 A group of nine Latin American foreign ministers --- Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Mexico, Nicaragua, Panama, and Peru --- have written to U.S. Secretary of State John Kerry, urging the U.S. to end its "wet foot, dry foot" policy for Cuban immigrants. I urge you to listen to their arguments and support passage of H.R. 3818, the Ending Special National Origin-Based Immigration Programs for Cubans Act, to end the special status Cuban immigrants have.

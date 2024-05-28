@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 President Obama must not given fast track authority (TPA) for the TransPacific Partnership (TPP). The potential ramifications for American workers are far too great for the Congress to be prevented from having sufficient debate of the free trade agreement and the ability to amend it. I urge you not to give President Obama this authority.

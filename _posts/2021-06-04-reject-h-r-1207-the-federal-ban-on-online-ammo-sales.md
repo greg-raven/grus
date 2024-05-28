@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 I urge you to *reject* H.R. 1207 --- the federal ban on online ammo sales.

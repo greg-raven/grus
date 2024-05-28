@@ -8,8 +8,8 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 During the past 20 years, America has lost more than 11.5 million acres to development. A majority of the loss was a result of the U.S. population growing by nearly 40 million people. According to the U.S. Census Bureau, our country is poised to add another 75 million people by 2060 --- with roughly 90% due to immigration.

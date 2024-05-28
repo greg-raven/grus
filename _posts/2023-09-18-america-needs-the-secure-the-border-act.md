@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Immigration-driven population growth like the migrant crisis can exacerbate the effects of extreme weather events, with the stakes (e.g., tax dollars, property, and lives) getting higher every year.

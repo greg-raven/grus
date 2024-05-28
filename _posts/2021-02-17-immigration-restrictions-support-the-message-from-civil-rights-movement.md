@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 - Honor MLK with immigration policy that spurs economic mobility.

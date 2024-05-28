@@ -7,8 +7,8 @@ tags:
 - environment
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Immigration threatens worker bargaining power even more during a slowing economy.

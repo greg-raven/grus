@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Representative Paul Ryan
+- Paul Ryan
 - visa lottery
 - E-Verify
 ---

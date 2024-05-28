@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 In October of last year, the White House issued an extensive list of immigration principles. Among those principles were ending chain migration, mandating the use of E-Verify, fixing unaccompanied alien children and asylum loopholes, ending sanctuary cities, and improving interior enforcement. The President stated:

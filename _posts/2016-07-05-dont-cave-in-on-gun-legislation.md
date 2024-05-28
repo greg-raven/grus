@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
-- Representative Paul Ryan
+- Paul Cook
+- Paul Ryan
 ---
 
 A couple of weeks ago, Democrats made a mockery of the House by sitting on the floor, whining --- metaphorically holding their breath until they turned blue. Yet with Obama in the White House and Democrats holding supermajorities in the House and Senate in 2009-2010, the Democrats did nothing to pass gun control legislation, which they now falsely claim is vital to public safety.

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - gun control
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The Orlando killer wasn't on a "no-fly" list.

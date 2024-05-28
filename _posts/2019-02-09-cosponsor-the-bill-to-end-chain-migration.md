@@ -6,7 +6,7 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please consider supporting H.R. 891, the Nuclear Family Priority Act, to end chain migration.

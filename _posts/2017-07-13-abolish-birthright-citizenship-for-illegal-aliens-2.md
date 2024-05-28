@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 It is not fair for the children of illegal aliens to receive U.S. citizenship at birth. The rest of the industrialized world has moved past this archaic system and I hope you will work to end it by supporting legislation that ends Birthright Citizenship, so that America is able to move past it as well.

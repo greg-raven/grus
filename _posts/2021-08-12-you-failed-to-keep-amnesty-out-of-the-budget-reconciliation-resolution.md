@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Polls consistently and increasingly show that the public is alarmed by Washington's cavalier attitude toward a border crisis that continues to break records during the hot and deadly summer months. There is no issue on which the public is at greater odds with Democrats in Washington than immigration.

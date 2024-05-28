@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Incentives matter. Migrants may be poor but they are just as capable as you or I of doing a cost-benefit analysis. Upon taking office, Resident Biden quickly signaled that illegal immigration would not just be tolerated, but celebrated. Congress piled on by promising rewards for illegal immigration, such as work permits.

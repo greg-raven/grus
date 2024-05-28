@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - DHS
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 In light of the unfounded "threat assessment" on "Rightwing Extremism" issued by DHS Secretary Janet Napolitano, I am calling for Napolitano's immediate removal from office.

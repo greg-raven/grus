@@ -7,8 +7,8 @@ tags:
 - chain migration
 - environment
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 America has a huge problem that's getting worse. During the past 20 years, America has lost more than 11.5 million acres of open land (an area about the size of New Jersey and New Hampshire combined) to urban development. This trend is being fueled by population growth.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I cannot understand why reputable news organizations continue to say that Catholic Americans overwhelmingly support giving legal status, work permits, and a pathway to citizenship to illegal aliens when recent polling shows that the opposite is true.

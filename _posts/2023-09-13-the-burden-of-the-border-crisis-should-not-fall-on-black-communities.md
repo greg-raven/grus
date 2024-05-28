@@ -8,9 +8,9 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 It is high time that the needs of black Americans be reflected in the nation's immigration policies. I look to support political candidates who will take immediate action to remedy immigration policies that are detrimental to black communities.

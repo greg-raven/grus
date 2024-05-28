@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - environment
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am writing to demand that you refuse to ratify the Copenhagen Climate Treaty.

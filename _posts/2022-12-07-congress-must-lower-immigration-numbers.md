@@ -8,8 +8,8 @@ tags:
 - environment
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 - Mass immigration hasn't delivered a fair economy. Moderate the numbers.

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The Gang of Eight's amnesty bill is an amnesty first, enforcement promises bill. The amnesty for illegal aliens comes before any enforcement occurs and there are no hard triggers requiring enforcement. Americans want enforcement first. Please oppose this legislation.

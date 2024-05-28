@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 The 5,000-strong caravan of illegal Honduran migrants aims to take advantage of a loophole in our immigration laws to cross the border. The Obama administration allowed asylum seekers to use a fear of crime or domestic abuse as a claim for asylum even though U.S. law clearly states that asylum seekers must have a fear of "persecution in their home country because of their race, religion, nationality, political opinion, or membership in a particular social group."

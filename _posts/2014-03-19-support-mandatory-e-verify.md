@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 One of the biggest draws for foreigners who try and come to the United States illegally is a job. By requiring that all employers use E-Verify, the United States can take a giant step towards ending all illegal immigration. I support mandatory E-Verify, I urge you to do so as well.

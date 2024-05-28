@@ -7,8 +7,8 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Although states with high population growth have more political influence, there are considerable drawbacks. America is experiencing a "biodiversity crisis," mostly from habitat loss caused by our immigration-driven population. Wildlife species keep getting added to America's list of endangered and threatened wildlife, now exceeding a mind-boggling 1,300 species.

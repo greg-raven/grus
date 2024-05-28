@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 S. 4787 would issue 100,000 green cards even though the recipients don't qualify for refugee status or a special immigrant visa program already created by Congress.

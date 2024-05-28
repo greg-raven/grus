@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Thurston Smith
+- Thurston Smith
 - gun control
 ---
 

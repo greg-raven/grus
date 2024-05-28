@@ -6,9 +6,9 @@ categories:
 tags:
 - illegal aliens
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 On July 8, Pres. Obama submitted an $3.7 billion emergency funding request to help stop the illegal-alien border surge on the U.S.-Mexico border. Unfortunately, the President's request would only help relieve the symptoms rather than fix the actual causes for the surge. I urge you not to approve any emergency funding unless the following conditions are included.

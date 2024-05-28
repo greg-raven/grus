@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - DHS
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I learned on CNN yesterday that serious corruption at DHS is threatening national security.

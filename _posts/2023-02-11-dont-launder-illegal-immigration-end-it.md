@@ -6,8 +6,8 @@ categories:
 tags:
 - E-Verify
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I was disappointed to hear President Biden tout amnesty during his State of the Union address instead of speaking on real strategies that will halt the border crisis he created.

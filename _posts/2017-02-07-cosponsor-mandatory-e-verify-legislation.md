@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I hope you will cosponsor and support the S. 179, Sen. Grassley's legislation to mandate use of the E-Verify system. This bill provides for a sensible phase-in of mandatory use of the E-Verify system and will help combat identity fraud. With millions of Americans unable to find a full-time job this legislation is truly important.

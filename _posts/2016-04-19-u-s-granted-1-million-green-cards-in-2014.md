@@ -6,9 +6,9 @@ categories:
 tags:
 - immigration
 - jobs
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Recently released statistics from DHS show that the U.S. issued more than 1 million green cards in 2014. This is far too high a number and Congress needs to take action to cut immigration numbers.

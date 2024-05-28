@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- President Donald Trump
+- Donald Trump
 ---
 
 More Americans are back to work than ever thanks to your policies --- do even more by reducing legal immigration!

@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Donald Trump's plan to reform America's immigration system to benefit America's workers is the best of all those running for the White House. I hope you will look at his plan and start working on instituting his proposals in the near future.

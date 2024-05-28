@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 We expect you to ensure that the E-Verify provisions of the DHS Appropriations bill survive the Conference Committee!

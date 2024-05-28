@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 Please work with President Trump to fulfill his goal of improving the lives of all Americans. I am confident that Congress can work in a non-partisan manner to make this happen.

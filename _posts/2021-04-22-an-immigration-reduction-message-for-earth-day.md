@@ -7,8 +7,8 @@ tags:
 - immigration
 - population
 - refugees
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Support the environment and limit immigration-driven population growth.

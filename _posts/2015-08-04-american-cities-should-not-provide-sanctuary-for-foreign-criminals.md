@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The recent shooting death by an illegal alien who had been previously deported from the U.S. 5 times, highlights the federal government's refusal to enforce our country's existing immigration laws. Please end the existence of so-called "sanctuary cities" by supporting S.1842 that would require cities and states to cooperate with federal immigration agents.

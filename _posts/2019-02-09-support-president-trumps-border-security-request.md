@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - border control
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 During his primetime address, President Trump reiterated the need for more resources at the border, notably $5.7 billion for new fencing, to combat illegal immigration and mitigate the harm it causes:

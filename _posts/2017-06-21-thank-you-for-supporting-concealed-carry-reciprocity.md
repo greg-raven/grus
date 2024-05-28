@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Thank you for your support of the concealed carry reciprocity bill (H.R. 38).

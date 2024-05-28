@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - Barack Hussein Obama
-- Representative Joe Wilson
+- Joe Wilson
 ---
 
 Thanks for calling Resident Obama a liar --- which he clearly is, on so many issues. You managed to express succinctly what so many of us know.

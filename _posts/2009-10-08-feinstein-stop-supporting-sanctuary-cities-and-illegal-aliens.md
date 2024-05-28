@@ -7,8 +7,8 @@ tags:
 - California
 - Federal government
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 You were not sent to Washington to protect the interests of illegal aliens! Why did you oppose Sen. Vitter's amendment to H.R. 2847? Do you truly support the notion of "sanctuary cities?"

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 We hope you will vote in favor of the Aderholt and Blackburn amendments to the DHS spending bill. Defunding the president's executive amnesties is a top priority and these amendments will do a lot to achieve that goal.

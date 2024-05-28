@@ -4,9 +4,9 @@ layout: post
 categories:
 - Letters
 tags:
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Laphonza Butler
+- Jay Obernolte
+- Alex Padilla
+- Laphonza Butler
 - immigration
 - visa lottery
 ---

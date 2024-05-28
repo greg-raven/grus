@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am contacting you today to ask that you vote YES on two upcoming bills.

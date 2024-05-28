@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - border control
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I find it disturbing that according to Rasmussen, only 9% of Americans believe it is "very likely" that the government "would actually secure the border and prevent illegal immigration" if Congress passes comprehensive immigration reform legislation. It is equally disturbing that Chris Crane, the head of ICE's union, said that the border could never be secured if Congress passes immigration reform before ensuring that the border is secured. We urge you to postpone passage of an amnesty for illegal aliens so that the border can be secured once and for all.

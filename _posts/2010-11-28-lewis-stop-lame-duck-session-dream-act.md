@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Politico is reporting that soon-to-be former Speaker Nancy Pelosi wants to force a floor vote on the DREAM Act amnesty during the lame duck session of Congress. I hope you oppose any attempt by Rep. Pelosi to force the anti-American worker DREAM Act amnesty on the American people.

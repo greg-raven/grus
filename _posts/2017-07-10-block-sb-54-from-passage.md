@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Assemblyman Anthony Rendon
+- Anthony Rendon
 - illegal aliens
 ---
 

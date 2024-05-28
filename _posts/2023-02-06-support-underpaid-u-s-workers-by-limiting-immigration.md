@@ -7,8 +7,8 @@ tags:
 - E-Verify
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 I'm angry that U.S. Labor Secretary Marty Walsh incorrectly claimed that "One of the biggest threats to our economy is not inflation or wage growth, it's lack of workers. And immigration reform is a key to that."

@@ -7,7 +7,7 @@ tags:
 - illegal aliens
 - national security
 - population
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Many law enforcement groups, including the National Association of Assistant U.S. Attorneys, oppose the House's criminal justice reform legislation. This proposal would release thousands of dangerous criminal aliens onto the streets. Please do all you can to make sure it doesn't become law unless it excludes non-citizens.

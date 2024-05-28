@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Most Americans agree that population growth comes with serious drawbacks (e.g., crowded highways and schools, lack of affordable housing, water shortages, urban sprawl) and want tighter immigration control from the Biden administration. These results cross party and ideological lines, according to recent polling.

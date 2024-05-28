@@ -6,7 +6,7 @@ categories:
 tags:
 - border control
 - national security
-- Representative Paul Cook
+- Paul Cook
 ---
 
 In recent days, I've heard House GOP Leaders talk about using Rep. Michael McCaul's border bill, H.R. 399, as a starting point for immigration reform. I don't support this bill, and President-elect Donald Trump already has the authorization he needs to secure the border through existing legislation.

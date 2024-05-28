@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - economy
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm sending you a copy of this from the *Chicago Tribune,* April 21, 1934:

@@ -8,9 +8,9 @@ tags:
 - environment
 - immigration
 - population
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Population growth fueled almost totally by immigration is causing America to lose green spaces, forests, and farm land at a frightening pace. Congress needs to change our nation's immigration policies before it's too late.

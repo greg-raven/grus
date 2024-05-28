@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I believe it's important for Republican Members of Congress to realize that most evangelical Republicans do not approve of comprehensive immigration reform. The polls are clear on this.

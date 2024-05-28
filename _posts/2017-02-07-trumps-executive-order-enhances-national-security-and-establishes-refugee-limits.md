@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - refugees
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 President Trump's Jan. 27 executive order strengthens national security and establishes limits for the refugee resettlement program. Both actions were highlighted during Donald Trump's August campaign speech on immigration, and the American people responded by electing him president. I ask that you set aside the misinformation that's been reported since the order was signed and support these sensible actions.

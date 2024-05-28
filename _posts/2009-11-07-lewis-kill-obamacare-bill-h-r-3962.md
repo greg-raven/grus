@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - Federal government
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I'm writing to ask you to KILL ObamaCare Bill H.R. 3962. I'm not going to ask you to read it or point out the manifold egregious provisions of this bill. You don't need to go to that effort because this bill is --- like Resident Obama and a fair number of our "representatives" in D.C. --- utterly un-American, and must be rejected.

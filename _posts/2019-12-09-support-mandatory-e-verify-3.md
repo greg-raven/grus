@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Paul Cook
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 The simplest way to end illegal immigration is by requiring all employers to use E-Verify. I hope you'll support this commonsense solution and push for a vote on legislation that would mandate E-Verify nationwide.

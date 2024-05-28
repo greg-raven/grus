@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - gun control
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 As you know, the House of Representatives just voted for TWO pieces of anti-gun legislation. Rep. Speier's amendment to the NDAA, which lays the groundwork for Resident Biden's vision of mandatory gun storage laws, and H.R. 6538, which is a duplicative program that will lead to deceptive anti-gun propaganda under the guise of "awareness."

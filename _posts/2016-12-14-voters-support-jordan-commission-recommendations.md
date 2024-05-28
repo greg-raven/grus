@@ -6,8 +6,8 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 - visa lottery
 - visa lottery
 ---

@@ -6,8 +6,8 @@ categories:
 tags:
 - border control
 - immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 The Biden-Harris "root cause" migration plan has failed, as is documented in *The Washington Post* column "U.S. arrests along Mexico border top 2 million a year for first time" that was published this month.

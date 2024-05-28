@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Homeownership is becoming an impossibility in the U.S. with rising costs and demand through increased immigration.

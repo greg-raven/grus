@@ -5,59 +5,59 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Bass
-- Representative Becerra
-- Representative Bera
-- Representative Brownley
-- Representative Calvert
-- Representative Campbell
-- Representative Capps
-- Representative Cardenas
-- Representative Chu
-- Representative Costa
-- Representative Davis
-- Representative Denham
-- Representative Eshoo
-- Representative Farr
-- Representative Garamendi
-- Representative Hahn
-- Representative Henry Waxman
-- Representative Honda
-- Representative Huffman
-- Representative Hunter
-- Representative Issa
-- Representative LaMalfa
-- Representative Lee
-- Representative Lofgren
-- Representative Lowenthal
-- Representative Matsui
-- Representative Maxine Waters
-- Representative McCarthy
-- Representative McClintock
-- Representative McKeon
-- Representative McNerney
-- Representative Miller
-- Representative Napolitano
-- Representative Negrete McLeod
-- Representative Nunes
-- Representative Paul Cook
-- Representative Pelosi
-- Representative Peters
-- Representative Rohrabacher
-- Representative Roybal-Allard
-- Representative Royce
-- Representative Ruiz
-- Representative Sanchez
-- Representative Schiff
-- Representative Sherman
-- Representative Speier
-- Representative Swalwell
-- Representative Takano
-- Representative Thompson
-- Representative Valadao
-- Representative Vargas
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Bass
+- Becerra
+- Bera
+- Brownley
+- Calvert
+- Campbell
+- Capps
+- Cardenas
+- Chu
+- Costa
+- Davis
+- Denham
+- Eshoo
+- Farr
+- Garamendi
+- Hahn
+- Henry Waxman
+- Honda
+- Huffman
+- Hunter
+- Issa
+- LaMalfa
+- Lee
+- Lofgren
+- Lowenthal
+- Matsui
+- Maxine Waters
+- McCarthy
+- McClintock
+- McKeon
+- McNerney
+- Miller
+- Napolitano
+- Negrete McLeod
+- Nunes
+- Paul Cook
+- Pelosi
+- Peters
+- Rohrabacher
+- Roybal-Allard
+- Royce
+- Ruiz
+- Sanchez
+- Schiff
+- Sherman
+- Speier
+- Swalwell
+- Takano
+- Thompson
+- Valadao
+- Vargas
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I work in the technology industry and I can safely say that there is no shortage of workers in my field. This myth is propagated by those who want to have a steady supply of expendable labor they can hire at lower wages. Please act to reduce this surplus of labor so that all American STEM workers can find well-paying jobs.

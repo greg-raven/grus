@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator Dianne Feinstein
+- Dianne Feinstein
 - visa lottery
 ---
 

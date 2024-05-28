@@ -6,8 +6,8 @@ categories:
 tags:
 - chain migration
 - E-Verify
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Washington Post writer Catherine Rampell writes in her column, "The myth of the manufacturing comeback," about the future of dwindling job prospects in American manufacturing:

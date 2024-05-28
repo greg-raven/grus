@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- Representative Paul Cook
+- Paul Cook
 ---
 
 It is disappointing that so many employers are willing to hire illegal aliens instead of unemployed Americans or legal immigrants. The New IDEA Act, H.R. 1292, would put a stop to this. Please cosponsor this common-sense legislation today!

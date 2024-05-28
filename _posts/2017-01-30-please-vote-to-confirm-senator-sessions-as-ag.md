@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 Please vote to confirm Senator Jeff Sessions as attorney general. The new administration has a lot of work ahead of it repairing the damage done to our country and to the rule of law by the previous administration, and Senator Sessions can play a key role in that effort.

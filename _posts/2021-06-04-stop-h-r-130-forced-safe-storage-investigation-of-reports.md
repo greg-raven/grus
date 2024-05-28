@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Shiela Jackson Lee
+- Shiela Jackson Lee
 ---
 
 I am writing to you today to DEMAND that you withdraw the outrageous H.R. 130, which would put government bureaucrats in charge of how my defensive arms are stored.

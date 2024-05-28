@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I cannot believe that Speaker Boehner told a group of agricultural leaders that America just can't handle mandatory E-Verify yet and "immigration reform" should come first. This counts as an amnesty by every definition of the word and I hope you will oppose it.

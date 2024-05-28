@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - illegal immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Border Patrol agents are on pace to make more than 2 million apprehensions of illegal border crossers during the current fiscal year. It's past time for Congress to take action to end this historic border crisis!

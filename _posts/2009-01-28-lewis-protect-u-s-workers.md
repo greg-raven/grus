@@ -6,7 +6,7 @@ categories:
 tags:
 - chain migration
 - immigration
-- Representative Jerry Lewis
+- Jerry Lewis
 - visa lottery
 ---
 

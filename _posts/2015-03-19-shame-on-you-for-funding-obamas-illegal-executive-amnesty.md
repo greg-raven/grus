@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 We cannot understand why you voted in favor of the Senate's DHS funding bill that strips out the amnesty defunding language from the House's version. Don't you care that jobless Americans will have to compete against millions of amnestied illegal aliens for jobs?

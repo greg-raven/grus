@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Please ensure that Loretta Lynch understands that immigration laws exist to protect a country's workers. And ask her to pledge that she will enforce immigration laws passed by Congress so that Americans don't have to compete for jobs with foreign citizens who have overstayed visitor visas or crossed our borders illegally.

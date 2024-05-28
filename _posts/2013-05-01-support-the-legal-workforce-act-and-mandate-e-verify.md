@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - E-Verify
-- Representative Paul Cook
+- Paul Cook
 ---
 
 The bipartisan Legal Workforce Act would phase in mandatory use of the E-Verify system, thereby preventing illegal aliens from finding work. The bill also contains provisions to combat identity theft. Please cosponsor it today!

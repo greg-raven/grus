@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - birthright citizenship
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Please cosponsor H.R. 140, the Birthright Citizenship Act.

@@ -6,9 +6,9 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Senator John Cornyn
-- Senator John Thune
-- Senator Mitch McConnell
+- John Cornyn
+- John Thune
+- Mitch McConnell
 - visa lottery
 ---
 

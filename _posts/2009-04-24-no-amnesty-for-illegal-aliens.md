@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I am disappointed that you and your colleagues on the Judiciary Committee will be holding hearings on amnesty when so many Americans feel the negative impact of the illicit hiring of illegal aliens.

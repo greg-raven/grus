@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - 2nd Amendment
-- Representative Sheila Jackson Lee
+- Sheila Jackson Lee
 ---
 
 I ask that you withdraw H.R. 127.

@@ -6,7 +6,7 @@ categories:
 tags:
 - E-Verify
 - population
-- Representative Jerry Lewis
+- Jerry Lewis
 ---
 
 Thank you for supporting Rep. Sensenbrenner's H.R. 4437 to increase border security and interior enforcement.

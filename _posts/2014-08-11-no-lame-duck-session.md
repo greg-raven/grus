@@ -4,8 +4,8 @@ layout: post
 categories:
 - Letters
 tags:
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Sen. Ted Cruz is circulating a letter asking Majority Leader Reid not to call a lame duck session of Congress in order to pass controversial pieces of legislation. I hope you will sign this letter.

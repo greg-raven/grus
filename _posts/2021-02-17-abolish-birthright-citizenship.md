@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - birthright citizenship
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Abolish birthright citizenship!

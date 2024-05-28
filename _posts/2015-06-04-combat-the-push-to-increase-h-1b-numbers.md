@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 A paper recently published by the BLS is misleading and leaves out key details about one of the authors and the data sources used. I hope you will take into account that one of the authors works for one of the biggest H-1B users and that the main data source for the paper has a vested interest in increasing H-1B numbers.

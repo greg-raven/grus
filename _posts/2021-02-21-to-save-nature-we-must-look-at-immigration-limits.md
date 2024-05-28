@@ -6,9 +6,9 @@ categories:
 tags:
 - environment
 - immigration
-- Representative Jay Obernolte
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Jay Obernolte
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 We lose a football field worth of nature every 30 seconds in the United States. We add an NFL football stadium worth of people every ten days. Even with our efforts to reduce our individual footprints, our collective feet are stomping out the natural world beneath us. Americans' outsized consumption habits play a significant role, but the destruction of these natural spaces is primarily driven by the need for more space to accommodate more of us: more schools, roads, places of business, hospitals, water treatment facilities, farms, parking lots, etc. While there are many worthwhile efforts to protect our natural resources, wildlife habitats, and access to open space and nature, they are all undermined by Congress' unsustainable immigration policies.

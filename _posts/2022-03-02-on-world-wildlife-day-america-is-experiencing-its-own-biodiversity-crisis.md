@@ -7,8 +7,8 @@ tags:
 - chain migration
 - immigration
 - population
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 Although March 3rd is World Wildlife Day, America is facing its own "biodiversity crisis." Our nation now has more than 1,300 rare and endangered species, and the primary cause has been widespread habitat loss from activities such as timber harvesting, agriculture, and urban sprawl. All of this destruction has been driven by our population growth. What makes America unique among rapidly-growing countries is that our high growth in numbers is facilitated primarily through permissive immigration policies.

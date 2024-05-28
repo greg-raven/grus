@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Jay Obernolte
+- Jay Obernolte
 ---
 
 Please vote against H.R. 1333 and H.R. 1573 next week

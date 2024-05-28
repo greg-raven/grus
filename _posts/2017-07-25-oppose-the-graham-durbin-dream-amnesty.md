@@ -6,8 +6,8 @@ categories:
 tags:
 - amnesty
 - immigration
-- Senator Dianne Feinstein
-- Senator Kamala Harris
+- Dianne Feinstein
+- Kamala Harris
 ---
 
 I, along with the vast majority of your constituents, oppose the DREAM Act amnesty. Please oppose this legislation offered by Senators Lindsey Graham and Dick Durbin.

@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - population
-- Senator Dianne Feinstein
+- Dianne Feinstein
 ---
 
 I can't believe that you, a member of the Senate Judiciary Committee, yesterday voted to give what can only be called blanket amnesty to illegal aliens. You had the choice of tossing out the law-breakers or tossing out our laws. You sided with the law-breakers. You sided with people who don't vote, who don't pay taxes, who are parasites on our infrastructure, and who couldn't care less about us as a country.

@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Representative Paul Cook
+- Paul Cook
 ---
 
 A new NumbersUSA television ad features civil rights icon Barbara Jordan who chaired the last bi-partisan commission on immigration. The Jordan Commission recommended cutting legal immigration to 550,000 annually. I support the recommendations of the Jordan Commission and urge you to do so as well.

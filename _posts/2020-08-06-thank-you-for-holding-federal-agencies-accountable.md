@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - jobs
-- President Donald Trump
+- Donald Trump
 ---
 
 Thank you for your recent executive order holding federal agencies accountable for H-1B abuses in the contractor sector. I'm sure you were as shocked as I was to learn of the TVA's plans to outsource crucial IT jobs in one of the nation's critical infrastructure grids --- especially during the dire jobs situation facing the nation.

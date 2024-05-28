@@ -5,9 +5,9 @@ categories:
 - Letters
 tags:
 - amnesty
-- Representative Nancy Pelosi
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Nancy Pelosi
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 The Senate will soon have the opportunity to consider a replacement for Attorney General Eric Holder. Many Senators, on both sides of the aisle, have said that they oppose Pres. Obama taking executive action on immigration --- actions that Eric Holder helped draft. I urge you to oppose any nominee for Attorney General that doesn't reject Pres. Obama's executive actions on immigration.

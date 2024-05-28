@@ -7,9 +7,9 @@ tags:
 - chain migration
 - Federal government
 - immigration
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 It is reprehensible that the Congressional leadership wants to force the DREAM Act amnesty on the American people during the lame duck session of Congress. You need to do the right thing and just say "No" to amnesty!

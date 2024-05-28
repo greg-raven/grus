@@ -8,8 +8,8 @@ tags:
 - E-Verify
 - immigration
 - jobs
-- Senator Alex Padilla
-- Senator Dianne Feinstein
+- Alex Padilla
+- Dianne Feinstein
 ---
 
 As the liberal labor economist Vernon Briggs, Jr. has noted, we are now in another era of large-scale immigration that works against U.S. workers:

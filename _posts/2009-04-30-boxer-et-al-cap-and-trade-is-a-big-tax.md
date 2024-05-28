@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - cap-and-trade
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 As Rep. John Dingell (D-MI) rightly pointed out recently, "cap and trade is a tax, and it's a great big one." Estimates are that this national energy tax would cost the average American family $3,900 per year!

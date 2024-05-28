@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - immigration
-- Senator Mitch McConnell
+- Mitch McConnell
 ---
 
 Please block a vote on S. 636, the Venezuela Temporary Protected Status Act of 2019.

@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - immigration
-- Senator Mitch McConnell
+- Mitch McConnell
 ---
 
 Senate Minority Leader Mitch McConnell:

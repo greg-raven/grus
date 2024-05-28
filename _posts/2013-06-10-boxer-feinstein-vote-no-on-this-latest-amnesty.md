@@ -5,8 +5,8 @@ categories:
 - Letters
 tags:
 - amnesty
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I urge you to vote NO on the motion to bring to proceed with S.744, the Gang of Eight's immigration bill. This legislation is so bad and so unfair to the American people that it simply does not deserve debate; it deserves to be put down. The Senate needs to go back to the drawing board and create legislation that serves the interests of the American people.

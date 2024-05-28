@@ -7,8 +7,8 @@ tags:
 - California
 - gun control
 - population
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 I am writing to urge you to support and vote for the passage of H.R. 822, the "National Right-to-Carry Reciprocity Act of 2011."

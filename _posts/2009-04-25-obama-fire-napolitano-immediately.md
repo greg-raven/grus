@@ -6,9 +6,9 @@ categories:
 tags:
 - Barack Hussein Obama
 - DHS
-- Representative Jerry Lewis
-- Senator Barbara Boxer
-- Senator Dianne Feinstein
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein
 ---
 
 Americans are repulsed by the leaked DHS anti-terrorism security assessment summary that clearly targets mainstream Americans as dangerous extremists. One section of the report reads: "Rightwing extremism in the United States can be broadly divided into those groups, movements, and adherents that are primarily hate-oriented (based on hatred of particular religious, racial or ethnic groups) ..."

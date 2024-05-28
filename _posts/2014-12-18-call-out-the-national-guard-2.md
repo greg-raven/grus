@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Governor Jerry Brown
+- Jerry Brown
 - illegal immigration
 ---
 

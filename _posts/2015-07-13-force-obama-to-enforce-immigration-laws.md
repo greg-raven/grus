@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Representative Paul Cook
+- Paul Cook
 ---
 
 I hope you are as worried by the Obama administration's recent decisions to restrict the ability of DHS and ICE to enforce immigration laws as I am. The administration has made it nearly impossible for the agencies to apprehend and detain illegal aliens. I hope you will pass important pieces of legislation to require the administration to enforce the law.

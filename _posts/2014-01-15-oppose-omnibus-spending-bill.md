@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - budget
-- Representative Paul Cook
+- Paul Cook
 ---
 
 Please oppose the 1,500-page, trillion-dollar, sequester-scrapping secret spending bill that is coming up for a vote. We sent you to Washington because you promised fiscal responsibility and accountability. Spending ever-more on an ever-increasing Federal government provides neither.

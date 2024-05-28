@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - immigration
-- President Donald Trump
+- Donald Trump
 ---
 
 While I appreciate your 70-point immigration proposal, I have to say I am still opposed to any amnesty for Dreamers or anyone else currently here illegally.
