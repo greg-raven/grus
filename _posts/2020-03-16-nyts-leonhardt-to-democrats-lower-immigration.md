@@ -11,7 +11,7 @@ tags:
 
 David Leonhardt is right: Progressives should lower future immigration.
 
-Immigration has become a dominant issue in America, especially during the Trump Administration. In his March 8 column for The New York Times, "The Simple Reason the Left Won't Stop Losing," Leonhardt writes that "many progressive activists \[have\] misread public opinion" on issues such as immigration, to the detriment of Democratic candidates. Leonhardt recommends a "new approach" that includes "a slowdown of future immigration."
+Immigration has become a dominant issue in America, especially during the Trump Administration. In his March 8 column for *The New York Times,* "The Simple Reason the Left Won't Stop Losing," Leonhardt writes that "many progressive activists \[have\] misread public opinion" on issues such as immigration, to the detriment of Democratic candidates. Leonhardt recommends a "new approach" that includes "a slowdown of future immigration."
 
 As he's written before, "immigration has surged, as has income inequality. Many other factors play a role in rising inequality: corporate consolidation, slowing educational attainment, the decline of unions, falling tax rates on the rich, and more. Some of these are substantially more important than immigration. But immigration belongs on the list."
 

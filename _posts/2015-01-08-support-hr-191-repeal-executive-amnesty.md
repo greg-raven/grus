@@ -1,5 +1,5 @@
 ---
-title: "Support HR 191: Repeal Executive Amnesty"
+title: "Support H.R. 191: Repeal Executive Amnesty"
 layout: post
 categories:
 - Letters

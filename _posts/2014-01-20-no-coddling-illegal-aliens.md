@@ -15,7 +15,7 @@ The Wall Street Journal is reporting:
 
 > "Legislation is being developed by House Republicans that wouldn't exclude citizenship for those here illegally. But it rejects what many Republicans see as a 'special path' not available to would-be immigrants who didn't break the law."
 
-According to the New York Times:
+According to *The New York Times:*
 
 > "Between 4.4 million and 6.5 million immigrants illegally in the United States could gain an eventual pathway to citizenship under proposals being discussed by Republicans in the House of Representatives, according to an estimate published Tuesday by the National Foundation for American Policy, a nonpartisan research group in Washington."
 

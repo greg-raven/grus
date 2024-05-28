@@ -14,7 +14,7 @@ Post-Brexit, there is no place for scapegoating immigrants or for bashing those 
 
 Since 1990, the federal government has issued more than 1 million new green cards each year. That's 1 million new lifetime work permits to foreign workers in addition to the hundreds of thousands of guest worker visas also issued each year.
 
-Even New York Times columnist David Brooks recognized the impact of uncontrolled immigration on American workers on PBS shortly after the Brexit vote.
+Even *New York Times* columnist David Brooks recognized the impact of uncontrolled immigration on American workers on PBS shortly after the Brexit vote.
 
 Brooks said: "We've asked a lot of people who are suffering in this economy to accept extremely, radically high immigration levels. And we've probably overflooded the system."
 

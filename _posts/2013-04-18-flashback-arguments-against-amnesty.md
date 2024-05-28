@@ -7,7 +7,7 @@ tags:
 - amnesty
 ---
 
-A wise New York Times editorial against amnesty --- from the year 2000
+A wise *New York Times* editorial against amnesty --- from the year 2000
 
 > \[...\] the A.F.L.-C.I.O.'s proposal should be rejected. Amnesty would undermine the integrity of the country's immigration laws and would depress the wages of its lowest-paid native-born workers.
 

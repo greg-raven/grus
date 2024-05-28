@@ -187,7 +187,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Chaotic death recording during the pandemic could mean thousands were WRONGLY blamed on Covid --- Daily Mail Online](https://www.dailymail.co.uk/health/article-10630753/Chaotic-death-recording-pandemic-mean-thousands-WRONGLY-blamed-Covid.html)
 
-- [Cloth Masks Do Not Protect Against Virus as Effectively as Others, C.D.C. Says --- The New York Times](https://www.nytimes.com/2022/01/14/health/cloth-masks-covid-cdc.html)
+- [Cloth Masks Do Not Protect Against Virus as Effectively as Others, C.D.C. Says --- *The New York Times*](https://www.nytimes.com/2022/01/14/health/cloth-masks-covid-cdc.html)
 
 - [Covid-19 Is Not a "Pandemic of the Unvaccinated" --- Just Facts Daily](https://www.justfactsdaily.com/covid-19-is-not-a-pandemic-of-the-unvaccinated)
 
@@ -195,7 +195,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [Dr. Ryan Cole --- Covid Mistakes](https://www.bitchute.com/video/hfzL5gUeQvxr/)
 
-- [New York Times: COVID Boosters May Cause 'Immune System Fatigue,' Compromise Ability to Fight Virus --- National File](https://nationalfile.com/new-york-times-covid-boosters-may-cause-immune-system-fatigue-compromise-ability-fight-virus/)
+- [*New York Times:* COVID Boosters May Cause 'Immune System Fatigue,' Compromise Ability to Fight Virus --- National File](https://nationalfile.com/new-york-times-covid-boosters-may-cause-immune-system-fatigue-compromise-ability-fight-virus/)
 
 - [The Pfizer Inoculations Do More Harm Than Good](https://rumble.com/vqx3kb-the-pfizer-inoculations-do-more-harm-than-good.html)
 

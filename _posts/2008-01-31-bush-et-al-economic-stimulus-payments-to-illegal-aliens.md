@@ -11,7 +11,7 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-I'm writing today about HR 5140, which apparently includes a loophole that allows the IRS to send "Economic Stimulus" payments to illegal aliens.
+I'm writing today about H.R. 5140, which apparently includes a loophole that allows the IRS to send "Economic Stimulus" payments to illegal aliens.
 
 I urge you NOT to sign any legislation that rewards illegal aliens in any way, shape, or form, including this already ill-conceived "Economic Stimulus" bill. If there is no time to fix this legislation, then please veto it. It is the wrong way to attempt to fix the problem that you, the Congress, and our past "leaders" have created through your un-Constitutional and foolish market manipulations.
 

@@ -11,7 +11,7 @@ tags:
 - E-Verify
 ---
 
-It troubles me that child migrant labor abuse is still rampant despite the exposure of this nationwide problem by the New York Times in the Fall of 2023.
+It troubles me that child migrant labor abuse is still rampant despite the exposure of this nationwide problem by *The New York Times* in the Fall of 2023.
 
 H.R. 2, the Secure the Border Act, includes E-Verify and loophole closures on migrant child releases to end this abuse.
 

@@ -10,7 +10,7 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-An op-ed I read in Tuesday, August 31's USA Today made some valid points regarding birthright citizenship loopholes that illegal workers exploit in order to stay in their U.S. jobs. I hope the points made in this editorial will convince you to sponsor a Senate version of H.R. 1868, a House bill to eliminate birthright citizenship for the children of illegal aliens.
+An op-ed I read in Tuesday, August 31's *USA Today* made some valid points regarding birthright citizenship loopholes that illegal workers exploit in order to stay in their U.S. jobs. I hope the points made in this editorial will convince you to sponsor a Senate version of H.R. 1868, a House bill to eliminate birthright citizenship for the children of illegal aliens.
 
 Less-educated citizens and legal immigrants have had high rates of joblessness since before the 2007 economic downturn, yet they continue to compete with 8 million illegal workers for jobs in construction, manufacturing and the service industries. Replacing illegal workers with unemployed citizens and legal immigrants has proven difficult, in part, because many illegal workers have U.S. born children who have been granted U.S. citizenship. The federal government has been slow to remove illegal aliens with citizen children. Birthright citizenship has become a de-facto path to permanent residency for illegal workers, and an obstacle to unemployed Americans who need those jobs to support their own children.
 

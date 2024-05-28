@@ -16,6 +16,6 @@ But that's my money they're using, Representative Lewis! $12 trillion! And witho
 
 We must know what is happening with our money, and the Federal Reserve must come clean with the American people.
 
-Please cosponsor HR 1207, The Federal Reserve Transparency Act of 2009, and do everything in your power to see this bill through to a passing vote.
+Please cosponsor H.R. 1207, The Federal Reserve Transparency Act of 2009, and do everything in your power to see this bill through to a passing vote.
 
 {% include signature.html %}

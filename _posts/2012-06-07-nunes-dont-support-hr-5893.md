@@ -1,5 +1,5 @@
 ---
-title: "Don't support HR 5893"
+title: "Don't support H.R. 5893"
 layout: post
 categories:
 - Letters

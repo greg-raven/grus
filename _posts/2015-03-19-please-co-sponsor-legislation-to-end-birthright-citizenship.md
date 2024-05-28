@@ -8,7 +8,7 @@ tags:
 - Representative Paul Cook
 ---
 
-An op-ed in a recent edition of USA Today explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation by cosponsoring Rep. Steve King's H.R. 140.
+An op-ed in a recent edition of *USA Today* explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation by cosponsoring Rep. Steve King's H.R. 140.
 
 8 U.S. Code § 1401 currently says that "a person born in the United States, and subject to the jurisdiction thereof shall be nationals and citizens of the United States at birth." Clearly, the Constitution does not need to be changed in order to prevent the children of illegal aliens from receiving birthright citizenship; a simple piece of legislation will do.
 
