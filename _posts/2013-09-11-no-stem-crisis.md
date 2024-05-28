@@ -56,7 +56,7 @@ tags:
 - Takano
 - Thompson
 - Valadao
-- Vargas
+- Juan Vargas
 - Barbara Boxer
 - Dianne Feinstein
 ---

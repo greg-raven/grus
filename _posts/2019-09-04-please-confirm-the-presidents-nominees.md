@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- judicial
+- judiciary
 - Cory Gardner
 - James Risch
 - John Thune
