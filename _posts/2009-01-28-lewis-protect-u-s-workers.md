@@ -22,4 +22,4 @@ I urge you to work towards temporarily halting non-essential immigration. Doing 
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

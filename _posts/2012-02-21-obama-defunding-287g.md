@@ -19,6 +19,6 @@ I urge you protect all Americans and to give a helping hand to those who enforce
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. You really don't give a shit about this country, do you? You're a sad excuse for a human being.

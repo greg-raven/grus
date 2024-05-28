@@ -6,9 +6,9 @@ categories:
 tags:
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
+- jobs
+- immigration
 ---
-
-Senators:
 
 America spends more than a trillion dollars on programs to help our own unemployed and disadvantaged. So why are we importing millions of immigrants to compete for jobs and resources with them?
 

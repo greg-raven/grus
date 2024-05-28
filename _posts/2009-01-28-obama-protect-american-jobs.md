@@ -8,6 +8,7 @@ tags:
 - chain migration
 - immigration
 - visa lottery
+- E-Verify
 ---
 
 Please do all you can to help American jobs and America's jobless.
@@ -18,4 +19,4 @@ NumbersUSA has sent you a letter requesting that you curb chain migration, the v
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

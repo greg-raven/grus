@@ -13,8 +13,6 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Senator:
-
 It is ridiculous that our state's attorney general is trying to get Arizona's SB 1070 overturned at the Supreme Court! You can help to alleviate the attorney general's concerns by cosponsoring mandatory E-Verify legislation.
 
 The brief filed by the attorneys general makes one thing clear: SB 1070 works. The brief says that the legislation will "\[redirect\] undocumented immigrants to other states." However, do you know why this is the case? You are the reason this is the case.
@@ -25,6 +23,6 @@ I hope you will do what these attorneys general are asking and put a 50-state so
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We have a more strict law on the books in California in CPC Section 834b. Let's work on enforcing that and leave Arizona alone!

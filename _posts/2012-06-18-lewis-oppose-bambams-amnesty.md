@@ -18,6 +18,6 @@ It's time for you and your fellow Republicans to show some backbone and pass imm
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Stop fiddling while America burns!

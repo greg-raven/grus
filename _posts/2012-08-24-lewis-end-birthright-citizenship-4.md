@@ -8,8 +8,6 @@ tags:
 - Representative Jerry Lewis
 ---
 
-Representative Jerry Lewis:
-
 I oppose automatic citizenship granted to the children of illegal aliens.
 
 At least 4 million U.S. residents have received this type of citizenship. No one should receive U.S. citizenship as a reward for criminal behavior. It is absurd and offensive. Children of illegal aliens already have citizenship in their parents' home countries.

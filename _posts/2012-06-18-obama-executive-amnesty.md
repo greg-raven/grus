@@ -23,6 +23,6 @@ I find your playing politics with the lives of millions of Americans to be despi
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. Let's face it: You are a sociopathic, lying sack of shit. As with everything else you've done since usurping the office of the presidency, this is anti-America, unconstitutional, immoral, and self-serving.

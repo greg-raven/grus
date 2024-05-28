@@ -6,9 +6,8 @@ categories:
 tags:
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
+- amnesty
 ---
-
-Senators:
 
 The "Gang of Eight" Senators have released the details for a new immigration reform bill, but after taking a closer look, this proposal is nothing more than the failed ideas from 2007. I oppose a mass amnesty, and urge you to do the same.
 

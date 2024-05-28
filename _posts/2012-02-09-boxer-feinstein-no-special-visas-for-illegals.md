@@ -8,8 +8,6 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Senator Barbara Boxer,
-
 Please oppose Sen. Brown's bill to import more foreign workers from Ireland.
 
 The U.S. isn't expected to reach full employment again for a number of years. We need more jobs, not more workers. Yet Sen. Brown's bill would increase legal immigration by 10,500 visas every year.
@@ -22,4 +20,4 @@ Stop this bill.
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

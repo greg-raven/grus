@@ -17,4 +17,4 @@ As President Obama refuses to, I hope you will look out for these jobless and at
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

@@ -20,4 +20,4 @@ Perhaps Assemblyman Fuentes is pushing the measure in the legislature because he
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

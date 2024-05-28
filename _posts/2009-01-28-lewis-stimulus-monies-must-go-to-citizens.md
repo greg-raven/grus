@@ -18,4 +18,4 @@ Millions of unemployed Americans are depending on their government to stimulate 
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

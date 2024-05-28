@@ -21,4 +21,4 @@ Please ensure ACA 27's defeat. I will be watching this issue and I vote.
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

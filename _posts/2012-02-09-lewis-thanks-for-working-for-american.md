@@ -21,4 +21,4 @@ Thank you for your hard work in 2011 and please continue to look after America's
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

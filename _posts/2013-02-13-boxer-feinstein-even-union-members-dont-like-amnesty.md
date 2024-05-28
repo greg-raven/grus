@@ -7,9 +7,8 @@ tags:
 - amnesty
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
+- immigration
 ---
-
-Senators:
 
 I believe you and your fellow Democrats should take note of a recent Rasmussen poll. It shows that union members are not fond of your party's immigration proposals.
 
@@ -23,4 +22,4 @@ Amnesty is bad for America and bad for American workers. I hope you will oppose 
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

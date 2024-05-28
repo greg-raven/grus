@@ -8,18 +8,16 @@ tags:
 - Representative Jerry Lewis
 ---
 
-Representative Jerry Lewis:
-
 The American people don't need more foreign workers; we need more jobs. The Startup Act 2.0, H.R. 5893, is going to put a lot more foreign workers in jobs America just doesn't have and put even more Americans out of work. Please help a lot of recent college graduates and unemployed Americans out by opposing this legislation.
 
 Americans oppose creating new visas for foreign workers with advanced degrees 59 percent to 31 percent according to a Washington Post/Bloomberg poll. Count me among them.
 
 Unemployment for Americans in science, technology, engineering and math fields is two to three times as high as we would see with full employment. Despite the bashing of American students, the educational pipeline is more than meeting the demand.
 
-The Startup Act will depress the wages of high-skilled American workers by opening up their occupations to more foreign competition. Rather than making America more competitive, the Startup Act will drive graduates into other fields where the government doesn't undercut their salaries and job security via mass immigration. As Forbes magazine noted last April, "Between 2003 and 2006 the percentage of graduates from MIT going into financial services rose...to almost 25%...Financial firms offer considerably higher pay, \[and\] better career prospects..."
+The Startup Act will depress the wages of high-skilled American workers by opening up their occupations to more foreign competition. Rather than making America more competitive, the Startup Act will drive graduates into other fields where the government doesn't undercut their salaries and job security via mass immigration. As Forbes magazine noted last April, "Between 2003 and 2006 the percentage of graduates from MIT going into financial services rose ... to almost 25% ... Financial firms offer considerably higher pay, \[and\] better career prospects ..."
 
 The Startup Act will drive Americans further away from the fields of their study. It assumes Americans aren't capable. I disagree. I believe in our graduates and I oppose the Startup Act.
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

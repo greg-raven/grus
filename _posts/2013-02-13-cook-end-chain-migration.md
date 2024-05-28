@@ -20,4 +20,4 @@ You can help to solve this problem by cosponsoring H.R. 477. I hope you will do 
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

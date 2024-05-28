@@ -18,6 +18,6 @@ I urge you to change your mind and starting implementing these common sense rule
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We need autarky, and we need American leaders to be pro-American. Uphold your oath of office!

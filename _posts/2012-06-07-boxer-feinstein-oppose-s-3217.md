@@ -11,8 +11,6 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Senators:
-
 It is ridiculous for anyone to propose legislation that would bring more foreign workers into the United States when millions of American STEM workers can't find jobs. S. 3217, the Startup Act 2.0, would destroy the hopes and dreams of millions of Americans. Please oppose it.
 
 There are 20 million Americans who cannot find a full-time job and many of these are well educated. On top of this, 12.2% of college graduates under 30 cannot find a job of any sort. How does granting even more work permits to skilled foreign workers help these unemployed Americans find jobs? Clearly, it does not.
@@ -23,4 +21,4 @@ What unemployed American STEM workers need is not competition, but jobs. America
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

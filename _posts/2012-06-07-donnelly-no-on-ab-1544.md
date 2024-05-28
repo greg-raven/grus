@@ -19,4 +19,4 @@ Please vote no on AB1544. And if a corporate farmers asks why you're voting no, 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

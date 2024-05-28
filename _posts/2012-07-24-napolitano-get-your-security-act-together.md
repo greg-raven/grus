@@ -22,6 +22,6 @@ President Obama has left your agency in an untenable position. The president cle
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. I wish you actually cared about this country and its security. That's clearly too much to hope for given the current administration.

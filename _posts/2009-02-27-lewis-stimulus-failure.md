@@ -18,6 +18,6 @@ Even though you did have some say in the final makeup of the bill, I know you ar
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}
 
 P.S. We need to practice autarky if we are to get out of this economic mess.

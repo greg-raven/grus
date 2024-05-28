@@ -24,6 +24,6 @@ stopping the implementation of this policy.
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. It's amazing that in your entire life you have thus far failed to do anything worthwhile. What a putz!

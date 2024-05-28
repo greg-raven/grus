@@ -7,6 +7,7 @@ tags:
 - E-Verify
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
+- jobs
 ---
 
 It is important that you support Sen. Ben Nelson's efforts to ensure that American workers benefit from any economic stimulus.
@@ -17,4 +18,4 @@ I urge you to do all you can to support Sen. Nelson's and Sen. Sessions' efforts
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

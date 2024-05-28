@@ -21,4 +21,4 @@ Sen. Brown's bill is cheap pandering to a narrow ethnic lobby. The Senate should
 
 Phone me if you would like to talk about this.
 
-Greg Raven
+{% include signature.html %}

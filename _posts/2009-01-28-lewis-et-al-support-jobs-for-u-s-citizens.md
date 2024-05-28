@@ -20,4 +20,4 @@ There are more than ten million out-of-work Americans and they are depending on 
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

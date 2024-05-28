@@ -17,4 +17,4 @@ I urge you to ensure that sufficient protections for American workers are presen
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

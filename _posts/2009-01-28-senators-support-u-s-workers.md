@@ -9,6 +9,7 @@ tags:
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
 - visa lottery
+- E-Verify
 ---
 
 The United States lets over 140,000 foreign workers enter our country each month. This number is absurd considering our current unemployment numbers.
@@ -21,4 +22,4 @@ I urge you to do call you can to assist Resident-elect Obama in creating and pro
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}

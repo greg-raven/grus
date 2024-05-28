@@ -37,4 +37,4 @@ The passage of this bill is especially important to Californians, whose carry pe
 
 If you have any questions about this, please feel free to contact me.
 
-Greg Raven
+{% include signature.html %}

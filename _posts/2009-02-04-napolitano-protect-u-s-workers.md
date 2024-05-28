@@ -18,4 +18,4 @@ I urge you to change your mind and starting implementing these common sense rule
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

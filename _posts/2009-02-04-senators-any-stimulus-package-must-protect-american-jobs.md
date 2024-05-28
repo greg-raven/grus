@@ -7,6 +7,7 @@ tags:
 - Senator Barbara Boxer
 - Senator Dianne Feinstein
 - stimulus
+- jobs
 ---
 
 I saw an advertisement on CNN which states that America imports 1.5 million foreign workers each year. Why would we allow this to continue at a time when more than 11 million Americans are out of work?
@@ -17,4 +18,4 @@ You must take immediate and decisive action to ensure that businesses which bene
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

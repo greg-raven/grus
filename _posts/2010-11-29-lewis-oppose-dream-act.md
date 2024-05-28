@@ -22,6 +22,6 @@ Please do the right thing and oppose the attempts of anti-American worker Member
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We need to evict all illegal aliens, secure our borders, and return to pre-1965 immigration policies!

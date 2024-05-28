@@ -19,6 +19,6 @@ I hope you will support H.R. 140, the Birthright Citizenship Act of 2011, and he
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
 
 P.S. We're the only first-world (well, now approaching second-world, but you know what I mean) country to allow birthright citizenship, even though it's not the law. We need to end this practice before it further destroys our country.

@@ -9,8 +9,6 @@ tags:
 - Senator Dianne Feinstein
 ---
 
-Senators:
-
 I hope you find the unilateral Obama Amnesty as appalling as I do. This action will harm millions of jobless Americans and will devastate the Democrats at the November polls. I'm sure you won't be supporting this action.
 
 It is particularly irresponsible for President Obama to issue an amnesty for illegal aliens while neither President Obama nor Congress have done anything to reduce the number of Green Cards given out each year to new permanent foreign workers. We have 20 million Americans who can't find a full-time job, and he has just issued an executive order that adds millions of new workers to the labor pool, thus putting even more Americans out of work. Whom exactly does he represent?
@@ -21,4 +19,4 @@ Where do you stand? Do you stand with the more than 2 million illegal aliens tha
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}

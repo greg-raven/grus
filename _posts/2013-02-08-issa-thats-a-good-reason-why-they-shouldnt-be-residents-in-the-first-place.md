@@ -20,6 +20,6 @@ Please stop talking about amnestying illegal aliens, It only makes it less likel
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}
 
 P.S. Send them back to their countries of origin. Then, they won't be residents. If "leaders" such as yourself were upholding your oath of office, we wouldn't have this problem in the first place. Remove the invaders, and secure our borders!

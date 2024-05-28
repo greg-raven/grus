@@ -19,6 +19,6 @@ There is no sane or plausible reason for this to continue. The United States doe
 
 Phone me if you would like to talk about this,
 
-Mr. Greg Raven
+{% include signature.html %}
 
 P.S. Get the government our of our lives and the marketplace, and let our businesses grow and hire Americans again.

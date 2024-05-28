@@ -8,8 +8,6 @@ tags:
 - Representative Jerry Lewis
 ---
 
-Representative Jerry Lewis:
-
 I hope you will tell the House Whip that you want mandatory E-Verify language added to the transportation spending bill, which will be voted on next week.
 
 It is truly disappointing that the House of Representatives has not yet passed legislation mandating use of the E-Verify system throughout the United States. This lack of action is all the more galling when one considers that 20 million Americans cannot find a full-time job. I know you are as worried about these Americans as I am and are as disappointed at this inaction as I am, and so are many of your House colleagues --- which is why many have asked the House Whip to add national mandatory E-Verify language to the transportation spending bill.
@@ -18,4 +16,4 @@ I hope you will ask the Whip's office to do the same. If you and enough of your 
 
 Phone me if you would like to talk about this,
 
-Greg Raven
+{% include signature.html %}
