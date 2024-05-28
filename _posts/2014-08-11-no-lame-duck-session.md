@@ -16,6 +16,6 @@ In his letter, Sen. Cruz writes:
 
 If this were to be done, it would be underhanded and an affront to democracy. Please sign Sen. Cruz's letter and send this message to Senate Majority Leader Harry Reid.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -20,6 +20,6 @@ I hope you will work with your colleagues and help correct this glaring oversigh
 
 The American people, and our nation's future generations, are depending on you to do the right thing. Please don't let us down.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -15,7 +15,7 @@ The House Republicans were the only force that stopped President Bush and the Se
 
 Don't let the media-bias fool you. A majority of American voters still approve of the House's Attrition Through Enforcement solution to illegal immigration. 
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

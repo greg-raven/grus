@@ -22,7 +22,7 @@ However, as soon as DREAM amnesty citizens are over 21, they can bring their par
 
 This a back-door amnesty for the parents of these illegal "teens," and a chain migration nightmare for the country. I hope you will take the November 2nd election results to heart and observe the will of the American people on this issue. Just say no to Sen. Reid and just say no to this anti-American worker amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

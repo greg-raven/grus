@@ -19,6 +19,6 @@ These amendments are critically important because they would:
 
 Defunding the president's amnesties is critical to securing our nation, respecting the rule of law, and helping Americans get back to work. I hope you will do all you can to support these amendments and pass the spending bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

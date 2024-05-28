@@ -22,7 +22,7 @@ Crane also said:
 
 I hope you'll make sure that these fine men and women helping to guarantee the public safety of all Americans are heard before the Senate moves forward with its immigration bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -19,7 +19,7 @@ You must realize that the your constituents, not to mention the American people,
 
 I urge you to look deep inside yourself and determine if you can continue to harm America's unemployed and underemployed. Americans are suffering because you refuse to help them. Be brave and take stand for America's less fortunate.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

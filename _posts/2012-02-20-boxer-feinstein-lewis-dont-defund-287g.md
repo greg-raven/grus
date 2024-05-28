@@ -23,6 +23,6 @@ Why would anyone want to defund a program that is clearly at the top of its fiel
 
 I hope you will consider these facts when talking to your colleagues about the 287(g) program. I'm sure they'll be useful when you are asking them to help save the program.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

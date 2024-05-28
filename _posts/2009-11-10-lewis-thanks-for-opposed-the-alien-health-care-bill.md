@@ -16,7 +16,7 @@ It truly is disappointing that so many of your colleagues decided to give free h
 
 Nonetheless, I am grateful that you opposed this bill and I encourage you to continue to stand firm against pro-illegal alien legislation.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

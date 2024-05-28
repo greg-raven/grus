@@ -22,6 +22,6 @@ Also, let's not forget that illegal immigrants are taking jobs from citizens and
 
 It is your duty to protect Californians, not throw us under the bus. Veto AB1081 if it passes the legislature.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -19,7 +19,7 @@ Likewise, your actions to protect cities that practice these illegal policies ar
 
 Please reconsider your support of illegal aliens and illegal immigration. The presence of 12-18 million illegal aliens (and 8 million illegal workers) not only harms America's 15+ million but the United States as a whole. You have brought shame not only on yourself but also on your state.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

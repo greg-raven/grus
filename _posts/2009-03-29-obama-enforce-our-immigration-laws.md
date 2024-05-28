@@ -14,7 +14,7 @@ Time and again the American people have made it clear that they support the enfo
 
 I urge you to listen to the will of the American people and do all you can to support ICE and local and state law enforcement's efforts to apprehend and deport illegal aliens.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

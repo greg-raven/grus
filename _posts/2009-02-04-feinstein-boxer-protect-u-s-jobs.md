@@ -15,6 +15,6 @@ It is absurd that the Senate would even consider passing an economic stimulus pa
 
 I urge you to ensure that sufficient protections for American workers are present in the economic stimulus package. You can do this by supporting efforts to mandate the use of E-Verify for recipients of stimulus funds.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

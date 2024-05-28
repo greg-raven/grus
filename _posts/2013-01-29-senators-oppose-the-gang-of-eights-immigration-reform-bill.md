@@ -17,6 +17,6 @@ Yes, the proposal does discuss the need for border security and a workplace veri
 
 I urge you to oppose amnesty and support real solutions that finally solve the issue of illegal immigration and consider legal immigration numbers that serve in the national interest.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

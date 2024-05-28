@@ -14,6 +14,6 @@ The Associated Press has a new report out that focuses on some of the backlash a
 
 [Backlash against foreign tech workers](https://www.mercurynews.com/breaking-news/ci_26098504/backlash-stirs-us-against-foreign-worker-h-1b)
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

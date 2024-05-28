@@ -22,7 +22,7 @@ The labor group opposes these H-2B increases because they are simply not needed.
 
 Please do all you can to stop efforts to quadruple H-2B visa numbers as part of the FY2017 DHS appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

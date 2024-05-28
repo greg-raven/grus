@@ -14,7 +14,7 @@ Proponents of AB 1288 claim that use of employment verifications systems like E-
 
 I can't understand why the legislature is taking California down the exact opposite path as the federal government on employment verification. The Obama Administration clearly recognizes that citizens and legal residents should not have to compete with illegal aliens for government contractor jobs because it just REQUIRED federal contractors to use E-Verify. Going a step further, the U.S. Senate recently took initial steps to allow current E-Verify users to run workplace eligibility checks on existing employees, not just new hires. You must do everything possible to protect legal unemployed workers in this recession. AB 1288 would facilitate the continued hiring of illegal aliens by unscrupulous businesses. Please veto AB 2076.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

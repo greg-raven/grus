@@ -54,6 +54,6 @@ Mark Krikorian has written an op-ed for the *National Review* detailing the dang
 >
 > --- Mark Krikorian is executive director of the Center for Immigration Studies. Published in [National Review](https://www.nationalreview.com/2015/08/real-threat-conservatism-isnt-trump-mark-krikorian/)
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

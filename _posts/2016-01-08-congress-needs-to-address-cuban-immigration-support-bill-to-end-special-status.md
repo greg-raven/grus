@@ -16,6 +16,6 @@ Costa Rica's recent deal to send thousands of stranded Cubans to Mexico represen
 
 Rep. Gosar's legislation would repeal the Cuban Adjustment Act of 1966 and end the "wet foot/dry foot" policy and welfare guarantees that draw Cubans to enter the U.S. illegally. I hope you will cosponsor his legislation, H.R. 3818.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

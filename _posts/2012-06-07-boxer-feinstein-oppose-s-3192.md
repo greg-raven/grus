@@ -24,6 +24,6 @@ The result of the SMART Jobs Act would be to further depress the wages of Americ
 
 I urge you to help Americans with STEM degrees to find jobs by opposing this legislation and supporting legislation that would reduce the number of foreign workers entering our country.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

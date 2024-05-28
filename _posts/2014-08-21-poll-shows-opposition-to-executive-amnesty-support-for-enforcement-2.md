@@ -15,7 +15,7 @@ The poll shows that Americans are decidedly against efforts by President Obama t
 
 It's clear that American voters do not support President Obama's immigration agenda and believe he needs to start cooperating with Congress. I hope you and your party will start to support a "three-pronged" approach to immigration reform and I encourage you to ask Senate Majority Leader Harry Reid to bring the House-passed bills up for a vote.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

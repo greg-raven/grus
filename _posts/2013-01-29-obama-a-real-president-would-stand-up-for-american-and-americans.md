@@ -15,7 +15,7 @@ Instead of proposing immigration legislation that would make a positive impact o
 
 Americans need a president who will stand up for them, not one who stands up for illegal aliens. Please start being that president.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

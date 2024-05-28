@@ -14,7 +14,7 @@ I must admit that I have no idea why you support the anti-American worker, anti-
 
 I urge you to reconsider your support for the DREAM Act amnesty during these trying times. The American people are counting on Congress to improve, on harm, our lives. Please don't let us down.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

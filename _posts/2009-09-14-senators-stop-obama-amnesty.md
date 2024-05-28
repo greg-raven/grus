@@ -15,7 +15,7 @@ It seems the Obama Administration believes that illegal immigration is a victiml
 
 I urge you to right this tremendous wrong by holding hearings and forcing the White House to enforce our nation's immigration laws. Millions of children are in households struggling from unemployment and depressed wages because millions of illegal aliens have been allowed to hold U.S. jobs. I expect you and your fellow Democrats to remedy this situation directly after the August recess.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

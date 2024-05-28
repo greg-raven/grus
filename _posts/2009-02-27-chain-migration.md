@@ -17,7 +17,7 @@ While ending chain migration would directly reduce overall immigration by around
 
 Please consider cosponsoring Rep. Gingrey's H.R. 878. Americans are depending on you.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

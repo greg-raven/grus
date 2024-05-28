@@ -16,6 +16,6 @@ The workplace needs to be secured. In addition to dissuading further illegal imm
 
 This is what the House Border Security Caucus wants to achieve. Please tell Rep. Lamar Smith you want to join.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

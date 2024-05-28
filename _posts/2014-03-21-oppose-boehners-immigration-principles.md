@@ -14,6 +14,6 @@ These immigration principles are nearly identical to the principles behind S. 74
 
 I hope you will decide to oppose the Speaker's principles and the Democrats' war on American workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

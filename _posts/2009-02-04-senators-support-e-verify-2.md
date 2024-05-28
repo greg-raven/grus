@@ -16,6 +16,6 @@ Sen. Nelson, along with Sen. Jeff Sessions, wrote a letter to Majority Leader Ha
 
 I urge you to do all you can to support Sen. Nelson's and Sen. Sessions' efforts.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

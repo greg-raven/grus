@@ -18,7 +18,7 @@ I know that you and most of your colleagues in Congress have far more compassion
 
 Far too many Americans are out of work and more and more are leaving the workforce each day. Please stand up for these Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

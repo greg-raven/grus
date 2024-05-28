@@ -19,6 +19,6 @@ Why do we need even more foreign tech workers when 1.8 million Americans with en
 
 What unemployed American STEM workers need is not competition, but jobs. American businesses will not hire jobless Americans if they can hire foreign workers at a lower cost. The Startup Act 2.0 will only keep American workers out of U.S. jobs. Please oppose it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -16,6 +16,6 @@ The very fact that Judge Hanen has found that the 26 states' have standing on th
 
 I hope this judicial decision will spur you and your colleagues to take the initiative and pass meaningful immigration legislation, including mandatory E-Verify, but most importantly, legislation that would stop the president's actions.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

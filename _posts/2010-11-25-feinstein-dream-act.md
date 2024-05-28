@@ -20,7 +20,7 @@ The DREAM Act was originally written almost a decade ago and has changed very li
 
 Simply put, the DREAM Act is a very poorly written bill that would do far more harm than good. If you support this bill and help keep millions of American workers out of a job, you can forget about winning reelection in 2012.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

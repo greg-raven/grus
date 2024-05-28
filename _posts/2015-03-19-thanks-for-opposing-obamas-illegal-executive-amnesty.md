@@ -14,6 +14,6 @@ I simply cannot understand why so many of your colleagues voted for the revised 
 
 Thank you for voting against the Senate's bill. Please continue to stand up for the rule of law and please continue to back efforts to defund President Obama's dangerous amnesties.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

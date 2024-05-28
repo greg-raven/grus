@@ -52,6 +52,6 @@ tags:
 >
 > "To put this in another context, the DHS policy is as logical as taking illegal drugs or weapons that it hxesas seized from smugglers and delivering them to the criminals who initially solicited their illegal importation/exportation. Legally, this situation is no different."
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

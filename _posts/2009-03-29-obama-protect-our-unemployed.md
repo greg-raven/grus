@@ -19,7 +19,7 @@ However, it is likely that the Congressional Hispanic Caucus will advocate compr
 
 Please do not support any amnesty plans when you meet with the Congressional Hispanic Caucus. We both know that an amnesty would harms tens of millions of Americans of all races.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

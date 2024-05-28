@@ -22,6 +22,6 @@ Any attempt to force this amnesty on the American people during a lame duck sess
 
 Please do the right thing and oppose the attempts of anti-American worker Members of Congress to force the DREAM Act amnesty through Congress. They are acting as if the November 2nd elections never happened and their anti-American worker, anti-American student actions must be stopped.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -19,6 +19,6 @@ Just as worrying as the security impact of the visa lottery are the economic imp
 
 Please help secure our nation and protect jobs for unemployed Americans by cosponsoring H.R. 2278 to end the visa lottery.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

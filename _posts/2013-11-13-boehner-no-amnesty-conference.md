@@ -16,7 +16,7 @@ It is good that Speaker Boehner finally has stuck up for American workers when s
 
 The House of Representatives must listen to American workers and must understand that legislation that amnesties illegal aliens or makes it harder for Americans to find work cannot be passed. Please work hard to make sure this does not happen.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -5,28 +5,29 @@ categories:
 - Letters
 tags:
 - immigration
+- jobs
 - Bass
-- Becerra
+- Xavier Becerra
 - Bera
 - Brownley
-- Calvert
-- Campbell
-- Capps
-- Cardenas
-- Chu
-- Costa
+- Ken Calvert
+- John Campbell
+- Lois Capps
+- Tony Cardenas
+- Judy Chu
+- Jim Costa
 - Davis
-- Denham
-- Eshoo
-- Farr
-- Garamendi
+- Jeff Denham
+- Anna Eshoo
+- Sam Farr
+- John Garamendi
 - Hahn
 - Henry Waxman
-- Honda
+- Mike Honda
 - Huffman
 - Hunter
-- Issa
-- LaMalfa
+- Darrell Issa
+- Doug LaMalfa
 - Lee
 - Lofgren
 - Lowenthal
@@ -37,21 +38,21 @@ tags:
 - McKeon
 - McNerney
 - Miller
-- Napolitano
+- Janet Napolitano
 - Negrete McLeod
-- Nunes
+- Devin Nunes
 - Paul Cook
-- Pelosi
+- Nancy Pelosi
 - Peters
-- Rohrabacher
+- Dana Rohrabacher
 - Roybal-Allard
 - Royce
 - Ruiz
 - Sanchez
-- Schiff
+- Adam Schiff
 - Sherman
 - Speier
-- Swalwell
+- Eric Swalwell
 - Takano
 - Thompson
 - Valadao
@@ -70,6 +71,6 @@ People like Mr. Greenspan, who represent the interests of business owners, belie
 
 Please look into this situation. Highly-trained American workers deserve to be fairly treated and not be shunted off by companies who want to hire less-expensive foreign workers.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

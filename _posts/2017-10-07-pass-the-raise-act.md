@@ -19,6 +19,6 @@ Further, the RAISE Act would transform the current employment-based green card s
 
 Please stand up for American workers by supporting the RAISE Act!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

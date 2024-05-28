@@ -17,7 +17,7 @@ The marketing campaign for the 2007 DREAM Act made it seem that the amnesty was 
 
 There are 22 millions who cannot find a job and the Congress should not consider passing any amnesty when so many Americans are out of work (and so many illegal aliens have jobs). Even if you support the DREAM amnesty in principle, I hope you realize that a jobs depression is the wrong time and a lame duck session is the wrong place to pass such legislation.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

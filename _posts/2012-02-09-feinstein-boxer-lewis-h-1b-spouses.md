@@ -20,6 +20,6 @@ How many of these H-1B workers brought their spouses with them? 100,000? 200,000
 
 I'm sure you realize that President Obama's plan violates the law. Only the Congress can change immigration policy in such a matter, but this doesn't seem to bother the president that much (nor does putting Americans out of work). I hope you will show the compassion for American workers that Mr. Obama is so obviously lacking by fighting these H-4 work permits and help American workers keep their jobs.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

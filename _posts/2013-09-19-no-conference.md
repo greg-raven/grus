@@ -32,7 +32,7 @@ The letter reads as follows:
 >
 > "Thank you very much for considering our views on this critical issue."
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

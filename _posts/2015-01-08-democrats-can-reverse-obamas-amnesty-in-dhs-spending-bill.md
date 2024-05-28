@@ -17,6 +17,6 @@ Adding millions of more workers also will continue to stagnate wages. According 
 
 I urge you to defund all of the administration's immigration actions in the upcoming DHS Appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

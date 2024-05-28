@@ -16,7 +16,7 @@ I find it truly appalling that American businesses are allowed to import 138,000
 
 I urge you to right this tremendous wrong by working to reform America's ineffective and wasteful immigration system. Please work to halt most forms of immigration so that unemployed Americans have a decent chance of finding a job.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

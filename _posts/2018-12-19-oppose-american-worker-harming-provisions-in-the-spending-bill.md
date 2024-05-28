@@ -22,6 +22,6 @@ Furthermore, there is bipartisan support to include H.R. 392 in the upcoming spe
 
 I hope you will do all you can to support less-educated and lower-skilled American workers by opposing all efforts to increase H-2B visa numbers and to oppose the inclusion of H.R. 392 in the spending bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

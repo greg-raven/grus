@@ -17,6 +17,6 @@ This legislation is made even more important because President Obama has defunde
 
 SCAAP has broad bipartisan support and it needs to be reauthorized. Please do all you can to protect local communities by cosponsoring H.R. 100, the 2011 CLEAR Act.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

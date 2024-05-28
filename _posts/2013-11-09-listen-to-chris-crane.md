@@ -40,6 +40,6 @@ It's clear that Americans would suffer dearly if comprehensive amnesty is passed
 
 I urge you to take both of these arguments into consideration. If this legislation is passed our nation will be devastated.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

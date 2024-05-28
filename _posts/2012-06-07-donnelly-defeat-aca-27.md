@@ -18,6 +18,6 @@ No, ACA 27 is reckless legislation. It is unconscionable to attempt to amnesty h
 
 Perhaps Assemblyman Fuentes is pushing the measure in the legislature because he can't get enough signatures to place his related initiative on the ballot. I certainly would not sign a petition and I hope you will not sign on to his wrongheaded proposal. Vote to defeat ACA 27.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

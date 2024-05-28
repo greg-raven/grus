@@ -15,7 +15,7 @@ Your vote in favor of amnesty was a vote against American workers. It was also a
 
 You appear to have been goaded into supporting amnesty by those who have already broken our immigration laws. Shame on you.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

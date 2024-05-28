@@ -22,7 +22,7 @@ Gallingly, the bill also assumes that the U.S. has a severe labor shortage, desp
 
 I urge you to oppose this amnesty legislation. It doesn't secure the border, but does guarantee an amnesty for 11-18 million illegal aliens and guarantees American businesses a steady supply of unneeded foreign labor.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

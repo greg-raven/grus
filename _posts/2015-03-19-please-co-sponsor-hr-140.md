@@ -16,6 +16,6 @@ Within the past 20 years, nations such as Canada, Australia, and France have end
 
 I hope you will support H.R. 140, the Birthright Citizenship Act of 2015, and help to correct this glaring oversight in out nation's development.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

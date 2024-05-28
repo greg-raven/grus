@@ -24,6 +24,6 @@ Please read the attached op-ed and help to make our country safer by helping to 
 
 ([Read the full article here](https://thehill.com/opinion/op-ed/248643-sanctuary-cities-legislation-must-tackle-sanctuary-nation-policies).)
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

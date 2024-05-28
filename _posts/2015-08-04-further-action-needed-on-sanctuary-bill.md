@@ -16,7 +16,7 @@ You and your colleagues took strong action earlier this year to block funding to
 
 Thank you again for passing legislation to restrict sanctuary funding, please finish the task by passing H.R. 1148, the Davis-Oliver Act.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

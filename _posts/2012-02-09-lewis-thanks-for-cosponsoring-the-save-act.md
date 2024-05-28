@@ -13,6 +13,6 @@ I know that you have expressed serious concerns about the lack of enforcement of
 
 Thank you again for cosponsoring the SAVE Act and do everything you can to ensure it receives a floor vote.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

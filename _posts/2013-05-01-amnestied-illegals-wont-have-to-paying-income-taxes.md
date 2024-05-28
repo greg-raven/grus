@@ -20,7 +20,7 @@ The bill continues by stating "the term 'applicable Federal tax liability' means
 
 It's clear that this bill was written in such a way so that illegal aliens have the easiest possible path to getting an amnesty. Please oppose it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

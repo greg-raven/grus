@@ -16,7 +16,7 @@ How is it fair to push legislation, such as that passed by the Senate or the H.R
 
 I urge you to face down those on your party that want to bail out illegal aliens at the expense of American workers. Make it clear that you will not support any immigration legislation this year.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

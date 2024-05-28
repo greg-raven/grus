@@ -14,6 +14,6 @@ American workers were the main victors of the president's executive orders, but 
 
 I urge you to follow the president's lead and keep the good news American workers coming.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

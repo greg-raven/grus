@@ -19,6 +19,6 @@ Sen. Dianne Feinstein realizes just how wrong her home city of San Francisco has
 
 The Davis-Oliver Act, S. 1640, would rectify the situation by blocking SCAAP and federal law enforcement grants going to sanctuary localities and preventing DHS from releasing criminal illegal aliens. I hope you will support and pass this legislation and help to complete the House's work.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

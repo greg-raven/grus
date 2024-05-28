@@ -15,7 +15,7 @@ Sen. Specter's immigration proposal rewards lawbreakers with permanent residency
 
 In fact, virtually all of the 10.2 million illegal aliens estimated to be in the United States as of January 1, 2004, would be rewarded with exactly what they broke U.S. law to obtain: Permission to work in the United States indefinitely.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

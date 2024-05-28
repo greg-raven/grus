@@ -16,7 +16,7 @@ Last month, a House vote, by contrast, sent a powerful message that an illegal j
 
 The House vote showed that the Representatives of the American people may be ready to be the champions of the American workers who stand to lose the most if you follow through with your promise. I urge you to side with American workers and not illegal aliens!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

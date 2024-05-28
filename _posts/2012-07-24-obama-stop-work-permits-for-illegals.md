@@ -22,7 +22,7 @@ It's bad enough that you implemented an executive amnesty. It's far worse that y
 Please put politics aside and put our nation and unemployed Americans first by
 stopping the implementation of this policy.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

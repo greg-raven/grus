@@ -16,7 +16,7 @@ H.R. 2885 would put millions of Americans back to work, especially our nation's 
 
 Please make sure that H.R. 2885 is added to your website forthwith so that I, and thousands of other Americans, can register our support.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

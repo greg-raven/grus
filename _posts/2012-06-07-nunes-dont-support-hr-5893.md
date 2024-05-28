@@ -17,6 +17,6 @@ No, it's clear that you just want to help your millionaire and billionaire frien
 
 I hope you will reconsider your support for this legislation. If you don't, it certainly won't be forgotten.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

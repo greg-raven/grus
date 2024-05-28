@@ -18,6 +18,6 @@ These are just two of the numerous Cuban immigrants who abuse our welfare and im
 
 Rep. Gosar's Ending Special National Origin-Based Immigration Programs for Cubans Act of 2015 would end the abuse by repealing the Cuban Adjustment Act of 1966 and ending the "wet foot/dry foot" policy that allows Cubans to stay in the U.S. as legal immigrants if they touch dry land. I hope you will cosponsor this legislation and help to end this abuse.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

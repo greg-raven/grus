@@ -18,7 +18,7 @@ To make matters much worse, far too many of your colleagues are pushing for lang
 
 I urge you to do all you can to give these young Americans a fighting chance of entering the job market. Our country has more than enough workers to fill these jobs and has no need to import even more H-2B workers. Please oppose efforts to quadruple H-2B visa numbers as part of the FY2017 DHS appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

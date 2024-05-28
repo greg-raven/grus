@@ -23,6 +23,6 @@ Back in the year 2000, those 13,586 square miles were filled with farmland and t
 
 If we want America to have any green spaces in the decades to come, you need to acknowledge the problem and work to change it. We must lower immigration numbers to pre-1965 levels, remove the illegals and anchor babies already in the country, and secure our borders.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

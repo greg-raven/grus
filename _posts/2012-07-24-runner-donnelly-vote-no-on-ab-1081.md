@@ -19,7 +19,7 @@ Giving illegal immigrants sanctuary also enables them to hold jobs in the constr
 
 Voters like me understand that this measure is nothing but pandering. I, for one, will not accept it. Please vote no on this terrible bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

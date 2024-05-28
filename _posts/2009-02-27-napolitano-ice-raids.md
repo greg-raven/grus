@@ -16,7 +16,7 @@ You can then understand why I find your displeasure with ICE's February 24 raid 
 
 It is vital that you do not take any action that would deter ICE agents from conducting work site enforcement raids. There are more than 11.5 million unemployed Americans and ICE's raids give hope these downtrodden Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

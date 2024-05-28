@@ -20,7 +20,7 @@ The Heritage Foundation has calculated that an average low-skilled immigrant hou
 
 Specifically, Heritage notes that "It is true that low-skill immigrant households pay, on average, around $2,900 per year in Social Security (FICA) taxes; however, the average Social Security and Medicare benefits they receive actually exceed the FICA taxes paid. Of course, low-skill immigrant households receive many other government benefits as well, receiving ten dollars in total government benefits for each dollar they pay in Social Security taxes."
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

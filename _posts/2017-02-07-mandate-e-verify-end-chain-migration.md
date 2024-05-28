@@ -15,6 +15,6 @@ Mandating use of the E-Verify system and ending chain migration must be the prim
 
 I urge you and your fellow Republicans to make mandating E-Verify and ending chain migration your primary immigration priorities. President Trump can beef up the border using his executive authority and Congress must act to eliminate the jobs magnet and eliminate the flow of cheap unskilled labor into the country.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -14,6 +14,6 @@ This legislation, in addition to requiring employers to run new hires through th
 
 I'm very glad you care about putting jobless Americans back to work. Please convince your colleagues to support this bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

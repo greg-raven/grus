@@ -18,7 +18,7 @@ Instead of saying that an amnesty is alright with you, you should be working to 
 
 Please stop talking about amnestying illegal aliens, It only makes it less likely that they'll leave.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

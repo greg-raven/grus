@@ -15,7 +15,7 @@ I always laugh when I hear Democrats give Republicans advice on immigration. The
 
 You will probably get a lot of advice from Democrats in Washington who want you to help them pass another amnesty and immigration increase. Just remember, their advice isn't free, it costs us nearly $2.7 trillion.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

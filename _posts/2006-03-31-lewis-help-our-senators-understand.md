@@ -19,6 +19,6 @@ I hope you understand how important it is that you do everything in your power t
 
 A country that cannot control its borders is not really a country. A country that cannot control its population is doomed to fail.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

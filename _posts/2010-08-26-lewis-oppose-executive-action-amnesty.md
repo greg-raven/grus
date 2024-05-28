@@ -18,7 +18,7 @@ I urge you to take prompt action to publicly express your outrage with this memo
 
 I'm sure we both agree that any attempt by the Resident to circumvent Congress in this fashion is only the thin end of the wedge and will surely lead to more disastrous power grabs.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

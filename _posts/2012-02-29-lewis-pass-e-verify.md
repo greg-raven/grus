@@ -28,6 +28,6 @@ After looking at these poll numbers, how could any Republican Member of Congress
 
 I hope you will support legislation to mandate use of the E-Verify system and will press the House leadership to hold a vote on the legislation.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -16,7 +16,7 @@ I find this proposal to be absolutely appalling. S. 388 would at least triple th
 
 While you have supported similar bills in the past, I urge you to continue to oppose this proposal. S. 388 is a horrible bill that would keep hundreds of thousands of Americans out of work. Please do all you can to ensure that this bill does not make it through the U.S. Senate.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

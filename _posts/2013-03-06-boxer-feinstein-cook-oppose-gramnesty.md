@@ -20,6 +20,6 @@ Also, the Affordable Health Care Act requires all legal residents to qualify for
 
 The costs of an amnesty are simply too much for Americans to bear. Please oppose amnesty or any other position that rewards illegal immigration.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

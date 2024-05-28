@@ -13,6 +13,6 @@ Mandating use of E-Verify would unlock opportunities for the most disadvantaged 
 
 H.R. 2885 would put millions of Americans back to work, especially our nation's most vulnerable. Thank you for cosponsoring this legislation.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

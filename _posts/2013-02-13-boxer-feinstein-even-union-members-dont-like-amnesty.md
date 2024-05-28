@@ -20,6 +20,6 @@ From the same Rasmussen poll, it was also shown that only 43% of union members t
 
 Amnesty is bad for America and bad for American workers. I hope you will oppose any legislation that allows amnestied illegal aliens to compete against U.S. workers for U.S. jobs.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

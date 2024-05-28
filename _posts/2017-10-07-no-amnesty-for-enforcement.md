@@ -22,7 +22,7 @@ Before any discussion of amnesty, Congress also needs to end chain migration. A 
 
 I urge you to oppose any attempt to give legal status or green cards to illegal aliens!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

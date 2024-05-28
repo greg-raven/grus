@@ -20,6 +20,6 @@ U.S. businesses bring in far more than 1 million new foreign workers each year e
 
 I am glad that the Republican Party understands that immigration needs to be limited and that it should serve the interests of the American people. I urge you to make sure Congress follows through on these recommendations and works to reduce immigration levels to a more sustainable 250,000 per year.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

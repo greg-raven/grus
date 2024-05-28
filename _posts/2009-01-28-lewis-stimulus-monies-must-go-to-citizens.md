@@ -16,6 +16,6 @@ I am glad you share my views. I'm very thankful for your support of the amendmen
 
 Millions of unemployed Americans are depending on their government to stimulate and protect jobs. These two amendments which you supported will go a long way to protect stimulus money for Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

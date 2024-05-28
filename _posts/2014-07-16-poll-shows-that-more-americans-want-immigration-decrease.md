@@ -18,6 +18,6 @@ Furthermore, despite the faltering economy and unemployment increasing, between 
 
 Why should immigration numbers be so high when American workers simply cannot find jobs? I urge you to look at the numbers and listen to the will of the American people. Please work to reduce immigration numbers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

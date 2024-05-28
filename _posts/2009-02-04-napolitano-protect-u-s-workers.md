@@ -16,6 +16,6 @@ The new rule would require new hires to produce a current driver's license, pass
 
 I urge you to change your mind and starting implementing these common sense rules. There are more than 11 million unemployed Americans and these rules will help to find jobs.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

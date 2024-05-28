@@ -15,6 +15,6 @@ The Washington Post is reporting that the Obama administration is preparing to m
 
 The House-passed bill to defund DACA must be passed by the Senate. If it isn't, the problem will only continue to grow. Please support the bill and tell Senate Majority Leader Harry Reid you want a vote to stop President Obama's amnesty agenda.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

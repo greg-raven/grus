@@ -18,6 +18,6 @@ Currently, law enforcement officials are hamstrung by their inability to enforce
 
 I am just as disappointed as the law enforcement officials with the government's refusal to enforce immigration laws. Please read the entire letter and oppose this bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -20,7 +20,7 @@ Deputy Chief Vitiello is right. Unless there is a true deterrence, people will c
 
 Please tell the White House to start enforcing the laws and securing the borders. Tell them to spread the message that illegal aliens are not welcome.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

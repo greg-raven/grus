@@ -14,6 +14,6 @@ President Obama has made the problem of birthright citizenship worse than it alr
 
 President Obama's decision to amnesty illegal aliens with U.S.-born children is encouraging more people to come to this country illegally and overstay their visas, safe in the knowledge that President Obama will not allow them to be deported. This abuse of the law cannot be tolerated. Please cosponsor H.R. 140, the Birthright Citizenship Act of 2015, and help to get the bill passed.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

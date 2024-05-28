@@ -17,7 +17,7 @@ Unfortunately, you don't seem to care about violent illegal aliens who pose a th
 
 I urge you protect all Americans and to give a helping hand to those who enforce America's laws by ensuring that the 287(g) program is fully funded for 2013, instead of siding those who want our laws ignore and want to emasculate those who enforce the law. This is a very important program that gets results --- which is exactly why its detractors want to bring it down.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

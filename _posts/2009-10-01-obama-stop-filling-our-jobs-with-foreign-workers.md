@@ -17,7 +17,7 @@ Why then do these United States continue to issue 125,000 foreign worker permits
 
 There is no sane or plausible reason for this to continue. The United States does not need more foreign workers. Americans do not need more foreign workers. Americans need jobs --- 150,000 per month to be precise. How can we continue to let 160,000 new foreign workers compete against these unemployed Americans? Please act to suspend foreign worker importation until the United States is able to create enough jobs for its own.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

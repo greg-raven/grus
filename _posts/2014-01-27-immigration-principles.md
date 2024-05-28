@@ -16,6 +16,6 @@ Promoting the National Interest:
 
 Just as every other country has immigration policies to protect its own citizens, the purpose of U.S. immigration policy should be to advance the national interest in benefitting the citizens of the United States. If this is not done, our nation will be harmed.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

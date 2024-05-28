@@ -16,7 +16,7 @@ With this in mind, it's easy to see why the $1.5 billion dollars spent on the cr
 
 It is clear that the jobs stimulus cannot even keep up with the monthly influx of foreign workers. Please do all you can do institute a moratorium on all non-essential immigration. The United States does not need more foreign workers. American businesses do not need more foreign workers. America's 15 million unemployed certainly do not need more foreign workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -17,6 +17,6 @@ During your campaign you promised to protect American jobs and I urge you to do 
 
 NumbersUSA has sent you a letter requesting that you curb chain migration, the visa lottery, and the importation of foreign workers. It goes without saying that I completely approve of NumbersUSA's letter and their suggestions. These suggestions are not a cure-all solution, but would certainly create millions of jobs for unemployed Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

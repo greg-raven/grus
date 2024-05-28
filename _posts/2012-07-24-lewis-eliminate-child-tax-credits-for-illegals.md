@@ -18,6 +18,6 @@ It's bad enough that the federal government's failure to enforce our immigration
 
 H.R. 6165 would eliminate this loophole. Please make sure The Responsible Child Tax Credit Eligibility Verification Act of 2012 is passed as soon as possible.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -21,7 +21,7 @@ Ending chain migration by limiting family-based immigration to spouses and minor
 
 The Jordan Commission concluded that immigration must serve the national interest. Specifically, the commission concluded that high immigration numbers would harm less-educated Americans and that chain migration needed to be ended to prevent this from happening. I urge you to follow the recommendations of the commission and help less-educated and lower-skilled Americans by cosponsoring Sen. Cotton's legislation, S. 354.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

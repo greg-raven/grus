@@ -17,7 +17,7 @@ Instead, Pres. Obama must be forced to begin immediately deporting people who cr
 
 Please do not support any effort by Rep. McCaul to include his border bill to the House's response to the ongoing border surge. Instead, hold Pres. Obama accountable and work towards a solution that will tell the countries of the world that illegal immigration to the United States will no longer be tolerated.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

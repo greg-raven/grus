@@ -16,7 +16,7 @@ If the Republicans in Congress let the president get away with this power grab, 
 
 It's time for you and your fellow Republicans to show some backbone and pass immigration bills, such as mandatory E-Verify, to mitigate the effects of President Obama's amnesty. Otherwise, Americans will continue to suffer.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

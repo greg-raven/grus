@@ -20,6 +20,6 @@ I believe this is an excellent recommendation. Far too often, American workers a
 
 Please read Mr. Trump's entire immigration plan and do all you can to put his proposals into place. American workers are suffering and at a disadvantage and this needs to change.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

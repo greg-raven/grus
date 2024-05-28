@@ -16,6 +16,6 @@ Any amnesty for illegal aliens would exacerbate these problems and make it much 
 
 An amnesty for illegal aliens will only make it more difficult, not easier, for the GOP to win future elections. Helping Hispanic voters into the middle class is your party's best path forward.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

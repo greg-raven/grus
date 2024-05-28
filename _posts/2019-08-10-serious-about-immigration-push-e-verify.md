@@ -15,6 +15,6 @@ The current I-9 paper system requires employers to essentially make a judgment c
 
 E-Verify would drastically reduce this kind of intentional or unintentional discrimination by confirming work authorization within seconds. I hope you'll call for national E-Verify soon.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

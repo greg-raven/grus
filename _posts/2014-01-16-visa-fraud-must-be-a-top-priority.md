@@ -13,6 +13,6 @@ The H-1B program takes jobs from American tech workers, plain and simple. Visa f
 
 Congress owes it to all American tech workers and those who will soon be entering the workforce to look into this matter and ensure that the government continues to be vigilant on this matter. Taxpayers, parents, and industry are investing a lot of time and money to produce STEM students and workers and it would be a shame to throw that away.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

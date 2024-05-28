@@ -24,7 +24,7 @@ The Tenth Amendment says the powers not delegated to the United States are reser
 
 Please stand up for sanity and stop SB 54. There's just too much at stake.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

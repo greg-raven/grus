@@ -18,6 +18,6 @@ Hopefully the very fact that 13.2% of disabled Americans are unemployed will enc
 
 I urge you to support legislation that helps unemployed Americans, not harm them. Tens of millions of unemployed Americans are depending on you --- a disproportionate number of whom are disabled.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

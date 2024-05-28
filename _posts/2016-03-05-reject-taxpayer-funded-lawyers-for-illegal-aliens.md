@@ -16,6 +16,6 @@ The surge of unaccompanied illegal alien minors at the border hasn't dropped or 
 
 This legislation is simply a ploy to amnesty illegal aliens and a handout to immigration lawyers. I urge you to oppose this legislation and make sure our borders are protected.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

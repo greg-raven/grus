@@ -16,6 +16,6 @@ The "Lost Generation" of under-30s; working-class Blacks and Hispanics, those wi
 
 You have a poor record of defending these victims of illegal immigration but at the start of a new Congress, you have the opportunity to remember them --- and Barbara Jordan --- when you take a fresh look at immigration reform.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -14,6 +14,6 @@ President Obama, in granting legal status and work permits to various classes of
 
 Thank you for voting against this amendment and I hope you will continue to oppose efforts to support illegal aliens.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

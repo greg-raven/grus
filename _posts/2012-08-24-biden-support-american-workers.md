@@ -18,7 +18,7 @@ Over the past three months the economy has created an average of 75,000 new jobs
 
 By ignoring immigration's role in expanding the job market, you are doing a disservice to the more than 20 million Americans who want a full-time job but cannot find one. Instead, if you are truly concerned about those Americans, then you should make opposing foreign-worker increases a top priority.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

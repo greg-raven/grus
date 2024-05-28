@@ -14,7 +14,7 @@ Thousands of illegal aliens are trying to cross our borders each day. Unfortunat
 
 The National Guard can and should play a vital role in keeping our nation safe. They need to be sent to the border to protect our nation and help to halt illegal immigration. With thousands attempting to cross each week, the National Guard can give the Border Patrol important backup and help to stem the flow of illegal aliens. Please call up the National Guard. Their help is needed.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

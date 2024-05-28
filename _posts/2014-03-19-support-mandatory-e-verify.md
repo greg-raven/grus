@@ -14,6 +14,6 @@ There are no valid excuses for allowing businesses to hire illegal workers, espe
 
 Please work with your House colleagues to make E-Verify mandatory for all employers and help end illegal immigration.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

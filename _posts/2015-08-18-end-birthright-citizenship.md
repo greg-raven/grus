@@ -16,7 +16,7 @@ Many open-borders advocates claim that a Constitutional amendment is required to
 
 Laws to end the practice, S. 45 and H.R. 140, are currently before Congress and are worthy of your support. The practice of birthright citizenship attracts millions of illegal aliens to the United States and then allows them to remain in the United States. This must end and I urge you to support these pieces of legislation to make this happen.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

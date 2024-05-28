@@ -15,7 +15,7 @@ The United States should not reward individuals who have broken our nation's law
 
 The United States is almost the only industrialized nation to still practice jus soli --- birthright citizenship. I expect you to help America get with the times by supporting legislation that would change our nation's laws and prevent the children of illegal aliens from receiving birthright citizenship. When this is done, illegal aliens will have one less anchor keeping them in this country, thereby opening of millions of jobs for America's unemployed.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

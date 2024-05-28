@@ -17,6 +17,6 @@ In a letter to one of his constituents he wrote, "I strongly believe that every 
 
 I hope that what Sen. Reid wrote represents his true feelings and that he has decided to support unemployed and underemployed Americans (although I fear that the Majority Leader is being less than honest with his constituents). Please do all you can to support any efforts to reauthorize the E-Verify employment verification system for a period of no less than ten years. The Majority Leader has the opportunity to prove that he is a man of his word and I urge you to ensure that he keeps it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

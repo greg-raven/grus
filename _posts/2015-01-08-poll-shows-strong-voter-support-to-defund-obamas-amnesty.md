@@ -20,7 +20,7 @@ The poll also found that 83% of Republican voters from this past midterm electio
 
 I urge you to side with those who elected you and want to see Congress defund President Obama's amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

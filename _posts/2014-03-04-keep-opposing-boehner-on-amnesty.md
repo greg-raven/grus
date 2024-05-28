@@ -14,7 +14,7 @@ The Merriam-Webster Dictionary defines an amnesty as "the act of an authority (s
 
 Speaker Boehner's plan would nullify the prescribed penalties for those who come to this country illegally or overstay their visas --- namely being arrested and deported. At current estimate, the number of illegal aliens living in the United States number anywhere from 11 to 18 million, which by anyone's definition constitutes a "large number of individuals." On top of this, his plan would make it hard for authorities to find and deport illegal aliens. I hope you will also note that whether individuals pay a fine or back taxes is irrelevant to the definition of amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

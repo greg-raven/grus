@@ -14,6 +14,6 @@ The Legal Workforce Act would, within three years, require all employers to run 
 
 E-Verify is safe, accurate, and easy to use, and it's use is even supported by the U.S. Chamber of Commerce. This bill is pro-American worker and pro-American business. It will help millions of Americans find work and help to combat ID theft. Please support it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

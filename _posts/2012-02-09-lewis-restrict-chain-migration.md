@@ -17,6 +17,6 @@ While ending chain migration would directly reduce overall immigration by around
 
 22 million Americans cannot find a job. Reducing chain migration would help some of these Americans find jobs. Please support H.R. 692, the Nuclear Family Priority Act, and help Americans get back to work!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -19,7 +19,7 @@ Pres. Trump was elected, in part, because of his promise to finally secure the U
 
 I urge you not to jeopardize national security over petty politics. Republicans and Democrats alike overwhelmingly voted for fencing along the border, and it's time to make good on that promise by providing the necessary funding.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

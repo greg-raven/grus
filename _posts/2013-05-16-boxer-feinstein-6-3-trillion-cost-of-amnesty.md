@@ -15,6 +15,6 @@ There's no doubt about it, America's immigration system is broken. Our broken sy
 
 However, legislation that gives work permits, green cards, and U.S. citizenship to 11 million illegal aliens, at the cost of $6.3 trillion, is certainly not the answer. I hope you will oppose this bill and allow the federal government to spend this money on services that are essential to tens of millions of Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -20,7 +20,7 @@ But the workers who would suffer the most, would be the legal immigrants who arr
 
 Please oppose these efforts to harm American and legal immigrant workers. Say no to amnesty.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

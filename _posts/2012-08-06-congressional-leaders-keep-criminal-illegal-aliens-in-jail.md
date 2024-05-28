@@ -29,7 +29,7 @@ The CRS completed the report using data obtained by the House Judiciary Committe
 
 It is totally ridiculous for laws to be passed by Congress for the good of the American people, then for President Obama to turn a blind eye on these laws. Congress has had years to do something about this, but has done something. This report does beg the question: what has Congress been doing and what is Congress good for?
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

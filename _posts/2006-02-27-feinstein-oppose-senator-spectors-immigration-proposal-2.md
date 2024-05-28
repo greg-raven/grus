@@ -15,7 +15,7 @@ Did you know that an estimated 6.7 million illegal aliens who were employed as o
 
 Please be sure you have all of the facts straight before you vote on the Specter immigration plan. You may be supporting the largest amnesty in U.S. history without even knowing it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

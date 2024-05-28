@@ -21,7 +21,7 @@ What has changed since then? Has Congress changed the law? Do Americans approve 
 
 I find your playing politics with the lives of millions of Americans to be despicable. American families are going hungry and losing their homes because of unemployment and you are giving work permits to illegal aliens simply to win votes. This is partisan politics at its very worst and you should be ashamed of yourself. Sadly, I know you have none.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

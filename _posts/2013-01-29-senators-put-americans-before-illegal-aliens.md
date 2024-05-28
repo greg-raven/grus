@@ -16,6 +16,6 @@ Congress should help the unemployed and disadvantaged Americans get decent-payin
 
 As Congress considers many "immigration reform" proposals, keep in mind that the reforms we need are those that result in more job openings, less poverty, and lower spending.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

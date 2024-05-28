@@ -18,6 +18,6 @@ The Startup Act will depress the wages of high-skilled American workers by openi
 
 The Startup Act will drive Americans further away from the fields of their study. It assumes Americans aren't capable. I disagree. I believe in our graduates and I oppose the Startup Act.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

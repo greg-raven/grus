@@ -18,7 +18,7 @@ Mr. President, I am counting the days to a presidential pardon or commutation fo
 
 Please pardon or commute the sentences of agents Ramos and Compean today.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -19,7 +19,7 @@ Adding another New York City would be bad enough, but we would also be adding an
 
 Please oppose this bill. The amnesty provisions are bad enough, but the legal immigration provisions are even worse.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

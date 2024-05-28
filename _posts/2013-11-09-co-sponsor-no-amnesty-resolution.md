@@ -12,6 +12,6 @@ It is disappointing that some in Congress still want to give illegal aliens an a
 
 With 20 million Americans unable to find a full-time job, it's important that illegal aliens not be given work permits, legal status, or amnesty as part of any immigration reform legislation. I hope you will cosponsor H.Res. 326 and make it clear that amnesty is not the sort of immigration reform America needs.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

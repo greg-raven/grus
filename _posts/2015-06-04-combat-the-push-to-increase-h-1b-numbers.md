@@ -20,6 +20,6 @@ Lastly, one of the paper's coauthors, Yi Xue, works for Palantir, one of the cou
 
 These omissions and oversights make the paper and its goals highly suspect and its "findings" must not be taken at face value if you decide to read it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

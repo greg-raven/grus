@@ -16,6 +16,6 @@ The February stimulus bill passed by the House of Representatives had language t
 
 It is very likely that Obama, Reid, and Pelosi will try to do the same thing to the DHS Appropriations bill. I am counting on you to ensure that they are not able to harm American workers a second time by removing the E-Verify provisions from the DHS Appropriations bill in the Conference Committee.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 Mr. {% include signature.html %}

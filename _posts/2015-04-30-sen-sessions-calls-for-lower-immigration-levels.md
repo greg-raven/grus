@@ -21,6 +21,6 @@ In order to make sure that "a new population almost four times larger than that 
 
 It is time for Congress to have an honest discussion about why the U.S. should be bringing in hundreds of thousands of immigrants each year to work jobs that millions of Americans need to have.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

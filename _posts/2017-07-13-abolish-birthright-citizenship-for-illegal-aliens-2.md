@@ -18,6 +18,6 @@ To grant automatic birthright citizenship to the children of illegal aliens is i
 
 The American people, and our nation's future generations, are depending on you to do the right thing. Please don't let us down.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

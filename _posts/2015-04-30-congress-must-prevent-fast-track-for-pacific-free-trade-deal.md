@@ -18,6 +18,6 @@ Expanding use of the L-1 visa program would be dangerous to an untold number of 
 
 Please do all you can to make sure the president is not granted fast track authority for the TPP so that Congress has a chance to address the L-1 issue.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

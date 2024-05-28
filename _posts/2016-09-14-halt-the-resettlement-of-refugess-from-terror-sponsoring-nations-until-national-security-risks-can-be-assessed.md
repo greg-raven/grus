@@ -20,6 +20,6 @@ Of just as much concern is the cost of the program. It costs the United States g
 
 It is clear that the current refugee resettlement program represents a security threat to our nation and that the program's funds would be better spent helping refugees to resettle close to their home country. I urge you to oppose reauthorizing the program for FY17 until the program's financial and security ramifications can be thoroughly assessed and resettlement from terrorist-producing countries is halted.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

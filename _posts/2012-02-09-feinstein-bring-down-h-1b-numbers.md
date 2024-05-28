@@ -15,6 +15,6 @@ Each year, 85,000 H-1B workers are admitted, and these visas are good for three 
 
 As President Obama refuses to, I hope you will look out for these jobless and at-risk U.S. workers by reforming the H-1B program. The vast majority of these workers are completely unnecessary and only put skilled Americans out of well-paying jobs. The Senate Judiciary Committee can and must act on this issue.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

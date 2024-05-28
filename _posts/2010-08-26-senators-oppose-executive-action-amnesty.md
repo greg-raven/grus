@@ -17,7 +17,7 @@ The American people have elected a Congress to set, among other things, our nati
 
 I'm aware that you have been generally supportive of amnesties and legalizations for illegal aliens in the past, but I would hope that you would at least stand up for the principle that these large-scale immigration decisions should be made by the people's Congress and not by administrative action.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

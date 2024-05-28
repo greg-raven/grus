@@ -21,7 +21,7 @@ To be fair, you are not the only reason. You are only 1 out of 535 reasons, so y
 
 I hope you will do what these attorneys general are asking and put a 50-state solution in place. That 50-state solution has a name --- it's called mandatory E-Verify. Please cosponsor it today.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -25,6 +25,6 @@ Please pledge to tackle the following priorities in the next Congress in order t
 9. Restrict asylum to the internationally recognized definition of those who are unable to be returned to the home country due to a well-founded fear of (state) persecution due to race, religion, nationality, membership in a particular social group, or political opinion.
 10. Allow Border Patrol access to all federal lands.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

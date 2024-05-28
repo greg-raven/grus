@@ -18,6 +18,6 @@ If you are considering supporting such an anti-American bill, at least make sure
 
 Many people argue that children should not be forced to pay the sins of their parents. Unfortunately, the DREAM Act rewards the illegal, law-breaking parents as well as the "innocent," illegal "youths."
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

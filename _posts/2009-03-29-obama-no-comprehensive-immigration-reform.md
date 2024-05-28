@@ -19,7 +19,7 @@ How do you intend on bringing "hope" to the American people if you give our jobs
 
 I urge you to oppose amnesty of any form (comprehensive or otherwise). Amnesty will harm those you profess a desire to help and only help those who have broken the law. This is not the "hope" I was expecting!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

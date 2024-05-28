@@ -14,7 +14,7 @@ With 18 million Americans unable to find a full-time job, and tens of millions m
 
 Any immigration legislation passed by the House would give Harry Reid the House-passed immigration legislation he needs to force the Obama/Schumer amnesty on the American people. Please make sure the Mulvaney/Ryan/Diaz-Balart plan doesn't get off the ground. Please tell the House Republican leadership that it doesn't have your support.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

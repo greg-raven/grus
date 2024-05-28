@@ -18,7 +18,7 @@ Unfortunately, your upcoming April 30th hearing isn't about taking jobs back fro
 
 Comprehensive immigration reform that legalizes illegal workers made no economic or ethical sense in 2007. Considering today's recession, the Senate Judiciary Committee is foolish to even bring the subject up.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

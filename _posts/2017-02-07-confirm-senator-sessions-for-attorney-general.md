@@ -16,6 +16,6 @@ Sen. Sessions has repeatedly displayed that kind of independence throughout his 
 
 Please support his nomination for attorney general.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

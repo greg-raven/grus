@@ -21,7 +21,7 @@ These positions mirror President-elect Trump's immigration enforcement pledges t
 
 I hope you and your fellow Republicans will use the 115th Congress to turn President-elect Trump's immigration pledges and the Republican Party's immigration platform into law.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

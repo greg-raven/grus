@@ -18,6 +18,6 @@ On top of this, it gives employers "safe harbor" if they use E-Verify program, w
 
 I know you care about unemployed Americans as much as I do. Please cosponsor the New IDEA Act today.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

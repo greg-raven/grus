@@ -16,7 +16,7 @@ Only 14% of Catholic voters answered "a lot," while 27% answered "some," 26% ans
 
 While Catholics are definitely not uniformly against helping illegal immigrants, most Catholic voters are against doing much to help them keep their jobs and displace American workers. I hope you will take a close look at this poll and realize that most Catholics oppose granting work permits to illegal immigrants while millions of Americans search for a job.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

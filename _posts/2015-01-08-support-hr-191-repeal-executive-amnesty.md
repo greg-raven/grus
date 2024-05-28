@@ -18,7 +18,7 @@ In addition, the bill would close the loophole that played a large role in last 
 
 I urge you to tell GOP Leadership to include Rep. Aderholt's bill in the upcoming DHS Appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

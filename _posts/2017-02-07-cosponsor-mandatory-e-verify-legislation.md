@@ -15,6 +15,6 @@ S. 179, would, within one year, require all employers to run new hires through t
 
 E-Verify is safe, accurate, and easy to use, and its use is even supported by the U.S. Chamber of Commerce. This bill is pro-American worker and pro-American business. It will help millions of Americans find work and help to combat ID theft. Please support American workers by cosponsoring Sen. Grassley's S. 179.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

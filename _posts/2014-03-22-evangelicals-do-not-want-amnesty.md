@@ -20,6 +20,6 @@ According to the *Washington Examiner,* the poll says that:
 
 I agree with these sentiments and agree with the immigration views of evangelical Christians. I sincerely hope you will support legislation that matches these views.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

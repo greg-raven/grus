@@ -23,7 +23,7 @@ In addition to being a nightmare for unemployed Americans, the DREAM Act would s
 
 I urge you to break your habit of supporting illegal alien workers over unemployed Americans by opposing the nightmarish DREAM Act. Please remember that I, and many other of your constituents, will be watching your actions very closely.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

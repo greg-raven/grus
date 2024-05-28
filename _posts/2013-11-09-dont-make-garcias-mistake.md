@@ -16,6 +16,6 @@ During his online appearance, Rep. Garcia also indicated the bill was good for t
 
 I hope you will not make the same mistake as Rep. Garcia. Please do not support this legislation.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

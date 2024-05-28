@@ -23,6 +23,6 @@ What you and your colleagues in Congress must do is clear. First, you must ensur
 
 Americans have been let down on this issue. Please make sure we're not let down again.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

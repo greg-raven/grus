@@ -21,7 +21,7 @@ ICE agents are trying to level the playing field for Americans and legal immigra
 
 I urge you to publicly denounce Speaker Pelosi's comments. As one of Speaker Pelosi's Democratic colleagues, your denunciation would carry a lot of weight and prove that your party does not share the Speaker's sentiments.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -16,6 +16,6 @@ The Secure Fence Act, passed by large majorities in Congress, requires 700 miles
 
 I hope you will do all you can to support President-elect Trump's effort to complete the Secure Fence Act of 2006 and finally support the Southern border.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

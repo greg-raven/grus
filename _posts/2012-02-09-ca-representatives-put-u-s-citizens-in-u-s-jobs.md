@@ -38,7 +38,7 @@ The Legal Workforce Act is a great bill that would ensure that those with valid 
 
 Illegal aliens currently hold jobs in a wide range of areas: construction, computer programming, housekeeping, manufacturing, transportation, et al. H.R. 2885 would put Americans, representing a wide swath of educational attainments, back to work. I suggest you heed Speaker Boehner's advice and make job creation your top priority. Supporting the Legal Workforce Act to the hilt would be a great place to start.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -25,6 +25,6 @@ What about this bill is there not to like? It would prevent employers from hirin
 
 I hope you will consider supporting H.R. 830, the SAVE Act, and prove you care about putting Americans back to work and securing the border.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

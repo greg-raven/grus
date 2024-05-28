@@ -13,6 +13,6 @@ In your inaugural address, you mentioned the "shrinking few who do very well and
 
 Please do not use your upcoming State of the Union address to push for an amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

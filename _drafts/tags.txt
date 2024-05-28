@@ -7,7 +7,6 @@ amnesty
 Anna Eshoo
 Anthony Adams
 Anthony Rendon
-Anthony Rendon
 Apple Valley
 Arizona
 Arnold Schwarzenegger
@@ -31,11 +30,7 @@ Brian Bilbray
 Brownley
 budget
 California
-Calvert
-Campbell
 cap-and-trade
-Capps
-Cardenas
 Carol Liu
 Cathy McMorris-Rodgers
 censorship
@@ -44,12 +39,10 @@ charity
 Charles M. Calderon
 child labor
 Chris Norby
-Chu
 Chuck Grassley
 Constitution
 corruption
 Cory Gardner
-Costa
 Council on Environmental Quality
 Curren D. Price Jr.
 Curt Hagman
@@ -60,9 +53,7 @@ Dana Rohrabacher
 Darrell Issa
 Darrell Steinberg
 David Dreier
-Davis
 Debbie Stabenow
-Denham
 Dennis Cardoza
 Devin Nunes
 DHS
@@ -86,7 +77,6 @@ Elton Gallegly
 energy
 environment
 Eric Cantor
-Eshoo
 evolution
 Farr
 Federal government
@@ -102,7 +92,6 @@ Gavin Newsom
 George Bush
 George Miller
 George Runner
-George Runner
 Gil Cedillo
 Gilbert Cedillo
 globalism
@@ -116,7 +105,6 @@ health care
 Henry Waxman
 Hillary Clinton
 Holly J. Mitchell
-Honda
 Howard Berman
 Howard McKeon
 Huffman
@@ -127,7 +115,6 @@ immigration
 impeachment
 Internet
 Isadore Hall III
-Issa
 Jackie Speier
 James Clyburn
 James Ramos
@@ -136,7 +123,7 @@ Jane Harman
 Janet Napolitano
 Janice Rutherford
 Jay Obernolte
-Jay Obernolte
+Jeff Denham
 Jeff Sessions
 Jerrod Nadler
 Jerry Brown
@@ -280,6 +267,7 @@ Tom Ammiano
 Tom Harman
 Tom McClintock
 Tom Tancredo
+Tony Cardenas
 trade
 U.S. Army Corps of Engineers
 U.S. Department of Justice
@@ -290,6 +278,5 @@ visa lottery
 Wally Herger
 websites
 world government
-Xavier Becerra
 Xavier Becerra
 Zoe Lofgren

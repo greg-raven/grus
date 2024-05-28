@@ -19,6 +19,6 @@ I hope you will vote in favor of Sens. Toomey and Cruz's respective bills. S. 31
 
 Please do all you can to get these bills passed.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

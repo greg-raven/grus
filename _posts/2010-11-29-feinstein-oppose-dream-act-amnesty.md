@@ -16,7 +16,7 @@ It is completely unethical for anyone even to consider putting forward the DREAM
 
 All this is in addition to the fact that amnesty is not only complete wrong but utterly inappropriate in every way, shape, and form.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

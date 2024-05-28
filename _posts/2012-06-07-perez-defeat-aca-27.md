@@ -19,6 +19,6 @@ Technical reasons aside, ACA 27 is just bad policy. The measure will create anot
 
 Please ensure ACA 27's defeat. I will be watching this issue and I vote.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

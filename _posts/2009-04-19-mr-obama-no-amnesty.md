@@ -21,7 +21,7 @@ Chain migration would ensure that amnestied illegals would be able to petition f
 
 The lives of millions of vulnerable workers will be severely impacted by your immigration plan. You owe it to them and to the country to be honest about what giving millions of illegal workers amnesty really means.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

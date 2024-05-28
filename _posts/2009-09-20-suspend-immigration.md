@@ -17,7 +17,7 @@ I cannot for the life of me understand why this country continues to issue 100,0
 
 There needs to be legislation introduced in this Congress that would result in an immigration suspension --- excluding spouses, children, and extraordinarily talented workers; we simply do not need more foreign workers. Californians need your help. Please do the right thing and support legislation to temporarily suspend most forms of immigration.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

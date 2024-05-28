@@ -17,6 +17,6 @@ Brat's message resonated with middle class voters, many of whom accuse Republica
 
 Republicans can capitalize on this message by passing legislation to cut foreign worker numbers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

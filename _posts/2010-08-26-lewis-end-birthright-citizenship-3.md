@@ -16,7 +16,7 @@ Not only do the mothers immediately get access to a whole array taxpayer-funded 
 
 I am counting on you to support H.R. 1868 to address this important issue. I look forward to hearing from you soon.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

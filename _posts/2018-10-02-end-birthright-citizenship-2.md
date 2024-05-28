@@ -17,6 +17,6 @@ The United States is one of only two industrialized nation to still practice jus
 
 I urge you to get behind legislation that would end this outdated practice once and for all!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

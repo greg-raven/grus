@@ -17,7 +17,7 @@ There are 22 million Americans who cannot find a job, and large numbers of legal
 
 Please do not even consider supporting the DREAM Act amnesty. The Congress should not consider passing any amnesty when so many Americans and legal immigrants are out of work (and so many illegal aliens have jobs). If your Congressional colleagues are so determined to support such an anti-American bill, they should at least make sure that it mandates the use of E-Verify (to take away an incentive for another mass influx of illegal aliens) and eliminates the chain migration category for parents and adult siblings (to prevent this amnesty from ballooning into a mass influx of legal immigrants who will compete with unemployed Americans and immigrants already legally here).
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

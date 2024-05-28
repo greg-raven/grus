@@ -19,6 +19,6 @@ Currently, around 1 million legal immigrants and 700,000 illegal aliens come to 
 
 Immigration helped make America what it is today. However, it is possible to have too much of a good thing. Please work to reduce immigration to more sustainable levels.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

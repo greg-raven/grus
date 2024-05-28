@@ -17,7 +17,7 @@ S. 1640, the Davis-Oliver Act, would prevent many future crimes committed by ill
 
 All murders are tragic, but the recent shooting death in San Francisco is senseless because it could so easily have been prevented. Congress and the president must act to ensure all federal agencies and localities abide by federal immigration laws. Please support and help to pass S. 1640 to make sure this happens.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

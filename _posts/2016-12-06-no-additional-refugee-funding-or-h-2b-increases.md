@@ -18,7 +18,7 @@ It is also disturbing that some Members of Congress continue to put the interest
 
 Please oppose any efforts to increase refugee resettlement spending from the current $1.7 billion per year and please make sure the continuing resolution doesn't extend the job-destroying quadrupling of H-2B numbers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -20,6 +20,6 @@ The irrational visa lottery has the same effect. Rather than award visas based o
 
 I urge you to work towards temporarily halting non-essential immigration. Doing so would open hundreds of thousands of jobs for unemployed Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -14,6 +14,6 @@ I keep hearing that the party's new "immigration principles" that were developed
 
 With the November elections fast approaching, I thought your party would be seeking to differentiate itself from the Democrats. However, it seems your party is in lockstep with them on this issue.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

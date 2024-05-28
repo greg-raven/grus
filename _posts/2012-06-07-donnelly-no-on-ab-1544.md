@@ -17,6 +17,6 @@ AB1544 is on the Assembly's docket because big Agriculture wants to maintain hig
 
 Please vote no on AB1544. And if a corporate farmers asks why you're voting no, say they have better options, like using the federal H-2A program or paying a living wage.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

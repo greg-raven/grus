@@ -16,7 +16,7 @@ On November 2nd, the American people made it loud and clear that we care more ab
 
 I urge you to do the right thing for the American people and urge Sen. Reid and Rep. Pelosi to stand down and not push the DREAM Act amnesty during the lame duck session of Congress. In doing so, you would prove you care about the wishes and welfare of the American people.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

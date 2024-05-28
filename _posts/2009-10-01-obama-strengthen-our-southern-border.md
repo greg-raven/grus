@@ -18,6 +18,6 @@ According to DHS, the Border Patrol only has "effective control" of 697 miles of
 
 Please speak with DHS Secretary Janet Napolitano and ensure that she is not planning on removing any Border Patrol agents from our southern border. The American people depend on these brave men and women to keep our nation safe and it would be disastrous if they were no longer allowed to do their job.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 Mr. {% include signature.html %}

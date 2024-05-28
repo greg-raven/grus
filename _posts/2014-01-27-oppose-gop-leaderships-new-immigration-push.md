@@ -18,7 +18,7 @@ Politico is reporting:
 
 How can Politico be correct when Speaker Boehner has maintained that an immigration bill would not be introduced unless it has the support of the majority of House Republicans? Please come out and make it clear that Politico has it wrong and House Republicans aren't contemplating moving in this direction.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

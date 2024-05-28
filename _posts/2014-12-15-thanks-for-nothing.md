@@ -19,7 +19,7 @@ The will of the American voters is also against executive amnesty. According to 
 
 I am disappointed that you are choosing to help illegal aliens over struggling American families.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

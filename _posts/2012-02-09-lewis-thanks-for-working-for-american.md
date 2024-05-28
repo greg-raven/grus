@@ -19,6 +19,6 @@ However, I do realize that no number of immigration cosponsorships will do a sin
 
 Thank you for your hard work in 2011 and please continue to look after America's workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

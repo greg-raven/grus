@@ -31,6 +31,6 @@ According to data from the Bureau of Prisons, 77% of federal drug possession con
 
 The House proposal is not an effective way to reduce our prison population and I urge you to oppose in its current form.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

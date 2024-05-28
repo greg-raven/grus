@@ -17,7 +17,7 @@ On top of this, our government cannot ensure that refugees are not terrorists or
 
 Refugee resettlement needs to be halted until it can be done securely. Please do all you can to protect our country by supporting H.R. 4218.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

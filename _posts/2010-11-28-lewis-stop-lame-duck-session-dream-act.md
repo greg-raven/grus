@@ -19,7 +19,7 @@ Any attempt by outgoing Speaker Pelosi to force this amnesty on the American peo
 
 Please do the right thing and oppose Speaker Pelosi's attempts to force the DREAM Act amnesty through Congress. She is acting as if the November 2nd elections never happened and her anti-American worker, anti-American student actions must be stopped.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -17,7 +17,7 @@ The need to reduce America's population growth rate reflects the same environmen
 
 A far more sustainable immigration level would be around half-million a year recommended by the bipartisan U.S. Commission on Immigration Reform, chaired by former Democratic Congresswoman Barbara Jordan, in 1995. That would move annual immigration to the approximate level that was the norm as recently as the 1980s.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

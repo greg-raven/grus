@@ -21,7 +21,7 @@ On top of this, allowing too many refugees to settle in a country brings other r
 
 The United States faces the same collapse if it admits more fleeing Syrians. Please do all you can to make sure the U.S. helps those Syrians sheltered in Turkey and Jordan and doesn't make the mistake of relocating these people to the United States.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -14,7 +14,7 @@ Americans are experiencing record unemployment. Everyone is suffering, but none 
 
 I am somewhat reassured by *The New York Times* report that Republicans will probably band together to oppose this ill-timed and ill-conceived amnesty. There are more than 13 million Americans without a job who would like to be working, while approximately 6 million non-farm jobs are currently held by illegal workers. Approximately 300,000 stimulus jobs will go to illegal workers because Democratic leadership didn't want to expand E-Verify. American workers need some champions in Washington and I hope Republicans are prepared to step up to the plate.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

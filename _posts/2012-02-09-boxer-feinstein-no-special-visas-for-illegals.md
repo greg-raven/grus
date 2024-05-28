@@ -18,6 +18,6 @@ Sen. Brown's bill is a perfect example of how our immigration system rarely cons
 
 Stop this bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

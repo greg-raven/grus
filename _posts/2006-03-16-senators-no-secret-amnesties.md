@@ -17,7 +17,7 @@ Concerned citizens across our state trust that you, our voice in Congress, will 
 
 I encourage you to support the enforcement-only bill that Senate Majority Leader Bill Frist (R-TN) has promised --- as long as it does not include any increase in green cards.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

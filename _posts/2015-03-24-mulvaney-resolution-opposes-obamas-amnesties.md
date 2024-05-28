@@ -20,6 +20,6 @@ Rep. Mick Mulvaney's H. Con. Res. 28 says:
 
 I hope you will cosponsor H. Con. Res. 28 and prove once more that you are against the president's amnesties.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

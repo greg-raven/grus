@@ -21,7 +21,7 @@ President Obama has all the tools he needs to address the border crisis. Instead
 
 While Rep. Cuellar and Sen. Cornyn have genuinely tried to combat the border crisis with their bill, it gives President Obama an out and allows him to continue to avoid enforcing the law and securing the border. Please oppose it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

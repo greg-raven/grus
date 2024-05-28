@@ -19,7 +19,7 @@ The Secretary of Homeland Security does not have the legal or constitutional aut
 
 Regardless of whether or not one believes the end-result of the DREAM Directive is a worthwhile goal, the fact of the matter is that federal law enforcement officers should not be asked to violate federal immigration law. It is alarming to me that law enforcement officers could be punished for enforcing the laws Congress enacted. By their various directives, Secretary Napolitano and Director Morton are requiring ICE officers to turn a blind eye anytime they encounter any illegal alien who has not been convicted of a specific violent crime, regardless of how dangerous that alien may be. Instead law enforcement officers should be encouraged to enforce the laws of the United States equally against all law-breakers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -21,7 +21,7 @@ It's also wrong to offer these illegal aliens public benefits. The more benefits
 
 Voters like me need your help now! Please study the executive orders released by the Arizona and Mississippi governors and issue one that protects the citizens of our state.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

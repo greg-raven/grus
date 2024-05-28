@@ -16,7 +16,7 @@ As attorney general, your duty is to our state's workers, especially those who a
 
 I urge you to reconsider your support for the president's executive amnesties. Supporting them only serves to keep more American workers out of a job and encourage more illegal aliens to come to our state.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

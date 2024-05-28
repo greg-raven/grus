@@ -18,7 +18,7 @@ The fact that this official had to resign to warn the American people of the dan
 
 Please immediately look into this security concern.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -18,6 +18,6 @@ According to data from the Bureau of Labor Statistics, nearly half of all workin
 
 Investigative reports have shown that businesses are more than willing to fire American workers when H-2B workers become available. It's clear that the H-2B program, which is fraught with abuse, harms young Americans and should not be expanded. I urge you to oppose efforts to expand the program in the FY2017 spending bills.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

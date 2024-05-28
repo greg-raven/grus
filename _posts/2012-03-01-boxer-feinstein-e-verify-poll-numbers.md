@@ -17,6 +17,6 @@ Your GOP colleagues in the House say they are concerned about joblessness, but t
 
 You and your fellow Senate Democrats can take advantage of this refusal to help American workers. You can introduce legislation to mandate use of E-Verify and the Senate Democrats can pass the legislation. The onus would then be House Republicans: they could either take up and pass the legislation (and alienate their unscrupulous business friends) or they could ignore or vote down the bill. Either way, the Democratic Party couldn't lose.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

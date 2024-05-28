@@ -20,7 +20,7 @@ Rep. Robert Hurt wrote to HHS Secretary Sylvia Mathews Burwell on Monday morning
 
 I hope you will protect our community like Rep. Hurt did. Please don't allow DHS or HHS to unload illegal aliens on our state.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

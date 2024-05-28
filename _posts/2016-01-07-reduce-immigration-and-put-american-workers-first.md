@@ -18,6 +18,6 @@ The Commission recommended ending the endless chains of family migration by elim
 
 These are commonsense solutions that have broad support among the American people. With more than 15 million Americans looking for full-time work, does it really make sense to continue to import more than 1 million new foreign workers each year? I don't think it does, and I urge you enact the Commission's recommendations.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

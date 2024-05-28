@@ -24,7 +24,7 @@ The Biden amnesty does nothing for American and legal immigrant workers. Instead
 
 I urge you to support American workers by opposing the U.S. Citizenship Act of 2021!
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

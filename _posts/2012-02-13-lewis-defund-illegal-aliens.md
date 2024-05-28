@@ -19,6 +19,6 @@ Allowing illegal aliens to claim the Child Tax Credit is just another example of
 
 You can help to change this perception of America by supporting the Child Tax Credit Integrity Preservation Act. You can begin to tell illegal aliens that the United States isn't going to be a pushover any longer and that we are going to start enforcing the law. Otherwise, the lawlessness can continue and illegal aliens can continue to flood in. The choice is yours.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

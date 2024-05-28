@@ -20,7 +20,7 @@ You (eventually) admitted that you have no idea how many illegal aliens will rec
 
 President Obama has left your agency in an untenable position. The president clearly expects you to continue to amnesty illegal aliens, even though you don't really know who these people are and what they may have done. I suggest that you halt this amnesty until you can be sure that no one who could cause harm to the United States or its citizens is given amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

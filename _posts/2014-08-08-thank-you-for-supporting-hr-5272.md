@@ -14,6 +14,6 @@ President Obama continues to ignore and flout America's immigration laws. This h
 
 Thank you for working to solve our nation's illegal immigration problem.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -18,7 +18,7 @@ The Congress must remove the onus of deporting illegal aliens with U.S.-born chi
 
 With this in mind, I encourage you to cosponsor H.R. 1868, the Birthright Citizenship Act of 2009. This legislation would prevent the children of illegal aliens from receiving citizenship at birth, make it far more easy for U.S. job-stealing illegal aliens to be deported, and make it less likely that an individual will attempt to come to the United States illegally.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

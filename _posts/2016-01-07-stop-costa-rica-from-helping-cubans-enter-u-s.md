@@ -16,7 +16,7 @@ I cannot understand why encouraging illegal immigration is considered an appropr
 
 Secretary of State John Kerry must refuse to certify El Salvador as taking steps to stop illegal immigration. Withholding U.S. aid dollars will send the message that harboring illegal aliens and promoting their entry into the United States will not be tolerated. I hope you will contact the State Department with this message and work on legislation that addresses this specific problem.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

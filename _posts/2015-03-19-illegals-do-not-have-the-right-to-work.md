@@ -19,6 +19,6 @@ She and a Justice Department official later indicated that illegal aliens do not
 
 Will you demand that the next Attorney General recognize the role that immigration policy has in protecting American workers from foreign labor competition, especially in this time of declining real wages and the lowest labor participation rates in decades? Will you demand that the next Attorney General enforce immigration laws on the books to the fullest extent possible?
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

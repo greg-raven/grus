@@ -16,6 +16,6 @@ In addition to harming Latin American countries, the United States' "wet foot, d
 
 This abuse of our welfare and immigration laws, and the burden placed on Latin American nations, cannot continue. H.R. 3318, the Ending Special National Origin-Based Immigration Programs for Cubans Act, would repeal the Cuban Adjustment Act of 1966 and end the "wet foot/dry foot" policy for Cuban immigrants. I hope you will push for a vote on this bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

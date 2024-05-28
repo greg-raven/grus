@@ -17,6 +17,6 @@ I thought Democrats represented the down and out; was I wrong? Shouldn't you and
 
 Where do you stand? Do you stand with the more than 2 million illegal aliens that stand to benefit from the Obama Amnesty or do you stand with the 20 million Americans who cannot find a full-time job and their families? America is watching to see where Democrats stand on this and I hope you make the correct decision.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

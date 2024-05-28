@@ -24,7 +24,7 @@ Chris Crane, head of the ICE Agent's union, put it succinctly:
 
 I hope you will take both pieces of information to heart. It's clear that enforcement must come first or another amnesty will be necessary in a decade or two. I urge you to postpone the current comprehensive immigration reform process so that the border can be secured.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

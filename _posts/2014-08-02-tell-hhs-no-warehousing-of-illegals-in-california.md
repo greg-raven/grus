@@ -18,7 +18,7 @@ Democratic Mayor Stephanie Rawlings-Blake and Democratic U.S. Senators Barbara M
 
 Baltimore is just one of many cities around the country that have stood up and rejected government plans to impose illegal aliens upon them. I hope you will stand up for our state if the federal government tries to do the same to us.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

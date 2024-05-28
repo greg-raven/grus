@@ -18,7 +18,7 @@ One might wonder whom exactly Mr. Sweeney's "labor movement" represents. Does it
 
 I urge you to do all you can to fight any attempt by anti-American worker politicians to force an amnesty through the Congress. Millions of American workers (many of whom belong to labor unions) are depending on the support of you and your colleagues.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

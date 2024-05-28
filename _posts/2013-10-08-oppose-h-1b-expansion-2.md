@@ -20,6 +20,6 @@ For example, IBM posted software engineering positions in Atlanta and Boise that
 
 Please act against the practice of hiring low-cost foreign workers at the expense of American workers. Far too many American tech workers are either unemployed or working outside their field.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

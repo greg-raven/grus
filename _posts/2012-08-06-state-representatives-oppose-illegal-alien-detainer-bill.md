@@ -23,7 +23,7 @@ Also, let's not forget that illegal immigrants are taking jobs from citizens and
 
 It is your duty to protect constituents, not throw us under the bus. Vote NO on AB1081.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

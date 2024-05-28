@@ -20,6 +20,6 @@ President Trump has also hit the pause button on non-citizens who attempt to ent
 
 Both of these steps will help ensure a thorough vetting process that aims to keep our country safe. I urge you to support this executive order, too.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

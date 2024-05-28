@@ -16,7 +16,7 @@ Not only do supporters of "comprehensive immigration reform" want an amnesty, th
 
 I urge you oppose any "comprehensive immigration reform" program because it would have a devastating and everlasting effect on the Hispanic community. Hispanic Americans are unemployed at record numbers and you and your colleagues in Congress need to help them by opposing "comprehensive immigration reform."
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

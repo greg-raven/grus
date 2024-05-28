@@ -20,6 +20,6 @@ NumbersUSA has sent a request to Resident-elect Obama requesting him curb chain 
 
 I urge you to do call you can to assist Resident-elect Obama in creating and protecting American jobs. Millions of Americans are counting on you.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

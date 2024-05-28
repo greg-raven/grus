@@ -16,7 +16,7 @@ Or, perhaps you were not aware of the then-INS data that show illegal immigratio
 
 Unfortunately, however, I suspect you were aware of these things, but chose to cater to special interests and corporate lobbyists instead of standing up for what a majority of your constituents and the country want: an enforcement-only immigration bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -16,7 +16,7 @@ Your support of legislation that would provide STEM graduates with visas is furt
 
 Simply put, having too many highly-skilled foreign workers is not a boon, it is a curse that has decimated America's highly-skilled workers. The sooner you realize this, and act to rectify this problem, the better.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

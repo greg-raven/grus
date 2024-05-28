@@ -16,7 +16,7 @@ In a recent memo to staff, ICE chief John Morton ordered ICE agents to halt depo
 
 I hope you are as outraged by these actions (or, in some cases, non-actions) as I am. Rep. Lamar Smith is outraged at these actions as well and will soon be introducing his HALT Act, a bill that would prevent the Obama Administration from issuing such de facto amnesties in the future. I hope you will call Rep. Smith's office and ask to become an original cosponsor of the bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

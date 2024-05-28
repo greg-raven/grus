@@ -16,6 +16,6 @@ President Trump recognizes that American workers and families are being harmed b
 
 I hope you can work with the president to change our nation's policies and laws so that the American people can thrive and American workers can prosper.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

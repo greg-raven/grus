@@ -16,6 +16,6 @@ The president's granting of amnesty via executive action leads to more job compe
 
 I am glad that House Republicans have taken concrete action to stop these executive actions. Amnestying illegal aliens only leads to more unemployment for American workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

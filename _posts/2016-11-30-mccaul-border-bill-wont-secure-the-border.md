@@ -17,6 +17,6 @@ The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 authoriz
 
 Congress doesn't need to take action to fulfill President-elect Trump's promises to secure the border. Instead, Congress should focus its efforts on ending sanctuary cities and minimizing the hiring of illegal workers by requiring all employers to use E-Verify.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

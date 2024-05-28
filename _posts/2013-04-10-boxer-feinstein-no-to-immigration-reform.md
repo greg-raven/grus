@@ -18,7 +18,7 @@ It's bad enough that 663,000 taxpayers left the labor force in March, now some S
 
 Please say no to amnesty and comprehensive immigration reform.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

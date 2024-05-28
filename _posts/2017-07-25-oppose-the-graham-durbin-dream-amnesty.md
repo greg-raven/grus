@@ -26,7 +26,7 @@ The DREAM amnesty allows those who fail to meet any of the criteria after 8 year
 
 Why, at this time of high unemployment for Millennials, is Congress considering an amnesty to increase the job competition for unemployed Americans?
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

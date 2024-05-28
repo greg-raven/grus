@@ -14,6 +14,6 @@ Any amnesty for illegal alien would cost U.S. taxpayers $2.5 trillion. Is this m
 
 Californians deserve better than the amnestying of illegal aliens. They are already a drain on our economy as it is. Think how much of a drain they would be if they had access to the same services of U.S. citizens and legal aliens. Just say "no" to amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

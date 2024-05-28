@@ -14,7 +14,7 @@ The Legal Workforce Act would not only require employers to run new hires throug
 
 Simply put, this bill is an easy and cheap way of putting millions of Americans back to work. Please help combat ID theft and the hiring of illegal aliens by cosponsoring the Legal Workforce Act.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

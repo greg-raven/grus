@@ -17,7 +17,7 @@ I find it outrageous that the Judiciary Committee would decide to further flood 
 
 Please stand up for American workers and oppose this potential disaster for hardworking Americans and legal immigrants.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

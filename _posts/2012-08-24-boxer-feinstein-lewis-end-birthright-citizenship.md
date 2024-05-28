@@ -15,7 +15,7 @@ At least 4 million U.S. residents have received this type of citizenship. No one
 
 S. 723 in the Senate would eliminate birthright citizenship for the children of illegal aliens and tourists. It's important that this important reform becomes law. I hope you will do all you can to end birthright citizenship.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

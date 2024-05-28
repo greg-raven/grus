@@ -15,7 +15,7 @@ Americans were expecting an "enforcement-first" immigration reform bill. Instead
 
 There are no hard triggers in this bill, only promises that the border will be secured and workplace verification will occur. These are the same promises the American people swallowed in 1986. I urge you not to accept these false promises.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

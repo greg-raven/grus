@@ -21,6 +21,6 @@ Illegal aliens already take advantage of taxpayer-funded services such as educat
 
 The House has already done its part by passing legislation to close this loophole. The Senate now needs to do the same by passing Sen. Vitter's S. 577.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

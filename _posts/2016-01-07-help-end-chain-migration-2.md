@@ -17,6 +17,6 @@ While ending chain migration would directly reduce overall immigration by around
 
 Please cosponsor H.R. 604, the Nuclear Family Priority Act, and help solve America's immigration mess.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

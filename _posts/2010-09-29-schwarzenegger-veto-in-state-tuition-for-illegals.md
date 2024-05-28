@@ -14,7 +14,7 @@ There are currently 10 states which allow illegal aliens to pay in-state tuition
 
 I supported your prior vetoes of bills that provide in-state tuition and financial aid to illegal aliens. Now, given the state's financial crisis, it is even more important to prevent such legislation from becoming law. I look forward to your vetoes of SB 1460 and AB 1413.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

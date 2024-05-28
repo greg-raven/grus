@@ -17,7 +17,7 @@ At that point, 11.1 million illegal aliens would be granted amnesty (called Regi
 
 Obviously. this bill is a farce designed to ensure the amnestying of all illegal aliens. Please oppose it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -23,7 +23,7 @@ Clearly, our national security is at risk and our nation is at risk of losing co
 
 These bills, if passed, would mandate use of the E-Verify system, end restrictions on removals of minor immigrants to non-contiguous countries, allow state and local law enforcement agencies to enforce immigration laws, and end abuse of the asylum system. Please do all you can to get these bills passed so our country can become secure and criminal illegal aliens can be detained and deported.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

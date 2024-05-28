@@ -17,7 +17,7 @@ I don't want an amnesty for the 12-20 million illegal aliens in this country. An
 
 Census data shows that we already have nearly 50 million foreign workers, immigrants and their children. I can't believe the Senate is now debating the McCain-Kennedy bill (S. 1033) and other proposals that would give PERMANENT green cards and work permits to 20-35 million foreign workers and their dependents over the next decade alone. Enough is enough. 
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

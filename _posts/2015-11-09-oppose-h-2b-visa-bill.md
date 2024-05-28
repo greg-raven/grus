@@ -16,7 +16,7 @@ By exempting returning H-2B workers from the annual cap, H.R. 3318 increases the
 
 The increase in H-2B visas would mostly harm these young Americans without higher education. Instead of allowing businesses to hire less expensive foreign workers, please oppose H.R. 3918 and force businesses to hire unemployed Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

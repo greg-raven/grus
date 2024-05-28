@@ -18,6 +18,6 @@ There are more than 7 million illegal workers in the United States. These are in
 
 There are more than ten million out-of-work Americans and they are depending on Congress to create jobs. I urge you to do everything in your power to make job protection and creation Congress' top priority.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

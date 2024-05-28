@@ -15,6 +15,6 @@ I want to remind you that Sen. Schumer was one of the masterminds behind the 198
 
 I hope you and your Democratic colleagues will oppose Sen. Schumer's senseless amnesty proposal and instead support immigration legislation that secures the border and protects U.S. jobs and unemployed Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

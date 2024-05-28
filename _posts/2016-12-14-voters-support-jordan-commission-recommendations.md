@@ -26,6 +26,6 @@ High immigration levels and lax border security and enforcement harms less-educa
 
 Americans are depending on Congress to reform our immigration system so that it serves the national interest. I urge you to study the Jordan Commission's findings before voting on immigration legislation.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

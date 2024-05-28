@@ -18,6 +18,6 @@ How does pushing "immigration reform" help the American people, especially the 1
 
 I hope you urge Speaker Boehner to reconsider his statement. Now is not the time to move forward with amnestying illegal aliens or increasing green card numbers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

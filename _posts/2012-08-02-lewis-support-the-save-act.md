@@ -21,7 +21,7 @@ The categories of crimes charged include nearly 8,500 DUI (14.6%), over 6,000 Dr
 
 The bottom line is that these criminal illegal aliens should not have been out walking the streets. Innocent victims could have been saved if the Obama administration's wanton disregard for the rule of law and disregard for the safety of the American people would have been challenged by the Congress. Unfortunately, you and your colleagues failed us thus far. Please change this by supporting H.R. 2000, the bipartisan SAVE Act.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

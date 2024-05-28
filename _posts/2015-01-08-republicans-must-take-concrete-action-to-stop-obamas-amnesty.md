@@ -16,7 +16,7 @@ I know you want to fight President Obama's amnesty and I understand the urge to 
 
 At the moment, the best way to stop President Obama's amnesty is to make sure it is defunded in the DHS appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

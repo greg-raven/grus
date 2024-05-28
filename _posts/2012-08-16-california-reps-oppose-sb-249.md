@@ -9,7 +9,7 @@ tags:
 - California
 - Carol Liu
 - Charles M. Calderon
-- Chief of Staff Adam Keigwin
+- Adam Keigwin
 - Chris Norby
 - Curren D. Price Jr.
 - Curt Hagman

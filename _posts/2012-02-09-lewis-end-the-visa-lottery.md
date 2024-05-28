@@ -22,6 +22,6 @@ Yet Congress has since added the visa lottery to those exceptions, implementing 
 
 Please cosponsor the bi-partisan H.R. 704 to end the visa lottery.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

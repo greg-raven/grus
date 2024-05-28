@@ -19,6 +19,6 @@ Ironically, Disney President Robert Iger, responsible for the recent lay-offs, h
 
 Yet, some Members of Congress join Iger's calls and insist that we have a shortage of high-tech workers. I urge you to ignore these calls and instead work to put American tech workers ahead of foreign tech workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

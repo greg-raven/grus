@@ -18,6 +18,6 @@ The result of all this uncontrolled migration is that our nation is undergoing i
 
 I hope you'll work with your House colleagues to end Chain Migration and instead focus on the speedy unification of nuclear family members.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -16,6 +16,6 @@ It is abominable that American businesses continue to import 1.5 million foreign
 
 The Senate is currently considering their own version of the economic stimulus package. It is likely that the House and Senate versions will end up in a Conference committee, which means there is still time to ensure that only American workers benefit from economic stimulus package. Please use this opportunity to make sure that businesses who receive stimulus funds hire only American workers. American taxpayers are footing the bill for this economic stimulus and we should be the ones who receive any jobs created by it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

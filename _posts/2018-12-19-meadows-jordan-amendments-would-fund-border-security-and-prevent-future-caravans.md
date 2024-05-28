@@ -18,6 +18,6 @@ There are three main problems forcing DHS to catch and release illegal aliens:
 
 The Meadows/Jordan amendments would allow DHS to end catch and release by closing the asylum loophole by requiring that the initial credible fear claim meet a "preponderance of the evidence" standard, which would significantly reduce the number of claims filed by aliens who don't have a legitimate case for asylum, fixing the loopholes in the law that continue the surge of unaccompanied alien children at the border, and allowing the feds to detain minors who cross the border illegally for more than 20 days. I urge you to support their passage and help to reduce illegal immigration to the United States.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

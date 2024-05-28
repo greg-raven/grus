@@ -16,6 +16,6 @@ There is simply no rationale for the Obama administration to continue to encoura
 
 I urge you to finally put an end to our government's refusal to secure our nation's borders and enforce the law. Until this occurs, illegal aliens will continue to come to the United States in search of amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

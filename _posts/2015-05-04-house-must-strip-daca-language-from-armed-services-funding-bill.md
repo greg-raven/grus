@@ -16,7 +16,7 @@ The Secretary of Defense already has authority under Title 10 of U.S. Code to wa
 
 Congress cannot endorse the president's actions; doing so will only encourage him to continue to sidestep Congress and act outside the law. Please make sure this amendment is not in the final bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

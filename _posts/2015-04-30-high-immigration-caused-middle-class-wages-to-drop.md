@@ -18,6 +18,6 @@ The CRS study is clear, the increased immigration of the past decades has severe
 
 Please do all you can to pass legislation that brings down immigration numbers. The American people are suffering and need your help.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

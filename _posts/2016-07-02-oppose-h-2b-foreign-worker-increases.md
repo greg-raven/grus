@@ -19,6 +19,6 @@ The most recent U-6 unemployment figures from the Bureau of Labor Statistics sho
 
 Investigative reports have shown that businesses are more than willing to fire American workers when H-2B workers become available. It's clear that the H-2B program, which is fraught with abuse, harms young Americans and should not be expanded. I urge you to oppose efforts to expand the program as part of the FY2017 DHS appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

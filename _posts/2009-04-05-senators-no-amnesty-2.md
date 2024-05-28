@@ -17,7 +17,7 @@ I completely agree with Vice President Biden's sentiments. How can Congress or t
 
 I urge you to consider the ramifications a mass amnesty would have for unemployed Americans. Currently, 7.7 million illegal aliens have jobs. If these workers were amnestied, 7.7 Americans would become perpetually unemployed. This fact alone should prevent you or your Congressional colleagues from supporting any mass amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

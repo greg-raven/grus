@@ -20,6 +20,6 @@ Brooks said: "We've asked a lot of people who are suffering in this economy to a
 
 I urge Congress to listen to the economic concerns coming from the American people on the issues of legal and illegal immigration, and I hope that Congress won't make the same mistakes that the elected officials in Great Britain made.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -14,6 +14,6 @@ Defunding the president's amnesties is critical to securing our nation, respecti
 
 I realize that these amendments are only the first step to stopping Obama's amnesties. But please continue to vote in the interests of your constituents and our nation's security until they become law.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

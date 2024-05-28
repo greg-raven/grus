@@ -19,7 +19,7 @@ This is a disgrace of representative government! Do these Senators represent the
 
 Ultimately, isn't the real question --- the obvious question --- that we need to decide whether we want to have people here illegally or not? As Senator Sessions said: Enforcement must come first. There is nothing "harsh" about asking people to follow the law.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

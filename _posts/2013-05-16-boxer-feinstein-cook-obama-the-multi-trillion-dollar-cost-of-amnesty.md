@@ -17,6 +17,6 @@ There's no doubt about it, America's immigration system is broken, because the e
 
 The solution to fixing our system is not an amnesty that adds trillions to the national debt or gives away tens of millions of work permits to low-skilled illegal and legal aliens. Please act in the best interests of the American people and oppose this legislation.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -27,6 +27,6 @@ No matter what you may think about legalizing most of the current illegal popula
 
 Furthermore, this bill would be a pathway to higher chain migration and massive new social service expenditures in a time of budget deficit and debt crisis. And it would lead to more illegal immigration because it gives the legalization and work permits first with only promises of future enforcement, just like the previous seven amnesties between 1986 and 2000 which had no hard enforcement triggers and served only to entice 11 million new illegal immigrants who now demand their own amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

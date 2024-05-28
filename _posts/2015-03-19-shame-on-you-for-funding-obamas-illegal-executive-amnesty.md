@@ -16,7 +16,7 @@ Your vote to fund DHS in the current manner not only funds the president's amnes
 
 Allowing DHS to act as it has been constitutes a threat to our national security and your vote to fund DHS with funding amnesties for illegal aliens only makes matters worse.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -26,6 +26,6 @@ A new Washington Times article by Stephen Dinan highlights the dangers of Barack
 
 We hope you will read the article we have attached. It is written by the Washington Times' Stephan Dinan and highlights the dangers of President Obama's illegal amnesty program.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

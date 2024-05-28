@@ -15,7 +15,7 @@ However, while you advocated enforcement, you also seemed to indicate that you w
 
 Americans do not want more cheap foreign labor driving down their wages. Neither should you.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

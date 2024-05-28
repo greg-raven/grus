@@ -14,6 +14,6 @@ Countless lives have been lost because illegal aliens who should have been in IC
 
 Thank you again for voting to defund sanctuary cities. Please continue to support legislation that prevents localities from protecting criminal aliens.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

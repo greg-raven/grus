@@ -18,7 +18,7 @@ If you give work authorization to H-4 visa holders, they will be more harmful to
 
 I would ask you if this is something you want on your conscience, but based on prior evidence, I doubt you have one.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

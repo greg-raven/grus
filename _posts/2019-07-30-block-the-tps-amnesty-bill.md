@@ -14,6 +14,6 @@ S. 636, the Venezuela Temporary Protected Status Act is a bad bill that will enc
 
 I know that Sen. Lee blocked the bill passing by unanimous consent. I hope you will block the bill by ensuring it doesn't receive a floor vote.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

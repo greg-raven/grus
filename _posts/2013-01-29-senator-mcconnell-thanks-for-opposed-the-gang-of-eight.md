@@ -19,6 +19,6 @@ Nothing can happen as far as giving illegal aliens any "pathway to legalization"
 
 Thank you again for doing what is best for the United States and please continue to use your leadership position to oppose amnesty.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

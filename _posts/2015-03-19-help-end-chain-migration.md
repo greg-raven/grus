@@ -18,7 +18,7 @@ The result of all this uncontrolled migration is that our nation is undergoing i
 
 You can help to solve this problem by cosponsoring H.R. 604. I hope you will do so today.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

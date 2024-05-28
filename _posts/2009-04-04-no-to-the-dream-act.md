@@ -22,7 +22,7 @@ This a back-door amnesty for the parents of these illegal "teens," and a chain m
 
 Please renounce your support for the DREAM Act amnesty. There are more than 12 million unemployed Americans and the Congress should not consider passing any amnesty when so many Americans are out of work (and so many illegal aliens have jobs). If you are determined to support such an anti-American bill, please make sure that it makes the use of E-Verify mandatory (to take away an incentive for another mass influx of illegal aliens) and eliminates the chain migration category for parents and adult siblings (to prevent this amnesty from ballooning into a mass influx of legal immigrants who will compete with unemployed Americans).
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

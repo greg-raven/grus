@@ -19,7 +19,7 @@ Why won't you do something about it? Why won't you vote to prevent innocent indi
 
 Your votes against S. 3100 and S. 2193 defy reason. I urge you to reconsider your stance on sanctuary cities.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

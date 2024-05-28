@@ -14,7 +14,7 @@ Pro-amnesty Senators have been unabashed in their determination to use any House
 
 I know you oppose amnesty and don't want to put millions of Americans permanently out of work or ride roughshod over the rule of law. I'm not asking you to oppose genuinely good immigration bills, just oppose Speaker Boehner holding votes on these bills while the Senate bill is active.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

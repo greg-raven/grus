@@ -17,6 +17,6 @@ How is it racist to end a program that raffles off American jobs when 340,000 Bl
 
 I hope your party will put jobless Americans first and support efforts to end the Visa Lottery. It truly makes no sense to raffle off so many U.S. jobs each year.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

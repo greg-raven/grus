@@ -16,6 +16,6 @@ I find it truly appalling that the United States Senate is considering passing a
 
 You must take immediate and decisive action to ensure that businesses which benefit from any economic stimulus package are required to hire American workers. American taxpayers are funding this stimulus package and we should be the beneficiaries of it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

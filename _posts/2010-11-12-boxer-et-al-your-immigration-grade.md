@@ -51,7 +51,7 @@ Sadly, you don't seem to "get it," either. Your poor NumbersUSA immigration redu
 
 However, all is not lost and the situation can be rectified. This is the United States of America and this country and our fellow citizens can do anything we put our minds to. However, Congress must first act to reduce the number of foreign workers so the 22 million Americans without a job have a chance of getting back on their feet and turning this nation and our economy around.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

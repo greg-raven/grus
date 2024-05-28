@@ -18,7 +18,7 @@ President Obama has refused to secure the border and refused to enforce immigrat
 
 I hope you will support this resolution. The National Guard needs to be called out and the American people need to see how President Obama has caused this disaster.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

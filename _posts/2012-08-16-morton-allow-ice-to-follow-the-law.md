@@ -1,16 +1,14 @@
 ---
-title: "Morton: Allow ICE to follow the law"
+title: "Allow ICE to follow the law"
 layout: post
 categories:
 - Letters
 tags:
-- Director John Morton
+- John Morton
 - Federal government
 - illegal aliens
 - immigration
 ---
-
-ICE Director John Morton,
 
 This Administration's ever-expanding policy of "prosecutorial discretion" that allows certain illegal aliens to avoid deportation and even get work permits gives ICE agents the discretion to determine which illegal aliens meet the criteria originally outlined in your August 2011 memo. However, it appears that your policy of "prosecutorial discretion" does not allow for any discretion whatsoever.
 

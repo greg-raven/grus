@@ -18,7 +18,7 @@ This is an unsustainable situation for 30 million jobless Americans. Either the 
 
 Please introduce legislation similar to H.R. 1868 to protect jobless citizens and legal immigrants from the federal government's failure to fully enforce immigration laws by clarifying (not changing) the meaning of "subject to the jurisdiction thereof" in the 14th Amendment.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -16,6 +16,6 @@ Requiring employers to run new hires through the Chamber of Commerce-supported E
 
 Clearly, this is an easy and effective way of putting unemployed Americans and legal immigrants in jobs currently held by illegal aliens while also shutting off the jobs magnet that lures so many to come to the U.S. illegally.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

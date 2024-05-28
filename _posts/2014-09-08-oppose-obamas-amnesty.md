@@ -17,7 +17,7 @@ Wages have stagnated because there are far too many available workers and becaus
 
 I urge you to use the next two months to convince the president rethink his amnesty plans. Is giving work permits and legal status to millions of illegal aliens worth the damage, pain, and suffering it would inflict on tens of millions of American and legal immigrant workers?
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

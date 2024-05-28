@@ -14,7 +14,7 @@ There is nothing progressive or just about running immigration policy as a cheap
 
 Thank you for recognizing that this situation is unjust and that the Democratic Party should not be in cahoots with the special interests that profit from importing more and more foreign workers. Please remember that the vast majority of Democrats, and the majority of Americans of all ethnicities, support moderating immigration numbers, and please do all you can to help bring that about.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

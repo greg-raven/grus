@@ -17,6 +17,6 @@ It is true that black-market labor will work for less than legal labor. So I'm a
 
 With 11 percent unemployment and a $16 billion budget deficit, the legislature should not try to authorize illicit foreign workers or force taxpayers to underwrite a duplicative program that locks in unsustainable welfare commitments to illegal immigrant families. Vote NO on AB 1544.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

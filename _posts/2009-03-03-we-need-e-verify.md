@@ -15,6 +15,6 @@ Certain Members of Congress have been using E-Verify as a political football to 
 
 There is currently a movement to attach the reauthorization to the Omnibus Appropriations Bill. Please do all you can to support this effort to reauthorize the E-Verify employment verification system for a period of no less than ten years. There are more than 11.5 million unemployed Americans depending on you.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

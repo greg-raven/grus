@@ -18,7 +18,7 @@ With 22 million Americans unable to find a job, it is appalling that the United 
 
 The visa lottery encourages illegal immigration and promotes origin-based bias in our immigration system. Please cosponsor H.R. 704 and help unemployed American workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

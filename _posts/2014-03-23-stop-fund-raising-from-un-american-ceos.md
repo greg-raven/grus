@@ -14,6 +14,6 @@ More and more American workers, both STEM workers and those outside the industry
 
 American workers deserve better than legislation that would increase foreign worker imports. I urge you to oppose any such legislation that appears before your committee.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

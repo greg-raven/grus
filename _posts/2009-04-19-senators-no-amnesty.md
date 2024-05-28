@@ -18,7 +18,7 @@ I was disappointed that not one single Democratic Member of Congress had the cou
 
 For starters, Congress could finally fulfill the late Rep. Barbara Jordan's recommendation that the jobs magnet be removed. That would require the mandatory expansion of E-Verify, which would free up jobs for unemployed legal workers. Congress might also consider reducing chain migration so that 138,000 workers from overseas are not added into the labor force every month, even as hundreds of thousands of Americans lose their jobs. Putting American workers first sounds like an immigration plan that voters would reward.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -16,7 +16,7 @@ I find it outrageous that the Senate Judiciary Committee would include this gian
 
 I know you have said you oppose a guestworker program. That is why I hope you will do as Rep. Tancredo, Chair of the Congressional Immigration Reform Caucus, suggests. Please vote against any amendment and any bill that would reward illegal immigration or that would encourage even more importation of foreign workers.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

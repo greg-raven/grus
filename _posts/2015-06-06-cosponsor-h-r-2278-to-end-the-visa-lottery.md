@@ -17,6 +17,6 @@ Not only do these lottery work permits cost taxpayers money, they also cost Amer
 
 I urge you to cosponsor H.R. 2278 and help to end this needless waste of taxpayer's dollars and giving away of U.S. jobs.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

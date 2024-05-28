@@ -17,7 +17,7 @@ Sen. Sessions said in a letter to the Senate Appropriations Committee:
 
 I know you care just as much about these Americans as Sen. Sessions does. I hope you will work with him to oppose all efforts to increase H-2B numbers as part of the FY2017 DHS appropriations bill.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

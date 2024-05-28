@@ -18,7 +18,7 @@ Not only does the aforementioned 8 U.S.C. 1325(a) state that crossing the border
 
 I urge you to brush up on America's immigration laws and do all you can to enforce America's immigration laws. If you cannot protect America's unemployed workers, what good are you?
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

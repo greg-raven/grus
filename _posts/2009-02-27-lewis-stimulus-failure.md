@@ -16,7 +16,7 @@ Rep. Ken Calvert, the sponsor of one of the House amendments, said, "Tonight, be
 
 Even though you did have some say in the final makeup of the bill, I know you are not responsible for the removal of the American worker protections --- the odds were simply to stiff. However, I am disappointed that you did not signal more strongly your opposition to a stimulus bill without these American worker protections.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

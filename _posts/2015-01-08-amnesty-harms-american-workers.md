@@ -20,7 +20,7 @@ Further, adding 5 million, mostly low-skilled, wage earners will surely add unne
 
 I urge you to reconsider the impacts of your actions on American workers and stop any plans of granting work permits to millions of illegal aliens.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

@@ -16,6 +16,6 @@ It is particularly irresponsible to talk about an amnesty for anybody while you 
 
 You need to get with the program and end your flirtation with the DREAM Act amnesty. No good can come from it.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

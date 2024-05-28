@@ -14,6 +14,6 @@ The EB-5 visa program is a fraudster's dream. The program allows people to turn 
 
 Thank you for speaking out against this program.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}

@@ -20,7 +20,7 @@ Under the Senate-passed amnesty bill, each current illegal immigrant would recei
 
 The Senate's immigration legislation would cost American taxpayers trillions of dollars; not add value to the economy as the White House likes to claim. Please do all you can to stop this bill and to pass sensible immigration legislation.
 
-Phone me if you would like to talk about this
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

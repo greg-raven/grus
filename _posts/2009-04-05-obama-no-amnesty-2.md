@@ -18,7 +18,7 @@ Why, then, are you proposing a mass legalization (amnesty ) of illegal aliens? Y
 
 Please do not support any "comprehensive immigration reform!" Such a proposal, if enacted by the Congress and signed by you, would irrevocably harm tens of millions of Americans.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
 

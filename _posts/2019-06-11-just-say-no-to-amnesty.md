@@ -15,7 +15,7 @@ I'm very disappointed that the U.S. Senate may soon debate and vote on legislati
 
 I hope you will oppose any effort to give amnesty to illegal aliens and I hope you will do all you can to contain the border surge.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
  {% include signature.html %}
 

@@ -16,6 +16,6 @@ This action has come under heavy fire from Democrats and Republicans alike. Newl
 
 You have the power to stop this unlawful action by using Congress' power of the purse. I strongly urge you to defund the President's action through the normal budgetary process.
 
-Phone me if you would like to talk about this,
+Phone me if you would like to talk about this.
 
 {% include signature.html %}
