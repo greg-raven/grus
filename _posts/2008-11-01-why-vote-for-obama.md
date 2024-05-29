@@ -31,7 +31,7 @@ Typically, I point out that they don't even know the person they claim to suppor
 
 - They don't know what --- if anything --- he did to improve the lives of Chicago-area residents, through his "Community Organizing."
 
-- They don't know the source of the 2/3 billion dollars in campaign contributions he received, because he hasn't been very forthcoming about his supporters.
+- They don't know the source of the &frac23; billion dollars in campaign contributions he received, because he hasn't been very forthcoming about his supporters.
 
 - They don't know what he intends to do in Iraq, Iran, Pakistan, Afghanistan, etc., although they tend to believe that he somehow going to remove all U.S. troops from Iraq within a few days of taking office.
 
