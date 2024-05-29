@@ -10,8 +10,6 @@ tags:
 - immigration
 ---
 
-Governor Jerry Brown,
-
 Arizona Governor Jan Brewer has taken another courageous step in defending our country and way of life by issuing [an executive order denying driver's licenses](https://www.newsmax.com/Newsfront/AZ-BLCPOLSTL-BNALL-BNCOPY/2012/08/15/id/448729) to illegal aliens, despite Traitor-in-chief Barack Hussein Obama's illegal unilateral amnesty.
 
 I urge you to take similar measures immediately.
