@@ -8,7 +8,7 @@ tags:
 - gun control
 ---
 
-It has come to my attention that the California Department of Justice is now targeting law-abiding people for gun confiscation. That is NOT ACCEPTABLE and I need you to ACT NOW. The Legislature funded the DOJ's "Armed Prohibited Person System" (APPS) through SB 140 last year --- you must now take urgent steps to fix the DOJ's APPS disaster.
+It has come to my attention that the California Department of Justice is now targeting law-abiding people for gun confiscation. That is NOT ACCEPTABLE and I need you to ACT NOW. The Legislature funded the DOJ's "Armed Prohibited Person System" (APPS) through S.B. 140 last year --- you must now take urgent steps to fix the DOJ's APPS disaster.
 
 Travis LeBlanc, a special assistant attorney general who oversees technology operations for the DOJ, told the Los Angeles Times that "California has a shoddy system for collecting case results from 58 county courts and hundreds of local prosecutors and police agencies...\[t\]he final outcome --- guilty, not guilty, case dismissed --- is missing for about 7.7 million of the 16.4 million arrest records entered into the state computers over the last decade \[alone\]."
 

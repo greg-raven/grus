@@ -1,5 +1,5 @@
 ---
-title: "Oppose CA AB 311 --- ban on precursor parts at gun shows"
+title: "Oppose CA A.B. 311 --- ban on precursor parts at gun shows"
 layout: post
 categories:
 - Letters

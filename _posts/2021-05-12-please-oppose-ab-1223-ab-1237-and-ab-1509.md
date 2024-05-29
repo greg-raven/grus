@@ -1,5 +1,5 @@
 ---
-title: "Please oppose AB 1223, AB 1237, and AB 1509"
+title: "Please oppose A.B. 1223, A.B. 1237, and A.B. 1509"
 layout: post
 categories:
 - Letters

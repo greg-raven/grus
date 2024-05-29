@@ -17,7 +17,7 @@ Yet, your own actions belie your commitment to conservation of any kind in Calif
 
 In 2011, you signed the second half (AB 131) of California's "DREAM Act." This bill gave illegal aliens in-state tuition to California's universities and access to state-funded financial aid.
 
-At the same time, you also signed into law AB 1236, essentially banning employers in California from using E-Verify, the national online database used to check workers' immigration status.
+At the same time, you also signed into law A.B. 1236, essentially banning employers in California from using E-Verify, the national online database used to check workers' immigration status.
 
 Apparently not content with the destructive powers of the other two bills, you then signed a third bill (AB 353) to block police from impounding vehicles at checkpoint because a driver is unlicensed. While the bill text does not directly mention illegal aliens, the purpose of the bill is to protect unlicensed individuals, particularly illegal aliens.
 

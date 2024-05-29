@@ -1,5 +1,5 @@
 ---
-title: "NO on AB 1544"
+title: "NO on A.B. 1544"
 layout: post
 categories:
 - Letters
@@ -9,7 +9,7 @@ tags:
 - immigration
 ---
 
-I am a constituent who believes it is unconstitutional and wrong to try to give illegal immigrants in California a guest worker amnesty. Please vote NO on AB 1544.
+I am a constituent who believes it is unconstitutional and wrong to try to give illegal immigrants in California a guest worker amnesty. Please vote NO on A.B. 1544.
 
 States cannot set up their own guest worker programs. That's federal jurisdiction and no federal waivers exist to implement AB1544. Besides, federal guest worker programs already exist. It makes no sense to duplicate efforts, especially given the state's budget problems.
 

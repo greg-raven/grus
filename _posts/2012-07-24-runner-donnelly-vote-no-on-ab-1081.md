@@ -1,5 +1,5 @@
 ---
-title: "Vote no on AB 1081"
+title: "Vote no on A.B. 1081"
 layout: post
 categories:
 - Letters

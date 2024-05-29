@@ -6,57 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Bass
-- Xavier Becerra
-- Bera
-- Brownley
-- Ken Calvert
-- John Campbell
-- Lois Capps
-- Tony Cardenas
-- Judy Chu
-- Jim Costa
-- Davis
-- Jeff Denham
-- Anna Eshoo
-- Sam Farr
-- John Garamendi
-- Hahn
-- Henry Waxman
-- Mike Honda
-- Huffman
-- Hunter
-- Darrell Issa
-- Doug LaMalfa
-- Lee
-- Lofgren
-- Alan Lowenthal
-- Doris Matsui
-- Maxine Waters
-- Kevin McCarthy
-- Tom McClintock
-- Howard McKeon
-- McNerney
-- Miller
-- Janet Napolitano
-- Negrete McLeod
-- Devin Nunes
-- Paul Cook
-- Nancy Pelosi
-- Peters
-- Dana Rohrabacher
-- Roybal-Allard
-- Royce
-- Ruiz
-- Sanchez
-- Adam Schiff
-- Sherman
-- Speier
-- Eric Swalwell
-- Takano
-- Thompson
-- Valadao
-- Juan Vargas
 - Barbara Boxer
 - Dianne Feinstein
 ---
@@ -74,3 +23,57 @@ Please look into this situation. Highly-trained American workers deserve to be f
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+cc:
+
+- Adam Schiff
+- Alan Lowenthal
+- Ami Bera
+- Anna Eshoo
+- Brad Sherman
+- Carol Miller
+- Dana Rohrabacher
+- Darrell Issa
+- David Valadao
+- Devin Nunes
+- Doris Matsui
+- Doug LaMalfa
+- Duncan D. Hunter
+- Ed Royce
+- Eric Swalwell
+- Gary Peters
+- Henry Waxman
+- Howard McKeon
+- Jackie Speier
+- Janet Napolitano
+- Janice Hahn
+- Jared Huffman
+- Jeff Denham
+- Jerry McNerney
+- Jim Costa
+- John Campbell
+- John Garamendi
+- Juan Vargas
+- Judy Chu
+- Julia Brownley
+- Karen Bass
+- Ken Calvert
+- Kevin McCarthy
+- Lois Capps
+- Lucille Roybal-Allard
+- Mark Takano
+- Maxine Waters
+- Mike Davis
+- Mike Honda
+- Mike Lee
+- Mike Thompson
+- Nancy Pelosi
+- Negrete McLeod
+- Paul Cook
+- Raul Ruiz
+- Sam Farr
+- Susan Davis
+- Tom McClintock
+- Tony Cardenas
+- Xavier Becerra
+- Zoe Lofgren
