@@ -5,7 +5,7 @@ categories:
 - Letters
 tags:
 - illegal aliens
-- Speaker Anthony Rendon
+- Anthony Rendon
 ---
 
 I am a California voter who wants you to block passage of S.B. 54. Preventing police from communicating with ICE about criminal aliens is dangerous and violates federal law. Police may not know what convictions or other offenses are on a person's record, or who that person really is, unless they communicate with ICE. Do not play politics with our safety and well being.

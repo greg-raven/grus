@@ -5,8 +5,30 @@ categories:
 - Letters
 tags:
 - Tim Donnelly
-- Bob Blumenfield
 - California
+- gun control
+- Barbara Boxer
+- Dianne Feinstein
+- Leland Yee
+---
+
+I am writing you to urge you to join Riverside County Sheriff Stan Sniff, myself, and hundreds of thousands of law abiding California citizen in opposing S.B. 249, which will be presented to the Appropriations Committee today (August 16th, 2012).
+
+In the words of Sheriff Sniff: "Even more critically, we should not be turning entire classes of citizen gun-owners from all walks of life, which made good-faith lawful rifle purchases over the past few years, into criminals."
+
+SB 249 is a flawed piece of legislation. As written, this bill will convert hundreds of thousands of law abiding California citizens into criminals with the stroke of a pen through no fault of their own. S.B. 249 confiscates without recompense millions if not billions of dollars of property purchased lawfully over the past several years.
+
+The Second Amendment to our Constitution reads in part, "the right of the people to keep and bear arms shall not be infringed." Your oath of office reads, "I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter."
+
+S.B. 249 is neither a fair nor just bill. I ask you to uphold your oath of office and oppose S.B. 249.
+
+Thank you for your time and attention.
+
+{% include signature.html %}
+
+cc:
+
+- Bob Blumenfield
 - Carol Liu
 - Charles M. Calderon
 - Adam Keigwin
@@ -18,7 +40,6 @@ tags:
 - Donald P. Wagner
 - Felipe Fuentes
 - Gil Cedillo
-- gun control
 - Holly J. Mitchell
 - Isadore Hall III
 - Jerry Hill
@@ -34,28 +55,10 @@ tags:
 - Jerry Lewis
 - Ricardo Lara
 - Ron Calderon
-- Barbara Boxer
-- Dianne Feinstein
-- Leland Yee
 - Steve Knight
 - Steven Bradford
 - Tom Ammiano
 - Tom Harman
----
-
-I am writing you to urge you to join Riverside County Sheriff Stan Sniff, myself, and hundreds of thousands of law abiding California citizen in opposing S.B. 249, which will be presented to the Appropriations Committee today (August 16th, 2012).
-
-In the words of Sheriff Sniff: "Even more critically, we should not be turning entire classes of citizen gun-owners from all walks of life, which made good-faith lawful rifle purchases over the past few years, into criminals."
-
-SB 249 is a flawed piece of legislation. As written, this bill will convert hundreds of thousands of law abiding California citizens into criminals with the stroke of a pen through no fault of their own. S.B. 249 confiscates without recompense millions if not billions of dollars of property purchased lawfully over the past several years.
-
-The Second Amendment to our Constitution reads in part, "the right of the people to keep and bear arms shall not be infringed." Your oath of office reads, "I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter."
-
-SB 249 is neither a fair nor just bill. I ask you to uphold your oath of office and oppose S.B. 249.
-
-Thank you for your time and attention.
-
-{% include signature.html %}
 
 ---
 

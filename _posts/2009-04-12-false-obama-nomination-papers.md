@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Attorney General Edmund G. Brown Jr.
+- Edmund G. Brown Jr.
 - California
 ---
 

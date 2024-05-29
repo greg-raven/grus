@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Attorney General Xavier Becerra
+- Xavier Becerra
 - California
 ---
 
