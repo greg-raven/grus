@@ -10,35 +10,35 @@ tags:
 
 It is imperative that you VETO all gun control bills, up to and including the following:
 
-AB 48 (Asm. Nancy Skinner) --- Bans magazine rebuild kits (including individual parts).
+A.B. 48 (Asm. Nancy Skinner) --- Bans magazine rebuild kits (including individual parts).
 
-AB 169 (Asm. Roger Dickinson) --- Bans transfer of handguns not on the "not unsafe handgun" roster.
+A.B. 169 (Asm. Roger Dickinson) --- Bans transfer of handguns not on the "not unsafe handgun" roster.
 
-AB 170 (Asm. Steven Bradford) --- Redefines "person" for Assault Weapons permits.
+A.B. 170 (Asm. Steven Bradford) --- Redefines "person" for Assault Weapons permits.
 
-AB 180 (Asm. Rob Bonta) --- Additional firearms restrictions in Oakland. This attacks state preemption of firearms laws.
+A.B. 180 (Asm. Rob Bonta) --- Additional firearms restrictions in Oakland. This attacks state preemption of firearms laws.
 
-AB 231 (Asm. Philip Ting) --- Criminal liability when child accesses firearm in your home without permission, or a prohibited person accesses firearm in your home.
+A.B. 231 (Asm. Philip Ting) --- Criminal liability when child accesses firearm in your home without permission, or a prohibited person accesses firearm in your home.
 
-AB 500 (Asm. Tom Ammiano) --- Extends wait time period for background checks up to 30 days, secure storage requirements when living with prohibited person.
+A.B. 500 (Asm. Tom Ammiano) --- Extends wait time period for background checks up to 30 days, secure storage requirements when living with prohibited person.
 
-AB 711 (Asm. Anthony Rendon) --- Lead ammo ban for hunting.
+A.B. 711 (Asm. Anthony Rendon) --- Lead ammo ban for hunting.
 
-AB 1131 (Asm. Nancy Skinner) --- Amends the Welfare and Institutions Code, relating to firearms.
+A.B. 1131 (Asm. Nancy Skinner) --- Amends the Welfare and Institutions Code, relating to firearms.
 
-SB 299 (Sen. Mark DeSaulnier) --- Mandatory loss reporting of firearms within 7 days.
+S.B. 299 (Sen. Mark DeSaulnier) --- Mandatory loss reporting of firearms within 7 days.
 
-SB 363 (Sen. Wright) --- Criminalizes storage of a handgun where the owner should have known a prohibited person would access it. Exempts Federal Law Enforcement Officers from the "not unsafe handgun" roster restrictions.
+S.B. 363 (Sen. Wright) --- Criminalizes storage of a handgun where the owner should have known a prohibited person would access it. Exempts Federal Law Enforcement Officers from the "not unsafe handgun" roster restrictions.
 
-SB 374 (Sen. Darrell Steinberg) --- Bans all semiautomatic rifles that does not have a fixed magazine, forced registration of rifles already owned. Mini-14s, M-1 carbines, semi-auto hunting rifles with detachable magazines become assault weapons! This may even effect the M1 Garand.
+S.B. 374 (Sen. Darrell Steinberg) --- Bans all semiautomatic rifles that does not have a fixed magazine, forced registration of rifles already owned. Mini-14s, M-1 carbines, semi-auto hunting rifles with detachable magazines become assault weapons! This may even effect the M1 Garand.
 
-SB 475 (Sen. Mark Leno) --- Eliminates gun shows at Cow Palace.
+S.B. 475 (Sen. Mark Leno) --- Eliminates gun shows at Cow Palace.
 
-SB 567 (Sen. Hannah Beth Jackson) --- Expands definition of shotgun to include rifled barrels and those not designed to be fired from the shoulder.
+S.B. 567 (Sen. Hannah Beth Jackson) --- Expands definition of shotgun to include rifled barrels and those not designed to be fired from the shoulder.
 
-SB 683 (Sen. Marty Block) --- Requires firearms safety certificate for purchasing any firearm.
+S.B. 683 (Sen. Marty Block) --- Requires firearms safety certificate for purchasing any firearm.
 
-SB 755 (Sen. Lois Wolk) --- Expands definition of prohibited persons. Adds misdemeanors such as second DUI conviction to list of prohibiting offenses.
+S.B. 755 (Sen. Lois Wolk) --- Expands definition of prohibited persons. Adds misdemeanors such as second DUI conviction to list of prohibiting offenses.
 
 These bills will criminalize and punish me and other law-abiding gun owners. We are peaceful, law-abiding people who want simply to exercise our Constitutionally-enumerated fundamental rights without fear of prosecution and harassment.
 

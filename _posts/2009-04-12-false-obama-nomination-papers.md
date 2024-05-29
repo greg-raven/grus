@@ -4,7 +4,7 @@ layout: post
 categories:
 - Letters
 tags:
-- Edmund G. Brown Jr.
+- Jerry Brown
 - California
 ---
 

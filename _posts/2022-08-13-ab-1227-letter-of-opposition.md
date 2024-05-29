@@ -1,5 +1,5 @@
 ---
-title: "AB 1227 --- Letter of opposition"
+title: "A.B. 1227 --- Letter of opposition"
 layout: post
 categories:
 - Letters
