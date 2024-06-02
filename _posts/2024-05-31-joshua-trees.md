@@ -7,9 +7,9 @@ tags:
 - environment
 ---
 
-## Joshua Trees are endangered:
+According to California lawmakers, the Joshua Tree is both endangered and expendable.
 
-[California Legislature Passes Joshua Tree Protection Law](https://biologicaldiversity.org/w/news/press-releases/california-legislature-passes-joshua-tree-protection-law-2023-06-27/)
+## [California Legislature Passes Joshua Tree Protection Law](https://biologicaldiversity.org/w/news/press-releases/california-legislature-passes-joshua-tree-protection-law-2023-06-27/)
 
 The new law will be the first in California specifically focused on ensuring protection of a climate-threatened species. The statute provides the trees with protections comparable to those they would receive under the California Endangered Species Act, but with additional permitting mechanisms to address renewable energy and housing projects in their range. It also requires the state Department of Fish and Wildlife to prepare a conservation plan for the trees by the end of 2024.
 
@@ -29,9 +29,7 @@ The provisions of the Western Joshua Tree Conservation Act include:
 
 [...]
 
-## Joshua Trees are expendable:
-
-[Solar project to destroy thousands of Joshua trees in the Mojave Desert](https://www.latimes.com/environment/story/2024-05-31/solar-project-to-destroy-thousands-of-joshua-trees)
+## [Solar project to destroy thousands of Joshua trees in the Mojave Desert](https://www.latimes.com/environment/story/2024-05-31/solar-project-to-destroy-thousands-of-joshua-trees)
 
 BORON, Calif. ---  A renewable energy company will soon begin clearing thousands of protected Joshua trees just outside this desert town, including many thought to be a century old, to make way for a sprawling solar project that will generate power for 180,000 homes in wealthier coastal neighborhoods.
 
