@@ -137,7 +137,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - [FDA Wants to Wait until 2076 to Fully Release Pfizer COVID Vax Data](https://www.breitbart.com/politics/2021/11/20/fda-wants-to-wait-until-2076-to-fully-release-pfizer-coronavirus-vaccine-data/)
 
-- ['800 Times Deadlier': Covid Shots Are the Deadliest 'Vaccines' in Human History](https://noqreport.com/2021/11/21/800-times-deadlier-covid-shots-are-the-deadliest-vaccines-in-human-history/)
+- '800 Times Deadlier': Covid Shots Are the Deadliest 'Vaccines' in Human History, noqreport.com/2021/11/21/800-times-deadlier-covid-shots-are-the-deadliest-vaccines-in-human-history/
 
 - [mRNA COVID Vaccines Dramatically Increase Endothelial Inflammatory Markers and ACS Risk as Measured by the PULS Cardiac Test: a Warning](https://www.ahajournals.org/doi/10.1161/circ.144.suppl_1.10712)
 
@@ -395,7 +395,7 @@ A concerned relative sent me this editorial about COVID-19 vaccines. My response
 
 - Newly Unclassified DARPA Docs Confirm SARS-CoV-2 Was Created by EcoHealth Alliance at the Wuhan Institute of Virology (formerly at https://theleadingreport.com/newly-unclassified-darpa-docs-confirm-sars-cov-2-was-created-by-ecohealth-alliance-at-the-wuhan-institute-of-virology/)
 
-- [17 million deaths from the COVID vax](https://www.redvoicemedia.com/video/2024/01/tucker-17-million-deaths-from-the-covid-vax-bret-weinstein/)
+- 17 million deaths from the COVID vax, redvoicemedia.com/video/2024/01/tucker-17-million-deaths-from-the-covid-vax-bret-weinstein/
 
 - FDA forced to release documents admitting they knew COVID vaccines caused heart inflammation (formerly at https://dcclothesline.com/2023/12/16/fda-forced-to-release-documents-admitting-they-knew-covid-vaccines-caused-heart-inflammation/)
 
