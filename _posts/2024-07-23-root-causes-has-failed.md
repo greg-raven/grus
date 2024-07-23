@@ -1,5 +1,5 @@
 ---
-title: "Biden-Harris "root causes" approach has failed"
+title: "Biden-Harris 'root causes' approach has failed"
 layout: post
 categories:
 - Letters
