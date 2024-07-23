@@ -6,7 +6,9 @@ categories:
 tags:
 - Jay Obernolte
 - Alex Padilla
-- Ann Flood
+- Laphonza Butler
+- illegal immigration
+- E-Verify
 ---
 
 With Vice President Kamala Harris now the Democratic nominee, it's important to look back at her attempts to end illegal immigration. In March, 2021, the White House dispatched Vice President Harris to Mexico and the Northern Triangle countries to tackle migration "challenges" and the "root causes" of illegal immigration. Unfortunately, her "Migration Strategy" to end illegal immigration has been a resounding failure and already-high illegal immigration has ballooned into the current Biden-Harris border crisis.
