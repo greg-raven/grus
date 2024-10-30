@@ -2,6 +2,8 @@
 title: "Boarding house speed-rock"
 layout: post
 categories:
+- letters
+tags:
 - Second Amendment
 ---
 
