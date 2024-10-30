@@ -5,6 +5,9 @@ categories:
 - Letters
 tags: 
 - CARB Board Members
+- economy
+- environment
+- jobs
 ---
 
 Please rethink locomotive regulation for a stronger California.

@@ -3,8 +3,11 @@ title: "Save jobs and protect the California economy"
 layout: post
 categories:
 - Letters
-tags: 
+tags:
+- economy
+- environment
 - Gavin Newsom
+- jobs
 ---
 
 I am writing today to express my opposition to CARB's In-Use Locomotive Regulation.
