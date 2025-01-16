@@ -2,7 +2,7 @@
 title: "Boehner was wrong to hire Rebecca Tallent"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

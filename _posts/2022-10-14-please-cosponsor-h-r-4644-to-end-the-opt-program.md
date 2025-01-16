@@ -2,7 +2,7 @@
 title: "Please cosponsor H.R. 4644 to end the OPT program"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - jobs

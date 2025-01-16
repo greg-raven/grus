@@ -2,7 +2,7 @@
 title: "Don't ignore immigration officers"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Barack Hussein Obama
 - illegal aliens

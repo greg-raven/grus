@@ -2,7 +2,7 @@
 title: "DHS malfeasance"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - DHS
 - Jerry Lewis

@@ -2,7 +2,7 @@
 title: "Colorado River water shortage cannot be addressed without reducing population growth"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

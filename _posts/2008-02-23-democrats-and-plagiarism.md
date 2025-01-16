@@ -2,7 +2,7 @@
 title: "Democrats and plagiarism"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - Barack Hussein Obama
 - politics

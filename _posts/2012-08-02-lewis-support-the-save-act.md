@@ -2,7 +2,7 @@
 title: "Support the SAVE act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - immigration

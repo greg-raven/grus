@@ -2,7 +2,7 @@
 title: "Re-authorize E-Verify permanently"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Paul Cook

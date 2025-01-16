@@ -2,7 +2,7 @@
 title: "Do NOT to sign amnesty Discharge Petition"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Amnestied illegals won't have to pay income taxes?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

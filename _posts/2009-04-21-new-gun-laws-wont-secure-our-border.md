@@ -2,7 +2,7 @@
 title: "New gun laws won't secure our border"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Federal government

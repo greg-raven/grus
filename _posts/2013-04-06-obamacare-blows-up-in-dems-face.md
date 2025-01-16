@@ -2,7 +2,7 @@
 title: "Obamacare Blows Up In Dem's Face!"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Okay folks, I know you think the C-Span Channel that broadcasts all those Congressional hearings is boring, but, really, you should have been around to watch the Senate Finance Committee's hearing Wednesday on the Affordable Health Care Insurance Oversight.

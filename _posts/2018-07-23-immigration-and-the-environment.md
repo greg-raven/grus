@@ -2,7 +2,7 @@
 title: "Immigration and the environment"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Council on Environmental Quality
 - immigration

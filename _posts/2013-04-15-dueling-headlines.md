@@ -2,7 +2,7 @@
 title: "Dueling headlines: Violence"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Horrific day in Boston:

@@ -2,7 +2,7 @@
 title: "Pass American LAWS Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - E-Verify

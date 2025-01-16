@@ -2,7 +2,7 @@
 title: "The promise of work permits encourages illegal immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Alex Padilla

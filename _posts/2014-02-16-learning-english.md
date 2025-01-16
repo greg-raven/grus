@@ -2,7 +2,7 @@
 title: "Learning English"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Daily Press
 - education

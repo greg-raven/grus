@@ -2,7 +2,7 @@
 title: "Enact 10 steps to fix our broken immigration enforcement system"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

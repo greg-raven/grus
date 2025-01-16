@@ -2,7 +2,7 @@
 title: "What 'gun show loophole'?"
 layout: post
 categories:
-- Information
+- information
 - Video
 ---
 

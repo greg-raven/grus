@@ -2,7 +2,7 @@
 title: "Take action on our border crisis"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Paul Cook

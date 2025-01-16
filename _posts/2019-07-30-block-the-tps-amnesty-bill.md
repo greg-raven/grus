@@ -2,7 +2,7 @@
 title: "Block the TPS amnesty bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Mitch McConnell

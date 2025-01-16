@@ -2,7 +2,7 @@
 title: "Socialism explained"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - socialism
 ---

@@ -2,7 +2,7 @@
 title: "Help end the visa lottery"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Will Obama's new AG reject executive amnesty?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Nancy Pelosi

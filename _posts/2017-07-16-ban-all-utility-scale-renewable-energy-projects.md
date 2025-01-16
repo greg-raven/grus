@@ -2,7 +2,7 @@
 title: "Ban all utility-scale renewable energy projects"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - environment
 ---

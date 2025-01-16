@@ -2,7 +2,7 @@
 title: "Sign H.R. 2 into law to end the border crisis"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

@@ -2,7 +2,7 @@
 title: "Help End the Visa Lottery"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jay Obernolte

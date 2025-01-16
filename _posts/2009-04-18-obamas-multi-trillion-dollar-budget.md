@@ -2,7 +2,7 @@
 title: "Your multi-trillion-dollar budget"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Federal government

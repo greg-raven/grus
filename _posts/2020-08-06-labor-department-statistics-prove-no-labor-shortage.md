@@ -2,7 +2,7 @@
 title: "Labor Department statistics prove no 'labor shortage'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Paul Cook

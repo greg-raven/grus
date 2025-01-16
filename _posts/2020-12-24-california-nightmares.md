@@ -2,7 +2,7 @@
 title: "California nightmares"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - environment
 ---

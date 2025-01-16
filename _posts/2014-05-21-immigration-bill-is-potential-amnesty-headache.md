@@ -2,7 +2,7 @@
 title: "Immigration bill is potential amnesty headache"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Young Americans deserve jobs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "55 Reasons Why California Is The Worst State in America"
 layout: post
 categories:
-- Information
+- information
 tags:
 - California
 ---

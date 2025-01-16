@@ -2,7 +2,7 @@
 title: "From the Old Game Warden"
 layout: post
 categories:
-- Letters
+- letters
 ---
 
 California Rifle and Pistol Association

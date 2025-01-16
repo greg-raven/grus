@@ -2,7 +2,7 @@
 title: "Don't launder illegal immigration; end it"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - illegal immigration

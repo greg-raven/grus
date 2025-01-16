@@ -2,7 +2,7 @@
 title: "Abolish birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - birthright citizenship
 - immigration

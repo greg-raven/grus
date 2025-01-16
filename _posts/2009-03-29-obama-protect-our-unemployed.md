@@ -2,7 +2,7 @@
 title: "Protect our unemployed"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barack Hussein Obama

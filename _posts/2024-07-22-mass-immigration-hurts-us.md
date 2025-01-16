@@ -2,7 +2,7 @@
 title: "Mass immigration hurts Black and Hispanic workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

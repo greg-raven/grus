@@ -2,7 +2,7 @@
 title: "Keep amnesty out of budget reconciliation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Jay Obernolte

@@ -2,7 +2,7 @@
 title: "That explains it"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Dianne Feinstein
 ---

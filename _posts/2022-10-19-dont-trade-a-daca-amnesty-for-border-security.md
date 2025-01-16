@@ -2,7 +2,7 @@
 title: "Don't trade a DACA amnesty for border security"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - E-Verify

@@ -2,7 +2,7 @@
 title: "Support ending birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

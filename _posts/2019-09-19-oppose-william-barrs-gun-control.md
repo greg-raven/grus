@@ -2,7 +2,7 @@
 title: "Oppose William Barr's gun control"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 ---

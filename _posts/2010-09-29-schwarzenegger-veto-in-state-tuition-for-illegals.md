@@ -2,7 +2,7 @@
 title: "Veto in-state tuition for illegals"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Arnold Schwarzenegger

@@ -2,7 +2,7 @@
 title: "Nearly 2 in 3 Americans favor deporting all illegal immigrants"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

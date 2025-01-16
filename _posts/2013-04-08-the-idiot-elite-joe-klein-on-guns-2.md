@@ -2,7 +2,7 @@
 title: "The idiot elite: Joe Klein on guns"
 layout: post
 categories:
-- Video
+- Videos
 format: video
 ---
 

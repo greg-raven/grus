@@ -2,7 +2,7 @@
 title: "Don't defund 287(g)"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Lewis
 - Barbara Boxer

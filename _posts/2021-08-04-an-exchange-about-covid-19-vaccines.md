@@ -2,7 +2,7 @@
 title: "An exchange about COVID-19 vaccines"
 layout: post
 categories:
-- Commentary
+- commentaries
 tags:
 - health care
 - population

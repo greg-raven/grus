@@ -2,7 +2,7 @@
 title: "Joe wants to be the one counting the votes"
 layout: post
 categories:
-- Memes
+- memes
 tags:
 - Joe Biden
 ---

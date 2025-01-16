@@ -2,7 +2,7 @@
 title: "That WOULD be a war crime"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Obamacare
 ---

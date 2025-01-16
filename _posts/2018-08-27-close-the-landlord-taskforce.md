@@ -2,7 +2,7 @@
 title: "Close the Landlord Taskforce"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - government power
 - Donald Trump

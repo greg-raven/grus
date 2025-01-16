@@ -2,7 +2,7 @@
 title: "No healthcare for illegal aliens"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - health care
 - illegal aliens

@@ -2,7 +2,7 @@
 title: "Thanks for supporting American workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Lewis
 ---

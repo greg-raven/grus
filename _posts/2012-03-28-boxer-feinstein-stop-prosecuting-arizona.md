@@ -2,7 +2,7 @@
 title: "Stop prosecuting Arizona"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - California

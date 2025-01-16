@@ -2,7 +2,7 @@
 title: "Oppose S. 3217"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - immigration

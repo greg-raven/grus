@@ -2,7 +2,7 @@
 title: "Obama Policies Have Put America at Risk"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Barack Hussein Obama
 - economy

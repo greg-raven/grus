@@ -2,7 +2,7 @@
 title: "All your retirement savings are belong to us"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Caliph Hussein, a man who from outward appearances has never experienced a single moment of reason or reasonableness in his entire life, now says he knows how much a reasonable retirement savings account should hold, so that any amount over that is unreasonable and therefore taxable.

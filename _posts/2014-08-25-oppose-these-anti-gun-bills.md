@@ -2,7 +2,7 @@
 title: "Oppose these anti-gun bills"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Lois Wolk

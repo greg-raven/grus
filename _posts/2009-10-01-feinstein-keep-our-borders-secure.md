@@ -2,7 +2,7 @@
 title: "Keep our borders secure"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Barbara Boxer

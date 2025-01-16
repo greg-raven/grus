@@ -2,7 +2,7 @@
 title: "Shut down the circus and confirm Kavanaugh"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - judiciary
 - Dianne Feinstein

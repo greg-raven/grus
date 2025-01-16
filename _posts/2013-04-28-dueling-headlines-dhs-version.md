@@ -2,7 +2,7 @@
 title: "Dueling headlines: DHS version"
 layout: post
 categories:
-- Information
+- information
 tags:
 - DHS
 ---

@@ -2,7 +2,7 @@
 title: "Obamacare's top 10 most costly taxes and fees"
 layout: post
 categories:
-- Information
+- information
 tags:
 - health care
 ---

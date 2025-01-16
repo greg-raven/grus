@@ -2,7 +2,7 @@
 title: "Op-ed opposing legal immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Amnesty vs. veterans"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - amnesty
 ---

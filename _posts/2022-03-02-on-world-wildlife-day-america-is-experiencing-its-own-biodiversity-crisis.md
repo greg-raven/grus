@@ -2,7 +2,7 @@
 title: "On World Wildlife Day, America is experiencing its own 'biodiversity crisis'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

@@ -2,7 +2,7 @@
 title: "Reduce immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jerry Lewis

@@ -2,7 +2,7 @@
 title: "More Sarahs and fewer Arnolds"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - California
 - Arnold Schwarzenegger

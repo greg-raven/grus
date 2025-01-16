@@ -2,7 +2,7 @@
 title: "Population growth overshoots the carrying capacity of America"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

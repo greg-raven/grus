@@ -2,7 +2,7 @@
 title: "Concealed carry reciprocity"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - California
 - gun control

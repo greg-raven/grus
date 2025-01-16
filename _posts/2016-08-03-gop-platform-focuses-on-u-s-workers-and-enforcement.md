@@ -2,7 +2,7 @@
 title: "GOP platform focuses on U.S. workers and enforcement"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

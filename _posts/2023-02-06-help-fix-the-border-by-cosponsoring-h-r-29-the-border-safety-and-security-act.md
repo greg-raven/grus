@@ -2,7 +2,7 @@
 title: "Help fix the border by cosponsoring H.R. 29, the Border Safety and Security Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Jay Obernolte

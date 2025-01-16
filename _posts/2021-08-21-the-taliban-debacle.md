@@ -2,7 +2,7 @@
 title: "The Taliban debacle"
 layout: post
 categories:
-- Commentary
+- commentaries
 tags:
 - "Hillary Clinton"
 ---

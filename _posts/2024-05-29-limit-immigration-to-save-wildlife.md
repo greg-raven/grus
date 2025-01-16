@@ -2,7 +2,7 @@
 title: "To save wildlife, we must limit immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

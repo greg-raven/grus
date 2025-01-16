@@ -2,7 +2,7 @@
 title: "2 million encounters on southern border this year. Secure the border."
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - child labor

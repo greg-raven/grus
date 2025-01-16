@@ -2,7 +2,7 @@
 title: "Stop healthcare plan from giving tax credits to illegal aliens"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - health care
 - illegal aliens

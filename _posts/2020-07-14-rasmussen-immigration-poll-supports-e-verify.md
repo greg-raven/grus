@@ -2,7 +2,7 @@
 title: "Rasmussen immigration poll supports E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Paul Cook

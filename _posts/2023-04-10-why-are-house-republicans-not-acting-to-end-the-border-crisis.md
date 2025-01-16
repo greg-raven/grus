@@ -2,7 +2,7 @@
 title: "Why are House Republicans not acting to end the border crisis?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - illegal immigration

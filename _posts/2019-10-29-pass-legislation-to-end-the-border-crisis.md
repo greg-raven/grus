@@ -2,7 +2,7 @@
 title: "Pass legislation to end the border crisis"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - immigration

@@ -2,7 +2,7 @@
 title: "Evangelicals do NOT want amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barack Hussein Obama

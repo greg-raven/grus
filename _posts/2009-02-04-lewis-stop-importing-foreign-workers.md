@@ -2,7 +2,7 @@
 title: "Stop importing foreign workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jerry Lewis

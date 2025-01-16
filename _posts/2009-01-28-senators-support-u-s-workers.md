@@ -2,7 +2,7 @@
 title: "Support U.S. workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

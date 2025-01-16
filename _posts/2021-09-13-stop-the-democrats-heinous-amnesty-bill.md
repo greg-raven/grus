@@ -2,7 +2,7 @@
 title: "Stop the Democrats' heinous amnesty bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Jay Obernolte

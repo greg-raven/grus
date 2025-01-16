@@ -2,7 +2,7 @@
 title: "Visualizing Obama's budget cuts"
 layout: post
 categories:
-- Video
+- Videos
 tags:
 - Barack Hussein Obama
 - Federal government

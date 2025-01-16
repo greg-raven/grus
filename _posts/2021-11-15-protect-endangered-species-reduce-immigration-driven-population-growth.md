@@ -2,7 +2,7 @@
 title: "Protect endangered species: Reduce immigration-driven population growth"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

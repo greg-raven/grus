@@ -2,7 +2,7 @@
 title: "Dueling headlines: California tax edition"
 layout: post
 categories:
-- Information
+- information
 ---
 
 There's this:

@@ -2,7 +2,7 @@
 title: "Focus on the real problems, not on the guns"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Dianne Feinstein

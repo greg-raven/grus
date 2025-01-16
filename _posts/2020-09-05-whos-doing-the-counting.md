@@ -2,7 +2,7 @@
 title: "Who's doing the counting?"
 layout: post
 categories:
-- Memes
+- memes
 ---
 
 If you can't trust your state to correctly count COVID-19 deaths, how can you trust them to correctly count mail-in votes?

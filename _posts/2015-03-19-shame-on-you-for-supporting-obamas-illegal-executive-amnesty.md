@@ -2,7 +2,7 @@
 title: "Shame on you for supporting Obama's illegal executive amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Kamala Harris
 - amnesty

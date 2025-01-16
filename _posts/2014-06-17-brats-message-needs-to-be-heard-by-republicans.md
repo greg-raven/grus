@@ -2,7 +2,7 @@
 title: "Brat's message needs to be heard by Republicans"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 ---

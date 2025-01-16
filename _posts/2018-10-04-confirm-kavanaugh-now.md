@@ -2,7 +2,7 @@
 title: "Confirm Kavanaugh now"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - judiciary
 - Dianne Feinstein

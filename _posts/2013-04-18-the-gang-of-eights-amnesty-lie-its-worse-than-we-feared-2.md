@@ -2,7 +2,7 @@
 title: "The Gang of Eight's Amnesty Lie: It's worse than we feared"
 layout: post
 categories:
-- Information
+- information
 tags:
 - amnesty
 - population

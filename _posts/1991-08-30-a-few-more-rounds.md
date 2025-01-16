@@ -2,7 +2,7 @@
 title: "A few more rounds"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 ---

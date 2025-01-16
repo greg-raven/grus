@@ -2,7 +2,7 @@
 title: "I support ending chain immigration and the visa lottery"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

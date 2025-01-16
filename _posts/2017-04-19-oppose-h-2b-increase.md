@@ -2,7 +2,7 @@
 title: "Oppose H-2B increase"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Dianne Feinstein

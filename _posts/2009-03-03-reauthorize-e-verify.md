@@ -2,7 +2,7 @@
 title: "Reauthorize E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Barbara Boxer

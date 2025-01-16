@@ -2,7 +2,7 @@
 title: "Tell Congressional Hispanic Caucus about Hispanic immigration polling"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

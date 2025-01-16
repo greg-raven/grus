@@ -2,7 +2,7 @@
 title: "You must stop the asylum-seeker caravan"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Paul Cook

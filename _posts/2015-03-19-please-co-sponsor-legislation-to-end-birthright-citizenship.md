@@ -2,7 +2,7 @@
 title: "Please cosponsor legislation to end birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

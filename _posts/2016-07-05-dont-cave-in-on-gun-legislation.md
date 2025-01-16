@@ -2,7 +2,7 @@
 title: "Don't cave in on gun legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

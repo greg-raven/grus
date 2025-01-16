@@ -2,7 +2,7 @@
 title: "There is no labor shortage. Co-sponsor S. 156"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Alex Padilla

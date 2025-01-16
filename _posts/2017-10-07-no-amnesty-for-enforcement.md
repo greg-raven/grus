@@ -2,7 +2,7 @@
 title: "No amnesty for enforcement"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

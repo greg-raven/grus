@@ -2,7 +2,7 @@
 title: "Libtards, by Dixon Diaz"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - liberalism
 format: gallery

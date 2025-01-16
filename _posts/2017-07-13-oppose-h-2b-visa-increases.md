@@ -2,7 +2,7 @@
 title: "Oppose H-2B visa increases"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Dianne Feinstein

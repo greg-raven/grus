@@ -2,7 +2,7 @@
 title: "Democrats' human shields: Liberals go crazy for the mentally ill"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Ann Coulter links mass public shootings with freeing of the deranged from institutions

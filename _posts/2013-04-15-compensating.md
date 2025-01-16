@@ -2,7 +2,7 @@
 title: Compensation
 layout: post
 categories:
-- Information
+- information
 tags:
 - gun control
 ---

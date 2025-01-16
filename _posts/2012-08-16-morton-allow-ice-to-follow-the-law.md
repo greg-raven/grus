@@ -2,7 +2,7 @@
 title: "Allow ICE to follow the law"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - John Morton
 - Federal government

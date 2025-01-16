@@ -2,7 +2,7 @@
 title: "Oppose the Graham-Durbin DREAM amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - immigration

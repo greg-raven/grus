@@ -2,7 +2,7 @@
 title: "Community Colleges"
 layout: post
 categories:
-- Letters
+- letters
 ---
 
 Steve Williams makes some good points in his evaluation of Barack Obama's plan to provide free tuition at the junior college level ("Our Opinion: Another 'free' lunch," January 11th). However, there are additional arguments against this proposal.

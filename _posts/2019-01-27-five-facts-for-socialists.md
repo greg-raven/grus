@@ -2,7 +2,7 @@
 title: "Five facts for socialists"
 layout: post
 categories:
-- Information
+- information
 ---
 
 - *Five things socialists will never understand*

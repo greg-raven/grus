@@ -2,7 +2,7 @@
 title: "$6.3 trillion cost of amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

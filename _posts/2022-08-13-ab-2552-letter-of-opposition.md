@@ -2,7 +2,7 @@
 title: "A.B. 2552 --- Letter of opposition"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Scott Wilk

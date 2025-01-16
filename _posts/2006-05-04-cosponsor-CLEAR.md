@@ -2,7 +2,7 @@
 title: "Cosponsor the CLEAR Act (H.R. 3137)"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Lewis
 - border control

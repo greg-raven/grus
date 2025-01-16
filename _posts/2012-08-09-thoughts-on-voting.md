@@ -2,7 +2,7 @@
 title: "Thoughts on voting"
 layout: post
 categories:
-- Information
+- information
 tags:
 - politics
 ---

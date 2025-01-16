@@ -2,7 +2,7 @@
 title: "Amend unpopular immigration policies"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Alex Padilla

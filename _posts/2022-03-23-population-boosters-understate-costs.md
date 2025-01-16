@@ -2,7 +2,7 @@
 title: "Population Boosters Understate Costs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

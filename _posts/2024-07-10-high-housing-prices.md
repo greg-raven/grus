@@ -2,7 +2,7 @@
 title: "Mass immigration lowers wages and increases housing prices"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

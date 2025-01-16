@@ -2,7 +2,7 @@
 title: "Re: Newt Gingrich mocks Mitt Romney on 'self-deportation'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - immigration

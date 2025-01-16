@@ -2,7 +2,7 @@
 title: "Put American workers first"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

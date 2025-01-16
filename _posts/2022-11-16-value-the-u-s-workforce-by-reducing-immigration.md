@@ -2,7 +2,7 @@
 title: "Value the U.S. workforce by reducing immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

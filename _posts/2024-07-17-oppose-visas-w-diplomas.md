@@ -2,7 +2,7 @@
 title: "Oppose efforts to 'staple' green cards to university degrees"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

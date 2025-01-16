@@ -2,7 +2,7 @@
 title: "Appalled by the amnesty bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

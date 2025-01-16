@@ -2,7 +2,7 @@
 title: "Democratic cities are being overwhelmed by border surge"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - immigration

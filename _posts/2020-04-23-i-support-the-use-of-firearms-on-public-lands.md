@@ -2,7 +2,7 @@
 title: "I support the use of firearms on public lands"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - U.S. Army Corps of Engineers

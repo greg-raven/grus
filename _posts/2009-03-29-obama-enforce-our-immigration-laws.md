@@ -2,7 +2,7 @@
 title: "Enforce our immigration laws"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - immigration

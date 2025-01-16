@@ -2,7 +2,7 @@
 title: "Oppose United Nations' Agenda 21"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - environment
 - globalism

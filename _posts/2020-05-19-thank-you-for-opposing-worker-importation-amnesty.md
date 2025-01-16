@@ -2,7 +2,7 @@
 title: "Thank you for opposing worker importation &#038; amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

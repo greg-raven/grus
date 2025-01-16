@@ -2,7 +2,7 @@
 title: "Dueling headlines: School safety edition"
 layout: post
 categories:
-- Information
+- information
 tags:
 - gun control
 ---

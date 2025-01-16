@@ -2,7 +2,7 @@
 title: "Oppose the No BAN Act and the Access to Counsel Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jay Obernolte

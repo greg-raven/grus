@@ -2,7 +2,7 @@
 title: "Oppose the immigration enforcement freeze"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Jay Obernolte

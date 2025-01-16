@@ -2,7 +2,7 @@
 title: "Pass S. 577"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - immigration

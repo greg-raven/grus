@@ -2,7 +2,7 @@
 title: "I found the problem"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Harry Reid
 format: video

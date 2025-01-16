@@ -2,7 +2,7 @@
 title: "Reduce immigration to strengthen resilience to extreme climate"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - illegal immigration

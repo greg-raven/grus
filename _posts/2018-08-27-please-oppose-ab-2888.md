@@ -2,7 +2,7 @@
 title: "Please oppose A.B. 2888"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Scott Wilk

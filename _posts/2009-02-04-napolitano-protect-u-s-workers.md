@@ -2,7 +2,7 @@
 title: "Protect U.S. workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Janet Napolitano

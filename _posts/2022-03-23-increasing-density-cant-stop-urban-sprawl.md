@@ -2,7 +2,7 @@
 title: "Increasing Density can't stop Urban Sprawl"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

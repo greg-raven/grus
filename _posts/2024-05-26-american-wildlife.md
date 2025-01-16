@@ -2,7 +2,7 @@
 title: "America's wildlife can't compete with high immigration. Support H.R. 7833"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

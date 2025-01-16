@@ -2,7 +2,7 @@
 title: "Republicans should represent the American worker"
 layout: post
 categories:
-- Information
+- information
 tags:
 - immigration
 - Jeff Sessions

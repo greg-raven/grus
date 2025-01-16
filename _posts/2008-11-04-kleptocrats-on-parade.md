@@ -2,7 +2,7 @@
 title: "Kleptocrats on parade"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - Federal government
 - government power

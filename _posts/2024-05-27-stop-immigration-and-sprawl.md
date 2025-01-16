@@ -2,7 +2,7 @@
 title: "Stop immigration to stop sprawl"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

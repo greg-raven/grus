@@ -2,7 +2,7 @@
 title: "Facebook can't prove worker shortage"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

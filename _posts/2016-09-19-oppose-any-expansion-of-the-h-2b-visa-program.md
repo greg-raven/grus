@@ -2,7 +2,7 @@
 title: "Oppose any expansion of the H-2B visa program"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

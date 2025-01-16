@@ -2,7 +2,7 @@
 title: "Dueling headlines: Syrian refugee edition"
 layout: post
 categories:
-- Information
+- information
 tags:
 - immigration
 - national security

@@ -2,7 +2,7 @@
 title: "Please cosponsor H.R. 140"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

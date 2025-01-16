@@ -2,7 +2,7 @@
 title: "Proving evolution"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - evolution
 ---

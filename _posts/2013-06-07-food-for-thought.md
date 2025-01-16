@@ -2,7 +2,7 @@
 title: "Food For Thought"
 layout: post
 categories:
-- Information
+- information
 ---
 
 By Junius P. Long

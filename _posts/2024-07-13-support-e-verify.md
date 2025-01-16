@@ -2,7 +2,7 @@
 title: "Support legislation to mandate E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Laphonza Butler
 - E-Verify

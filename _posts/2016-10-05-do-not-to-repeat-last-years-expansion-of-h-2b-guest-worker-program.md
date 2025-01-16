@@ -2,7 +2,7 @@
 title: "Do not to repeat last year's expansion of H-2B guest-worker program"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

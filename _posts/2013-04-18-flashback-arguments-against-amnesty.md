@@ -2,7 +2,7 @@
 title: "Flashback: Arguments against amnesty"
 layout: post
 categories:
-- Information
+- information
 tags:
 - amnesty
 ---

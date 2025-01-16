@@ -2,7 +2,7 @@
 title: "Oppose Biden immigration increases"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - immigration

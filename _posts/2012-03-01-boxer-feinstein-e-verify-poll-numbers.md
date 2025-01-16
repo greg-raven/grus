@@ -2,7 +2,7 @@
 title: "E-Verify poll numbers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Barbara Boxer

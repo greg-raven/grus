@@ -2,7 +2,7 @@
 title: "AP: Backlash against foreign tech workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Armed citizens stop massacres"
 layout: post
 categories:
-- Information
+- information
 tags:
 - gun control
 ---

@@ -2,7 +2,7 @@
 title: "Be fearless in defending America"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Mitch McConnell

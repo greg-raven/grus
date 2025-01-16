@@ -2,7 +2,7 @@
 title: "An immigration-reduction message on Earth Day"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Joe Biden

@@ -2,7 +2,7 @@
 title: "Illegal aliens' crimes expose Obama's illegal amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

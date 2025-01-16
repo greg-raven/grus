@@ -2,7 +2,7 @@
 title: "Disappointed in your vote on H.R. 1044"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

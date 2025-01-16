@@ -2,7 +2,7 @@
 title: "Pushing Americans out of jobs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - immigration

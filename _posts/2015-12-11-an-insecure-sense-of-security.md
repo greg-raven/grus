@@ -2,7 +2,7 @@
 title: "An insecure sense of security"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barb Stanton
 - gun control

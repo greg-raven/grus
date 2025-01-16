@@ -2,7 +2,7 @@
 title: "Delayed hit: U.S. job creation plunges"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Job creation slowed to a crawl during March, with the U.S. economy creating just 88,000 positions though the unemployment rate fell to 7.6 percent.

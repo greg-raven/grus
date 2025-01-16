@@ -2,7 +2,7 @@
 title: "NO amnesty in the budget bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Dianne Feinstein

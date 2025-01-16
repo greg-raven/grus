@@ -2,7 +2,7 @@
 title: "Immigration reform must benefit Americans and legal immigrants!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jay Obernolte

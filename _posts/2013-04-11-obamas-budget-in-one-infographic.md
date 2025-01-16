@@ -2,7 +2,7 @@
 title: "Obama's budget in one infographic"
 layout: post
 categories:
-- Information
+- information
 tags:
 - budget
 ---

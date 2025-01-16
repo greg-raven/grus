@@ -2,7 +2,7 @@
 title: "Help President Trump defend our Second Amendment rights"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Paul Cook

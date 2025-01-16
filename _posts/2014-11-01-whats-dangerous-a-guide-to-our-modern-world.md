@@ -2,7 +2,7 @@
 title: "What's dangerous? A guide to our modern world"
 layout: post
 categories:
-- Commentary
+- commentaries
 ---
 
 Let's review what our current leaders and talking heads tell us is dangerous, and compare those things against what they tell us is not dangerous.

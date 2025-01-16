@@ -2,7 +2,7 @@
 title: "Thanks for voting to defund sanctuary cities"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

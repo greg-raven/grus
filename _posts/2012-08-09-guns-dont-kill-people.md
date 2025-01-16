@@ -2,7 +2,7 @@
 title: "Guns don't kill people ..."
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - gun control
 ---

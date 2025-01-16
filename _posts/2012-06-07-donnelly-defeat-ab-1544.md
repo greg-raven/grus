@@ -2,7 +2,7 @@
 title: "Defeat A.B. 1544"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Tim Donnelly
 - California

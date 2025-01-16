@@ -2,7 +2,7 @@
 title: "Duke lacrosse team rape charges"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - government power
 ---

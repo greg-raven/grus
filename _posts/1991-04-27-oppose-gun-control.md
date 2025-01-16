@@ -2,7 +2,7 @@
 title: "Oppose gun control"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 ---

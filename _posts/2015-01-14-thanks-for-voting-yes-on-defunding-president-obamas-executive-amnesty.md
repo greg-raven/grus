@@ -2,7 +2,7 @@
 title: "Thanks for voting YES on Defunding President Obama's Executive Amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

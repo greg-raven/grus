@@ -2,7 +2,7 @@
 title: "Dark skies cannot compete with sky-high immigration rates"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - Jay Obernolte

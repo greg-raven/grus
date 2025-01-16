@@ -2,7 +2,7 @@
 title: "Petroleum power"
 layout: post
 categories:
-- Video
+- Videos
 tags:
 - energy
 ---

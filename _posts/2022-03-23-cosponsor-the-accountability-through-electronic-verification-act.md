@@ -2,7 +2,7 @@
 title: "Cosponsor the Accountability Through Electronic Verification Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Alex Padilla

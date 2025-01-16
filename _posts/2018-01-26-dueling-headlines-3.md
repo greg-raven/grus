@@ -2,7 +2,7 @@
 title: "Dueling headlines: Borders"
 layout: post
 categories:
-- Information
+- information
 tags:
 - border control
 - national security

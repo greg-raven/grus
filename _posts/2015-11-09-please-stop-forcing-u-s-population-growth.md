@@ -2,7 +2,7 @@
 title: "Please stop forcing U.S. population growth"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

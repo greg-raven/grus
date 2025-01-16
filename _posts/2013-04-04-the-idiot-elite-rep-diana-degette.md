@@ -2,7 +2,7 @@
 title: "The Idiot Elite: Rep. Diana Degette"
 layout: post
 categories:
-- Video
+- Videos
 format: video
 ---
 

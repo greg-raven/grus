@@ -2,7 +2,7 @@
 title: "This explains a lot"
 layout: post
 categories:
-- Cartoon
+- cartoons
 ---
 
 The socialist brain of a liberal Democrat.

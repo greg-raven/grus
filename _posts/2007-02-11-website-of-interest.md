@@ -2,7 +2,7 @@
 title: "Website of interest"
 layout: post
 categories:
-- Information
+- information
 tags:
 - environment
 - national security

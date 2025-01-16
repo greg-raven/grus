@@ -2,7 +2,7 @@
 title: "Thanks for opposing the sale of U.S. visas"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Dianne Feinstein

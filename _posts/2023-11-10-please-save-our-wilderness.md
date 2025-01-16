@@ -2,7 +2,7 @@
 title: "Please save our wilderness"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - environment

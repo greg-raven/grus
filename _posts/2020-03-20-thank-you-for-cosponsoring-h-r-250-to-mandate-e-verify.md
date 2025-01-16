@@ -2,7 +2,7 @@
 title: "Thank you for cosponsoring H.R. 250 to mandate E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Paul Cook

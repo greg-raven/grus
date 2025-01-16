@@ -2,7 +2,7 @@
 title: "Conservation in nature"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - environment
 ---

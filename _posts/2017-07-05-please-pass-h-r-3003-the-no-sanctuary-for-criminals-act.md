@@ -2,7 +2,7 @@
 title: "Please pass H.R. 3003, the No Sanctuary for Criminals Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Dianne Feinstein

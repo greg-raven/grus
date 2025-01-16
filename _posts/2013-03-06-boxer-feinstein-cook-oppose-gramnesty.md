@@ -2,7 +2,7 @@
 title: "Oppose Gramnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

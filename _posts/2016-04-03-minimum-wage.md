@@ -2,7 +2,7 @@
 title: "Minimum wage"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - immigration

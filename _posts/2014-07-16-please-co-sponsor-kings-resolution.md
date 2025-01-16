@@ -2,7 +2,7 @@
 title: "Please cosponsor King's resolution"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

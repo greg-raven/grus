@@ -2,7 +2,7 @@
 title: "Please confirm the President's nominees"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - judiciary
 - Cory Gardner

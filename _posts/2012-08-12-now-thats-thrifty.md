@@ -2,7 +2,7 @@
 title: "Now that's thrifty!"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Barack Hussein Obama
 ---

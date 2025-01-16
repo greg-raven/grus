@@ -2,7 +2,7 @@
 title: "Any 'stimulus' package must protect American jobs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barbara Boxer
 - Dianne Feinstein

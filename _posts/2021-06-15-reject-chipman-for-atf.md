@@ -2,7 +2,7 @@
 title: "Reject Chipman for ATF"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Alex Padilla

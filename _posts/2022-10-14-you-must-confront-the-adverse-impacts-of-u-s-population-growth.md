@@ -2,7 +2,7 @@
 title: "You must confront the adverse impacts of U.S. population growth"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - environment

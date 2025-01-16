@@ -2,7 +2,7 @@
 title: "Domestic Security"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - DHS
 - national security

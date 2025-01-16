@@ -2,7 +2,7 @@
 title: "Don't let Congress pass anti-gun measures"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

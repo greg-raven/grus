@@ -2,7 +2,7 @@
 title: "No to the DREAM Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

@@ -2,7 +2,7 @@
 title: "Poll Shows that More Americans Want Immigration Decrease"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

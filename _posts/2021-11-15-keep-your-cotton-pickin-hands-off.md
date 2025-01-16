@@ -2,7 +2,7 @@
 title: "Keep your cotton-pickin' hands off!"
 layout: post
 categories:
-- Memes
+- memes
 tags:
 - economy
 ---

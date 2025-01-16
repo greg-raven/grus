@@ -2,7 +2,7 @@
 title: "America needs The Secure the Border Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jay Obernolte

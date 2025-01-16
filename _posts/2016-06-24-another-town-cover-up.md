@@ -2,7 +2,7 @@
 title: "Another Town cover-up"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - population
 ---

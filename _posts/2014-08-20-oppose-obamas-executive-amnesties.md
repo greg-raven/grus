@@ -2,7 +2,7 @@
 title: "Oppose Obama's executive amnesties"
 layout: post
 categories:
-- Letters
+- letters
 ---
 
 I am e-mailing you today to ask that you take three important actions to oppose Obama's executive amnesties:

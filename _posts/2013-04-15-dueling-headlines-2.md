@@ -2,7 +2,7 @@
 title: "Dueling headlines: Innocent deaths"
 layout: post
 categories:
-- Information
+- information
 tags:
 - abortion
 ---

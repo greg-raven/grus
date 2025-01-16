@@ -2,7 +2,7 @@
 title: "Please support enforcement of the public charge rule"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

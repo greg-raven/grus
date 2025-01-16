@@ -2,7 +2,7 @@
 title: "Even 'centrists' don't want amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - population

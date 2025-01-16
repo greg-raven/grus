@@ -2,7 +2,7 @@
 title: "American workers to rebuild after Katrina"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Barbara Boxer

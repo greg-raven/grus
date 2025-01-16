@@ -2,7 +2,7 @@
 title: "Fix vote fraud"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - elections
 - Donald Trump

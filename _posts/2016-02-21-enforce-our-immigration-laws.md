@@ -2,7 +2,7 @@
 title: "Enforce our immigration laws"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - national security
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Drain The Swamp"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Donald Trump

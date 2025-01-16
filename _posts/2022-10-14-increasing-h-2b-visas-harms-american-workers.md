@@ -2,7 +2,7 @@
 title: "Increasing H-2B visas harms American workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

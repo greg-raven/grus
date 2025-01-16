@@ -2,7 +2,7 @@
 title: "Please implement the biometric entry-exit system"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - national security
 - Paul Cook

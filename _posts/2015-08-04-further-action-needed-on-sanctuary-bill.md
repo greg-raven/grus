@@ -2,7 +2,7 @@
 title: "Further action needed on Sanctuary bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

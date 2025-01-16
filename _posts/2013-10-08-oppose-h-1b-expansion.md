@@ -2,7 +2,7 @@
 title: "Oppose H-1B expansion"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Henry Waxman

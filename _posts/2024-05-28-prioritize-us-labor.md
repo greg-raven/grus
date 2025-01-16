@@ -2,7 +2,7 @@
 title: "Prioritize U.S. labor, not work permits"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

@@ -2,7 +2,7 @@
 title: "Most voters want immigration cuts"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Moderate immigration to restore our middle class"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

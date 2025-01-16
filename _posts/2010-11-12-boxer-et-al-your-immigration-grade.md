@@ -2,7 +2,7 @@
 title: "Your immigration grade"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - immigration

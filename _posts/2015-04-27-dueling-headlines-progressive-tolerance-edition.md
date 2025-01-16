@@ -2,7 +2,7 @@
 title: "Dueling headlines: Progressive tolerance edition"
 layout: post
 categories:
-- Information
+- information
 ---
 
 "LGBT ACTIVISTS RUSH ONTO STAGE TO DISRUPT MARCH FOR MARRIAGE RALLY"

@@ -2,7 +2,7 @@
 title: "Sowell: Immigration Sophistry"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Thomas Sowell
 ---

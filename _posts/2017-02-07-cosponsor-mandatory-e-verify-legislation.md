@@ -2,7 +2,7 @@
 title: "Cosponsor mandatory E-Verify legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Dianne Feinstein

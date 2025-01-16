@@ -2,7 +2,7 @@
 title: "Oppose executive action amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

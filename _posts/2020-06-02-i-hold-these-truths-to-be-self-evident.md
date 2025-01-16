@@ -2,7 +2,7 @@
 title: "I hold these truths to be self-evident"
 layout: post
 categories:
-- Commentary
+- commentaries
 ---
 
 Dissecting "This I believe: A post in defense of rational liberalism," by Lori Gallagher Witt, January 2018

@@ -2,7 +2,7 @@
 title: "Sign the Border Letter"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - Jay Obernolte

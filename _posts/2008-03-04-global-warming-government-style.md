@@ -2,7 +2,7 @@
 title: "Global warming --- government style"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - environment
 ---

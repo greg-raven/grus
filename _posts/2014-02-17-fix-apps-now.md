@@ -2,7 +2,7 @@
 title: "Fix APPS now"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Brown
 - gun control

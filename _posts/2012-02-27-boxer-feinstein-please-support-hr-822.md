@@ -2,7 +2,7 @@
 title: "Please support H.R. 822"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - California
 - gun control

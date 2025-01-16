@@ -2,7 +2,7 @@
 title: "End human trafficking and smuggling and cosponsor E-Verify bill S. 156"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - illegal immigration

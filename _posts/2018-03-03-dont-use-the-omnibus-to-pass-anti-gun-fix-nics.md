@@ -2,7 +2,7 @@
 title: "Don't use the Omnibus to pass anti-gun Fix NICS"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

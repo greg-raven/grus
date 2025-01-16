@@ -2,7 +2,7 @@
 title: "The most outrageous worker importation bill ever"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - jobs

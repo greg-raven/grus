@@ -2,7 +2,7 @@
 title: "Support our schools by adopting sensible immigration policies"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

@@ -2,7 +2,7 @@
 title: "No secret amnesties"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

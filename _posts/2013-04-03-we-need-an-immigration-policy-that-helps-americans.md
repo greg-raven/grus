@@ -2,7 +2,7 @@
 title: "Why We Need an Immigration Policy That Helps Americans"
 layout: post
 categories:
-- Information
+- information
 ---
 
 By Senator Jeff Sessions

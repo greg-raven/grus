@@ -2,7 +2,7 @@
 title: "Combat the push to increase H-1B numbers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

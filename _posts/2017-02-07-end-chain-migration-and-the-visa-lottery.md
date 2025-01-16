@@ -2,7 +2,7 @@
 title: "End chain migration and the visa lottery"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

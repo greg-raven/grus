@@ -2,7 +2,7 @@
 title: "Halt the resettlement of refugess from terror-sponsoring nations until national security risks can be assessed"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

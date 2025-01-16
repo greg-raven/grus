@@ -2,7 +2,7 @@
 title: "Back the Freedom Caucus' border plan!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - immigration

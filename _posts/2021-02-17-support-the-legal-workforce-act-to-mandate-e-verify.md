@@ -2,7 +2,7 @@
 title: "Support the Legal Workforce Act to mandate E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Jay Obernolte

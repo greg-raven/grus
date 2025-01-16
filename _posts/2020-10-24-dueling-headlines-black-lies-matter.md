@@ -2,7 +2,7 @@
 title: "Dueling headlines: Black Lies Matter edition"
 layout: post
 categories:
-- Information
+- information
 ---
 
 "MSNBC's Joy Reid says 'BLM doesn't riot,' blames Trump for encouraging violence fueled by 'white nationalist mobs'"

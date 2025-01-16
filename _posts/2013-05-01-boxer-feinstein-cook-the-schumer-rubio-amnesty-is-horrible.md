@@ -2,7 +2,7 @@
 title: "The Schumer-Rubio amnesty is horrible"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

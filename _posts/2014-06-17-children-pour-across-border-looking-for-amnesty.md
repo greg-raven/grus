@@ -2,7 +2,7 @@
 title: "Children pour across border looking for amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

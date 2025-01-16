@@ -2,7 +2,7 @@
 title: "Immigration has a 'devastating cost to Black Americans'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

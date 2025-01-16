@@ -2,7 +2,7 @@
 title: "Obamanomics explained"
 layout: post
 categories:
-- Cartoon
+- cartoons
 - Information
 tags:
 - Barack Hussein Obama

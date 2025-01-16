@@ -2,7 +2,7 @@
 title: "Asylum abuse takes away jobs and depresses wages"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

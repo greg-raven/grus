@@ -2,7 +2,7 @@
 title: "Support Romney's immigration stance"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - economy
 - Federal government

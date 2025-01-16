@@ -2,7 +2,7 @@
 title: "Thanks for opposing the Alien Health Care Bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Jerry Lewis

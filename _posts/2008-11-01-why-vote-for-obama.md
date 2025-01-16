@@ -2,7 +2,7 @@
 title: "Why vote for Obama?"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - Barack Hussein Obama
 - politics

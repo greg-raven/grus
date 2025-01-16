@@ -2,7 +2,7 @@
 title: "Support concealed carry reciprocity"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Dianne Feinstein

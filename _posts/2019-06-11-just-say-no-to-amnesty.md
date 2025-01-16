@@ -2,7 +2,7 @@
 title: "Just say NO to amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Dianne Feinstein

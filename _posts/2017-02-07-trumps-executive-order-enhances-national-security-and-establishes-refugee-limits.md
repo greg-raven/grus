@@ -2,7 +2,7 @@
 title: "Trump's Executive Order enhances national security and establishes refugee limits"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - refugees
 - Paul Cook

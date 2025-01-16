@@ -2,7 +2,7 @@
 title: "Why did you support the farm amnesty bill?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

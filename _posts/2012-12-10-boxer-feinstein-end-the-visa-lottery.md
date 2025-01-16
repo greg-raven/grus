@@ -2,7 +2,7 @@
 title: "End the visa lottery"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barbara Boxer
 - Dianne Feinstein

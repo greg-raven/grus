@@ -2,7 +2,7 @@
 title: "False Obama nomination papers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Brown
 - California

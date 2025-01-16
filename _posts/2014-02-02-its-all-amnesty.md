@@ -2,7 +2,7 @@
 title: "It's all amnesty"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - amnesty
 ---

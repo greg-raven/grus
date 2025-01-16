@@ -2,7 +2,7 @@
 title: "Black voters are not aligned with Democratic immigration policies"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Alex Padilla

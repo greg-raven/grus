@@ -2,7 +2,7 @@
 title: "Oppose omnibus spending bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - budget
 - Paul Cook

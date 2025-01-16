@@ -2,7 +2,7 @@
 title: "Trump details immigration plan to help American workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

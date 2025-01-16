@@ -2,7 +2,7 @@
 title: "Reject H.R. 1207 --- the federal ban on online ammo sales"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Jay Obernolte

@@ -2,7 +2,7 @@
 title: "Support the sanctuary city bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - national security

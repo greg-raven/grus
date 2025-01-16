@@ -2,7 +2,7 @@
 title: "No impeachment"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Paul Cook

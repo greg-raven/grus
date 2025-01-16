@@ -2,7 +2,7 @@
 title: "Urge Congress to defund sanctuary cities"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

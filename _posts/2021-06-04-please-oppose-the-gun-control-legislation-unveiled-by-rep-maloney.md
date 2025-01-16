@@ -2,7 +2,7 @@
 title: "Please oppose the gun control legislation unveiled by Rep. Maloney"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Jay Obernolte

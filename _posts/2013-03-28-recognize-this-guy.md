@@ -2,7 +2,7 @@
 title: "Recognize this guy?"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Do you know who this is?

@@ -2,7 +2,7 @@
 title: "SB 918 --- Letter of opposition"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Thurston Smith
 - gun control

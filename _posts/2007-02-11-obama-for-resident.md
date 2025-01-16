@@ -2,7 +2,7 @@
 title: "Obama for Resident"
 layout: post
 categories:
-- Opinion
+- opinions
 - Video
 tags:
 - Barack Hussein Obama

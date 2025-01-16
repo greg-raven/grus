@@ -2,7 +2,7 @@
 title: "Thank you for cosponsoring H.R. 38"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

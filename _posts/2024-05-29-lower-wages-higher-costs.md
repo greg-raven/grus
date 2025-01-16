@@ -2,7 +2,7 @@
 title: "Border crossings tie lower wages with higher housing costs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

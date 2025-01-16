@@ -2,7 +2,7 @@
 title: "Oppose Boehner's 'immigration principles'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

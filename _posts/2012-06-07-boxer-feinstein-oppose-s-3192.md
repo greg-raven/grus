@@ -2,7 +2,7 @@
 title: "Oppose S. 3192"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

@@ -2,7 +2,7 @@
 title: "Oppose DREAM Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

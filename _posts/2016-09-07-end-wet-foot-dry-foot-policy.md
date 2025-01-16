@@ -2,7 +2,7 @@
 title: "End 'Wet Foot, Dry Foot' policy"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

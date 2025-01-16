@@ -2,7 +2,7 @@
 title: "I'm an adult"
 layout: post
 categories:
-- Cartoon
+- cartoons
 ---
 
 I think you should pay for your own mortgage, birth control, college loans, food, and cell phones.

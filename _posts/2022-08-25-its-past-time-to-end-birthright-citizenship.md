@@ -2,7 +2,7 @@
 title: "It's past time to end birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - immigration

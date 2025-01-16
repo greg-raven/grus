@@ -2,7 +2,7 @@
 title: "Scrap America's ecological Ponzi scheme"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - Jay Obernolte

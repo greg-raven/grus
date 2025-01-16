@@ -2,7 +2,7 @@
 title: "No special visas for illegals"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barbara Boxer
 - Dianne Feinstein

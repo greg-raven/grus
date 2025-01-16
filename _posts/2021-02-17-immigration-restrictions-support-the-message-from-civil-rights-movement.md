@@ -2,7 +2,7 @@
 title: "Immigration restrictions support the message from Civil Rights movement"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Jay Obernolte

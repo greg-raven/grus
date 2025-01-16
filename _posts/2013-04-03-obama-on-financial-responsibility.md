@@ -2,7 +2,7 @@
 title: "Obama on financial responsibility"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Barack Hussein Obama
 ---

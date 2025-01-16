@@ -2,7 +2,7 @@
 title: "Real security"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Barack Hussein Obama
 - border control

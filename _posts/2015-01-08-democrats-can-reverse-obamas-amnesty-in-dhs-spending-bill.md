@@ -2,7 +2,7 @@
 title: "Democrats can reverse Obama's amnesty in DHS spending bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

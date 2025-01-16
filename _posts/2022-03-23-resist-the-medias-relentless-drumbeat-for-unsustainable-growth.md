@@ -2,7 +2,7 @@
 title: "Resist the media's relentless drumbeat for unsustainable growth"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

@@ -2,7 +2,7 @@
 title: "Sen. Sessions Exposes White House's Role in Border Influx"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

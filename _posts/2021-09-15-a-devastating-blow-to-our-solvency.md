@@ -2,7 +2,7 @@
 title: "A devastating blow to our solvency"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - budget

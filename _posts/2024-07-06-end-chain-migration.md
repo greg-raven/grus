@@ -2,7 +2,7 @@
 title: "End chain migration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Laphonza Butler
 - chain migration

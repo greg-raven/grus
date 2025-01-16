@@ -2,7 +2,7 @@
 title: "Reminder: How Mexico Treats 'Undesirable' Foreigners, by Michelle Malkin"
 layout: post
 categories:
-- Information
+- information
 tags:
 - immigration
 ---

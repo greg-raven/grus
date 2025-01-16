@@ -2,7 +2,7 @@
 title: "Immigration policy sabotaged Earth Day"
 layout: post
 categories:
-- Commentary
+- commentaries
 tags:
 - population
 ---

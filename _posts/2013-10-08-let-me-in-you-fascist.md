@@ -2,7 +2,7 @@
 title: "Let me in, you fascist!"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - amnesty
 - immigration

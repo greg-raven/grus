@@ -2,7 +2,7 @@
 title: "Oppose immigration increases in emergency spending bills"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

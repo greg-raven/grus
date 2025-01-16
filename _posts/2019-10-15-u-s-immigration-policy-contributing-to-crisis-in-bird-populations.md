@@ -2,7 +2,7 @@
 title: "U.S. immigration policy contributing to crisis in bird populations"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - environment
 - immigration

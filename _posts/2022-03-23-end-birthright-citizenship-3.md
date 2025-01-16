@@ -2,7 +2,7 @@
 title: "End Birthright Citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - birthright citizenship
 - Jay Obernolte

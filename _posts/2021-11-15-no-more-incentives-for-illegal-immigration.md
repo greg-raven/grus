@@ -2,7 +2,7 @@
 title: "No more incentives for illegal immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Alex Padilla

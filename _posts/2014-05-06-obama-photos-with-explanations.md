@@ -2,7 +2,7 @@
 title: "Obama photos with explanations"
 layout: post
 categories:
-- Cartoon
+- cartoons
 ---
 
 !["AND THIS IS WHAT YOULL GET IN FOOD STAMPS AND SECTION 8 ONCE YOU GRADUATE."](/assets/img/2014/05/Obama-01.jpg)

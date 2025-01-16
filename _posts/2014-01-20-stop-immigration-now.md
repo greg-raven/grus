@@ -2,7 +2,7 @@
 title: "Stop immigration now"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Barbara Boxer

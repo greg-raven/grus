@@ -2,7 +2,7 @@
 title: "Oppose Democrats' budget reconciliation amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Jay Obernolte

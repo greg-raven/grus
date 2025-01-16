@@ -2,7 +2,7 @@
 title: "The gentle giant"
 layout: post
 categories:
-- Information
+- information
 ---
 
 I realize it's not very timely, but I just received this myself. This is a photo of Michael Brown that he posted on his Facebook page.

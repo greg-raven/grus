@@ -2,7 +2,7 @@
 title: "Heads between knees, brace for impact"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Obama hired back all the Clinton-era officials who caused the housing bust --- so they can do it all over again

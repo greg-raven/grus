@@ -2,7 +2,7 @@
 title: "Dueling headlines: Obama on gun violence"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Barack Hussein Obama
 - gun control

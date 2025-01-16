@@ -2,7 +2,7 @@
 title: "Cosponsor H.R. 319, the Legal Workforce Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - immigration

@@ -2,7 +2,7 @@
 title: "Push E-Verify legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Eric Cantor

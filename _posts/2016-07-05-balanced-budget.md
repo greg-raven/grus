@@ -2,7 +2,7 @@
 title: "Balanced budget?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Apple Valley
 - Councilman Larry Cusack

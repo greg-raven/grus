@@ -2,7 +2,7 @@
 title: "The truly dismal state of the union"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Barack Hussein Obama
 - economy

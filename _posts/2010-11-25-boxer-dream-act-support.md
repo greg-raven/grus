@@ -2,7 +2,7 @@
 title: "DREAM Act support"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

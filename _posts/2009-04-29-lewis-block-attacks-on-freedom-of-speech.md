@@ -2,7 +2,7 @@
 title: "Block attacks on freedom of speech"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Free speech

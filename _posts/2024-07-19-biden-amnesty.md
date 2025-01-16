@@ -2,7 +2,7 @@
 title: "Biden's unconstitutional amnesty worsens border crisis"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

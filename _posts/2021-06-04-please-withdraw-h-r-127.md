@@ -2,7 +2,7 @@
 title: "Please withdraw H.R. 127"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Sheila Jackson Lee

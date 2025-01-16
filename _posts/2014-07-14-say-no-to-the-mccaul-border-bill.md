@@ -2,7 +2,7 @@
 title: "Say NO to the McCaul border bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Immigration hurts minority workers, especially American descendants of slavery"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - immigration

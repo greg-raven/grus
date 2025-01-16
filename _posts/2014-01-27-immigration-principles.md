@@ -2,7 +2,7 @@
 title: "Immigration principles"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

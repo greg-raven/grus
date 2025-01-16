@@ -2,7 +2,7 @@
 title: "Cosponsor H.R. 7833 to end Chain Migration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - chain migration

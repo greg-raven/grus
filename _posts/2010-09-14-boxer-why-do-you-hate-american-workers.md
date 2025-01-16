@@ -2,7 +2,7 @@
 title: "Why do you hate American workers?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Barbara Boxer

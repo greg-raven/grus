@@ -2,7 +2,7 @@
 title: "Strengthen our southern border"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Federal government

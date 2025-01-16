@@ -2,7 +2,7 @@
 title: "That's a good reason why they shouldn't be residents in the first place"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Darrell Issa

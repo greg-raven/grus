@@ -2,7 +2,7 @@
 title: "Tell Congress to end birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - birthright citizenship
 - Dianne Feinstein

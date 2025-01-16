@@ -2,7 +2,7 @@
 title: "Vote NO on H.R. 6 no-strings amnesty for 4 million illegal aliens"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

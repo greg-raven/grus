@@ -2,7 +2,7 @@
 title: "Oppose GOP leadership's new immigration push"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

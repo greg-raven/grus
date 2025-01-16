@@ -2,7 +2,7 @@
 title: "Dueling headlines: Obamacare edition"
 layout: post
 categories:
-- Commentary
+- commentaries
 tags:
 - Obamacare
 - Nancy Pelosi

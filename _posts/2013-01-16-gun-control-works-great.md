@@ -2,7 +2,7 @@
 title: "Gun control works great ..."
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - gun control
 ---

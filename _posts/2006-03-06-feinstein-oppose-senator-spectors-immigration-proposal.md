@@ -2,7 +2,7 @@
 title: "Oppose Senator Spector's immigration proposal"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

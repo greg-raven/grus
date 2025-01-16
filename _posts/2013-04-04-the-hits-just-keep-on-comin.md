@@ -2,7 +2,7 @@
 title: "The hits just keep on comin'"
 layout: post
 categories:
-- Information
+- information
 ---
 
 You can almost hear Jay Carney shrugging away the bad news, reminding everyone that this must be what people want because we live in a democracy and this is what people voted for when they re-elected Obama.

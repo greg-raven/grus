@@ -2,7 +2,7 @@
 title: "Why John McCain?"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - politics
 - "Hillary Clinton"

@@ -2,7 +2,7 @@
 title: "Federal representatives: No more debt!"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Federal government
 ---

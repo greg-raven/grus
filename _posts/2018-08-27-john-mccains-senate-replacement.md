@@ -2,7 +2,7 @@
 title: "John McCain's Senate replacement"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Doug Ducey
 ---

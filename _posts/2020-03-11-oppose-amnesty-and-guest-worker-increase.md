@@ -2,7 +2,7 @@
 title: "Oppose amnesty and guest worker increase"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

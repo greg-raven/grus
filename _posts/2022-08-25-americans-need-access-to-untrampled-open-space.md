@@ -2,7 +2,7 @@
 title: "Americans need access to untrampled open space"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - illegal immigration

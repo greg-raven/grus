@@ -2,7 +2,7 @@
 title: "Do you support further illegal amnesties?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

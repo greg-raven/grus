@@ -2,7 +2,7 @@
 title: "Facebook and Google lied to us"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Internet
 - Paul Cook

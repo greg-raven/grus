@@ -2,7 +2,7 @@
 title: "Democrats should not use immigration to cut wages"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - E-Verify

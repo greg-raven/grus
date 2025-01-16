@@ -2,7 +2,7 @@
 title: "Oppose birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - birthright citizenship
 - Paul Cook

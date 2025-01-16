@@ -2,7 +2,7 @@
 title: "House needs to get behind birthright citizenship legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

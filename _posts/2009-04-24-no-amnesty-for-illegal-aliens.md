@@ -2,7 +2,7 @@
 title: "No amnesty for illegal aliens"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Dianne Feinstein

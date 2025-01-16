@@ -2,7 +2,7 @@
 title: "EPA and greenhouse gases"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Anthony Adams
 - Barack Hussein Obama

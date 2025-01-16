@@ -2,7 +2,7 @@
 title: "Migrant surges worsen our housing crisis"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - illegal immigration

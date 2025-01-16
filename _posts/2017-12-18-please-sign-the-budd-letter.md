@@ -2,7 +2,7 @@
 title: "Please sign the Budd Letter"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

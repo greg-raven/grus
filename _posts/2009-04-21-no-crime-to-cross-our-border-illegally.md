@@ -2,7 +2,7 @@
 title: "No crime to cross our border illegally?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Janet Napolitano

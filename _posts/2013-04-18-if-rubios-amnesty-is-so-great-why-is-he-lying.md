@@ -2,7 +2,7 @@
 title: "If Rubio's amnesty is so great, why is he lying?"
 layout: post
 categories:
-- Information
+- information
 tags:
 - amnesty
 ---

@@ -2,7 +2,7 @@
 title: "Stop Judge David Hamilton now"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - judiciary
 - Barbara Boxer

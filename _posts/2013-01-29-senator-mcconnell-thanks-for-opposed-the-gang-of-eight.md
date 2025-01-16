@@ -2,7 +2,7 @@
 title: "Thanks for opposing the Gang of Eight"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - immigration

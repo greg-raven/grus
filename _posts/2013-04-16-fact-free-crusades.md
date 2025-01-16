@@ -2,7 +2,7 @@
 title: "Sowell: Fact-Free Crusades"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Thomas Sowell
 ---

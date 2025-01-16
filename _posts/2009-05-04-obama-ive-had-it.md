@@ -2,7 +2,7 @@
 title: "I've had it with you and your administration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 ---

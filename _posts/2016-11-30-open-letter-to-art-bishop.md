@@ -2,7 +2,7 @@
 title: "Open letter to Art Bishop"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Apple Valley
 - Councilman Art Bishop

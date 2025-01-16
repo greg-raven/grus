@@ -2,7 +2,7 @@
 title: "We need E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Barbara Boxer

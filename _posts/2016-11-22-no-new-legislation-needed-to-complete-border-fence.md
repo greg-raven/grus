@@ -2,7 +2,7 @@
 title: "No new legislation needed to complete border fence"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Why abortion must be legalized"
 layout: post
 categories:
-- Information
+- information
 tags:
 - abortion
 ---

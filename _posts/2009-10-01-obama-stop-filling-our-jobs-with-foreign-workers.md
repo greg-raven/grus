@@ -2,7 +2,7 @@
 title: "Stop filling our jobs with foreign workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - immigration

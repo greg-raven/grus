@@ -2,7 +2,7 @@
 title: "Don't undercut U.S. workers through immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

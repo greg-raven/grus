@@ -2,7 +2,7 @@
 title: "Dueling headlines: Joshua Tree edition"
 layout: post
 categories:
-- Information
+- information
 tags:
 - environment
 ---

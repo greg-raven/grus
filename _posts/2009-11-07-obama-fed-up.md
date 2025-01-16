@@ -2,7 +2,7 @@
 title: "Fed up with spending and debt"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - national debt

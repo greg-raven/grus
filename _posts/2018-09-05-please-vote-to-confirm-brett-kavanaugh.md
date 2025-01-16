@@ -2,7 +2,7 @@
 title: "Please vote to confirm Brett Kavanaugh"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - judiciary
 - Dianne Feinstein

@@ -2,7 +2,7 @@
 title: "Support constitutional carry reciprocity legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Paul Cook

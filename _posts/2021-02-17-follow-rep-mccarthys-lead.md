@@ -2,7 +2,7 @@
 title: "Follow Rep. McCarthy's Lead"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Jay Obernolte

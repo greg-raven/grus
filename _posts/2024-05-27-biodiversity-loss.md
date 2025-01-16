@@ -2,7 +2,7 @@
 title: "America's biodiversity loss"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

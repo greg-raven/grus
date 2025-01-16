@@ -2,7 +2,7 @@
 title: "Keep up the good work"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Brad Sherman

@@ -2,7 +2,7 @@
 title: "Meadows/Jordan Amendments would fund border security and prevent future caravans"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Paul Cook

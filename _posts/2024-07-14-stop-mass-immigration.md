@@ -2,7 +2,7 @@
 title: "Mass immigration causes Black Americans to lose jobs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

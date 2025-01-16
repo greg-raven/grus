@@ -2,7 +2,7 @@
 title: "Don't issue those 35k additional H-2B visas"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Donald Trump

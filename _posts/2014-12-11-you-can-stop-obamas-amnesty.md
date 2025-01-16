@@ -2,7 +2,7 @@
 title: "You can stop Obama's amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - John Boehner

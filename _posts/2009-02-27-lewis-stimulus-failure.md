@@ -2,7 +2,7 @@
 title: "Stimulus failure"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Lewis
 - stimulus

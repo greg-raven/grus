@@ -2,7 +2,7 @@
 title: "Co-sponsor H.R. 1100 to end the visa lottery!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

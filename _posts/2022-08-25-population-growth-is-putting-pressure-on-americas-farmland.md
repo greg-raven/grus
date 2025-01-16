@@ -2,7 +2,7 @@
 title: "Population growth is putting pressure on America's farmland"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - illegal immigration

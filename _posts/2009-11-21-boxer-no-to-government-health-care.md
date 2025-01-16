@@ -2,7 +2,7 @@
 title: "No to government 'health care'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Obamacare
 - Barbara Boxer

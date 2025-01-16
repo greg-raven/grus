@@ -2,7 +2,7 @@
 title: "H-2B increases would abandon blue-collar workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

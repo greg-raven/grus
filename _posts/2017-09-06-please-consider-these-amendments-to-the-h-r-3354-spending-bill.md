@@ -2,7 +2,7 @@
 title: "Please consider these amendments to the H.R. 3354 spending bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - national security
 - Paul Cook

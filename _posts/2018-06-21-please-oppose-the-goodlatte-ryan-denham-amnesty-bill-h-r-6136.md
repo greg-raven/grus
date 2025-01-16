@@ -2,7 +2,7 @@
 title: "Please oppose the Goodlatte-Ryan-Denham amnesty bill (H.R. 6136)"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

@@ -2,7 +2,7 @@
 title: "Force Biden to secure the border"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

@@ -2,7 +2,7 @@
 title: "Veto all gun control bills"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Brown
 - gun control

@@ -2,7 +2,7 @@
 title: "Congress must lower immigration numbers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - environment

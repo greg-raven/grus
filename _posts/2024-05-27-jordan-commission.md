@@ -2,7 +2,7 @@
 title: "Jordan Commission's Recommendations"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

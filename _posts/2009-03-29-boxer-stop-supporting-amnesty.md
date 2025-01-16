@@ -2,7 +2,7 @@
 title: "Stop supporting amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

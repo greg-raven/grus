@@ -2,7 +2,7 @@
 title: "Senator Jeff Sessions comments on new admin immigration order bypassing Congress"
 layout: post
 categories:
-- Information
+- information
 tags:
 - amnesty
 - immigration

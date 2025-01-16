@@ -2,7 +2,7 @@
 title: "No DACA amnesty; E-Verify instead"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Dianne Feinstein

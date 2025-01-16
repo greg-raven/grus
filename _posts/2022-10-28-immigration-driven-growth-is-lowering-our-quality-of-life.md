@@ -2,7 +2,7 @@
 title: "Immigration-driven growth is lowering our quality of life."
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

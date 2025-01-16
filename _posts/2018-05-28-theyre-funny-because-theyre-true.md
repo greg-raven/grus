@@ -2,7 +2,7 @@
 title: "They're funny because they're true"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - "Barack Hussein Obama"
 - "Hillary Clinton"

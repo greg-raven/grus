@@ -2,7 +2,7 @@
 title: "We need yet more birth control"
 layout: post
 categories:
-- Commentary
+- commentaries
 tags:
 - Barack Hussein Obama
 ---

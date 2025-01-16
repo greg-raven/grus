@@ -2,7 +2,7 @@
 title: "Put American workers first"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - child labor
 - Jay Obernolte

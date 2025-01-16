@@ -2,7 +2,7 @@
 title: "Please cosponsor and vote for H.R. 4980"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

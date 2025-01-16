@@ -2,7 +2,7 @@
 title: "No executive amnesties"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Jerry Lewis

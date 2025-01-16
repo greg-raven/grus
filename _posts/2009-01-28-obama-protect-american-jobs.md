@@ -2,7 +2,7 @@
 title: "Protect American jobs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - chain migration

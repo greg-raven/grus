@@ -2,7 +2,7 @@
 title: "End birthright citizenship"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 ---

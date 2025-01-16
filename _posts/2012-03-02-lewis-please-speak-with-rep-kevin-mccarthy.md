@@ -2,7 +2,7 @@
 title: "Please speak with Rep. Kevin McCarthy"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - economy

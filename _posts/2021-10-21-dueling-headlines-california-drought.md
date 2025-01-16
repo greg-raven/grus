@@ -2,7 +2,7 @@
 title: "Dueling headlines: California drought edition"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Then:

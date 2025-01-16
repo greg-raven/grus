@@ -2,7 +2,7 @@
 title: "Sensible immigration policy"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

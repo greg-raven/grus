@@ -2,7 +2,7 @@
 title: "SB 1384 --- Letter of opposition"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Thurston Smith
 - gun control

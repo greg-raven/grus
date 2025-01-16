@@ -2,7 +2,7 @@
 title: "End the 'Optional Practical Training' program"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

@@ -2,7 +2,7 @@
 title: "Dueling headlines: Climate change edition"
 layout: post
 categories:
-- Information
+- information
 tags:
 - environment
 ---

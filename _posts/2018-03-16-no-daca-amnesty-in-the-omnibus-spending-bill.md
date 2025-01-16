@@ -2,7 +2,7 @@
 title: "No DACA amnesty in the omnibus spending bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

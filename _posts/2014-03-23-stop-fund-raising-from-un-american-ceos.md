@@ -2,7 +2,7 @@
 title: "Stop fund-raising from un-American CEOs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Robert Goodlatte

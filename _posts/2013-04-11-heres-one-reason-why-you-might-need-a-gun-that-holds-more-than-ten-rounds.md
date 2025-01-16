@@ -2,7 +2,7 @@
 title: "Here's one reason why you might need a gun that holds more than ten rounds"
 layout: post
 categories:
-- Information
+- information
 ---
 
 >National Field Marshal for the New Black Panthers King Samir Shabazz who was caught on video tape allegedly intimidating voters in Philadelphia in 08 is now in charge of the New Black Panthers plan to create inner city militaries that would go into nurseries and kill white babies and murder white people n the street.

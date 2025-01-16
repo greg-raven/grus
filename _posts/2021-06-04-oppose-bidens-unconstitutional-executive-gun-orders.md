@@ -2,7 +2,7 @@
 title: "Oppose Biden's unconstitutional executive gun orders"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Jay Obernolte

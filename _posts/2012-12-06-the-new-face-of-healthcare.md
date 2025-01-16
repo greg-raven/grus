@@ -2,7 +2,7 @@
 title: "The new face of healthcare"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Obamacare
 ---

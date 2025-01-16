@@ -2,7 +2,7 @@
 title: "Support the CLEAR Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Lewis
 ---

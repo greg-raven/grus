@@ -2,7 +2,7 @@
 title: "Support the Legal Workforce Act and mandate E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Paul Cook

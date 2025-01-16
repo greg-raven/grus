@@ -2,7 +2,7 @@
 title: "E-Verify will help restore order at the border"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - immigration

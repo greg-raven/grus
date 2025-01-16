@@ -2,7 +2,7 @@
 title: "Please work with Congress to save America's wilderness and biodiversity"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - environment

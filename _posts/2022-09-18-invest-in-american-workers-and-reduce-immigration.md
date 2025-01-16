@@ -2,7 +2,7 @@
 title: "Invest in American workers and reduce immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

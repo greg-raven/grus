@@ -2,7 +2,7 @@
 title: "Your guide to photo I.D."
 layout: post
 categories:
-- Information
+- information
 tags:
 - race relations
 ---

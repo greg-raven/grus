@@ -2,7 +2,7 @@
 title: "Cosponsor the SHORT Act!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Alex Padilla

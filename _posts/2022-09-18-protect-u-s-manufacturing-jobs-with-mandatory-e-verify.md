@@ -2,7 +2,7 @@
 title: "Protect U.S. manufacturing jobs with mandatory E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - E-Verify

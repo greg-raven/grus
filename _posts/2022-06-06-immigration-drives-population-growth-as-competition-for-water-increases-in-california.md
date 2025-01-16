@@ -2,7 +2,7 @@
 title: "Immigration drives population growth as competition for water increases in California"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - illegal immigration

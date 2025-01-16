@@ -2,7 +2,7 @@
 title: "Any border legislation must close asylum loopholes and mandate E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - immigration

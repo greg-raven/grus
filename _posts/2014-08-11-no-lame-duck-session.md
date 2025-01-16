@@ -2,7 +2,7 @@
 title: "No lame duck session"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barbara Boxer
 - Dianne Feinstein

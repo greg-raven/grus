@@ -2,7 +2,7 @@
 title: "Stop the catch-and-release shell game --- reestablish the Migration Protection Protocols!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - illegal aliens

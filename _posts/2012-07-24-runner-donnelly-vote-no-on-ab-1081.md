@@ -2,7 +2,7 @@
 title: "Vote no on A.B. 1081"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Tim Donnelly
 - California

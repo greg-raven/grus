@@ -2,7 +2,7 @@
 title: "Oppose the Gang of Eight's immigration 'reform' bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barbara Boxer
 - Dianne Feinstein

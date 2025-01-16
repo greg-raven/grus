@@ -2,7 +2,7 @@
 title: "McCaul border bill won't secure the border"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - national security

@@ -2,7 +2,7 @@
 title: "Support E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Barbara Boxer

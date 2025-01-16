@@ -2,7 +2,7 @@
 title: "Government hypocrisy"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Ben Stein
 - Obamacare

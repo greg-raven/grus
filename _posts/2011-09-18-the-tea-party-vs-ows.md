@@ -2,7 +2,7 @@
 title: "The Tea Party vs Occupy Wall Street"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - media bias
 ---

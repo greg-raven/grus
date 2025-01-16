@@ -2,7 +2,7 @@
 title: "Cosponsor H.R. 6206, the American Tech Workforce Act of 2021"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Jay Obernolte

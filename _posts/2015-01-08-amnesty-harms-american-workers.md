@@ -2,7 +2,7 @@
 title: "Amnesty harms American workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barack Hussein Obama

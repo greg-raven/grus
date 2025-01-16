@@ -2,7 +2,7 @@
 title: "Reject H.R. 1454 --- an extremely anti-gun bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Jay Obernolte

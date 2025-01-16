@@ -2,7 +2,7 @@
 title: "Oppose S.B. 249"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Tim Donnelly
 - California

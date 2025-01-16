@@ -2,7 +2,7 @@
 title: "Audit the Federal Reserve Bank"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal Reserve
 - Jerry Lewis

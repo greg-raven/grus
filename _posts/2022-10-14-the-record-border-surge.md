@@ -2,7 +2,7 @@
 title: "The record border surge"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - immigration

@@ -2,7 +2,7 @@
 title: "Reopen California"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - economy
 - Gavin Newsom

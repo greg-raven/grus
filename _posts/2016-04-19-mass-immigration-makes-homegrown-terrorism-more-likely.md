@@ -2,7 +2,7 @@
 title: "Mass immigration makes homegrown terrorism more likely"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - national security

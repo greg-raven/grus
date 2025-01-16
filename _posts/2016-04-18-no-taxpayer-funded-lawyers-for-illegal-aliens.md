@@ -2,7 +2,7 @@
 title: "No taxpayer-funded lawyers for illegal aliens"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Paul Cook

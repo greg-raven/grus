@@ -2,7 +2,7 @@
 title: "Oppose Schumer amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Federal government

@@ -2,7 +2,7 @@
 title: "We need a pro-worker immigration policy"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

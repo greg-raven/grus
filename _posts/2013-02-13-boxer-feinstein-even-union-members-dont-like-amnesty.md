@@ -2,7 +2,7 @@
 title: "Even union members don't like amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

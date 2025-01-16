@@ -2,7 +2,7 @@
 title: "Environmental stewardship loses to immigration-driven population growth"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - environment

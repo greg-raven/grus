@@ -2,7 +2,7 @@
 title: "Social cohesion is being lost in our expanding cities."
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - illegal aliens

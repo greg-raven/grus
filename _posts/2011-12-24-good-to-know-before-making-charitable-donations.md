@@ -2,7 +2,7 @@
 title: "Good to know before making charitable donations"
 layout: post
 categories:
-- Information
+- information
 tags:
 - charity
 ---

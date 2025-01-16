@@ -2,7 +2,7 @@
 title: "Republican losses"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jerry Lewis
 ---

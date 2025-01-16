@@ -2,7 +2,7 @@
 title: "High immigration caused middle class wages to drop"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

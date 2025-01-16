@@ -2,7 +2,7 @@
 title: "Help end chain migration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

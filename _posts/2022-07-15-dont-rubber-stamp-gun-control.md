@@ -2,7 +2,7 @@
 title: "Don't rubber-stamp gun control"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Alex Padilla

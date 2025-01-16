@@ -2,7 +2,7 @@
 title: "No amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Dianne Feinstein
 - Barbara Boxer

@@ -2,7 +2,7 @@
 title: "Thank you for opposing Canterbury"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Benjamin Sasse

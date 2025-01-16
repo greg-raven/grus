@@ -2,7 +2,7 @@
 title: "The Harris Poll"
 layout: post
 categories:
-- Memes
+- memes
 ---
 
 ![Thanks Joe!](/assets/img/2020/09/harris-13.png "Thanks Joe!")

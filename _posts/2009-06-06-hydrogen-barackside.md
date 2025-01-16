@@ -2,7 +2,7 @@
 title: "Hydrogen Barackside"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Barack Hussein Obama
 ---

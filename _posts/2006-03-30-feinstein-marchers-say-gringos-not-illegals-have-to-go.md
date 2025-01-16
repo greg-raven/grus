@@ -2,7 +2,7 @@
 title: "Marchers say gringos, not illegals, have to go"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - immigration

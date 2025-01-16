@@ -2,7 +2,7 @@
 title: "My 'amnesty' proposal"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - immigration

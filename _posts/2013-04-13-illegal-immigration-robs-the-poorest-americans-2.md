@@ -2,7 +2,7 @@
 title: "Illegal immigration robs the poorest Americans"
 layout: post
 categories:
-- Information
+- information
 tags:
 - immigration
 - Tom Tancredo

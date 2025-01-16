@@ -2,7 +2,7 @@
 title: "2nd Amendment: Guaranteeing all our other freedoms"
 layout: post
 categories:
-- Information
+- information
 tags:
 - gun control
 ---

@@ -2,7 +2,7 @@
 title: "Disappointing vote in favor of guestworker amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Federal government
 - Dianne Feinstein

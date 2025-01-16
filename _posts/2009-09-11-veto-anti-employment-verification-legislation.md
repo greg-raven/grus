@@ -2,7 +2,7 @@
 title: "Veto anti-employment verification legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Arnold Schwarzenegger

@@ -2,7 +2,7 @@
 title: "Federal policy is exacerbating Southwest water shortages."
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

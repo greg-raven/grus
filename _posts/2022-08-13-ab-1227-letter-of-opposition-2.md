@@ -2,7 +2,7 @@
 title: "A.B. 1227 --- Letter of opposition"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Thurston Smith
 - gun control

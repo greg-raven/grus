@@ -2,7 +2,7 @@
 title: "Big business bragging that amnesty vote imminent"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

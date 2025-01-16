@@ -2,7 +2,7 @@
 title: "Supporting sanctuaries of crime and violence"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Barbara Boxer

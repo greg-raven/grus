@@ -2,7 +2,7 @@
 title: "We need E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - population

@@ -2,7 +2,7 @@
 title: "No state benefits for illegals"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Gil Cedillo
 - California

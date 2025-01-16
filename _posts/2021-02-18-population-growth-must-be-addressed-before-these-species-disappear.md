@@ -2,7 +2,7 @@
 title: "Population growth must be addressed before these species disappear"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

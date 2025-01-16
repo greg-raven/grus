@@ -2,7 +2,7 @@
 title: "Dueling headlines: Citizens can be jailed indefinitely, illegal aliens never"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Editorial: Judge, jails right on immigration

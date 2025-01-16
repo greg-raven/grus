@@ -2,7 +2,7 @@
 title: "Dueling headlines: Remain in Mexico edition"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Joe Biden
 ---

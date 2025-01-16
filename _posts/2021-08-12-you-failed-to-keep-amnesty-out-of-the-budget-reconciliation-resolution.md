@@ -2,7 +2,7 @@
 title: "You failed to keep amnesty out of the budget reconciliation resolution"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Dianne Feinstein

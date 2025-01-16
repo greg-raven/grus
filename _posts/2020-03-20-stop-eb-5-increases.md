@@ -2,7 +2,7 @@
 title: "Stop EB-5 increases"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

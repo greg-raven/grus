@@ -2,7 +2,7 @@
 title: "Support the Border Security Caucus"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

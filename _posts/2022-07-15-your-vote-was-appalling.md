@@ -2,7 +2,7 @@
 title: "Your vote was appalling"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Jay Obernolte

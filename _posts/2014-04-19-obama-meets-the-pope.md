@@ -2,7 +2,7 @@
 title: "Obama meets the Pope"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - Barack Hussein Obama
 - Obamacare

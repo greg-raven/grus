@@ -2,7 +2,7 @@
 title: "Stop work permits for illegals"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - border control

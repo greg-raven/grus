@@ -2,7 +2,7 @@
 title: "Hope for America"
 layout: post
 categories:
-- Opinion
+- opinions
 tags:
 - Barack Hussein Obama
 - politics

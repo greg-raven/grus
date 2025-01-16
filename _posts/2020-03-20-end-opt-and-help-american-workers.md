@@ -2,7 +2,7 @@
 title: "End OPT and help American workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

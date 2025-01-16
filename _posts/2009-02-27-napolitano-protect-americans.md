@@ -2,7 +2,7 @@
 title: "Protect Americans"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Janet Napolitano

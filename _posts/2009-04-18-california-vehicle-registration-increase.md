@@ -2,7 +2,7 @@
 title: "California vehicle registration increase"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Anthony Adams
 - California

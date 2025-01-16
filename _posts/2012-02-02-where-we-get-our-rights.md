@@ -2,7 +2,7 @@
 title: "Where we get our rights"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - rights
 ---

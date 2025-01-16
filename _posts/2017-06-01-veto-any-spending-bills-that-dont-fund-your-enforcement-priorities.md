@@ -2,7 +2,7 @@
 title: "Veto any spending bills that don't fund your enforcement priorities"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - Donald Trump

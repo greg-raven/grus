@@ -2,7 +2,7 @@
 title: "Obama's lies"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Barack Hussein Obama
 ---

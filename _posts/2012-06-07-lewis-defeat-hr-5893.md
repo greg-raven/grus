@@ -2,7 +2,7 @@
 title: "Defeat H.R. 5893"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - economy
 - Jerry Lewis

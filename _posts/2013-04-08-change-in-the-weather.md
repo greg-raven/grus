@@ -2,7 +2,7 @@
 title: "Change in the weather"
 layout: post
 categories:
-- Opinion
+- opinions
 ---
 
 ![Time-The-Coming-Ice-Age](/assets/img/2013/04/Time-The-Coming-Ice-Age.jpg)

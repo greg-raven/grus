@@ -2,7 +2,7 @@
 title: "The One Number You Need to Know in O's Budget"
 layout: post
 categories:
-- Information
+- information
 tags:
 - budget
 - Kevin D. Williamson

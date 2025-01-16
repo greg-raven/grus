@@ -2,7 +2,7 @@
 title: "Support a refugee moratorium"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - refugees

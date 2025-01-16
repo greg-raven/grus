@@ -2,7 +2,7 @@
 title: "The environment suffers as population rises"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - illegal immigration

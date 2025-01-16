@@ -2,7 +2,7 @@
 title: "Oppose H.R.6, the Democrats' amnesty bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

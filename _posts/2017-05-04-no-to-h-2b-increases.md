@@ -2,7 +2,7 @@
 title: "NO to H-2B increases!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Paul Cook

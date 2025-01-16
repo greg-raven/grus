@@ -2,7 +2,7 @@
 title: "Immigration policies add further strain to groundwater supplies"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Laphonza Butler
 - illegal immigration

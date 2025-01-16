@@ -2,7 +2,7 @@
 title: "Oppose making temporary work visas permanent"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - immigration

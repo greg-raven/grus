@@ -2,7 +2,7 @@
 title: "Oppose the $26 billion DREAM Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - chain migration

@@ -2,7 +2,7 @@
 title: "California business taxes"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Anthony Adams
 - George Runner

@@ -2,7 +2,7 @@
 title: "Push Congress to mandate E-Verify"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Donald Trump

@@ -2,7 +2,7 @@
 title: "Defend PLCAA protections"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Jay Obernolte

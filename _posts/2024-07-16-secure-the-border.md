@@ -2,7 +2,7 @@
 title: "Encourage the Biden administration to secure the border and enforce the law to end the border crisis"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

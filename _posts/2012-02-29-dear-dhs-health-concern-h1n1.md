@@ -2,7 +2,7 @@
 title: "Health Concern + H1N1"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - DHS
 - national security

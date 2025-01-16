@@ -2,7 +2,7 @@
 title: "Biden-Harris 'root causes' approach has failed"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Jay Obernolte
 - Alex Padilla

@@ -2,7 +2,7 @@
 title: "Vote NO on H.R. 3648, the EAGLE Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

@@ -2,7 +2,7 @@
 title: "Thank you for supporting the Second Amendment"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

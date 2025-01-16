@@ -2,7 +2,7 @@
 title: "Pass the RAISE Act to increase real wages"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

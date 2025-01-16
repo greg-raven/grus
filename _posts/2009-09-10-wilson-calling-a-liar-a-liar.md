@@ -2,7 +2,7 @@
 title: "Wilson: Calling a liar a liar"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Joe Wilson

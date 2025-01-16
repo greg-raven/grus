@@ -2,7 +2,7 @@
 title: "Secure our border now!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal immigration
 - Alex Padilla

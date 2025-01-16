@@ -2,7 +2,7 @@
 title: "Cosponsor legislation to close immigration loopholes"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

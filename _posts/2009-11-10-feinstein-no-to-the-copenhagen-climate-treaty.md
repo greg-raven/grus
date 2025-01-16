@@ -2,7 +2,7 @@
 title: "No to the Copenhagen Climate Treaty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - environment
 - Barbara Boxer

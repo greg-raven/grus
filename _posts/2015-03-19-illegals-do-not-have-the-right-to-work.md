@@ -2,7 +2,7 @@
 title: "Illegals do NOT have the right to work"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Barbara Boxer

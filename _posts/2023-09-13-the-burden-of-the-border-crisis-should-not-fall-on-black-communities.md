@@ -2,7 +2,7 @@
 title: "The burden of the border crisis should not fall on black communities"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - chain migration

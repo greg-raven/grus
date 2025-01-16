@@ -2,7 +2,7 @@
 title: "A petition to repeal the 2nd Amendment (college edition)"
 layout: post
 categories:
-- Video
+- Videos
 format: video
 ---
 

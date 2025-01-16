@@ -2,7 +2,7 @@
 title: "Oppose ATF nominee David Chipman"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Dianne Feinstein

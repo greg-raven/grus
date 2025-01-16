@@ -2,7 +2,7 @@
 title: "Stop Obama's 'Abortion Czar'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - abortion
 - Barbara Boxer

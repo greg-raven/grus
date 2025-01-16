@@ -2,7 +2,7 @@
 title: "We cannot achieve a sustainable population with current immigration levels"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - environment

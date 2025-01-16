@@ -2,7 +2,7 @@
 title: "Is Obama a citizen?"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Jerry Lewis

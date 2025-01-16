@@ -2,7 +2,7 @@
 title: "Help Democratic cities by securing the border"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Alex Padilla

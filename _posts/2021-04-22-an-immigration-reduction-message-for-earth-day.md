@@ -2,7 +2,7 @@
 title: "An immigration-reduction message for Earth Day"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - population

@@ -2,7 +2,7 @@
 title: "Obama: 'We Noticed'"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - Federal government

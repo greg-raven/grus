@@ -2,7 +2,7 @@
 title: "Moral relativism and 'gun control'"
 layout: post
 categories:
-- Information
+- information
 tags:
 - gun control
 ---

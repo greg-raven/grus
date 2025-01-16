@@ -2,7 +2,7 @@
 title: "Please oppose new gun control legislation"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - gun control
 - Paul Cook

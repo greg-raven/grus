@@ -2,7 +2,7 @@
 title: "Oppose immigration provisions in the COMPETES Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - jobs

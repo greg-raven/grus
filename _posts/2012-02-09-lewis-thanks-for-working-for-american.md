@@ -2,7 +2,7 @@
 title: "Thanks for working for America"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - chain migration
 - Jerry Lewis

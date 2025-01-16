@@ -2,7 +2,7 @@
 title: "Block S.B. 54 from passage"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Anthony Rendon
 - illegal aliens

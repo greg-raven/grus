@@ -2,7 +2,7 @@
 title: "Dueling headlines: Baby formula edition"
 layout: post
 categories:
-- Information
+- information
 ---
 
 First:

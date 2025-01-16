@@ -2,7 +2,7 @@
 title: "People not in labor force soar to 90 million"
 layout: post
 categories:
-- Information
+- information
 ---
 
 Things just keep getting worse for the American worker, and by implication U.S. economy, where as we have shown many times before, it pays just as well to sit back and collect disability and various welfare and entitlement checks, than to work.

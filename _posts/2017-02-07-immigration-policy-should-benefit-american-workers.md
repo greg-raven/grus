@@ -2,7 +2,7 @@
 title: "Immigration policy should benefit American workers"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

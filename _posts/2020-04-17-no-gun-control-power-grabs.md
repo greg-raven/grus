@@ -2,7 +2,7 @@
 title: "No gun control power grabs"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - 2nd Amendment
 - Mitch McConnell

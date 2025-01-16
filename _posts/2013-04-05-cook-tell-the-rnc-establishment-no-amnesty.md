@@ -2,7 +2,7 @@
 title: "Tell the RNC establishment --- no amnesty!"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

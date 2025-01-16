@@ -2,7 +2,7 @@
 title: "Evangelicals oppose amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

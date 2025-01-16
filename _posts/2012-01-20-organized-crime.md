@@ -2,7 +2,7 @@
 title: "Organized crime"
 layout: post
 categories:
-- Cartoon
+- cartoons
 tags:
 - corruption
 ---

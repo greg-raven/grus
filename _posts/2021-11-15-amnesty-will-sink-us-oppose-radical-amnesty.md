@@ -2,7 +2,7 @@
 title: "Amnesty will sink us: Oppose radical amnesty"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Alex Padilla

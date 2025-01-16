@@ -2,7 +2,7 @@
 title: "Ready for hope and change"
 layout: post
 categories:
-- Cartoon
+- cartoons
 ---
 
 Ready for hope and change. And you?

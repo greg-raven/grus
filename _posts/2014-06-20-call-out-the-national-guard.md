@@ -2,7 +2,7 @@
 title: "Call out the National Guard"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - border control
 - Jerry Brown

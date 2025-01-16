@@ -2,7 +2,7 @@
 title: "You should have supported Sessions' amendment"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - E-Verify
 - Barbara Boxer

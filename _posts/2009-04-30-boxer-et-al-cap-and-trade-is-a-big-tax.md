@@ -2,7 +2,7 @@
 title: "Cap-and-trade is a big tax"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - Barack Hussein Obama
 - cap-and-trade

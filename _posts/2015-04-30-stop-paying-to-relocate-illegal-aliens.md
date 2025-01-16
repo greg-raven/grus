@@ -2,7 +2,7 @@
 title: "Stop paying to relocate illegal aliens"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - illegal aliens
 - Barbara Boxer

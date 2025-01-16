@@ -2,7 +2,7 @@
 title: "Please cosponsor the RAISE Act"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Paul Cook

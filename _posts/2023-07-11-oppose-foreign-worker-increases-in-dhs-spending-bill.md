@@ -2,7 +2,7 @@
 title: "Oppose foreign worker increases in DHS spending bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - jobs
 - Jay Obernolte

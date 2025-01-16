@@ -2,7 +2,7 @@
 title: "Vote no on the Goodlatte-Ryan-Denham Amnesty bill"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - amnesty
 - Paul Cook

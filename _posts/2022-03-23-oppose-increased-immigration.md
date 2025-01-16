@@ -2,7 +2,7 @@
 title: "Oppose increased immigration"
 layout: post
 categories:
-- Letters
+- letters
 tags:
 - immigration
 - Alex Padilla
