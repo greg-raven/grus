@@ -7,7 +7,6 @@ tags:
 - Jay Obernolte
 - Alex Padilla
 - Laphonza Butler
-- Letters
 ---
 
 Get H.R. 2 signed into law to end the border crisis!

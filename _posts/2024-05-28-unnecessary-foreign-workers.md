@@ -6,7 +6,6 @@ categories:
 tags:
 - Jay Obernolte
 - Alex Padilla
-- Letter
 ---
 
 Don't undercut U.S. workers through immigration!

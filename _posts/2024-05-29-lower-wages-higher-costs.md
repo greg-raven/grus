@@ -7,7 +7,6 @@ tags:
 - Jay Obernolte
 - Alex Padilla
 - Laphonza Butler
-- Letters
 ---
 
 U.S. wages go down while inflation goes up. Send H.R. 2 to Biden.
