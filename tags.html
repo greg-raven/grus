@@ -1,12 +1,10 @@
 ---
-layout: base
+title: Tags
+layout: page
 ---
-
-<h1>Tags</h1>
 
 {% assign tags_sorted = site.tags | sort %}
 {% assign posts_sorted = site.posts | sort: 'title' %}
-
 {% for tagitem in tags_sorted %}
 <!-- for each tag, create an anchor by using the tag name as an id -->
 <div id="{{ tagitem[0] | slugify }}">
