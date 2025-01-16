@@ -3,7 +3,7 @@ title: "What 'gun show loophole'?"
 layout: post
 categories:
 - information
-- Video
+- videos
 ---
 
 The only thing they can't take from you is your ability and willingness to use the guns you have to defend yourself against all enemies, foreign and domestic so make sure YOU ARE TRAINED.

@@ -2,7 +2,8 @@
 title: "Useful idiots sign a petition to repeal the 2nd Amendment"
 layout: post
 categories:
-- Videos
+- videos
+
 format: video
 ---
 

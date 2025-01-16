@@ -2,7 +2,8 @@
 title: "Obama's unsustainable course for our economy"
 layout: post
 categories:
-- Videos
+- videos
+
 tags:
 - Barack Hussein Obama
 - Federal government

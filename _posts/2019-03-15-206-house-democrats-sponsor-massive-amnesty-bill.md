@@ -3,7 +3,7 @@ title: "206 House Democrats sponsor massive amnesty bill"
 layout: post
 categories:
 - commentaries
-- Information
+- information
 tags:
 - chain migration
 - E-Verify
