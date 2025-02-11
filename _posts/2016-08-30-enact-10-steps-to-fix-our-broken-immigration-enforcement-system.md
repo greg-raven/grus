@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The National Association of Retired Border Patrol Officers has endorsed NumbersUSA's 10 Steps to Fixing the Broken Immigration System. I think there's no better authority on the issue of illegal immigration than retired Border Patrol officers. I urge you to take action on these 10 actions to finally end illegal immigration and help get jobless Americans back to work.
@@ -37,3 +34,9 @@ Please pledge to tackle the following priorities in the next Congress in order t
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+
+- Paul Cook
+- Barbara Boxer
+- Dianne Feinstein

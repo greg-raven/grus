@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barb Stanton
 - gun control
 - population
 ---
@@ -26,3 +25,7 @@ Thomas Jefferson is quoted as having said, "[When the people fear their governme
 When you put it all together, it becomes clear that Stanton's goal is not one of public security, but rather one of government superiority. As long as she feels secure, she doesn't really care about the public.
 
 {% include signature.html %}
+
+Sent to:
+
+- Barb Stanton
