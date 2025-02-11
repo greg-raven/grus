@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Frank Bigelow
-- Marc Levine
 ---
 
 As a fellow California resident, I ask you to please oppose Assembly Bills 1223, 1237, and 1509.
@@ -18,3 +16,6 @@ A.B. 1237 mandates that state data, including personally identifying information
 A.B. 1509 reduces penalties and enhancements for the criminal misuse of firearms, ensuring that criminals are not held fully accountable for their actions and allowing them to continue menacing our communities.
 
 {% include signature.html %}
+
+Sent to:
+: Frank Bigelow, Marc Levine

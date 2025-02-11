@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Paul Cook
-- Chuck Grassley
 ---
 
 Oppose the Trump administration's amnesty and guest worker expansion!
@@ -16,3 +14,6 @@ I cannot understand why the president and some Republican Members of Congress ar
 I hope you, your Republican colleagues, and President Trump will not violate the trust that American voters have shown. Please do not support any legislation to amnesty illegal aliens or expand guest worker programs.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Chuck Grassley

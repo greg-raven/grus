@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - E-Verify
-- Eric Cantor
 ---
 
 Thank you for going on Greta Van Susteren and telling America that you care so deeply about what bills Americans want to "cosponsor." I wanted to let you know that I'm "cosponsoring" H.R. 2885, the Legal Workforce Act.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. You swore an oath to protect this country. The only ones attacking our country currently are invaders from south of our southern border. This should provide you with an excellent opportunity to do the job you promised to do.
+
+Sent to:
+: Eric Cantor

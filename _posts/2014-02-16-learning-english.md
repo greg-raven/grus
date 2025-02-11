@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Daily Press
 - education
 - immigration
 ---
@@ -18,3 +17,8 @@ Other than the lunacy of feeding and educating anyone from other countries as lo
 If not, maybe some enterprising attorney should put together a RICO suit against the school system under 8 USC Section 1324, for harboring, aiding, and abetting illegal aliens. You see, it's against the law to do what Nickolaisen proposes.
 
 Of course, if government entities at every level would simply enforce the immigration laws that are already on record, none of this would be necessary.
+
+{% include signature.html %}
+
+Sent to:
+: Victorville Daily Press

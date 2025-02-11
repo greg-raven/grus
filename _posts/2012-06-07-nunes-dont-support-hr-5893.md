@@ -6,7 +6,6 @@ categories:
 tags:
 - economy
 - Federal government
-- Devin Nunes
 ---
 
 It is ridiculous for anyone to propose legislation that would bring more foreign workers into the United States when millions of American STEM workers can't find jobs. Your Startup Act 2.0 is such a piece of ridiculous legislation.
@@ -20,3 +19,6 @@ I hope you will reconsider your support for this legislation. If you don't, it c
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Devin Nunes
