@@ -22,7 +22,7 @@ Phone me if you would like to talk about this.
 
 {% include signature.html %}
 
-cc:
+Sent to:
 
 - Brian Bilbray
 - Dan Lungren

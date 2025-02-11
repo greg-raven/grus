@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - Federal government
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 No more amnesties! Please oppose Sen. Specter's immigration proposal because it includes a major amnesty.
@@ -20,3 +18,8 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I don't know why Bush and other so-called leaders are attempting to destroy our country, but please don't join them. Protect the borders and eject the illegals Now.
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

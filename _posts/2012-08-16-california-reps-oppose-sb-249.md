@@ -4,12 +4,8 @@ layout: post
 categories:
 - letters
 tags:
-- Tim Donnelly
 - California
 - gun control
-- Barbara Boxer
-- Dianne Feinstein
-- Leland Yee
 ---
 
 I am writing you to urge you to join Riverside County Sheriff Stan Sniff, myself, and hundreds of thousands of law abiding California citizen in opposing S.B. 249, which will be presented to the Appropriations Committee today (August 16th, 2012).
@@ -25,6 +21,13 @@ S.B. 249 is neither a fair nor just bill. I ask you to uphold your oath of offic
 Thank you for your time and attention.
 
 {% include signature.html %}
+
+Sent to:
+
+- Tim Donnelly
+- Barbara Boxer
+- Dianne Feinstein
+- Leland Yee
 
 cc:
 

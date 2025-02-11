@@ -7,7 +7,6 @@ tags:
 - border control
 - Federal government
 - national security
-- Dianne Feinstein
 ---
 
 I hope you will use your influence to get a fence built along our border.
@@ -18,3 +17,6 @@ I do hope that you will make border security a top priority this year.
 
 {% include signature.html %}
 
+Sent to:
+
+- Dianne Feinstein

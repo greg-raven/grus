@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - Federal government
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 If you oppose amnesty, you must vote against Sen. Specter's immigration proposal. It is a major illegal-alien amnesty.
@@ -20,3 +18,8 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. No more amnesties! Secure the border! Start interpreting the 14th Amendment correctly! Save our country!
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

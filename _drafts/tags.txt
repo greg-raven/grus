@@ -1,7 +1,8 @@
+TAGS
+====
+
 2nd Amendment
 abortion
-Adam Keigwin
-Adam Schiff
 Alan Lowenthal
 Alex Padilla
 Ami Bera
@@ -85,7 +86,6 @@ Free speech
 FSF
 Gary Miller
 Gary Peters
-Gavin Newsom
 George Bush
 George Miller
 George Runner
@@ -232,7 +232,6 @@ Steven Bradford
 stimulus
 Susan Collins
 Susan Davis
-TAGS
 taxes
 Thomas Sowell
 Thurston Smith
@@ -248,8 +247,6 @@ U.S. Army Corps of Engineers
 U.S. Department of Justice
 United Nations
 visa lottery
-Wally Herger
 websites
 world government
 Xavier Becerra
-Zoe Lofgren

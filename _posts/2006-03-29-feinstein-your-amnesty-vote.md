@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - population
-- Dianne Feinstein
 ---
 
 I can't believe that you, a member of the Senate Judiciary Committee, yesterday voted to give what can only be called blanket amnesty to illegal aliens. You had the choice of tossing out the law-breakers or tossing out our laws. You sided with the law-breakers. You sided with people who don't vote, who don't pay taxes, who are parasites on our infrastructure, and who couldn't care less about us as a country.
@@ -30,3 +29,7 @@ Did you not watch the TV coverage of the protests in Los Angeles yesterday? Firs
 You took an oath of office on becoming a senator, and part of that oath of office was to protect the United States from its enemies, both foreign and domestic. Yesterday, you utterly violated your oath.
 
 {% include signature.html %}
+
+Sent to:
+
+- Dianne Feinstein

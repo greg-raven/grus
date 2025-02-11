@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - DHS
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I learned on CNN yesterday that serious corruption at DHS is threatening national security.
@@ -23,3 +20,9 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. This is further proof that giving up our freedom is not gaining us "security." We must secure our borders and evict illegals!
+
+Sent to:
+
+- Jerry Lewis
+- Barbara Boxer
+- Dianne Feinstein

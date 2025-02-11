@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I am writing to ask you to firmly oppose Sen. Specter's amnesty for illegal aliens.
@@ -24,3 +22,8 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I'm counting on you to help protect our nation.
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

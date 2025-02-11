@@ -6,7 +6,6 @@ categories:
 tags:
 - Federal government
 - population
-- Jerry Lewis
 ---
 
 Our state's two Senators need to take a page out of your book when it comes to passing an enforcement-only immigration bill. Please speak with them.
@@ -22,3 +21,7 @@ A country that cannot control its borders is not really a country. A country tha
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+
+- Jerry Lewis

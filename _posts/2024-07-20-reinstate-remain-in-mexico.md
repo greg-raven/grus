@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - illegal immigration
 - border control
 ---
@@ -22,3 +19,9 @@ Sincerely,
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+
+- Jay Obernolte
+- Alex Padilla
+- Laphonza Butler

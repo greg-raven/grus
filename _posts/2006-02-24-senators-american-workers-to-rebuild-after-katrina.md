@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - Federal government
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I think most of the victims of Hurricane Katrina will tell you that a guest worker program will NOT benefit the American people.
@@ -18,3 +16,8 @@ The Rev. Jesse Jackson decried the situation by saying "What must be clear --- m
 This is what happens when the cheap labor advocates and corporate lobbyists get their way: Our most vulnerable Americans lose their wages, benefits, and security. This is wrong. You have a duty to protect our most vulnerable Americans and you must vote against a guest worker program.
 
 {% include signature.html %}
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

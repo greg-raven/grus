@@ -7,7 +7,6 @@ tags:
 - Federal government
 - immigration
 - population
-- Dianne Feinstein
 ---
 
 I'm sending you this article in case you missed it:
@@ -52,3 +51,7 @@ I'm sending you this article in case you missed it:
 To view this WorldNetDaily item online, visit https://www.worldnetdaily.com/news/article.asp?ARTICLE\_ID=49482
 
 {% include signature.html %}
+
+Sent to:
+
+- Dianne Feinstein

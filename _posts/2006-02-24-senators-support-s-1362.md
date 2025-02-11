@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - Federal government
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is vital that local law enforcement have the ability and funding to work in tandem with federal law enforcement dealing with criminal aliens. That is why I trust you will cosponsor the Homeland Security Enhancement Act of 2005.
@@ -24,3 +22,8 @@ Opponents of giving local police the tools to pick up illegal aliens falsely cla
 The real reason that most people oppose having local police participate in immigration enforcement is that they want illegal aliens to be able to work and live in violation of the law without any fear of prosecution.
 
 {% include signature.html %}
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

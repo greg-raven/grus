@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Adam Schiff
-- Jerrod Nadler
-- Nancy Pelosi
+- impeachment
 ---
 
 I write to oppose the coup that Democrats are pretending is an "impeachment inquiry."
@@ -28,3 +26,9 @@ When I voted for Donald Trump, I suspected he was not perfect but believed he wo
 I urge you in the strongest possible terms to stop this insanity immediately.
 
 {% include signature.html %}
+
+Sent to:
+
+- Adam Schiff
+- Jerrod Nadler
+- Nancy Pelosi

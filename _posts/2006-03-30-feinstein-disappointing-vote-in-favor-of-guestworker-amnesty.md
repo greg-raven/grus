@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - Federal government
-- Dianne Feinstein
 ---
 
 I am not sure why you believe it is good policy to reward illegal aliens with jobs and legal status, but I am totally opposed to it. I'm disappointed in your vote in favor of amnesty-guestworker.
@@ -21,3 +20,7 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If you won't work to secure our borders and expel the illegals now, while there's still time, it will be your fault when the citizens are forced to turn to arms to repel the reconquistas.
+
+Sent to:
+
+- Dianne Feinstein

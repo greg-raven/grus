@@ -6,8 +6,6 @@ categories:
 tags:
 - Federal government
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Your immigration voting record and that of most of your Democratic colleagues is absolutely dismaying. How can you and your colleagues support foreign worker increases when so many Americans cannot find a job?
@@ -23,6 +21,11 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Then we can return to pre-1965 immigration policies.
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein
 
 cc:
 

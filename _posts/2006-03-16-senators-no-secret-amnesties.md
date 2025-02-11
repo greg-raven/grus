@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Open the doors to the Senate Judiciary Committee's secret meeting on amnesties for illegal aliens and let the American citizens know which Senators are responsible for making the right or wrong decisions.
@@ -22,3 +20,8 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. No amnesties! No guest-worker programs! Seal the border and evict the illegals already here. We must do this Now!
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

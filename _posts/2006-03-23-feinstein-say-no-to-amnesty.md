@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Dianne Feinstein
 ---
 
 The people of California are counting on you to oppose amnesty. Just say "NO" to amnesty.
@@ -21,3 +20,7 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Any elected official who does not work to protect our borders is violating his oath of office at the very least. I'm counting on you to keep your word.
+
+Sent to:
+
+- Dianne Feinstein

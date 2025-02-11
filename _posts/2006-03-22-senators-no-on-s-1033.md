@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I'm writing to make sure you fully understand the numeric impact of the McCain-Kennedy immigration proposal, S. 1033. It would add at least 25 million foreign workers and their dependents to our already overcrowded communities over the next ten years.
@@ -22,3 +20,8 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I want NO new immigrants, and NO guest worker plan. Secure our border NOW and evict the criminals who are already here!
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein

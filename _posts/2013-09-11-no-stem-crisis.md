@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I work in the technology industry and I can safely say that there is no shortage of workers in my field. This myth is propagated by those who want to have a steady supply of expendable labor they can hire at lower wages. Please act to reduce this surplus of labor so that all American STEM workers can find well-paying jobs.
@@ -23,6 +21,11 @@ Please look into this situation. Highly-trained American workers deserve to be f
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein
 
 cc:
 

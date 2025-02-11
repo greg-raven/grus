@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - Federal government
-- Jerry Lewis
 ---
 
 Supporting H.R. 2330 suggests that one supports amnesty for illegal aliens. If that is not the case, I suggest you keep your name off this amnesty bill.
@@ -19,3 +18,7 @@ Isn't it time that we learn from our mistakes and begin to pursue policies that 
 Please consider legislation that would increase interior enforcement rather than H.R. 2330 to reward illegal immigration.
 
 {% include signature.html %}
+
+Sent to:
+
+- Jerry Lewis

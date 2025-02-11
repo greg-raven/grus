@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Thank you for standing up for American workers and opposing Sen. Specter's proposal to import a million additional foreign workers each year.
@@ -20,3 +18,8 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We must start protecting our borders, no ifs, ands, or buts.
+
+Sent to:
+
+- Barbara Boxer
+- Dianne Feinstein
