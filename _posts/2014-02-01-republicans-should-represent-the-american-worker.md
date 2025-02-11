@@ -13,4 +13,4 @@ tags:
 
 "Lawmakers must decide who they represent: immigration activists and powerful interests, or millions of struggling and unemployed Americans. Republicans have an opportunity to stand alone as the one party dutifully representing the legitimate interests of the American worker. They should seize it. They should boldly and unapologetically articulate policies that end the lawlessness and advance the national interest."
 
-Senator Jeff Sessions
+Source: Senator Jeff Sessions
