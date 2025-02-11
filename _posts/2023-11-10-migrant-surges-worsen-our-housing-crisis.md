@@ -7,8 +7,6 @@ tags:
 - border control
 - illegal immigration
 - immigration
-- Jay Obernolte
-- Alex Padilla
 ---
 
 - Include H.R. 2 in funding bill.
@@ -26,3 +24,6 @@ Please address our migrant and housing crises by including H.R. 2 in its upcomin
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla

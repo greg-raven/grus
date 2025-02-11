@@ -8,8 +8,6 @@ tags:
 - illegal immigration
 - immigration
 - jobs
-- Jay Obernolte
-- Alex Padilla
 ---
 
 Please work to protect Black worker gains by including by H.R. 2 in any funding bill.
@@ -28,3 +26,5 @@ H.R. 2 includes loophole closures on migrant child releases and E-Verify to end 
 
 {% include immigration.html %}
 
+Sent to:
+: Jay Obernolte, Alex Padilla

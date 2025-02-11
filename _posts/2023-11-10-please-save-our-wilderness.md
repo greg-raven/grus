@@ -8,8 +8,6 @@ tags:
 - environment
 - illegal immigration
 - immigration
-- Jay Obernolte
-- Alex Padilla
 ---
 
 - Reduce America's high population growth.
@@ -23,3 +21,6 @@ The most practical way for America to achieve a more sustainable immigration pol
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla

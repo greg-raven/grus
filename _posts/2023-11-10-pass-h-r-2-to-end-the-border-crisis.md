@@ -7,8 +7,6 @@ tags:
 - border control
 - illegal immigration
 - immigration
-- Jay Obernolte
-- Alex Padilla
 ---
 
 I cannot understand why Congress is considering a massive "border security" funding bill that does not include significant policy changes. Additional supplemental funding will not solve the border crisis, it will just make it easier for the Biden administration to manage the crisis its failed policies have created. This additional funding is intended to allow them to manage the situation better by processing illegal economic migrants more quickly so they can be released into the U.S. in higher numbers. Unfortunately, allowing illegal aliens to enter the U.S. more quickly will only exacerbate the problem by encouraging more illegal economic migrants to cross the border and make fraudulent asylum claims.
@@ -20,3 +18,6 @@ Every policy change enacted by the White House has led to an increase in illegal
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla

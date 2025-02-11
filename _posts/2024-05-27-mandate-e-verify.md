@@ -4,8 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
 - E-Verify
 - jobs
 ---
@@ -17,3 +15,6 @@ Clearly, this is an easy and effective way of putting unemployed Americans and l
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla

@@ -7,8 +7,6 @@ tags:
 - border control
 - illegal immigration
 - immigration
-- Jay Obernolte
-- Alex Padilla
 ---
 
 - We need H.R. 2.
@@ -22,3 +20,6 @@ As you must know, illegal immigration has been hitting historic highs (twice as 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla

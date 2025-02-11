@@ -4,8 +4,8 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
+- immigration
+- jobs
 ---
 
 Don't undercut U.S. workers through immigration!
@@ -19,3 +19,6 @@ I urge you to support U.S. wages and job quality with legislation aimed to at st
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla
