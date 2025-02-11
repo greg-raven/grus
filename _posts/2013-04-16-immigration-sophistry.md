@@ -1,13 +1,11 @@
 ---
-title: "Sowell: Immigration Sophistry"
+title: "Immigration Sophistry"
 layout: post
 categories:
 - information
 tags:
-- Thomas Sowell
+- immigration
 ---
-
-by Thomas Sowell
 
 Most laws are meant to stop people from doing something, and to penalize those who disregard those laws. More generally, laws are meant to protect the society from the law breakers.
 
@@ -19,4 +17,4 @@ On the other hand, if an ordinary American citizen breaks a law, no one cares if
 
 No cities announce that they will provide "sanctuary," so that American shoplifters, or even jay-walkers, will be protected from the law. But, in some places, illegal immigrants are treated almost as if they were in a witness protection program.
 
-[Read the full article here](https://www.creators.com/read/thomas-sowell/04/13/immigration-sophistry).
+Source: [Thomas Sowell](https://www.creators.com/read/thomas-sowell/04/13/immigration-sophistry).

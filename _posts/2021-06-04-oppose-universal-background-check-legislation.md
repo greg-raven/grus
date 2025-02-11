@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I am writing to you today to alert you to legislation which would severely infringe on the rights of law-abiding gun owners. As a supporter of the Firearms Policy Coalition (FPC), I strongly oppose these bills.
@@ -20,3 +18,6 @@ As criminals do not submit to background checks, all this proposed legislation w
 That's why I respectfully urge you to vote NO on any attempt to pass H.R. 8, H.R. 1446 or S. 529.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

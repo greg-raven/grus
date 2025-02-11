@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - Thurston Smith
-- gun control
+- 2nd Amendment
 ---
 
 I am writing in strong opposition to S.B. 918, which will make significant changes to Concealed Carry Weapons (CCW) procedures that will do nothing but complicate the process and increase the costs of obtaining a permit by law-abiding citizens. It is apparent that this bill is an attempt to circumvent the ruling from the United States Supreme Court in New York State Rifle and Pistol Association v Bruen, which legally established California as a "shall issue" state.

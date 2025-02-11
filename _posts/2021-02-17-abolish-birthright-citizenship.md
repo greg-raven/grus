@@ -6,8 +6,6 @@ categories:
 tags:
 - birthright citizenship
 - Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Abolish birthright citizenship!
@@ -21,3 +19,6 @@ The United States is one of only two industrialized nations to still practice ju
 I urge you to get behind legislation that would end this outdated practice once and for all!
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

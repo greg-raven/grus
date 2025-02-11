@@ -4,11 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Anthony Adams
-- Barack Hussein Obama
 - Federal government
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I write to express my about the endangerment finding for greenhouse gas (GHG) emissions that EPA plans to issue later this month as part of its response to Massachusetts v. EPA. The endangerment finding will set the stage for an economic train wreck and a constitutional crisis.
@@ -32,3 +28,6 @@ An endangerment finding would lead to destructive regulatory schemes that Congre
 Because EPA has a choice, your administration cannot truthfully say, "The Court made us do it." If EPA issues an endangerment finding, your administration will bear responsibility for any increase in consumer energy costs, unemployment, and GDP losses resulting from CAA regulation of CO2.
 
 {% include signature.html %}
+
+Sent to:
+: Anthony Adams, Barack Hussein Obama, Barbara Boxer, Dianne Feinstein

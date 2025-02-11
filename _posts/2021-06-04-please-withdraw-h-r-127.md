@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Sheila Jackson Lee
 ---
 
 I ask that you withdraw H.R. 127.
@@ -17,3 +16,6 @@ Your legislation is a disgusting violation of the U.S. Constitution and an infri
 Therefore, I ask that you immediately withdraw this treasonous bill!
 
 {% include signature.html %}
+
+Sent to:
+: Sheila Jackson Lee

@@ -14,5 +14,4 @@ tags:
 {% include immigration.html %}
 
 Sent to:
-
-- <#recipient(s)#>
+: <#recipient(s)#>

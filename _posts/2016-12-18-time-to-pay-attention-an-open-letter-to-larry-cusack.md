@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - Apple Valley
-- Councilman Larry Cusack
 ---
 
 At your meet-the-candidates event at Johnnie D's on November 1, 2016, I asked you if the problems with municipal water systems as seen in Adelanto and with the Los Angeles DWP were any cause for concern. Your response was that you didn't know what was going on in other locales --- you knew what was going on in Apple Valley.
@@ -26,7 +25,10 @@ If any of this is news to you, you need to fire Town staff immediately and get s
 
 Additionally, feel free to contact me should you need accurate information.
 
---- {% include signature.html %}
+{% include signature.html %}
+
+Sent to:
+: Larry Cusack
 
 ---
 

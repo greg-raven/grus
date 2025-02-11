@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - Jerry Brown
-- gun control
+- 2nd Amendment
 ---
 
 It has come to my attention that the California Department of Justice is now targeting law-abiding people for gun confiscation. That is NOT ACCEPTABLE and I need you to ACT NOW. The Legislature funded the DOJ's "Armed Prohibited Person System" (APPS) through S.B. 140 last year --- you must now take urgent steps to fix the DOJ's APPS disaster.

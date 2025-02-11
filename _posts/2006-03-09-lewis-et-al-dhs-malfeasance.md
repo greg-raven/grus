@@ -22,7 +22,4 @@ Phone me if you would like to talk about this.
 P.S. This is further proof that giving up our freedom is not gaining us "security." We must secure our borders and evict illegals!
 
 Sent to:
-
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

@@ -5,10 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Jay Obernolte
-- Kevin McCarthy
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 - No immigration increases during COVID-enforced unemployment!
@@ -20,3 +16,6 @@ When considering immigration legislation, Congress must make ending illegal immi
 Immigration should benefit the American people, particularly during mass-unemployment events like COVID-19. I hope you will ensure that any immigration legislation passed by Congress doesn't harm Americans or legal immigrant workers.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Kevin McCarthy, Alex Padilla, Dianne Feinstein

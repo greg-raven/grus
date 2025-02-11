@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Anthony Adams
-- George Runner
-- Arnold Schwarzenegger
 - taxes
 ---
 
@@ -37,3 +34,6 @@ Too bad you can't cut "entitlements" (you know, payments to those who are not en
 Thanks for nothing,
 
 {% include signature.html %}
+
+Sent to:
+: Anthony Adams, George Runner, Arnold Schwarzenegger

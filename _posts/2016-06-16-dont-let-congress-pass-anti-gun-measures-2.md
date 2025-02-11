@@ -4,10 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
+- 2nd Amendment
 ---
 
 The Orlando killer wasn't on a "no-fly" list.
@@ -38,6 +35,9 @@ Finally, we must establish concealed carry reciprocity.
 
 These last two actions in particular could have made a huge difference in Orlando.
 
-<span style="line-height: 1.7;">Please feel free to contact me to discuss any of these issues.</span>
+Please feel free to contact me to discuss any of these issues.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

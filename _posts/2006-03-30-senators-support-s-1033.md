@@ -20,6 +20,4 @@ Phone me if you would like to talk about this.
 P.S. This is only the first step. The next step must be to evict the foreign criminals who are already here.
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

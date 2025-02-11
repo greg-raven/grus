@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - Apple Valley
-- Councilman Larry Cusack
 ---
 
 You quoted Town councilman Larry Cusack as stating, "Throughout my first term on the Town Council, we have continued to operate a conservative and balanced budget ..." ("Cusack seeking re-election to Apple Valley Town Council," Daily Press, July 4, 2016). As Inigo Montoya would say, "I don't think that means what you think it means."
@@ -17,3 +16,6 @@ To put it another way, if the Town really was doing well financially, it wouldn'
 The Apple Valley Town Council likes to present itself as being conservative, but their readiness, willingness, and ability to wreak havoc equals that of free-spending progressives.
 
 {% include signature.html %}
+
+Sent to:
+: Larry Cusack

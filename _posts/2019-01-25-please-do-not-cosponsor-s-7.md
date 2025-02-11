@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Dianne Feinstein
-- Kamala Harris
+- 2nd Amendment
 ---
 
 I encourage you to REFUSE to cosponsor S. 7, the "red flag" gun grab bill.
@@ -26,3 +24,6 @@ And, oh yes, if it were successful, my name would have already been sent to NICS
 So again, please OPPOSE S. 7 and do NOT cosponsor this bill.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

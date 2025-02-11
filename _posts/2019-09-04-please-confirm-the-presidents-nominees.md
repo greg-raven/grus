@@ -5,16 +5,6 @@ categories:
 - letters
 tags:
 - judiciary
-- Cory Gardner
-- James Risch
-- John Thune
-- Lamar Alexander
-- Lindsey Graham
-- Lisa Murkowski
-- Michael Crapo
-- Mitch McConnell
-- Susan Collins
-- Todd Young
 ---
 
 As a FreedomWorks activist I'm urging you to confirm President Trump's conservative nominees.
@@ -26,3 +16,6 @@ And while I'm happy that they were confirmed, I'm incredibly frustrated that it'
 Instead of waiting until the last minute before a vacation, I'm asking you and your Senate colleagues to stay in session a little bit longer each week and confirm these well-qualified nominees.
 
 {% include signature.html %}
+
+Sent to:
+: Cory Gardner, James Risch, John Thune, Lamar Alexander, Lindsey Graham, Lisa Murkowski, Michael Crapo, Mitch McConnell, Susan Collins, Todd Young

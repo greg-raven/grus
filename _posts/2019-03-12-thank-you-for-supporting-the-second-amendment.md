@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
+- 2nd Amendment
 ---
 
 As a Second Amendment supporter, I am writing to express my gratitude for your No votes on H.R. 8 and H.R. 1112.
@@ -15,3 +14,6 @@ These extreme gun-control bills will make criminals out of law-abiding Americans
 Again, I appreciate you standing strong in defense of the Second Amendment.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

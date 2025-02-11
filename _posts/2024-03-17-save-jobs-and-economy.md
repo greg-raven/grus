@@ -18,5 +18,4 @@ I urge you to do everything in your power to stop CARB's harmful locomotive regu
 {% include signature.html %}
 
 Sent to:
-
-- Gavin Newsom
+: Gavin Newsom

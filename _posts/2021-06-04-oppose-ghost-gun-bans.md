@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please *oppose* the Untraceable Firearms Act.
@@ -23,3 +20,6 @@ Just as the First Amendment would be of little value if I could not speak for my
 Oppose the "Untraceable Firearms Act" (H.R. 3088/S. 1558).
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - California
-- gun control
+- 2nd Amendment
 ---
 
 I am writing you to urge you to join Riverside County Sheriff Stan Sniff, myself, and hundreds of thousands of law abiding California citizen in opposing S.B. 249, which will be presented to the Appropriations Committee today (August 16th, 2012).
@@ -23,45 +23,10 @@ Thank you for your time and attention.
 {% include signature.html %}
 
 Sent to:
-
-- Tim Donnelly
-- Barbara Boxer
-- Dianne Feinstein
-- Leland Yee
+: Tim Donnelly, Barbara Boxer, Dianne Feinstein, Leland Yee
 
 cc:
-
-- Bob Blumenfield
-- Carol Liu
-- Charles M. Calderon
-- Adam Keigwin
-- Chris Norby
-- Curren D. Price Jr.
-- Curt Hagman
-- Darrell Steinberg
-- Diane L. Harkey
-- Donald P. Wagner
-- Felipe Fuentes
-- Gil Cedillo
-- Holly J. Mitchell
-- Isadore Hall III
-- Jerry Hill
-- Jim Nielsen
-- Joel Anderson
-- Johannes Rognerud
-- Jose Solorio
-- Loni Hancock
-- Mike Davis
-- Mike Gatto
-- Nancy Skinner
-- Nora Campos
-- Jerry Lewis
-- Ricardo Lara
-- Ron Calderon
-- Steve Knight
-- Steven Bradford
-- Tom Ammiano
-- Tom Harman
+: Bob Blumenfield, Carol Liu, Charles M. Calderon, Adam Keigwin, Chris Norby, Curren D. Price Jr., Curt Hagman, Darrell Steinberg, Diane L. Harkey, Donald P. Wagner, Felipe Fuentes, Gil Cedillo, Holly J. Mitchell, Isadore Hall III, Jerry Hill, Jim Nielsen, Joel Anderson, Johannes Rognerud, Jose Solorio, Loni Hancock, Mike Davis, Mike Gatto, Nancy Skinner, Nora Campos, Jerry Lewis, Ricardo Lara, Ron Calderon, Steve Knight, Steven Bradford, Tom Ammiano, Tom Harman
 
 ---
 

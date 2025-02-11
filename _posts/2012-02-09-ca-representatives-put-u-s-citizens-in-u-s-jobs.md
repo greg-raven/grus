@@ -23,22 +23,4 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 Sent to:
-
-- Brian Bilbray
-- Dan Lungren
-- Dana Rohrabacher
-- Darrell Issa
-- David Dreier
-- Devin Nunes
-- Duncan D. Hunter
-- Ed Royce
-- Elton Gallegly
-- Gary Miller
-- Howard McKeon
-- Jerry Lewis
-- John Campbell
-- Ken Calvert
-- Kevin McCarthy
-- Mary Bono Mack
-- Tom McClintock
-- Wally Herger
+: Brian Bilbray, Dan Lungren, Dana Rohrabacher, Darrell Issa, David Dreier, Devin Nunes, Duncan D. Hunter, Ed Royce, Elton Gallegly, Gary Miller, Howard McKeon, Jerry Lewis, John Campbell, Ken Calvert, Kevin McCarthy, Mary Bono Mack, Tom McClintock, Wally Herger

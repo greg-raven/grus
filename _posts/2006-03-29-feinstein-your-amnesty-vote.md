@@ -31,5 +31,4 @@ You took an oath of office on becoming a senator, and part of that oath of offic
 {% include signature.html %}
 
 Sent to:
-
-- Dianne Feinstein
+: Dianne Feinstein

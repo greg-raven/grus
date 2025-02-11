@@ -22,5 +22,4 @@ Please, Governor Newsom, I urge you to think about the countless Americans in ou
 P.S. Please keep these key principles in mind as we move to reopen our economy and save America: https://bit.ly/3bdsxLY
 
 Sent to:
-
-- Gavin Newsom
+: Gavin Newsom

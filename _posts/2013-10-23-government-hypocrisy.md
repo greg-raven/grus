@@ -4,7 +4,6 @@ layout: post
 categories:
 - cartoons
 tags:
-- Ben Stein
 - Obamacare
 ---
 
@@ -13,3 +12,6 @@ tags:
 "And now, any of those who  refuse, or are unable, to prove they are citizens will receive free insurance paid for by those who are forced to buy insurance because they are citizens."
 
 ![Government hypocrisy](/assets/img/2013/10/Government-hypocrisy.jpg)
+
+Sent to:
+: Ben Stein

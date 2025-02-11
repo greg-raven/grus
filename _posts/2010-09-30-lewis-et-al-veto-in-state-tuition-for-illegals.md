@@ -5,9 +5,7 @@ categories:
 - letters
 tags:
 - amnesty
-- Anthony Adams
 - California
-- George Runner
 ---
 
 California is swimming in red ink. We cannot afford legislation that will unnecessarily increase our fiscal crisis. Please ask Gov. Schwarzenegger to veto S.B. 1460 and A.B. 1413 today.
@@ -21,3 +19,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If we are to save California, we must control our borders and evict the illegals already in the country. In the meantime, we Must eliminate the factors that draw illegals here in the first place, namely, giveaways such as this one. We should Not be adding to the list of giveaways!
+
+Sent to:
+: Anthony Adams, California, George Runner

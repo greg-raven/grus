@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please heed the strong warning about David Chipman from a past ATF head.
@@ -32,3 +30,6 @@ When a former ATF Director so forcefully opposes Chipman, you can be sure that C
 Please oppose the Chipman nomination.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

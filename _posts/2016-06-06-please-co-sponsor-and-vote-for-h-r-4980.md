@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
+- 2nd Amendment
 ---
 
 Constitutional rights cannot be denied without due process of law. But that's exactly what the Obama administration is doing. Mismatched fingerprints, spelling errors and duplicate names mean thousands of law-abiding Americans are wrongly flagged as criminals and denied the right to buy a gun.
@@ -17,3 +16,6 @@ That's why Congressman Tom Emmer has introduced H.R. 4980, the Firearm Due Proce
 Please cosponsor and vote for H.R. 4980, the Firearm Due Process Protection Act.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

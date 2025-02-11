@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
+- 2nd Amendment
 ---
 
 *Roll Call* reports that congressmen are considering adding the anti-gun Fix NICS bill to the annual spending bill, called the "Omnibus."
@@ -19,3 +18,6 @@ Moreover, the House leadership also promised after the passage of H.R. 38 that F
 I stand with the 1.5 million members and supporters of Gun Owners of America who are opposed to Fix NICS ... and who, instead, want to see concealed carry reciprocity and the repeal of gun-free zones.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

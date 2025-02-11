@@ -4,7 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 98% of voters will NOT vote to reelect a legislator who votes for red flags

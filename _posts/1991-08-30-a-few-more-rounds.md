@@ -4,7 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 Although I disagree with Jacob Sullum that the Second Amendment is the black sheet of the amendments (I happen to feel that description better fits the Ninth Amendment), I very much enjoyed his article.

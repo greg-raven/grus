@@ -4,10 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
+- 2nd Amendment
 ---
 
 As a voter in your district, I'm writing today to ask that you please oppose any new gun control legislation. Rather than blaming law-abiding gun owners for the acts of criminals and widespread failings of government agencies at the federal and state level, please support and focus on legislation that will protect our schools and fix our broken mental health system.
@@ -17,3 +14,6 @@ Punishing law-abiding gun owners by passing gun control won't stop crime but it 
 I look forward to hearing from you and will consider your response and any votes the next time I head to the polls.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

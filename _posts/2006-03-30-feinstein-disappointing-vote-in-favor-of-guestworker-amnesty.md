@@ -22,5 +22,4 @@ Phone me if you would like to talk about this.
 P.S. If you won't work to secure our borders and expel the illegals now, while there's still time, it will be your fault when the citizens are forced to turn to arms to repel the reconquistas.
 
 Sent to:
-
-- Dianne Feinstein
+: Dianne Feinstein

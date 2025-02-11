@@ -22,5 +22,4 @@ I would like the opportunity to talk more with you about better and sensible imm
 {% include immigration.html %}
 
 Sent to:
-
-- Adam Schiff
+: Adam Schiff

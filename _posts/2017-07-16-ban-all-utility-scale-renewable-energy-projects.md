@@ -18,10 +18,5 @@ Respectfully,
 {% include signature.html %}
 
 cc:
-
-- Curt Hagman
-- James Ramos
-- Janice Rutherford
-- Josie Gonzales
-- Robert Lovingood
+: Curt Hagman, James Ramos, Janice Rutherford, Josie Gonzales, Robert Lovingood
 

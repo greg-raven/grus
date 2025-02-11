@@ -4,10 +4,8 @@ layout: post
 categories:
 - information
 tags:
-- Thomas Sowell
+- 2nd Amendment
 ---
-
-by Thomas Sowell
 
 Amid all the heated, emotional advocacy of gun control, have you ever heard even one person present convincing hard evidence that tighter gun control laws have in fact reduced murders?
 
@@ -19,4 +17,4 @@ Have the media outlets that you follow ever even mentioned that some studies hav
 
 The dirty little secret is that gun control laws do not actually control guns. They disarm law-abiding citizens, making them more vulnerable to criminals, who remain armed in disregard of such laws.
 
-[Read the full article here](https://www.creators.com/read/thomas-sowell/04/13/fact-free-crusades).
+Source: [Thomas Sowell](https://www.creators.com/read/thomas-sowell/04/13/fact-free-crusades).

@@ -4,7 +4,7 @@ layout: post
 categories:
 - cartoons
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 Guns don't kill people. Drug cartels armed by our government kill people.

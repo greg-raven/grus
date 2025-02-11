@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Dianne Feinstein
-- Kamala Harris
+- 2nd Amendment
 ---
 
 In a [national poll of our nation's police officers](https://www.police1.com), 81 percent say that teachers and school administrators need to be armed to stop tragedies such as the one happened in Florida recently.
@@ -32,3 +30,6 @@ And by all means, we absolutely have to eliminate gun-free zones, where the only
 I'm calling on you to reject every new "gun control" proposal and to pass H.R. 34 (or something like it) repealing the legislation that established gun-free school zones in the first place.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

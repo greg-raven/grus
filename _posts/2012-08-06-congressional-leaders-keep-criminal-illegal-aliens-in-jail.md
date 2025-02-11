@@ -7,19 +7,7 @@ tags:
 - Federal government
 - illegal aliens
 - immigration
-- James Clyburn
-- John Boehner
-- Kevin McCarthy
-- Nancy Pelosi
-- Steny Hoyer
-- Debbie Stabenow
-- Harry Reid
-- Jon Kyl
-- Mitch McConnell
-- Richard Durbin
 ---
-
-Senator Richard Durbin:
 
 You and your fellow Members in Congress in the upper echelons of leadership have a duty to protect the American people. Why, then, have you refused to counter President Obama's efforts to institute a "catch and release" program for "innocent" or "non-violent" illegal aliens, especially when a shockingly-high percentage of these amenable illegal aliens commit crimes such as murder, rape, child abuse, gun running, and drug trafficking? What good is a Congress when it will kowtow to a president's every caprice?
 
@@ -34,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Don't let the illegal alien in the White House run our immigration policies!
+
+Sent to:
+: James Clyburn, John Boehner, Kevin McCarthy, Nancy Pelosi, Steny Hoyer, Debbie Stabenow, Harry Reid, Jon Kyl, Mitch McConnell, Richard Durbin

@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Scott Wilk
+- 2nd Amendment
 ---
 
 I am in strong opposition to A.B. 1227, which seeks to impose an excise tax on each new gun purchased in California.
@@ -17,3 +16,6 @@ According to the 2019 U.S. Department of Justice Report on the "Source and Use o
 This is yet another ineffective approach to solving the problem of firearm misuse. I strongly oppose A.B. 1227.
 
 {% include signature.html %}
+
+Sent to:
+: Scott Wilk

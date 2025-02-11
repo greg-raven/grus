@@ -22,5 +22,4 @@ Phone me if you would like to talk about this.
 P.S. Any elected official who does not work to protect our borders is violating his oath of office at the very least. I'm counting on you to keep your word.
 
 Sent to:
-
-- Dianne Feinstein
+: Dianne Feinstein

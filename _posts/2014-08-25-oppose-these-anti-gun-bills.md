@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Lois Wolk
+- 2nd Amendment
 ---
 
 I am not in your district, but you are about to vote on a matters that could have direct negative impact on me if passed. Therefore, I am asking that you vote no on S.B. 53 and A.B. 1014. I do not support ammunition sales restrictions and registration or allowing my gun rights to be stripped away with restraining orders.
@@ -19,3 +18,6 @@ No matter what his intentions, though, again I urge you to vote no on each of th
 Thank you for your time.
 
 {% include signature.html %}
+
+Sent to:
+: Lois Wolk

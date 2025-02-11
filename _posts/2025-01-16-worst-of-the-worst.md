@@ -12,5 +12,4 @@ Not surprisingly, you have been utterly true to form at the confirmation hearing
 {% include signature.html %}
 
 Sent to:
-
-- Alex Padilla
+: Alex Padilla

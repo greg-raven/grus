@@ -23,42 +23,7 @@ Phone me if you would like to talk about this.
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Then we can return to pre-1965 immigration policies.
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein, 
 
 cc:
-
-- Adam Schiff
-- Anna Eshoo
-- Barbara Lee
-- Bob Filner
-- Dennis Cardoza
-- Diane Watson
-- Doris Matsui
-- George Miller
-- Grace Napolitano
-- Henry Waxman
-- Howard Berman
-- Jackie Speier
-- Jane Harman
-- Jerry McNerney
-- Jim Costa
-- Joe Baca
-- John Garamendi
-- Judy Chu
-- Laura Richardson
-- Linda Sanchez
-- Lois Capps
-- Loretta Sanchez
-- Lucille Roybal-Allard
-- Lynn Woolsey
-- Maxine Waters
-- Mike Honda
-- Mike Thompson
-- Nancy Pelosi
-- Pete Stark
-- Sam Farr
-- Susan Davis
-- Xavier Becerra
-- Zoe Lofgren
+: Adam Schiff, Anna Eshoo, Barbara Lee, Bob Filner, Dennis Cardoza, Diane Watson, Doris Matsui, George Miller, Grace Napolitano, Henry Waxman, Howard Berman, Jackie Speier, Jane Harman, Jerry McNerney, Jim Costa, Joe Baca, John Garamendi, Judy Chu, Laura Richardson, Linda Sanchez, Lois Capps, Loretta Sanchez, Lucille Roybal-Allard, Lynn Woolsey, Maxine Waters, Mike Honda, Mike Thompson, Nancy Pelosi, Pete Stark, Sam Farr, Susan Davis, Xavier Becerra, Zoe Lofgren

@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please oppose H.R. 2510/S. 1108.
@@ -21,3 +18,6 @@ Further, this legislation is a direct attack on the liberty and property of Amer
 I encourage you, in the strongest terms, to oppose these bills (H.R. 2510/S. 1108) and support the Second Amendment rights of your constituents.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - Thurston Smith
-- gun control
+- 2nd Amendment
 ---
 
 I am writing in strong opposition to A.B. 1227, which seeks to impose an excise tax on the gross receipts on the sale of all firearms, ammunition, and so-called precursor parts, purchased in the state. I oppose this bill for the following reasons:

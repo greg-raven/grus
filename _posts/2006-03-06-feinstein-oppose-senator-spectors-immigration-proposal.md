@@ -20,6 +20,4 @@ Phone me if you would like to talk about this.
 P.S. We must start protecting our borders, no ifs, ands, or buts.
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

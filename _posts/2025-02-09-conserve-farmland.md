@@ -20,5 +20,4 @@ We urge you to work toward fulfilling the desire of the majority of American cit
 {% include immigration.html %}
 
 Sent to:
-
-- Adam Schiff
+: Adam Schiff

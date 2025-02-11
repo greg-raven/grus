@@ -20,5 +20,4 @@ An ethical immigration policy must consider our responsibility to nature as well
 {% include immigration.html %}
 
 Sent to:
-
-- Adam Schiff
+: Adam Schiff

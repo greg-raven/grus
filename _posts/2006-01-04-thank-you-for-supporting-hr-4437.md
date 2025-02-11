@@ -15,5 +15,4 @@ H.R. 4437 finally mandates that every employer in the United States use the fede
 {% include signature.html %}
 
 Sent to:
-
-- Jerry Lewis
+: Jerry Lewis

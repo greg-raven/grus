@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Scott Wilk
+- 2nd Amendment
 ---
 
 I am in opposition to A.B. 2552 which requires notices to be posted at each public entrance of every gun show in California on the storage, handling, purchase, and theft of firearms.
@@ -17,3 +16,6 @@ There are literally thousands of vendors who sell their products at gun shows th
 I stand with Gun Owners of California in opposition to A.B. 2552.
 
 {% include signature.html %}
+
+Sent to:
+: Scott Wilk

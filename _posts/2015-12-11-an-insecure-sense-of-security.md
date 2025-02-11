@@ -4,7 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
+- 2nd Amendment
 - population
 ---
 
@@ -27,5 +27,4 @@ When you put it all together, it becomes clear that Stanton's goal is not one of
 {% include signature.html %}
 
 Sent to:
-
-- Barb Stanton
+: Barb Stanton

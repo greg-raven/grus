@@ -23,5 +23,4 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 Sent to:
-
-- Jerry Lewis
+: Jerry Lewis

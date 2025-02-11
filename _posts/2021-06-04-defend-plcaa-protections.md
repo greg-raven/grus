@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please support PLCAA protections for our firearms industries.
@@ -21,3 +18,6 @@ This is an attack on the liberty and property of American gun owners by trying t
 I urge you in the strongest terms to support the PLCAA. Vote no on (H.R. 2814/S. 1338)!
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

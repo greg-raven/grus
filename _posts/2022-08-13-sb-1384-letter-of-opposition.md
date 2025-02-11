@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - Thurston Smith
-- gun control
+- 2nd Amendment
 ---
 
 I am strongly opposed to S.B. 1384, which requires licensed firearms dealers to have a digital video surveillance system, burglary alarm system, and a keyless entry system on their premises.

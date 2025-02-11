@@ -4,7 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
+- 2nd Amendment
 - Scott Wilk
 ---
 

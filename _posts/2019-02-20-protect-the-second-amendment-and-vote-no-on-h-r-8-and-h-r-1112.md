@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
+- 2nd Amendment
 ---
 
 As your constituent and a strong supporter of our Second Amendment rights, I write today urging you to oppose any new gun control measure that places undue burdens on law-abiding Americans, including the latest bills H.R. 8 and H.R. 1112.
@@ -17,3 +16,6 @@ H.R. 1112 adds more undue burdens to law-abiding gun owners. This bill creates a
 Please defend the Constitution and protect the Second Amendment. Please stand strong and oppose H.R. 8 and H.R. 1112.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

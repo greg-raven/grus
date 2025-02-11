@@ -23,7 +23,4 @@ Sincerely,
 {% include immigration.html %}
 
 Sent to:
-
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+: Jay Obernolte, Alex Padilla, Laphonza Butler

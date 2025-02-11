@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 I am compensating for being smaller and weaker than most violent criminals.

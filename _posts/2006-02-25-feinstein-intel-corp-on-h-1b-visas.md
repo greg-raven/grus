@@ -20,5 +20,4 @@ Unless Senators begin to realize how radical and anti-American these statements 
 {% include signature.html %}
 
 Sent to:
-
-- Dianne Feinstein
+: Dianne Feinstein

@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 [Houston schools cancel NRA safety program after discovering NRA connection](https://www.chron.com/news/houston-texas/houston/article/two-houston-schools-cancel-nra-gun-safety-classes-4476494.php)

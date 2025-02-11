@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
+- 2nd Amendment
 ---
 
 Congressman Ted Budd (R-NC) is circulating a very important letter to the House leadership.
@@ -21,3 +20,6 @@ Rep. Budd is right on point because the problem he identifies is exactly what Re
 I would urge you, in the strongest terms, to sign the Budd letter.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Why is Resident Biden failing to help the Pacific salmon?
@@ -19,3 +17,6 @@ The iconic Pacific salmon serves as a tragic example, as featured in a recent *N
 The U.S. Census Bureau predicts that, at today's growth rate, America's population will reach 404 million in 40 years, and more than 90% of this increase will be from immigration. To reduce population pressures on our wildlife and wilderness, please take a stand against proposals to increase immigration. Indeed, if you care about protecting hundreds of rare and endangered species across our nation, urge Congress to pass immigration legislation that would lower America's rapid population growth.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -15,4 +15,4 @@ Count me as one who is mystified by detractors of Dinah Shumway such as Mark Tab
 
 Real global warming has given us a spectacular planet, from the Grand Canyon to the Great Barrier Reef, to name just two examples. Without global warming, there might still be a mile-thick sheet of ice on North America. The climate changes that wrought these wonders occurred long before man had anything to do with anything on this planet.
 
---- {% include signature.html %}
+{% include signature.html %}

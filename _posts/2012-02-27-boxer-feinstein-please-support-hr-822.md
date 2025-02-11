@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - California
-- gun control
+- 2nd Amendment
 - population
 - Barbara Boxer
 - Dianne Feinstein

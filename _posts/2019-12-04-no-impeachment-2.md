@@ -28,7 +28,4 @@ I urge you in the strongest possible terms to stop this insanity immediately.
 {% include signature.html %}
 
 Sent to:
-
-- Adam Schiff
-- Jerrod Nadler
-- Nancy Pelosi
+: Adam Schiff, Jerrod Nadler, Nancy Pelosi

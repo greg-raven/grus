@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Gun owners nationwide oppose the nomination of Xavier Becerra to lead the Department of Health and Human Services.
@@ -28,3 +26,6 @@ For all of these reasons, I believe that Xavier Becerra is also unfit to serve a
 I also oppose the anti-gun Judge Merrick Garland to lead the Department of Justice as Attorney General.
 
 {% include signature.html %}
+
+- Alex Padilla
+- Dianne Feinstein

@@ -4,10 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
+- 2nd Amendment
 ---
 
 As your constituent, I am writing you today to urge you to oppose any and all gun control legislation that may be considered in the wake of the terrorist attack in Orlando.
@@ -21,3 +18,6 @@ Please stand up for our Second Amendment rights and reject any and all calls for
 Thank you, and I await your response on this important issue.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

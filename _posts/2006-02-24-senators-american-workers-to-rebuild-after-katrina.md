@@ -18,6 +18,4 @@ This is what happens when the cheap labor advocates and corporate lobbyists get 
 {% include signature.html %}
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

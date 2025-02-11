@@ -20,6 +20,4 @@ Phone me if you would like to talk about this.
 P.S. No more amnesties! Secure the border! Start interpreting the 14th Amendment correctly! Save our country!
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

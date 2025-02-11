@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - Jerry Brown
-- gun control
+- 2nd Amendment
 ---
 
 It is imperative that you VETO all gun control bills, up to and including the following:

@@ -18,5 +18,4 @@ I do hope that you will make border security a top priority this year.
 {% include signature.html %}
 
 Sent to:
-
-- Dianne Feinstein
+: Dianne Feinstein

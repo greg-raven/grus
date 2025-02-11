@@ -5,8 +5,7 @@ categories:
 - letters
 tags:
 - California
-- gun control
-- Dianne Feinstein
+- 2nd Amendment
 ---
 
 Thank you for your response regarding H.R. 822 (recognizing reciprocal carry laws nation-wide).
@@ -22,3 +21,6 @@ Society is safer when the criminal don't know who is armed, a fact amply support
 The president, the attorney general of the United States, the DHS, the DEA, and the ATF seem perfectly happy to supply guns to Mexican criminals, and to launder the proceeds of their illegal activities. All I'm asking for is recognition of my Constitutional rights
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein

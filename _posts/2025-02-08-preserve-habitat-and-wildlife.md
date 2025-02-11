@@ -19,5 +19,4 @@ Reduce America's immigration rates.
 {% include immigration.html %}
 
 Sent to:
-
-- Adam Schiff
+: Adam Schiff

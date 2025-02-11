@@ -5,7 +5,7 @@ categories:
 - information
 tags:
 - Barack Hussein Obama
-- gun control
+- 2nd Amendment
 ---
 
 [![20160222 Obama](/assets/img/2016/07/20160222-Obama.png)](/assets/img/2016/07/20160222-Obama.png)

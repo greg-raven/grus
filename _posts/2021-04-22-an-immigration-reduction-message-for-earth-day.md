@@ -7,8 +7,6 @@ tags:
 - immigration
 - population
 - refugees
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Support the environment and limit immigration-driven population growth.
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need to go back to making immigration, refugee, and other decisions based on what is good for the American people, not on what may be good for those in other countries.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

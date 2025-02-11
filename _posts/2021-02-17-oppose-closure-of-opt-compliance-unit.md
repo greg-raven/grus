@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - jobs
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Ask Biden to reopen OPT compliance unit!
@@ -21,3 +18,6 @@ With this in mind, I cannot understand why Resident Biden just closed down the O
 American STEM workers are irrevocably harmed by less-expensive foreign workers, including those with an OPT visa. I hope you will encourage the Biden administration to reverse its decision to close the unit.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

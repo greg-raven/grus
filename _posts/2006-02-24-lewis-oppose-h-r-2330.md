@@ -20,5 +20,4 @@ Please consider legislation that would increase interior enforcement rather than
 {% include signature.html %}
 
 Sent to:
-
-- Jerry Lewis
+: Jerry Lewis

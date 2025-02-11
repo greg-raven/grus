@@ -22,6 +22,4 @@ Phone me if you would like to talk about this.
 P.S. No amnesties! No guest-worker programs! Seal the border and evict the illegals already here. We must do this Now!
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

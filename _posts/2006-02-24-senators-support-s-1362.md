@@ -24,6 +24,4 @@ The real reason that most people oppose having local police participate in immig
 {% include signature.html %}
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

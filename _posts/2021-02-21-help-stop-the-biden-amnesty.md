@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 - visa lottery
 ---
 
@@ -25,3 +22,6 @@ The Biden amnesty does nothing for American and legal immigrant workers. Instead
 I urge you to support American workers by opposing the U.S. Citizenship Act of 2021!
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

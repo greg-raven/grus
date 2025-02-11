@@ -7,8 +7,6 @@ tags:
 - immigration
 - jobs
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 You now have control of Congress. However, 20% of low-wage workers are unemployed.
@@ -26,3 +24,6 @@ Guest Worker Programs should be reduced or eliminated. It is well documented tha
 Having a just and humane immigration system is critical for our nation. At the same time, immigration policy should not run counter to enabling American workers, families, and students to sustain themselves and thrive.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

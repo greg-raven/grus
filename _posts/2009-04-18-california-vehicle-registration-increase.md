@@ -4,10 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Anthony Adams
 - California
-- Arnold Schwarzenegger
-- George Runner
 - taxes
 ---
 
@@ -18,3 +15,6 @@ During your campaign for governor, you promised among other things to repeal the
 {% include signature.html %}
 
 P.S. I particularly despise your idiotic utterances on the subject on the strain on the budget due to illegal immigrants. First, the drain on our economy due to these unsentenced felons is greater than $6 billion a year. Second, after a couple of years, these billions add up. Third, by taking this indefensible position, you yourself have become a huge part of the broken system in Sacramento, which you claim to be the real problem in California. You make me sick.
+
+Sent to:
+: Anthony Adams, Arnold Schwarzenegger, George Runner

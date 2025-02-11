@@ -14,7 +14,4 @@ Contact me if you want to discuss this.
 {% include signature.html %}
 
 Sent to:
-
-- Adam Schiff
-- Jerrod Nadler
-- Nancy Pelosi
+: Adam Schiff, Jerrod Nadler, Nancy Pelosi

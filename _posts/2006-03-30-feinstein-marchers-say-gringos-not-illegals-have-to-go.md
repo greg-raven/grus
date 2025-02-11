@@ -53,5 +53,4 @@ To view this WorldNetDaily item online, visit https://www.worldnetdaily.com/news
 {% include signature.html %}
 
 Sent to:
-
-- Dianne Feinstein
+: Dianne Feinstein

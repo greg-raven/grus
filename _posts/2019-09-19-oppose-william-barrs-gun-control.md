@@ -4,7 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 92% of gun owners would not vote for a senator who supports universal background checks

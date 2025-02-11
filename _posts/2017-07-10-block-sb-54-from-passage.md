@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Anthony Rendon
 - illegal aliens
 ---
 
@@ -19,3 +18,6 @@ It's also false to claim that sanctuary policies are needed to protect witnesses
 S.B. 54 advocates are on the wrong side of the law and the wrong side of voters like me. Block S.B. 54 from passage.
 
 {% include signature.html %}
+
+Sent to:
+: Anthony Rendon

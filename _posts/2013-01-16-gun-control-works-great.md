@@ -4,7 +4,7 @@ layout: post
 categories:
 - opinions
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 Gun control works great if you're the one controlling the guns.

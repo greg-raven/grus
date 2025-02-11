@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Brad Sherman
 ---
 
 We are glad you have worked to protect at-risk American workers from increased foreign worker imports! 22 million Americans cannot find a job and we are glad you are looking out for them. We hope you will do even more to help out these Americans.
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. You are definitely in the minority. Good work! No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Then we can return to pre-1965 immigration policies.
+
+Sent to:
+: Brad Sherman

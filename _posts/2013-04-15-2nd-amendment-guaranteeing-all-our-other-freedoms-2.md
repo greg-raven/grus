@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- gun control
+- 2nd Amendment
 ---
 
 Washington didn't use his right to free speech to defeat the British, he shot them.

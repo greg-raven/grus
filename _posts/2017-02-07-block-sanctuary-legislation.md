@@ -25,10 +25,4 @@ Phone me if you would like to talk about this.
 P.S. Let's get into compliance with Federal immigration law for a change.
 
 cc:
-
-- Gerald Hill
-- Jim Beall
-- Jim Nielsen
-- Patricia Bates
-- Ricardo Lara
-- Steven Bradford
+: Gerald Hill, Jim Beall, Jim Nielsen, Patricia Bates, Ricardo Lara, Steven Bradford

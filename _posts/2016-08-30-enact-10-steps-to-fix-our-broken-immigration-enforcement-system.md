@@ -36,7 +36,4 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 Sent to:
-
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
+: Paul Cook, Barbara Boxer, Dianne Feinstein

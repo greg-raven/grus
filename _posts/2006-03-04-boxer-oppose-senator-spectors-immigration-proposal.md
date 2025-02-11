@@ -24,6 +24,4 @@ Phone me if you would like to talk about this.
 P.S. I'm counting on you to help protect our nation.
 
 Sent to:
-
-- Barbara Boxer
-- Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein

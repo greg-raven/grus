@@ -5,14 +5,6 @@ categories:
 - letters
 tags:
 - government
-- Doug Jones
-- Gary Peters
-- Jon Tester
-- Joseph Manchin
-- Kyrsten Sinema
-- Lisa Murkowski
-- Mitt Romney
-- Susan Collins
 ---
 
 I've learned that Nancy Pelosi and more radical elements of the Democratic Party in Congress have officially launched impeachment proceedings against President Trump.
@@ -34,3 +26,6 @@ This is totally unfair and just the latest in a series of failed attempts to und
 I urge you to see this sham for the political circus that it is and OPPOSE Nancy Pelosi's Impeachment Crusade.
 
 {% include signature.html %}
+
+Sent to:
+: Doug Jones, Gary Peters, Jon Tester, Joseph Manchin, Kyrsten Sinema, Lisa Murkowski, Mitt Romney, Susan Collins
