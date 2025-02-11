@@ -7,9 +7,6 @@ tags:
 - E-Verify
 - illegal immigration
 - immigration
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 The simplest way to end illegal immigration is by requiring all employers to use E-Verify. I hope you'll support this commonsense solution and push for a vote on legislation that would mandate E-Verify nationwide.
@@ -19,3 +16,6 @@ E-Verify is easy to use and has the highest satisfaction rates of any government
 More importantly, 81% of likely voters, including me, support E-Verify. I urge you to support it, too!
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

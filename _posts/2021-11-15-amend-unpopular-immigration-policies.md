@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 New analysis from Democratic political consultant David Shor indicates that Democrats do worse when they talk about their preferred immigration policies.
@@ -18,3 +16,6 @@ I have a better suggestion: adopt more popular positions. Why not champion an im
 {% include signature.html %}
 
 P.S. Mass immigration is a weapon of mass destruction.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

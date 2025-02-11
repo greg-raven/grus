@@ -7,8 +7,6 @@ tags:
 - chain migration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Population stabilization will bring us a sustainable future.
@@ -20,3 +18,6 @@ One of the most outdated public policies is to raise immigration rates so that t
 We can no longer afford to ignore the impact that our high immigration rates are having on America's workers and the environment. We need leaders like you to change course from our relentless and unsustainable population growth. Please work with Congress to eliminate chain migration and reduce America's immigration rates.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

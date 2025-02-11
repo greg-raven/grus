@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- border control
 - environment
 ---
 
@@ -21,3 +19,6 @@ I am urging you to support the Secure the Border Act (H.R. 2) and the Nuclear Fa
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

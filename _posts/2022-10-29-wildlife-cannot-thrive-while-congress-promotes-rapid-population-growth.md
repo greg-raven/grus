@@ -8,8 +8,6 @@ tags:
 - environment
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 America is experiencing a "biodiversity crisis," which has been confirmed by the U.S. EPA's list of endangered and threatened wildlife, now exceeding a mind-boggling 1,300 species. Habitat loss, and the consequential habitat fragmentation, are the primary reasons for this crisis, and America's high population growth is driving these conditions. All this will become much worse if America grows by another 75 million in 40 years, as predicted by the U.S. Census Bureau, with more than 90% of this increase coming from immigration.
@@ -21,3 +19,6 @@ To protect our environment and biodiversity of life, we need to lower America's 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

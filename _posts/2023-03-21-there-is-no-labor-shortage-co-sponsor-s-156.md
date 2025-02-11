@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I urge you to bring those U.S. workers who are struggling on the sidelines into our workforce.
@@ -24,3 +22,6 @@ Please support the E-Verify bill S. 156 that will help eliminate the illegal job
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

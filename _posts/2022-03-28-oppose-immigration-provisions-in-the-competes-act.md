@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please oppose adding House provisions to America COMPETES Act.
@@ -26,3 +24,6 @@ It's clear that these provisions would harm American workers of all education le
 Please oppose the Senate version of H.R. 4521, the America COMPETES Act, if these provisions are included.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

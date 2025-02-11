@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - jobs
 - immigration
 ---
@@ -28,3 +25,6 @@ Please contact me to discuss how you can support U.S. workers by ending asylum a
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

@@ -4,6 +4,7 @@ layout: post
 categories:
 - letters
 tags:
+- border control
 - illegal aliens
 - illegal immigration
 - Jay Obernolte

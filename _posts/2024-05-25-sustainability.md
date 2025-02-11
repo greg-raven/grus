@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - environment
 ---
 
@@ -22,3 +19,5 @@ I see how sprawl is negatively affecting communities throughout the United State
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

@@ -7,8 +7,6 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 There should be no immigration expansions in lame-duck session amid slowing economy.
@@ -24,3 +22,6 @@ Please work with your colleagues to limit visas and chain migration.
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

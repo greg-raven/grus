@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- border control
 - illegal immigration
 ---
 
@@ -29,3 +27,6 @@ It's time Congress steps up to the plate and gets H.R. 2 signed into law to end 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

@@ -7,8 +7,6 @@ tags:
 - chain migration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Most Americans agree that population growth comes with serious drawbacks (e.g., crowded highways and schools, lack of affordable housing, water shortages, urban sprawl) and want tighter immigration control from the Biden administration. These results cross party and ideological lines, according to recent polling.
@@ -18,3 +16,6 @@ Unless America can achieve a stable population, we will continue to see the irre
 America's accelerating and unsustainable population growth will continue to exacerbate our environmental problems. I urge you to work to reduce immigration-driven population growth (e.g., eliminate chain migration) to safeguard our environment as well as our quality of life, including that of future generations.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

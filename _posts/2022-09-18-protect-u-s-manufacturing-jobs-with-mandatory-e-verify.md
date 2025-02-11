@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - E-Verify
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Washington Post writer Catherine Rampell writes in her column, "The myth of the manufacturing comeback," about the future of dwindling job prospects in American manufacturing:
@@ -23,3 +21,6 @@ Your support for E-Verify is crucial so that the U.S. workforce reaps the benefi
 Please work with your colleagues to support U.S. workers and pass E-Verify. In addition, as the Barbara Jordan Commission under Clinton envisioned, ending chain migration will also help ensure that there are well-paid U.S. manufacturing jobs for our workers.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

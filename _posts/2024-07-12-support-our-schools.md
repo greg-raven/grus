@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- border control
 - education
 - E-Verify
 ---

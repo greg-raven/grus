@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - E-Verify
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Stand up for workers and cosponsor E-Verify legislation.
@@ -22,3 +20,6 @@ I believe Democrats are losing voters by not supporting American workers through
 Your support for E-Verify is crucial, as we are experiencing a devastating border crisis with no end in sight. Our border patrol is overwhelmed, and cartels, smugglers, and exploitative employers are the ones reaping the benefits.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

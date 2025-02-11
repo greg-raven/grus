@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- environment
 ---
 
 The bobcat, lynx, timberwolf, and the capa rose are among the over 1,500 plants and animals now on the growing U.S. threatened species list. The ones we are more familiar with are out of our helpful reach. Elephants, pandas, and pangolins don't live within the U.S. borders where we have our legal system to use as our tool of protection. Here in the U.S. we lose a football field worth of their natural habitat every 30 seconds. That is because we are adding the equivalent of a NFL football stadium full of people into our already overstressed overused landscapes every ten days.
@@ -18,3 +16,6 @@ The destruction of natural spaces is primarily driven by the need for more space
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

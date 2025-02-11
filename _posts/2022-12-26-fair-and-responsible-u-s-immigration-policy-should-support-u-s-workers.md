@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 U.S. tech talent struggle to find work. Limit immigration.
@@ -23,3 +21,6 @@ With unemployment possibly reaching 5 percent soon, Congress should adopt sensib
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -8,8 +8,6 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Nature-lovers such as myself care most about biodiversity/species extinction and the incremental loss of America's dwindling open spaces, e.g., wildlife habitat and wilderness. These problems are a direct and readily-observable result of our nation's population growth.
@@ -21,3 +19,6 @@ Reducing America's unprecedented immigration rates would make a critical differe
 {% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

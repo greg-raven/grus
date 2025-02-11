@@ -8,8 +8,6 @@ tags:
 - E-Verify
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 It troubles me that the Democratic party is intent on sabotaging U.S. workers through mass immigration.
@@ -29,3 +27,6 @@ Working-class voters are challenged now with inflation and recession and layoff 
 Please work with your colleagues and stop pushing for mass immigration that undermines worker gains.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

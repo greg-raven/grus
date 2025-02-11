@@ -7,8 +7,6 @@ tags:
 - chain migration
 - illegal immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I believe in welcoming immigrants to America, and having a humane immigration system that respects the dignity of every person. However, I'm concerned about how big our population will grow and, in turn, the fate of our nation's wilderness areas.
@@ -20,3 +18,6 @@ The U.S. Census Bureau predicts that, at today's growth rate, America's populati
 {% include signature.html %}
 
 P.S. No more immigrants. No more refugees. No more asylum-seekers. Secure the border, eject those already here illegally, and see how much better things will be in 60 years.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

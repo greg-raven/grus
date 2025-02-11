@@ -7,8 +7,6 @@ tags:
 - chain migration
 - E-Verify
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 *The New York Times* recently (8/28/23) reported that America's underground water supplies are being severely depleted. The "mining" of groundwater causes critical problems and is happening across America, especially in arid areas with runaway urban sprawl.
@@ -21,3 +19,5 @@ There are plenty of ways to humanely reduce immigration rates, e.g., limited cha
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - illegal aliens
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Democratic cities are being overwhelmed with migrants.
@@ -23,3 +21,6 @@ ineligible for asylum in the U.S. if they traversed a safe third country.
 {% include signature.html %}
 
 P.S. No more immigrants. No more refugees. No more asylum-seekers. Secure the border, eject those already here illegally, and see how much better things will be in 60 years.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

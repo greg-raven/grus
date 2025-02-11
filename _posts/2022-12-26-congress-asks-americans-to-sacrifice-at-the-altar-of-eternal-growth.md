@@ -7,8 +7,6 @@ tags:
 - chain migration
 - environment
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 - visa lottery
 ---
 
@@ -24,3 +22,5 @@ Even before the recent rush of illegal immigration, the U.S. Census Bureau proje
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

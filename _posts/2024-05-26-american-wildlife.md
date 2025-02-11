@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - environment
 - immigration
 - chain migration
@@ -19,3 +16,6 @@ America's population cannot grow indefinitely and steps must be taken to achieve
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

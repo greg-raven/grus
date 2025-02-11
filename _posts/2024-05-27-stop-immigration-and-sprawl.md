@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- border control
 - immigration
 - population
 ---
@@ -28,3 +26,6 @@ I look forward to you contacting me about how securing our border and ending cha
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

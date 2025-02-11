@@ -6,8 +6,6 @@ categories:
 tags:
 - E-Verify
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I ask you to please support U.S. workers by cosponsoring S. 156, the Accountability Through Electronic Verification Act to mandate E-Verify.
@@ -20,3 +18,6 @@ It is troubling that there are currently no Democratic bills to make E-Verify ma
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

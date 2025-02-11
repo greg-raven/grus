@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 America's high immigration rates push us beyond carrying capacity.
@@ -19,3 +17,6 @@ By 2060, less than 40 years from now, the Census Bureau projects that the U.S. p
 Rather than further exceed our carrying capacity with relentless population growth, America should strive to achieve a sustainable society and serve as an example to the rest of the world. Please work to stabilize the U.S. population, which can only be done with legislation to reduce immigration levels.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

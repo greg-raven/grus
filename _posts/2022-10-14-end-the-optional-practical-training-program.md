@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I'm very disturbed by a D.C. court ruling against American tech workers, not least because the "Optional Practical Training" program is a blatant attack on the American middle class. Moreover, the OPT program unfairly disadvantages Americans in competitive STEM fields where Blacks, Hispanics and older workers often struggle to find opportunities.
@@ -19,3 +17,6 @@ I ask you: What is the purpose of Congress defining visa categories at all if th
 End the Optional Practical Training program. End the OPT program.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

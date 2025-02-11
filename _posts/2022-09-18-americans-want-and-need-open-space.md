@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Despite, and perhaps because of, the growing population density of our nation, Americans more than ever feel strongly about the need to protect open spaces. These natural areas support agricultural and forest production, and provide clean water, flood control, wildlife habitat and biodiversity, and recreational opportunities.
@@ -17,3 +15,6 @@ But the demands of our rapid population growth are outstripping the supply of Am
 Please support efforts that would reduce our burgeoning population growth, namely legislation that would create a humane immigration system that respects the dignity of every person while conserving our nation's open space by allowing for America's population to stabilize.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

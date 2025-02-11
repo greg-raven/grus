@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 The Massachusetts Coalition for Immigration Reform (MCIR) is suing several federal agencies based on their failure to comply with the National Environmental Policy Act (NEPA) regarding Resident Biden's immigration policies. These policies, notably terminating "remain in Mexico," preventing deportation proceedings for illegal aliens, and failure to finish the southern border wall are all subject to NEPA analysis, due to the huge environmental impact of adding millions of immigrants to the U.S. population.
@@ -17,3 +15,6 @@ Among other things, an expanding human population degrades ecosystem services, w
 In light of this recent lawsuit, I urge you to support reducing immigration to numbers that would allow the U.S. population to stabilize, as well as strict enforcement of immigration laws, so that our nation can achieve environmental sustainability.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

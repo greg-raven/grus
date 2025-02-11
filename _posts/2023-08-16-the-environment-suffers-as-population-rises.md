@@ -7,8 +7,6 @@ tags:
 - chain migration
 - illegal immigration
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Business interests want perpetual growth, but Americans need to face the reality that our country's biodiversity/wildlife habitat and quality-of-life are irreparably damaged as we add millions to our population every year. According to the U.S. Census Bureau, our population is projected to soar to 404 million by the year 2060, with more than 90% due to immigration.
@@ -20,3 +18,6 @@ Please work to reduce today's unprecedented rates of immigration by limiting cha
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

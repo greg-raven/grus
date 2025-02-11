@@ -8,8 +8,6 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 We are witnessing the dramatic loss of farmland in America. Plus, the farmland remaining is being degraded due to fragmentation, salinization, and/or topsoil erosion. This permanent loss of the means to produce food has been driven by our own population growth. What makes America unique among rapidly-growing countries is that our high growth in numbers is facilitated primarily through permissive immigration policies.
@@ -21,3 +19,6 @@ We need leaders like you to change our nation's course from the relentless trend
 {% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

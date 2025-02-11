@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 In August, federal officials announced first-time cuts in water deliveries from the Colorado River to Arizona and Nevada. All while the population drawing upon the River is booming, as reported by *The Salt Lake Tribune* (10/7/21). Arizona, Colorado, and California gained 3.8 million people between 2010 and 2020. Nevada and Utah grew by almost a million. Yet the Census Bureau predicts America's population will grow by another 75 million in the next 40 years, with roughly 90% of that attributable to unchecked immigration.
@@ -20,3 +17,6 @@ We need leaders like you to change our nation's course from depleting limited re
 {% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

@@ -7,8 +7,6 @@ tags:
 - chain migration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Time, fuel, and patience get burned while waiting in traffic.
@@ -22,3 +20,6 @@ We need leaders who will protect America's transportation network and resolve ou
 {% include signature.html %}
 
 P.S. TomTom, a global leader in traffic navigation products, has released their Annual Traffic Index, which indicates that in 2021, New York, Los Angeles, and Miami had the worst traffic congestion in the country.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

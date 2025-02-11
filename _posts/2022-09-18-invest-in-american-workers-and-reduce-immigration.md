@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Former Democratic Texas congresswoman and civil rights champion Barbara Jordan chaired the U.S. Commission on Immigration Reform under President Bill Clinton.
@@ -19,3 +17,6 @@ Employers bypass domestic workers for alternatives who are deemed more efficient
 Please work with your colleagues to fulfill the Jordan Commission recommendations of investing in American workers and talent, ending chain migration and reducing immigration numbers.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

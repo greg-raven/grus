@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- border control
 - child labor
 - E-Verify
 ---
@@ -17,7 +15,7 @@ H.R. 2, the Secure the Border Act, includes E-Verify and loophole closures on mi
 
 I hope you contact me soon to discuss ending migrant child abuse by sending H.R. 2 to the President's desk.
 
-Here are some results of child labor investigations from the Department of Labor.:
+Here are some results of child labor investigations from the Department of Labor:
 
 - Recently, in Alabama, a restaurant chain called Freddy's Frozen Custard and Steakburgers was caught exploiting 149 children over 7 different locations and was fined a mere $119K. How long will it take the 7 locations to recoup that fine?
 
@@ -34,3 +32,6 @@ Here are some results of child labor investigations from the Department of Labor
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

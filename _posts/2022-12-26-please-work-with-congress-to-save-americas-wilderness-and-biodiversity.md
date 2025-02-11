@@ -7,8 +7,6 @@ tags:
 - chain migration
 - environment
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I recently read *The New York Times* article (12/9/22), titled "Animals are running out of places to live," which described the massive loss of biodiversity and habitat for a huge number of species, which includes 1,300 struggling for survival in America. Although I'm happy that President Biden issued an executive order to protect 30% of the country's lands by 2030, how can wildlife habitat be preserved while immigration into our country is accelerating fast?
@@ -20,3 +18,6 @@ To reduce population pressures on our wildlife and wilderness areas, please supp
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

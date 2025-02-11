@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - immigration
 ---
 
@@ -18,5 +15,7 @@ Please contact me to discuss ways that you and other members of the Congressiona
 
 {% include signature.html %}
 
-
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

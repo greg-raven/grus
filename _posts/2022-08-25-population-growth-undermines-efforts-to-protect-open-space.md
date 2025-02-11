@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 The Biden Administration's "Conserving and Restoring America the Beautiful" plan aims to protect 30 percent of America's land from development by 2030. The more-ambitious "Nature Needs Half" movement argues for stopping the destruction of natural habitat before the ratio falls below 50 percent (already too late for many countries, but not the United States).
@@ -20,3 +17,6 @@ Given that the Census Bureau projects nearly all future population growth to be 
 {% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Make E-Verify mandatory. End birthright citizenship. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

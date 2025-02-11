@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Tim Donnelly
 - California
 - San Bernardino
 ---
@@ -16,6 +15,9 @@ I am not in favor of using eminent domain to "assist" financially distressed hom
 Signed,
 
 {% include signature.html %}
+
+Sent to:
+: Tim Donnelly
 
 cc:
 : Federal Housing Finance Authority (FHFA)

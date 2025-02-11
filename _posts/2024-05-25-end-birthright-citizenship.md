@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - birthright citizenship
 ---
 
@@ -18,3 +15,5 @@ The United States is almost the only industrialized nation to still practice bir
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

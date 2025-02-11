@@ -7,8 +7,6 @@ tags:
 - environment
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Immigration threatens worker bargaining power even more during a slowing economy.
@@ -25,3 +23,5 @@ Please work with your colleagues to give U.S. workers more leverage by reducing 
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -7,8 +7,6 @@ tags:
 - chain migration
 - environment
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 - Reducing immigration can lead to a sustainable America.
@@ -22,3 +20,6 @@ Given that immigration is driving almost all U.S. population growth, you must re
 {% include signature.html %}
 
 P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. Make E-Verify mandatory.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

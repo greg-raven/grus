@@ -4,10 +4,9 @@ layout: post
 categories:
 - letters
 tags:
+- border control
 - illegal aliens
 - illegal immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I urge you to work to end current catch-and-release policies.
@@ -24,3 +23,5 @@ I urge you to support reforms to end catch-and-release. I also urge you to intro
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

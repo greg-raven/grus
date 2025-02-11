@@ -7,8 +7,6 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Although states with high population growth have more political influence, there are considerable drawbacks. America is experiencing a "biodiversity crisis," mostly from habitat loss caused by our immigration-driven population. Wildlife species keep getting added to America's list of endangered and threatened wildlife, now exceeding a mind-boggling 1,300 species.
@@ -20,3 +18,6 @@ Please support efforts that would reduce our rapid population growth, namely leg
 {% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -8,8 +8,6 @@ tags:
 - E-Verify
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 As the liberal labor economist Vernon Briggs, Jr. has noted, we are now in another era of large-scale immigration that works against U.S. workers:
@@ -21,3 +19,6 @@ The current record border crisis and asylum application abuse will undermine wor
 I urge you to work with your colleagues to moderate legal immigration, secure the border and mandate E-Verify.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

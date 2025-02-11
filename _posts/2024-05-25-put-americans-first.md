@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - child labor
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - jobs
 ---
 
@@ -21,3 +18,5 @@ I urge you to support U.S. wages and job quality with legislation aimed to at st
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

@@ -6,9 +6,6 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Often lost in the immigration debate is the issue of Birthright Citizenship. Birthright Citizenship is an outdated practice that lures foreign nationals to the United States so their unborn children can become U.S. citizens. Please work to end this ridiculous policy!
@@ -20,3 +17,6 @@ The United States is one of only two industrialized nations to still practice ju
 I urge you to get behind legislation that would end this outdated practice once and for all!
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

@@ -4,9 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Gil Cedillo
 - California
-- Jerry Brown
 - illegal aliens
 ---
 
@@ -26,3 +24,6 @@ I'm sending you this in case you missed it. I urge you to follow the examples of
 > "The State of Nebraska will continue its practice of not issuing driver's licenses, welfare benefits or other public benefits to illegal immigrants unless specifically authorized by Nebraska statute," he added.
 
 {% include signature.html %}
+
+Sent to:
+: Gil Cedillo, Jerry Brown

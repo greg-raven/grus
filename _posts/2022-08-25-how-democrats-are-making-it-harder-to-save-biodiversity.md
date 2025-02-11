@@ -7,8 +7,6 @@ tags:
 - illegal immigration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I am writing to you because I am concerned about our unsustainable population growth, driven primarily by your immigration policies, which add more than one million per year (more than two million since the current border crisis began). America is inexorably losing its open spaces and wilderness areas, along with a wide array of wildlife.
@@ -20,3 +18,6 @@ The U.S. Census Bureau predicts that, at today's growth rate, America's populati
 {% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

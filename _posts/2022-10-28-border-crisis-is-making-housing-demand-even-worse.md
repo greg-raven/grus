@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - illegal immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Homeownership is becoming an impossibility in the U.S. with rising costs and demand through increased immigration.
@@ -19,3 +17,5 @@ Please work with your colleagues to secure our border and decrease illegal and l
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

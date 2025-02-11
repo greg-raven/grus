@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Immigration is one of the top issues in exit polls.
@@ -20,3 +18,6 @@ Please work with your colleagues to end our border crisis.
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

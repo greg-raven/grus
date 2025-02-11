@@ -6,8 +6,6 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I am disappointed that recent media reports and statements from Biden administration officials indicate that the historic border crisis is beginning to wind down.
@@ -25,3 +23,6 @@ I urge you to support parole and asylum abuse reforms and cosponsor the E-Verify
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

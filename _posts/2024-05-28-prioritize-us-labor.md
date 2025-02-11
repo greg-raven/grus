@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - jobs
 - illegal aliens
 ---
@@ -24,3 +21,6 @@ Please contact me to discuss how you can prioritize U.S. workers and wages follo
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

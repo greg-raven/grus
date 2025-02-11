@@ -4,10 +4,8 @@ layout: post
 categories:
 - letters
 tags:
+- border control
 - immigration
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Immigration-driven population growth like the migrant crisis can exacerbate the effects of extreme weather events, with the stakes (e.g., tax dollars, property, and lives) getting higher every year.
@@ -19,3 +17,6 @@ Attach The Secure the Border Act to the continuing resolution or send the bill o
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein

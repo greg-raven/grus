@@ -7,8 +7,6 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Immigration should not undermine U.S. workers.
@@ -24,3 +22,6 @@ Please support mandatory E-Verify, and the ending of chain migration and birthri
 {% include signature.html %}
 
 P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

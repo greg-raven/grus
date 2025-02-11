@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 The EB-5 visa program is full of fraud. I was disappointed by your omnibus vote.
@@ -22,3 +20,6 @@ In its report "Claims of labor shortages in H-2B industries don't hold up to scr
 I wish you would have done the right thing and opposed the H-2B visa expansions in the omnibus.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

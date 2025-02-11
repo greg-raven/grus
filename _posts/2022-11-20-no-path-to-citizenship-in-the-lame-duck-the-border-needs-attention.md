@@ -7,8 +7,6 @@ tags:
 - amnesty
 - environment
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I am very disturbed by Leader Schumer's speech in front of the Capitol on November 16th, in which he said "We have a population that is not reproducing on its own with the same level that it used to. The only way we're going to have a great future is if we welcome immigrants ... get a path to citizenship for all 11 million \[illegal immigrants\]."
@@ -19,3 +17,5 @@ What he is describing is a Ponzi scheme in which America's biodiversity is destr
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -6,8 +6,6 @@ categories:
 tags:
 - E-Verify
 - illegal immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please cosponsor S. 156, the Accountability Through Electronic Verification Act, as Title 42 ends and our border crisis worsens.
@@ -23,3 +21,6 @@ The worsening border crisis could be stopped with mandatory E-Verify. I urge you
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

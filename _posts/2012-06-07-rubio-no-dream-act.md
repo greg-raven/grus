@@ -7,7 +7,6 @@ tags:
 - Federal government
 - illegal aliens
 - immigration
-- Marco Rubio
 ---
 
 It is downright appalling that you are working on a DREAM Act amnesty. There is no difference between giving illegal aliens citizenship and giving them an amnesty. They would still be able to compete against unemployed Americans for jobs! You need to drop this immediately and stop promoting it on Fox News!
@@ -19,3 +18,6 @@ You need to get with the program and end your flirtation with the DREAM Act amne
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Marco Rubio

@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - E-Verify
 - jobs
 - illegal immigration
@@ -21,3 +18,5 @@ Clearly, this is an easy and effective way of putting unemployed Americans and l
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

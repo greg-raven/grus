@@ -4,9 +4,8 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
+- border control
+- jobs
 ---
 
 U.S. wages go down while inflation goes up. Send H.R. 2 to Biden.
@@ -20,3 +19,6 @@ Please contact me to discuss supporting U.S. workers and their families by endin
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

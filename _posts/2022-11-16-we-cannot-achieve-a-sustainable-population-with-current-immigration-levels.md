@@ -8,8 +8,6 @@ tags:
 - environment
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 It's frustrating that America's prominent economists can't acknowledge that economic growth does not require a relentless increase in population. We can grow our economy by using education and technology to increase productivity. With slower population growth, we can make greater progress toward resolving economic and environmental issues while boosting our productivity, and quality of life, as a nation.
@@ -21,3 +19,6 @@ Given that immigration is driving almost all U.S. population growth, immigration
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

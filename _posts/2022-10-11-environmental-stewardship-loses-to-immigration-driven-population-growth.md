@@ -8,8 +8,6 @@ tags:
 - environment
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I'm concerned about the persistent environmental degradation in America, such as water shortages, biodiversity loss, deforestation, pollution, and traffic congestion. It's clear that we will never be able to resolve these problems without the gradual transition to population stabilization.
@@ -21,3 +19,6 @@ America's only realistic hope for a sustainable future is to take steps to reduc
 {% include signature.html %}
 
 P.S. Secure our borders and evict all those illegals here!
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

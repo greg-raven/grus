@@ -8,8 +8,6 @@ tags:
 - environment
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Our ecologically-illiterate immigration policy is pushing us towards half a billion Americans by the end of the century, with some arguing that we should be aiming for a billion to ensure our power and prominence on the international stage.
@@ -19,3 +17,6 @@ In reality, the size of a country's economy does not dictate the well-being of i
 The U.S. Census Bureau predicts that, at today's growth rate, America's population will reach 404 million in 40 years, and more than 90% of this increase will be from immigration. I urge you to resist calls for perpetual population growth, and work to reduce America's high immigration rates.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

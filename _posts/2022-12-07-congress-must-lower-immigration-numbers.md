@@ -8,8 +8,6 @@ tags:
 - environment
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 - Mass immigration hasn't delivered a fair economy. Moderate the numbers.
@@ -25,3 +23,6 @@ With millions out of labor force, immigration must be tightened.
 {% include signature.html %}
 
 P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. Make E-Verify mandatory.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

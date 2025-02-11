@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I hope that you oppose any lame-duck Congress attempts to pass more immigration expansions to keep wages down and undermine tech workers.
@@ -21,3 +19,6 @@ Please work with your colleagues to protect U.S. tech workers, including Blacks 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Black abolitionists and civil rights leaders have been unapologetic about putting Americans first in immigration policy. As Pamela Denise Long writes in *American Affairs* ("Immigration Viewed From the Back of the Hiring Line," August, 2022):
@@ -17,3 +15,6 @@ Black abolitionists and civil rights leaders have been unapologetic about puttin
 We don't need a moratorium to achieve a more-just immigration system. Congress needs only to limit family-based immigration to spouses and minor children, and require employers to verify that their employees are authorized to work in the United States.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

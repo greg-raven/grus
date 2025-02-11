@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Water is dwindling, but the population is growing.
@@ -19,3 +17,6 @@ In this country, 90% of our population growth is due to immigration. Federal imm
 {% include signature.html %}
 
 P.S. Secure our borders now, evict from the country anyone who does not belong here, and institute a 20-year moratorium on all new immigration including refugees.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

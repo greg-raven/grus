@@ -4,9 +4,8 @@ layout: post
 categories:
 - letters
 tags:
+- border control
 - illegal immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 I am dismayed that Resident Biden is misusing immigration parole to continue to release large numbers into the country while making it less visible on paper.
@@ -26,3 +25,6 @@ I urge you to develop and support a companion bill to the House-passed bill H.R.
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

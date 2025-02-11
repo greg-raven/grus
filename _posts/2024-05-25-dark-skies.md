@@ -5,9 +5,6 @@ categories:
 - letters
 tags:
 - chain migration
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - environment
 ---
 
@@ -22,3 +19,6 @@ The Census Bureau predicts that America's population will grow an additional 70 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

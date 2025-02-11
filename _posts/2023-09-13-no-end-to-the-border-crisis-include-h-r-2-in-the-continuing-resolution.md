@@ -4,11 +4,10 @@ layout: post
 categories:
 - letters
 tags:
+- border control
 - child labor
 - illegal aliens
 - illegal immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 It infuriates me that border crossings rose in July, proving that the end of the border crisis is nowhere in sight. I hope that the Senate will use the fiscal year appropriations process to include provisions in the House-passed H.R. 2, the Secure the Border Act, in the Continuing Resolution.
@@ -23,3 +22,5 @@ H.R. 2 includes parole and asylum abuse reforms, child labor protections and E-V
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Dianne Feinstein

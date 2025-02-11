@@ -27,5 +27,5 @@ I also oppose the anti-gun Judge Merrick Garland to lead the Department of Justi
 
 {% include signature.html %}
 
-- Alex Padilla
-- Dianne Feinstein
+Sent to:
+: Alex Padilla, Dianne Feinstein

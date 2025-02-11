@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - immigration
 ---
 
@@ -24,3 +21,5 @@ I would like the opportunity to talk more with you about better and sensible imm
 
 {% include immigration.html %}
 
+Sent to:
+: Alex Padilla, Laphonza Butler, Jay Obernolte

@@ -7,8 +7,6 @@ tags:
 - chain migration
 - immigration
 - population
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Immigration policies exacerbate unsustainable growth of the Southwest.
@@ -20,3 +18,6 @@ The U.S. Census Bureau predicts that, at today's growth rate, America's populati
 {% include signature.html %}
 
 P.S. Secure our borders now, evict from the country anyone who does not belong here, and institute a 20-year moratorium on all new immigration including refugees.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

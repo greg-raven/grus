@@ -5,8 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Please read "Bill Clinton Saved His Presidency. Here's How Biden Can, Too." (*The New York Times,* November 8). Democrats Mark Penn (adviser to the Clintons) and Andrew Stein (former president of the New York City Council) have important advice for Democrats:
@@ -18,3 +16,6 @@ The House version of Build Back Better is fatally flawed with what would be the 
 {% include signature.html %}
 
 P.S. Secure our borders and evict those already here illegally.
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 Reducing immigration helps American minorities.
@@ -19,3 +17,6 @@ Unsurprisingly, the article leads us to a 2006 paper published by the National B
 It is time to bolster the Black community by tightening the labor market by reducing the unprecedented levels of immigration. I urge you to support the American workforce by supporting immigration policies that are reflective of this position. We must finally fulfill the Barbara Jordan Commission's recommendations that called for an end to chain migration and mandated national E-Verify.
 
 {% include signature.html %}
+
+Sent to:
+: Alex Padilla, Dianne Feinstein

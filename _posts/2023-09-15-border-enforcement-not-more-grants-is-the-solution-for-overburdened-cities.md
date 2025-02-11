@@ -6,14 +6,11 @@ categories:
 tags:
 - border control
 - child labor
-- Jay Obernolte
-- Alex Padilla
-- Dianne Feinstein
 ---
 
 It frustrates me that, instead of securing the border, the Administration is allocating large grants that do not even cover the costs of cities overburdened with the migrant crisis.
 
-*The New York Times's* September column "G.O.P. Gets the Democratic Border Crisis It Wanted" explains:
+*The New York Times*' September column "G.O.P. Gets the Democratic Border Crisis It Wanted" explains:
 
 "The Federal Emergency Management Agency in June allocated huge "shelter and service" grants to cities and states unused to such attention --- $105 million to New York City, $10.6 million for Chicago, $19 million to Illinois, more than $5 million to Washington. Other programs at the Department of Human Services boosted the total federal money to New York to $140 million, and $45 million for Chicago. Those numbers, however, hardly meet the need: Chicago and Illinois alone have allocated about $200 million on migrant care in the city this year."
 
@@ -24,3 +21,6 @@ I urge you to work with your fellow members of Congress to include provisions in
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte, Alex Padilla, Dianne Feinstein
