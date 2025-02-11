@@ -16,7 +16,7 @@ Given that the Census Bureau projects nearly all future population growth to be 
 
 {% include signature.html %}
 
-P.S. Secure our borders. Stop all immigration. Stop importing refugees. Make E-Verify mandatory. End birthright citizenship. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+{% include immigration.html %}
 
 Sent to:
 : Jay Obernolte, Alex Padilla, Dianne Feinstein

@@ -22,7 +22,7 @@ With millions out of labor force, immigration must be tightened.
 
 {% include signature.html %}
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. Make E-Verify mandatory.
+{% include immigration.html %}
 
 Sent to:
 : Alex Padilla, Dianne Feinstein

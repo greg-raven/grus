@@ -21,7 +21,7 @@ Please support mandatory E-Verify, and the ending of chain migration and birthri
 
 {% include signature.html %}
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally.
+{% include immigration.html %}
 
 Sent to:
 : Alex Padilla, Dianne Feinstein

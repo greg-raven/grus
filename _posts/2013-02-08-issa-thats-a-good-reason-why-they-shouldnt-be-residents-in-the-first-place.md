@@ -5,10 +5,7 @@ categories:
 - letters
 tags:
 - amnesty
-- Darrell Issa
 ---
-
-Representative Darrell Issa:
 
 We are disappointed by your decision to support an amnesty for illegal aliens. California is being ravaged by illegal immigration and I hope you will rethink your decision to support it.
 
@@ -23,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Send them back to their countries of origin. Then, they won't be residents. If "leaders" such as yourself were upholding your oath of office, we wouldn't have this problem in the first place. Remove the invaders, and secure our borders!
+
+Sent to:
+: Darrell Issa

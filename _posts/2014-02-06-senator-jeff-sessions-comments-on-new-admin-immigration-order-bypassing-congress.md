@@ -1,12 +1,11 @@
 ---
-title: "Senator Jeff Sessions comments on new admin immigration order bypassing Congress"
+title: "Jeff Sessions comments on new immigration order bypassing Congress"
 layout: post
 categories:
 - information
 tags:
 - amnesty
 - immigration
-- Jeff Sessions
 ---
 
 > WASHINGTON --- U.S. Sen. Jeff Sessions (R-AL), a senior member of the Senate Judiciary Committee, commented on the Administration's latest executive immigration decree which loosens immigration screening standards for those who may pose a threat to national security:
@@ -19,4 +18,4 @@ tags:
 >
 > Not only is this a national security issue, but a financial issue: those granted admission gain access to federal welfare programs funded by U.S. taxpayers. It seems the Obama Administration has forgotten that our immigration laws are meant to protect the interests of Americans. This action endangers our national security and defies duly-enacted law. This and other administrative actions bypassing Congress and plain law must end.
 
-Source: https://www.sessions.senate.gov/public/index.cfm?FuseAction=PressShop.NewsReleases&amp;ContentRecord\_id=550d6e5c-d17d-55f7-6e62-dfb9b6eb1e0c&amp;Region\_id=&amp;Issue\_id=
+Source: sessions.senate.gov/public/index.cfm?FuseAction=PressShop.NewsReleases&amp;ContentRecord\_id=550d6e5c-d17d-55f7-6e62-dfb9b6eb1e0c&amp;Region\_id=&amp;Issue\_id=

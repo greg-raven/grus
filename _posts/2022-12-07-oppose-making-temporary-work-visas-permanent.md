@@ -7,7 +7,6 @@ tags:
 - chain migration
 - immigration
 - jobs
-- Jay Obernolte
 ---
 
 - Keep H-1B visas 'TEMPORARY' --- Vote NO on H.R. 3648
@@ -20,4 +19,7 @@ Please protect American workers and protect the temporary nature of nonimmigrant
 
 {% include signature.html %}
 
-P.S. Secure our borders. Stop the influx of immigrants and refugees. Evict those here illegally. End chain migration. Make E-Verify mandatory.
+{% include immigration.html %}
+
+Sent to:
+: Jay Obernolte
