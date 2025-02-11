@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Jay Obernolte
 - visa lottery
 ---
 
@@ -22,3 +21,5 @@ Please help secure our nation and protect jobs for unemployed Americans by cospo
 
 {% include immigration.html %}
 
+Sent to:
+: Jay Obernolte

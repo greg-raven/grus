@@ -12,3 +12,6 @@ In Tatiana Whitlock's "Spicy Disaster Drill" (*Shooting Illustrated,* October 20
 In Jim Wilson's "Point Shooting" column (p. 54), it would have been nice if he had mentioned Chuck Taylor's Speed Rock method of shooting at bad breath distances. The way Mr. Taylor performed this technique was truly impressive.
 
 {% include signature.html %}
+
+Sent to:
+: *Shooting Illustrated*

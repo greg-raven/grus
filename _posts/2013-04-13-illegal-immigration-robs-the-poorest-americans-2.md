@@ -5,7 +5,6 @@ categories:
 - information
 tags:
 - immigration
-- Tom Tancredo
 ---
 
 *Tom Tancredo covers study showing how native-born workers suffer wage loss*

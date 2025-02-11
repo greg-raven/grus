@@ -4,9 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jay Obernolte
-- Alex Padilla
-- Laphonza Butler
 - immigration
 - visa lottery
 ---
@@ -19,3 +16,5 @@ Don't you think that eliminating this program is a good way of helping jobless A
 
 {% include immigration.html %}
 
+Sent to:
+: Jay Obernolte, Alex Padilla, Laphonza Butler
