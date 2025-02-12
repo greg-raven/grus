@@ -23,9 +23,9 @@ layout: base
     {{ content }}
   </div>
 
-  Category(s): {%- include post-categories.html -%}
-
   <dl>
+    <dt>Category(s):</dt>
+    <dd>{%- include post-categories.html -%}</dd>
     <dt>Tag(s):</dt>
     <dd>{%- include post-tags.html -%}</dd>
   </dl>
