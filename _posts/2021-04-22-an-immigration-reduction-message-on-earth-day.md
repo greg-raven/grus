@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Joe Biden
 - population
 - refugees
 ---
@@ -21,3 +20,6 @@ To relieve the steady degradation of America's environment, please work to stabi
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Joe Biden

@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Jerry Brown
 - 2nd Amendment
 ---
 
@@ -53,3 +52,6 @@ Thank you very much for your time, consideration, and VETO.
 Respectfully,
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Brown

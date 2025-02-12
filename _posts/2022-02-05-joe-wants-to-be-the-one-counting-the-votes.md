@@ -4,7 +4,7 @@ layout: post
 categories:
 - memes
 tags:
-- Joe Biden
+- government
 ---
 
 > "It's not who votes that counts. It's who counts the votes."

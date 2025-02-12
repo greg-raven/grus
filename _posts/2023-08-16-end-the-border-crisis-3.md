@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Joe Biden
 ---
 
 The border crisis has gone on for long enough. For more than 24 months, Border Patrol agents have made at least 125,000 apprehensions at the Southern border --- nearly 4 times the average number of apprehensions during Pres. Obama's 8 years in office.
@@ -17,3 +16,6 @@ Your lack of effective action puts American lives at risk every day. It's time y
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Joe Biden

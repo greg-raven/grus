@@ -2,7 +2,7 @@
 title: "Crime rates don't tell the full story"
 layout: post
 categories:
-- tweet
+- tweets
 tags:
 - illegal aliens
 ---

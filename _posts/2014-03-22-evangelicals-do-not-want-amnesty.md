@@ -5,11 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barack Hussein Obama
-- Joe Biden
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 News reports are saying that evangelical leaders have been lobbying Republican Congressmen in favor of work permits and other benefits for illegal aliens. I hope you have heard about the new poll showing that the vast majority of evangelical Christians oppose Speaker John Boehner's immigration proposals to reward illegal aliens with work permits and legal status. Please follow the immigration opinions of evangelicals --- not evangelical leaders --- as they happen to match my own.
@@ -23,3 +18,6 @@ I agree with these sentiments and agree with the immigration views of evangelica
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama, Joe Biden, Paul Cook, Barbara Boxer, Dianne Feinstein

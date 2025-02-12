@@ -3,8 +3,7 @@ title: "Locomotive regulations"
 layout: post
 categories:
 - letters
-tags: 
-- CARB Board Members
+tags:
 - economy
 - environment
 - jobs
@@ -35,3 +34,6 @@ There are more practical solutions for reducing carbon emissions in California a
 I urge you to rethink this approach to locomotive regulation and support common-sense regulations that accelerate the commercial viability of lower- and "zero-emission" locomotives while protecting California jobs, the economy, and the national supply chain.
 
 {% include signature.html %}
+
+Sent to:
+: CARB Board Members

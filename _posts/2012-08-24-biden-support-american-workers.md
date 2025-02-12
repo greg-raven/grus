@@ -7,10 +7,7 @@ tags:
 - economy
 - Federal government
 - immigration
-- Joe Biden
 ---
-
-Vice President Joe Biden:
 
 As a swing voter, I am counting on the next Administration to support immigration policies that protect American workers. That means no additional increases in greencards.
 
@@ -23,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. The next administration needs to represent Americans, not foreigners.
+
+Sent to:
+: Joe Biden

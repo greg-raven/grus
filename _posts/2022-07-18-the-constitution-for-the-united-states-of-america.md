@@ -24,3 +24,6 @@ The Constitution is the law of the land. It defines and governs the United State
 I urge you to correct the name of this publication.
 
 {% include signature.html %}
+
+Sent to:
+: Heritage Foundation
