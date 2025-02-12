@@ -8,7 +8,7 @@ tags:
 - immigration
 ---
 
-The Real Clear Policy article, "Our De Facto Open Border Makes Inflation &amp; Climate Change Worse" (October 4, 2022) tells the sad truth:
+The Real Clear Policy article, "Our De Facto Open Border Makes Inflation & Climate Change Worse" (October 4, 2022) tells the sad truth:
 
 > "If you were seeking to inflict the maximum pain on the American people during a time of high inflation and scarcity of goods and services, you would implement de facto open borders. And if you wanted to cancel out any of the positive effects of the recently passed so-called Inflation Reduction Act on climate change, you'd also want to keep that border wide open."
 

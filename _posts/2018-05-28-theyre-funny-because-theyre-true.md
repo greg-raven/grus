@@ -4,8 +4,7 @@ layout: post
 categories:
 - cartoons
 tags:
-- "Barack Hussein Obama"
-- "Hillary Clinton"
+- Federal government
 ---
 
 8 YEARS, 3 ACCOMPLISHMENTS: MADE SCHOOL LUNCHES INEDIBLE, HEALTH INSURANCE UNAFFORDABLE AND POLICE LIVÉS UNIMPORTANT.

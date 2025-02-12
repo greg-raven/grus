@@ -51,4 +51,4 @@ https://www.federalreserve.gov/releases/chargeoff/default.htm.
 
 <sup>10</sup> Values for January 21, 2009 and January 23, 2012. https://www.treasurydirect.gov/NP/BPDLogin?application=np.
 
-Source: House Committee on Ways &amp; Means, waysandmeans.house.gov/News/DocumentSingle.aspx?DocumentID=276866
+Source: House Committee on Ways & Means, waysandmeans.house.gov/News/DocumentSingle.aspx?DocumentID=276866

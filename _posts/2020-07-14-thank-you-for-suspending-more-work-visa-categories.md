@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - jobs
-- Donald Trump
+- Donald J. Trump
 ---
 
 I appreciate that you are protecting American workers.

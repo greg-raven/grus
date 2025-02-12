@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - jobs
-- Donald Trump
+- Donald J. Trump
 ---
 
 Americans losing jobs shouldn't compete against additional H-2B workers!

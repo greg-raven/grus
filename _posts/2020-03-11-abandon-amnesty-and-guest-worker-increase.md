@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - amnesty
-- Donald Trump
+- Donald J. Trump
 ---
 
 Don't support amnesty or guest worker increases!

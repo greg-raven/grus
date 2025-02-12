@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- DHS
 - national security
 ---
 
@@ -12,7 +11,7 @@ tags:
 
 - Airport
 
-- CIKR (Critical Infrastructure &amp; Key Resources)
+- CIKR (Critical Infrastructure & Key Resources)
 
 - AMTRAK
 

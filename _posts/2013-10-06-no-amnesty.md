@@ -10,7 +10,7 @@ tags:
 - Dianne Feinstein
 ---
 
-Pro-amnesty groups are holding a cynical "Day of Dignity &amp; Respect" for illegal aliens. These groups fail to recognize that an amnesty would undermine those already in the United States legally. Please respect the dignity of legal citizens by drastically and permanently reducing legal immigration.
+Pro-amnesty groups are holding a cynical "Day of Dignity & Respect" for illegal aliens. These groups fail to recognize that an amnesty would undermine those already in the United States legally. Please respect the dignity of legal citizens by drastically and permanently reducing legal immigration.
 
 Rallies planned for 150 cities this weekend as a "National Day of Dignity and Respect for Immigrants" could just as easily be called the "Anti-Labor Day" or the "Immigrant Perpetual Poverty Day."
 

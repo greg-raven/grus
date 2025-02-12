@@ -26,7 +26,7 @@ Judge Kavanaugh has an impressive career of public service.
 
 He was confirmed by the U.S. Senate on May 26, 2006, to the U.S. Court of Appeals for the D.C. Circuit. Sixteen current Senators --- including one sitting Democrat --- voted to confirm him.
 
-Prior to serving on the court, Judge Kavanaugh had broad experience in private practice and in government service. He served in the White House as Senior Associate White House Counsel and eventually as Staff Secretary to President George W. Bush. Earlier in his career, he served as Associate Counsel to the Independent Counsel, Ken Starr; a Bristow fellow in the Office of the Solicitor General; and a partner at Kirkland &amp; Ellis LLP, where he specialized in appellate litigation.
+Prior to serving on the court, Judge Kavanaugh had broad experience in private practice and in government service. He served in the White House as Senior Associate White House Counsel and eventually as Staff Secretary to President George W. Bush. Earlier in his career, he served as Associate Counsel to the Independent Counsel, Ken Starr; a Bristow fellow in the Office of the Solicitor General; and a partner at Kirkland & Ellis LLP, where he specialized in appellate litigation.
 
 Judge Kavanaugh's academic credentials are superb.
 

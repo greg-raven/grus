@@ -6,7 +6,7 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Donald Trump
+- Donald J. Trump
 - visa lottery
 ---
 

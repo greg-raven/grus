@@ -4,8 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Federal Reserve
-- Jerry Lewis
+- taxes
 ---
 
 Now that over $12 trillion have been pledged toward our financial crisis, more people than ever are concerned about where their money is going, and if it's accomplishing anything.
@@ -19,3 +18,6 @@ We must know what is happening with our money, and the Federal Reserve must come
 Please cosponsor H.R. 1207, The Federal Reserve Transparency Act of 2009, and do everything in your power to see this bill through to a passing vote.
 
 {% include signature.html %}
+
+Sent to:
+: Federal Reserve, Jerry Lewis

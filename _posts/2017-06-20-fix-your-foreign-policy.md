@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - national security
-- Donald Trump
+- Donald J. Trump
 ---
 
 During your campaign, opponents claimed that you would get us into World War III. I not only scoffed at the idea, and pointed out your many statements about disengaging the U.S. from the role of world policeman, but reminded them that the horrible foreign policy track records of the Clintons and our past presidents argued for "business as usual" should you not be elected.

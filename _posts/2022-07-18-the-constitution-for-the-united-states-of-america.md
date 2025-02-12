@@ -7,7 +7,7 @@ tags:
 - Constitution
 ---
 
-I just received unsolicited in the mail a booklet with the title "The Constitution of the United States &amp; The Bill of Rights and all Amendments."
+I just received unsolicited in the mail a booklet with the title "The Constitution of the United States & The Bill of Rights and all Amendments."
 
 I find this odd because you seem to be trying to promote the Constitution, and yet you call it by a different (and incorrect) name.
 

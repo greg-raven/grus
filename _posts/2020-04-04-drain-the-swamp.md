@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - Federal government
-- Donald Trump
+- Donald J. Trump
 ---
 
 I implore you to be an authentic, impassioned, fearless conservative around whom freedom-loving Americans can rally.

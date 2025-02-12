@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - immigration
-- Donald Trump
+- Donald J. Trump
 ---
 
 You must help Americans by reducing foreign worker importation.

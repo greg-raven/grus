@@ -5,7 +5,7 @@ categories:
 - letters
 tags:
 - economy
-- Donald Trump
+- Donald J. Trump
 ---
 
 Due to the Coronavirus, our economy has been effectively shut down for weeks now, and it's having a MASSIVE impact on millions of Americans like me. While we should do everything we can to stop the spread of this deadly virus, we can't let that goal create a crippling economic disaster, the likes of which we haven't seen since the Great Depression.

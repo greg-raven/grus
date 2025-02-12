@@ -15,7 +15,7 @@ Please vote YES on these amendments:
 | Sponsor | Number | Section | Comment |
 |---|---|---|---|
 | Steve King | 47 | Agriculture | requires E-Verify for all agency new hires |
-| Jason Smith | 58 | Transportation &amp; HUD | Prevents funds from going to sanctuary jurisdictions |
+| Jason Smith | 58 | Transportation & HUD | Prevents funds from going to sanctuary jurisdictions |
 | Steve King | 113 | DHS | requires E-Verify for all agency new hires |
 | Steve King | 84 | State | requires E-Verify for all agency new hires |
 

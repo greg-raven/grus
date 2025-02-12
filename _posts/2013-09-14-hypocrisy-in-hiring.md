@@ -18,7 +18,7 @@ I was sickened to learn that companies that have laid off thousands of American 
 >
 > On Tuesday, the chief human resources officers of more than 100 large corporations sent a letter to House Speaker John Boehner and Minority Leader Nancy Pelosi urging quick passage of a comprehensive immigration reform bill.
 >
-> The officials represent companies with a vast array of business interests: General Electric, The Walt Disney Company, Marriott International, Hilton Worldwide, Hyatt Hotels Corporation, McDonald's Corporation, The Wendy's Company, Coca-Cola, The Cheesecake Factory, Johnson &amp; Johnson, Verizon Communications, Hewlett-Packard, General Mills, and many more. All want to see increases in immigration levels for low-skill as well as high-skill workers, in addition to a path to citizenship for the millions of immigrants currently in the U.S. illegally.
+> The officials represent companies with a vast array of business interests: General Electric, The Walt Disney Company, Marriott International, Hilton Worldwide, Hyatt Hotels Corporation, McDonald's Corporation, The Wendy's Company, Coca-Cola, The Cheesecake Factory, Johnson & Johnson, Verizon Communications, Hewlett-Packard, General Mills, and many more. All want to see increases in immigration levels for low-skill as well as high-skill workers, in addition to a path to citizenship for the millions of immigrants currently in the U.S. illegally.
 
 Phone me if you would like to talk about this.
 
