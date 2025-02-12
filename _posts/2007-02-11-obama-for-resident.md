@@ -5,7 +5,6 @@ categories:
 - opinions
 - videos
 tags:
-- Barack Hussein Obama
 - politics
 - population
 format: video

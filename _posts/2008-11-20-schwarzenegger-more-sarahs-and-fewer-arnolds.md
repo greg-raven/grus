@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - California
-- Arnold Schwarzenegger
 ---
 
 I am sending this to you in case you missed it:
@@ -38,3 +37,6 @@ I am sending this to you in case you missed it:
 > She, not he, is the future of the GOP.
 
 {% include signature.html %}
+
+Sent to:
+: Arnold Schwarzenegger

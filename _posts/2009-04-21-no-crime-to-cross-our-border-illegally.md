@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - immigration
-- Janet Napolitano
 ---
 
 I am absolutely appalled by your comments on CNN's "State of the Union" program! Crossing the border without permission is a crime!
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. [According to our Constitution](https://www.hatefacts.com/its-the-law/index.html) and the [Treaty of Guadalupe Hidalgo](https://www.hatefacts.com/its-the-law/index.html), you have a sworn duty to protect our borders!
+
+Sent to:
+: Janet Napolitano

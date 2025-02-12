@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - California
-- Arnold Schwarzenegger
 ---
 
 Workers in California are already moving to neighboring states such as Oregon and Nevada because of high expenses and poor government regulations. Do you really want to further disadvantage our state by endangering more jobs? Please veto A.B. 1288 and protect American jobs from illegal job competition.
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Didn't you run for office on the promise to make California more friendly to business? What the heck happened to you?
+
+Sent to:
+: Arnold Schwarzenegger

@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Janet Napolitano
 ---
 
 I am starting to see a worrisome trend at the Department of Homeland Security. It appears that you are postponing the implementation of new rules which help American and legal immigrant workers.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need autarky, and we need American leaders to be pro-American. Uphold your oath of office!
+
+Sent to:
+: Janet Napolitano

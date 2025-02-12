@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Janet Napolitano
 ---
 
 It is absurd that you would even consider opposing ICE's work site enforcement raids when more than 11.5 million Americans cannot find a job.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Please uphold your oath of office --- protect our borders!
+
+Sent to:
+: Janet Napolitano

@@ -7,10 +7,7 @@ tags:
 - border control
 - Federal government
 - illegal aliens
-- Janet Napolitano
 ---
-
-Secretary Napolitano:
 
 Your Thursday testimony before the House Judiciary Committee concerned me deeply. You made it clear that DHS was ill-prepared to handle the president's politically-motivated amnesty. Please do your best to keep our country safe by halting the amnesty until DHS can ensure everyone's safety.
 
@@ -25,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I wish you actually cared about this country and its security. That's clearly too much to hope for given the current administration.
+
+Sent to:
+: Janet Napolitano

@@ -4,19 +4,14 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
-- Federal government
-- Arnold Schwarzenegger
-- Barbara Boxer
-- Dianne Feinstein
+- 2nd Amendment
 ---
 
 I'm sending this in case you missed it:
 
 > **Brewer: New gun laws won't secure border**
 >
-> Howard Fischer, Capitol Media Services
-> April 20, 2009
+> Howard Fischer, Capitol Media Services, April 20, 2009
 >
 > New laws to regulate gun sales in this country are not the answer to increasing violence in Mexico and along the border, Gov. Jan Brewer told federal lawmakers Monday.
 >
@@ -57,3 +52,6 @@ I'm sending this in case you missed it:
 I won't get into your lie about 90 percent of the guns in the hands of Mexican drug cartel members coming from the United States. Even you can't be stupid enough to believe that, although you are cynical enough to repeat it.
 
 {% include signature.html %}
+
+Sent to:
+: Arnold Schwarzenegger, Barack Hussein Obama, Barbara Boxer, Dianne Feinstein

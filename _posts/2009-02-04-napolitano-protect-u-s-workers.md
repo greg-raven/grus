@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Janet Napolitano
 ---
 
 I am concerned that the Department of Homeland Security is not implementing measures that would protect American workers.
@@ -19,3 +18,6 @@ I urge you to change your mind and starting implementing these common sense rule
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Janet Napolitano

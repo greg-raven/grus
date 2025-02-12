@@ -4,7 +4,6 @@ layout: post
 categories:
 - opinions
 tags:
-- Barack Hussein Obama
 - politics
 ---
 

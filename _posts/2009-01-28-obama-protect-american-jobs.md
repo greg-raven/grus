@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - chain migration
 - immigration
 - visa lottery
@@ -20,3 +19,6 @@ NumbersUSA has sent you a letter requesting that you curb chain migration, the v
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama

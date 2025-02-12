@@ -4,9 +4,7 @@ layout: post
 categories:
 - opinions
 tags:
-- Barack Hussein Obama
 - politics
-- "Hillary Clinton"
 ---
 
 You gotta love Hillary Clinton's charges of plagiarism against Barack Obama. For a couple of weeks now, it's become clear to me that she's upset that, having no substance herself or in her campaign, she's run into an opponent with even less substance, who's more successful.
