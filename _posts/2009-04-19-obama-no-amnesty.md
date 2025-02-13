@@ -8,8 +8,6 @@ tags:
 - federal government
 ---
 
-Resident Barack Obama,
-
 Cecilia Munoz gave *The New York Times* an outline of your immigration plan and it sounded a lot like President Bush's and John McCain's plan to hold enforcement hostage to amnesty. That is a terrible way to treat American workers and taxpayers during a recession.
 
 Americans are experiencing record unemployment. Everyone is suffering, but none more than Black Americans, Hispanic-Americans, teenagers, ex-convicts, and disabled Americans. Many people in these groups are competing directly with the illegal workers who would get amnesty under the plan Cecilia Munoz described to *The New York Times.* It seems terribly unfair and wrong-headed to put illegal workers ahead of these other groups.
