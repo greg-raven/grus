@@ -4,7 +4,7 @@ layout: post
 categories:
 - cartoon
 tags:
-- Barack Hussein Obama
+- globalism
 ---
 
 - Kills capitalism on contact
@@ -23,4 +23,4 @@ Warning:
 
 Keep away from wallet when opening.
 
-![Hydrogen Barackside](/assets/img/20090606-hydrogen-barackside.jpg)
+![Hydrogen Barackside](/assets/img/20090606-hydrogen-barackside.jpg "Barack Hussein Obama")

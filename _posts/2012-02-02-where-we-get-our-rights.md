@@ -13,4 +13,4 @@ Liberal: "Your government has given you many wonderful freedoms, young man ... a
 
 ![Where we get our rights](https://4.bp.blogspot.com/-CXQYf39xDp4/Tyv0RuE_oEI/AAAAAAAAAso/AyURKxgeNwc/s1600/418994_10150526426185432_111499100431_9284970_2110389948_n.jpeg)
 
-Source: https://4.bp.blogspot.com/-CXQYf39xDp4/Tyv0RuE_oEI/AAAAAAAAAso/AyURKxgeNwc/s1600/418994_10150526426185432_111499100431_9284970_2110389948_n.jpeg
+Source: <https://4.bp.blogspot.com/-CXQYf39xDp4/Tyv0RuE_oEI/AAAAAAAAAso/AyURKxgeNwc/s1600/418994_10150526426185432_111499100431_9284970_2110389948_n.jpeg>

@@ -4,7 +4,6 @@ layout: post
 categories:
 - cartoon
 tags:
-- Barack Hussein Obama
 - Obamacare
 ---
 

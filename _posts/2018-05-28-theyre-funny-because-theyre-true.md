@@ -11,8 +11,7 @@ tags:
 
 ![Obama: Eight years, three accomplishments](/assets/img/2018/05/accomplishments.jpg)
 
-Trump sacrificed his wealth for our country. Hillary Clinton sacrificed our country for
-her wealth.
+Trump sacrificed his wealth for our country. Hillary Clinton sacrificed our country for her wealth.
 
 ![Comparing Donald Trump and Hillary Clinton](/assets/img/2018/05/djt-vs-hrc.jpg)
 

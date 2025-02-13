@@ -15,18 +15,84 @@ What he conveniently omitted from his speech was that his failed policies have d
 
 **America Before Resident Obama Took Office and Now**
 
-|  | Before | Now | Change |
-|---|---|---|---|
-| Number of Unemployed<sup>1</sup> | 12.0 Million | 13.1 Million | +9% |
-| Long-Term Unemployed<sup>2</sup> | 2.7 Million | 5.6 Million | +107% |
-| Unemployment Rate<sup>3</sup> | 7.8% | 8.5% | +9% |
-| "High Unemployment" States<sup>4</sup> | 22 | 43 | +95% |
-| Misery Index<sup>5</sup> | 7.83 | 11.46 | +46% |
-| Price of Gas<sup>6</sup> | $1.85 | $3.39 | +83% |
-| "Typical" Monthly Family Food Cost<sup>7</sup> | $974 | $1,013 | +4% |
-| Median Value of Single-Family Home<sup>8</sup> | $196,600 | $169,100 | -14% |
-| Rate of Mortgage Delinquencies<sup>9</sup> | 6.62% | 10.23% | +55% |
-| U.S. National Debt<sup>10</sup> | $10.6 Trillion | $15.2 Trillion | +43% |
+<table>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+	<th> </th>
+	<th> Before </th>
+	<th> Now </th>
+	<th> Change </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td> Number of Unemployed<sup>1</sup> </td>
+	<td> 12.0 Million </td>
+	<td> 13.1 Million </td>
+	<td> +9% </td>
+</tr>
+<tr>
+	<td> Long-Term Unemployed<sup>2</sup> </td>
+	<td> 2.7 Million </td>
+	<td> 5.6 Million </td>
+	<td> +107% </td>
+</tr>
+<tr>
+	<td> Unemployment Rate<sup>3</sup> </td>
+	<td> 7.8% </td>
+	<td> 8.5% </td>
+	<td> +9% </td>
+</tr>
+<tr>
+	<td> “High Unemployment” States<sup>4</sup> </td>
+	<td> 22 </td>
+	<td> 43 </td>
+	<td> +95% </td>
+</tr>
+<tr>
+	<td> Misery Index<sup>5</sup> </td>
+	<td> 7.83 </td>
+	<td> 11.46 </td>
+	<td> +46% </td>
+</tr>
+<tr>
+	<td> Price of Gas<sup>6</sup> </td>
+	<td> $1.85 </td>
+	<td> $3.39 </td>
+	<td> +83% </td>
+</tr>
+<tr>
+	<td> “Typical” Monthly Family Food Cost<sup>7</sup> </td>
+	<td> $974 </td>
+	<td> $1,013 </td>
+	<td> +4% </td>
+</tr>
+<tr>
+	<td> Median Value of Single-Family Home<sup>8</sup> </td>
+	<td> $196,600 </td>
+	<td> $169,100 </td>
+	<td> -14% </td>
+</tr>
+<tr>
+	<td> Rate of Mortgage Delinquencies<sup>9</sup> </td>
+	<td> 6.62% </td>
+	<td> 10.23% </td>
+	<td> +55% </td>
+</tr>
+<tr>
+	<td> U.S. National Debt<sup>10</sup> </td>
+	<td> $10.6 Trillion </td>
+	<td> $15.2 Trillion </td>
+	<td> +43% </td>
+</tr>
+</tbody>
+</table>
 
 <sup>1</sup> Number of unemployed in January 2009 and December 2011. https://www.bls.gov/data/#unemployment.
 
