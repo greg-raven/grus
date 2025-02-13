@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 E-Verify reduces discrimination. An employer that uses E-Verify must use it for all new hires, and its use encourages employers to hire Hispanics, and immigrants of all kinds.
@@ -18,3 +16,6 @@ E-Verify would drastically reduce this kind of intentional or unintentional disc
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

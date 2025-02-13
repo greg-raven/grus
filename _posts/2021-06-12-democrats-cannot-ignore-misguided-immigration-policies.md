@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Dianne Feinstein
 ---
 
 Biden's asylum expansion plan will turbocharge the border crisis.
@@ -17,3 +16,6 @@ America cannot take in the world. Resident Biden's plan could spark an historic 
 What will you do to urge the administration to close asylum loopholes and restore confidence in our immigration system?
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

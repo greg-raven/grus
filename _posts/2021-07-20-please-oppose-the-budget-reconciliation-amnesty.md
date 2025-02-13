@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Dianne Feinstein
 ---
 
 I was alarmed to learn that Congressional Democrats are plotting to include a massive amnesty for illegal aliens in the upcoming budget reconciliation bill. In addition to violating the Byrd Rule, an amnesty for illegal aliens would only exacerbate the border crisis by encouraging more people to illegally cross the border.
@@ -17,3 +16,6 @@ I hope you and your colleagues will oppose the budget reconciliation bill if it 
 {% include signature.html %}
 
 P.S. We need as much border control as we can possibly get, both to protect this country and to protect its legal workforce.
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

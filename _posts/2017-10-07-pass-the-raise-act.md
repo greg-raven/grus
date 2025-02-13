@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Dianne Feinstein
-- Kamala Harris
 - visa lottery
 ---
 
@@ -22,3 +20,6 @@ Please stand up for American workers by supporting the RAISE Act!
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I have heard that there is a handful of Senators, along with some in the White House, who are looking to slip an INCREASE of legal immigration into the emergency spending bills currently being drafted to deal with the coronavirus outbreak.
@@ -19,3 +17,6 @@ Quite simply, the EB-5 visa program is the selling of U.S. citizenship. It's rid
 Please oppose any efforts to slip an EB-5 increase into the economic stimulus package. Congress should not be supporting bad immigration policy, especially not by burying it into emergency bills.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

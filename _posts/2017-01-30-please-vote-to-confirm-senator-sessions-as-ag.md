@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Dianne Feinstein
+- federal government
 ---
 
 Please vote to confirm Senator Jeff Sessions as attorney general. The new administration has a lot of work ahead of it repairing the damage done to our country and to the rule of law by the previous administration, and Senator Sessions can play a key role in that effort.
@@ -14,3 +14,6 @@ For more than two decades, Senator Sessions has been the Senate's leading voice 
 As the nation's chief law enforcement officer, Senator Sessions would uphold the U.S. Constitution and the rule of law by pursuing local jurisdictions that protect illegal workers from federal immigration agents and encouraging the enforcement of immigration laws passed by Congress.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein

@@ -6,8 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I hope you will do all you can to make sure you and your fellow Democrats do not shut down the government if the December spending bill doesn't amnesty DACA recipients.
@@ -17,3 +15,6 @@ The American people are against any rewards for illegal aliens, especially if th
 You and your fellow Democrats need to prove that you are prioritizing jobless Americans and those struggling to make ends meet instead of putting illegal aliens first.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

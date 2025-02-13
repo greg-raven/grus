@@ -4,8 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Dianne Feinstein
-- Kamala Harris
+- judiciary
 ---
 
 Please confirm Judge Brett M. Kavanaugh of the U.S. Court of Appeals for the District of Columbia Circuit to fill the Supreme Court vacancy created by Justice Anthony Kennedy's retirement.
@@ -39,3 +38,6 @@ In announcing Kavanaugh's nomination, President Trump said:
 I agree. Please work to confirm Judge Kavanaugh to fill the vacancy on the Supreme Court.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

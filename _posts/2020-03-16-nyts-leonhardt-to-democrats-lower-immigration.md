@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 David Leonhardt is right: Progressives should lower future immigration.
@@ -15,8 +13,11 @@ Immigration has become a dominant issue in America, especially during the Trump 
 
 As he's written before, "immigration has surged, as has income inequality. Many other factors play a role in rising inequality: corporate consolidation, slowing educational attainment, the decline of unions, falling tax rates on the rich, and more. Some of these are substantially more important than immigration. But immigration belongs on the list."
 
-There is nothing progressive about giving big business another tool to suppress wages. Lowering immigration down to the levels recommended by the Jordan Commission would also ease pressure on everyday things like overcrowded schools and hospitals, and the constant traffic on our nationâ&#128;&#153;s highways.
+There is nothing progressive about giving big business another tool to suppress wages. Lowering immigration down to the levels recommended by the Jordan Commission would also ease pressure on everyday things like overcrowded schools and hospitals, and the constant traffic on our nation's highways.
 
 Leonhardt is a voice that should be heeded.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

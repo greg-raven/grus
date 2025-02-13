@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Dianne Feinstein
 ---
 
 I truly am disappointed, and more than a little shocked, that you have decided to support the DREAM Act amnesty. I would have thought that, given the recent election, you would be looking ahead to 2012 and would be opposing, not supporting, an anti-American amnesty bill.
@@ -25,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I don't understand why you liberals hate the United States so much. You disgust me.
+
+Sent to:
+: Dianne Feinstein

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Dianne Feinstein
 ---
 
 Polls consistently and increasingly show that the public is alarmed by Washington's cavalier attitude toward a border crisis that continues to break records during the hot and deadly summer months. There is no issue on which the public is at greater odds with Democrats in Washington than immigration.
@@ -15,3 +14,6 @@ Your vote for a budget resolution that offers a reward to millions of people who
 The damage wrought by this rash act is going to linger.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

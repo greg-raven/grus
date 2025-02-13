@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - judiciary
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 We should brook no further delay of a full Senate confirmation of Judge Brett Kavanaugh's appointment to the Supreme Court.
@@ -20,3 +18,6 @@ Will the Senate allow its confirmation process to be turned into a search-and-de
 We urge you to confirm Judge Kavanaugh to the Supreme Court NOW.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

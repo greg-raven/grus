@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Do not support any DACA amnesty!
@@ -20,3 +18,6 @@ We can only hope that DACA recipients are not allowed to stay in the country and
 Channel Dianne Feinstein's immigration position of 1994 and secure our borders!
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

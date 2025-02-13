@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- Dianne Feinstein
+- California
 ---
 
 **Bullet train bid rules altered** (4/19/2013)

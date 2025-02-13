@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - judiciary
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Yesterday, Judge Brett Kavanaugh appeared before the Senate Judiciary Committee for the beginning of his confirmation hearing for the U.S. Supreme Court. Predictably, you attempted to thwart even holding a hearing on the Judge's nomination, rather than focusing on his record.
@@ -20,3 +18,6 @@ You and his other critics know all of this, which is why you are talking about p
 I again urge you to vote to confirm Judge Kavanaugh as our next justice of the Supreme Court.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

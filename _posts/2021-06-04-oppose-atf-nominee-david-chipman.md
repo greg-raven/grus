@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Dianne Feinstein
 ---
 
 As a freedom-loving American, I strongly oppose the nomination of David Chipman for Director of the ATF.
@@ -15,3 +14,6 @@ Chipman was a career ATF agent who immediately turned to anti-gun activism after
 I urge you to oppose Chipman in the strongest manner possible.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Give minorities in STEM fields a chance to find work: stop the OPT program!
@@ -20,3 +18,6 @@ The OPT program (or "Optional Practical Training") gives employers who hire fore
 The government can't pretend that offering employers a tax break to not hire Americans doesn't create a perverse incentive to deny opportunities to our fellow Americans. I'm counting on you to end the destructive and discriminatory OPT program.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

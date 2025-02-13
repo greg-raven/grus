@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Dianne Feinstein
 ---
 
 I am glad you wrote an op-ed to highlight the dangers of the EB-5 visa program. I hope you will do all you can to make sure the program is not renewed.
@@ -17,3 +16,6 @@ Thank you for speaking out against this program.
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein

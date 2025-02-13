@@ -6,8 +6,6 @@ categories:
 tags:
 - illegal aliens
 - national security
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I urge you to support the recently-passed House bill H.R. 3003 (which would end sanctuary cities) if it reaches the Senate floor for a vote.
@@ -19,3 +17,6 @@ If a jurisdiction in our state refuses to cooperate with federal immigration enf
 I urge you to do the right thing by supporting H.R. 3003 should it reach the Senate floor for a vote.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

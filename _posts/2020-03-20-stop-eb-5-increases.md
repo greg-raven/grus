@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Please oppose outrageous increases to the corrupt EB-5 program.
@@ -19,3 +17,6 @@ The May 8, 2017 editorial by The Washington Post is correct: "ending EB-5 should
 Do not allow any increases in the EB-5 program to slip into a coronavirus package or anywhere else.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

@@ -1,5 +1,5 @@
 ---
-title: "Thank you for opposing worker importation &#038; amnesty"
+title: "Thank you for opposing worker importation and amnesty"
 layout: post
 categories:
 - letter

@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Dianne Feinstein
+- jobs
 ---
 
 Earlier this week, Barack Obama had an online town hall meeting and interacted with Jennifer Wedel, whose semiconductor engineer husband is unemployed. President Obama said he found Mr. Wedel's inability to find a job "interesting." It is truly astounding that the president finds it "interesting," as opposed to "appalling," that his pro-foreign worker immigration policies are keeping America's high tech workers out of U.S. jobs. I hope you will use your position on the Senate Judiciary Committee to reduce the number of H-1B visas our country issues so that technology workers like Mr. Wedel can find a job.
@@ -18,3 +18,6 @@ As President Obama refuses to, I hope you will look out for these jobless and at
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein

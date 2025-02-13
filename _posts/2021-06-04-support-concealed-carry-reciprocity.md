@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Dianne Feinstein
 ---
 
 I urge you to support Concealed Carry Reciprocity (S. 1522).
@@ -17,3 +16,6 @@ Currently, gun owners face a confusing patchwork of concealed carry reciprocity,
 Thank you for your time and consideration. Please support S. 1522.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

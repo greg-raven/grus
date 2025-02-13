@@ -1,5 +1,5 @@
 ---
-title: "HAZMAT &#038; Nuclear"
+title: "HAZMAT and Nuclear"
 layout: post
 categories:
 - letter

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Dianne Feinstein
 ---
 
 I am disappointed that you and your colleagues on the Judiciary Committee will be holding hearings on amnesty when so many Americans feel the negative impact of the illicit hiring of illegal aliens.
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. NO rewards for illegal immigrants. Secure our borders NOW!
+
+Sent to:
+: Dianne Feinstein

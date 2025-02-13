@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Dianne Feinstein
 ---
 
 Please oppose the budget reconciliation amnesty!
@@ -19,3 +18,6 @@ I hope you and your colleagues will oppose the budget reconciliation bill if it 
 {% include signature.html %}
 
 P.S. Here in California we are out of water and our electrical grid is strained to the limit. Why is anyone even mentioned bringing in more people at a time like this?
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

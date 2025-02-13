@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - birthright citizenship
-- Dianne Feinstein
 ---
 
 The United States is one of only two industrialized nations to still practice *jus soli* --- birthright citizenship. Australia eliminated it in 2007, New Zealand in 2006, Ireland in 2005, France in 1993, and the United Kingdom in 1983. It's time that America got with the times by ending this policy that rewards illegal immigration by allowing their children to receive automatic citizenship.
@@ -15,3 +14,6 @@ The United States is one of only two industrialized nations to still practice *j
 I urge you to get behind legislation that would end this outdated practice once and for all!
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris
