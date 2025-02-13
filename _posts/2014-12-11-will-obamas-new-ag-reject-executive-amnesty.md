@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Nancy Pelosi
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The Senate will soon have the opportunity to consider a replacement for Attorney General Eric Holder. Many Senators, on both sides of the aisle, have said that they oppose Pres. Obama taking executive action on immigration --- actions that Eric Holder helped draft. I urge you to oppose any nominee for Attorney General that doesn't reject Pres. Obama's executive actions on immigration.
@@ -19,3 +16,6 @@ An individual cannot be Attorney General if he/she is not willing to enforce the
 Please do not vote in favor of President Obama's nominee if he/she will not promise to enforce immigration laws.
 
 {% include signature.html %}
+
+Sent to:
+: Nancy Pelosi, Barbara Boxer, Dianne Feinstein

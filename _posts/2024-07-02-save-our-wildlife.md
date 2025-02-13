@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Laphonza Butler
 - environment
 ---
 
@@ -17,3 +16,6 @@ The destruction of natural spaces is primarily driven by the need for more space
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Laphonza Butler

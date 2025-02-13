@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Laphonza Butler
 - illegal immigration
 - environment
 - immigration
@@ -22,3 +21,5 @@ There are plenty of ways to humanely reduce immigration rates, e.g., limited cha
 
 {% include immigration.html %}
 
+Sent to:
+: Laphonza Butler

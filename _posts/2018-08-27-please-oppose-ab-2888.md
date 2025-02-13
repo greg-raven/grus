@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Scott Wilk
 ---
 
 I am a concerned resident of California writing to urge you to OPPOSE A.B. 2888.
@@ -15,3 +14,6 @@ OPPOSE --- Assembly Bill 2888 would expand the list of those eligible to file gu
 I respectfully ask that you OPPOSE A.B. 2888.
 
 {% include signature.html %}
+
+Sent to:
+: Scott Wilk

@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Laphonza Butler
 - jobs
 - immigration
 - E-Verify
@@ -25,3 +24,6 @@ Additional actions to be taken now: Require businesses to use the free E-Verify 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Laphonza Butler
