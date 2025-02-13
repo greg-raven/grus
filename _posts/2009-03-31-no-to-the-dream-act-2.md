@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 You have shown a tendency of preferring illegal alien workers over unemployed Americans. Please change this tendency and oppose the anti-American worker DREAM Act amnesty.
@@ -28,3 +26,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Protect our country from alien invaders!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

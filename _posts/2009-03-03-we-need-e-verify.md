@@ -4,9 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
-- Barbara Boxer
-- Dianne Feinstein
+- federal government
 ---
 
 More than 7.7 million illegal aliens have jobs at a time when more than 11.5 million Americans do not. You can help some of these unemployed Americans by ensuring that E-Verify is reauthorized for at least 10 years.
@@ -18,3 +16,6 @@ There is currently a movement to attach the reauthorization to the Omnibus Appro
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

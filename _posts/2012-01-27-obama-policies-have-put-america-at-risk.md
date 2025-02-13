@@ -6,7 +6,7 @@ categories:
 tags:
 - Barack Hussein Obama
 - economy
-- Federal government
+- federal government
 ---
 
 Earlier this week during his State of the Union address, Resident Obama said, "The defining issue of our time is how to keep that \[American\] promise alive."

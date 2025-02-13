@@ -7,8 +7,6 @@ tags:
 - California
 - 2nd Amendment
 - population
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I am writing to urge you to support and vote for the passage of H.R. 822, the "National Right-to-Carry Reciprocity Act of 2011."
@@ -38,3 +36,6 @@ The passage of this bill is especially important to Californians, whose carry pe
 If you have any questions about this, please feel free to contact me.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

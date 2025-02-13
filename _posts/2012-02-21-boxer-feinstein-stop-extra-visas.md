@@ -5,11 +5,7 @@ categories:
 - letter
 tags:
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
-
-Senator Barbara Boxer
 
 We don't support bills that increase foreign workers, particularly those that favor one nationality over another. That's what Sen. Brown's E-3 visa bill is and we hope you will oppose it.
 
@@ -22,3 +18,6 @@ Sen. Brown's bill is cheap pandering to a narrow ethnic lobby. The Senate should
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

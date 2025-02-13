@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Immigration and Customs Enforcement agents do a fantastic job enforcing our nation's laws. How can Speaker Nancy Pelosi call them "un-American?"
@@ -26,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need our elected officials to represent American citizens for a change. This means you!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

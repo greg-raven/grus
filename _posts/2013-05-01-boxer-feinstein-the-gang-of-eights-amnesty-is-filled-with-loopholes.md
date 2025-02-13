@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is important that you act against the Schumer-McCain amnesty legislation. I agree with the growing chorus who say that the bill will not secure the border and will not stop the flow of illegal aliens. However, it is clear that the bill will provide an easy path to amnesty for illegal aliens.
@@ -20,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. What we need is an enforcement-only immigration reform bill. No admission to illegals. Evict the illegals already here. No public assistance for illegals. No special consideration for illegals. Get them out of our country and keep them out. Then, return to the pre-1965 immigration laws.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

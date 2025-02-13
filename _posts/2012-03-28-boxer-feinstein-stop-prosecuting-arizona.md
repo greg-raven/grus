@@ -9,8 +9,6 @@ tags:
 - economy
 - illegal aliens
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is ridiculous that our state's attorney general is trying to get Arizona's S.B. 1070 overturned at the Supreme Court! You can help to alleviate the attorney general's concerns by cosponsoring mandatory E-Verify legislation.
@@ -26,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We have a more strict law on the books in California in CPC Section 834b. Let's work on enforcing that and leave Arizona alone!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

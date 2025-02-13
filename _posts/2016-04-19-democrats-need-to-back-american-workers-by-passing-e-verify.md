@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 During an interview with Republican presidential candidate Donald Trump, MSNBC host Chris Matthews accused Republican Congressional leaders of refusing to bring up mandatory E-Verify legislation because it would rob businesses of cheap labor. I hope you and your fellow Democrats will stand up for American workers by forcing a vote on mandatory E-Verify legislation so that businesses would be forced to hire unemployed Americans.
@@ -18,3 +16,6 @@ During the interview with Donald Trump, Matthews said:
 Chris Matthews is absolutely right. As long as businesses are not prevented from hiring illegal labor, illegal immigration will continue and American workers will be unable to find work. I hope the Democrats will step up on this issue and force Republicans in Congress to hold a vote on mandatory E-Verify legislation.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

@@ -5,7 +5,7 @@ categories:
 - letter
 tags:
 - chain migration
-- Federal government
+- federal government
 ---
 
 Resident Barack Obama,

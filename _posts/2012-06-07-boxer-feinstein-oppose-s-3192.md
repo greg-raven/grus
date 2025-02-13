@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The American people don't need more foreign workers; we need more jobs. With this in mind I urge you to oppose the SMART Jobs Act, S. 3192.
@@ -27,3 +25,6 @@ I urge you to help Americans with STEM degrees to find jobs by opposing this leg
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

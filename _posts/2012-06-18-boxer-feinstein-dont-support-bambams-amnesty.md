@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I hope you find the unilateral Obama Amnesty as appalling as I do. This action will harm millions of jobless Americans and will devastate the Democrats at the November polls. I'm sure you won't be supporting this action.
@@ -20,3 +18,6 @@ Where do you stand? Do you stand with the more than 2 million illegal aliens tha
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

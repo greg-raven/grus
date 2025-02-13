@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 As a candidate, you often made reference to draining the swamp. As laudable as this goal may be, the "swamp" exists because the federal government has become so gigantic, so invasive, and so all-encompassing that anyone who wishes to get anything done in this country must necessarily apply to Washington at some point --- either for help or permission. Draining the swamp, therefore, isn't enough: You must eliminate it completely. Draining it will only create a vacuum, and nature abhors a vacuum.

@@ -4,8 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Dianne Feinstein
-- Barbara Boxer
 - amnesty
 ---
 
@@ -20,3 +18,7 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. One can only imagine the sordid pretexts for your voting on this issue.
+
+Sent to:
+: Barbara Boxer
+, Dianne Feinstein

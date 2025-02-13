@@ -22,4 +22,5 @@ Phone me if you would like to talk about this.
 P.S. This may be a small point, but do you realize that the people you are attempting to bring into this country hate Jews with a passion? Where do you think you and your family will stand once they have taken over? If you don't want to find out the hard way, keep them out of the country!
 
 Sent to:
-: Dianne Feinstein, Barbara Boxer
+: Barbara Boxer
+, Dianne Feinstein

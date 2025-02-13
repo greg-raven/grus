@@ -4,8 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Barbara Boxer
-- Dianne Feinstein
 - jobs
 - immigration
 ---
@@ -19,3 +17,6 @@ As Congress considers many "immigration reform" proposals, keep in mind that the
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 Today I read that you signed into law the Edward M. Kennedy Serve America Act, which for the first time includes federal authorization to establish September 11 as an annually recognized National Day of Service and Remembrance. It's time we had a talk.

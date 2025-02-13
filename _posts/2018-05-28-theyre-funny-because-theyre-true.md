@@ -4,7 +4,7 @@ layout: post
 categories:
 - cartoon
 tags:
-- Federal government
+- federal government
 ---
 
 8 YEARS, 3 ACCOMPLISHMENTS: MADE SCHOOL LUNCHES INEDIBLE, HEALTH INSURANCE UNAFFORDABLE AND POLICE LIVÉS UNIMPORTANT.

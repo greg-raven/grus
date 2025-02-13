@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The House recently voted against President Obama's expansion of executive amnesties. Do you support the House bill to block the president's executive amnesty program and will you demand it receive a vote in the Senate?
@@ -18,3 +16,6 @@ The House-passed bill to defund DACA must be passed by the Senate. If it isn't, 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

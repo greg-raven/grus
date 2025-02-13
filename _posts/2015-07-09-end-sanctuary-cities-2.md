@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We cannot understand why Congress and the Obama administration are not requiring federal agencies to enforce immigration laws and not requiring states and localities to assist in enforcing the law. The tragic shooting death of an innocent San Francisco woman by a five-times deported illegal alien could have been prevented if the laws currently on the books were enforced. Please support and help to pass S. 1640, the Davis-Oliver Act. This bill would outlaw sanctuary cities and require all immigration laws to be enforced.
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If the Feds can go after Arizona for trying to enforce immigration law, they should also go after sanctuary cities for breaking the law!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

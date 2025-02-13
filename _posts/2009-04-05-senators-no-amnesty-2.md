@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is absolutely appalling that so many Americans (13.2 million as of March) are unemployed. Luckily, Vice President Biden's recent comments in Costa Rica make it clear that now is the wrong time to support any sort of mass amnesty.
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. And this comes at a time when 138,000 More foreign workers received work permits. Stop the insanity!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

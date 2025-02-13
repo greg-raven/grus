@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 It is vital that local law enforcement have the ability and funding to work in tandem with federal law enforcement dealing with criminal aliens. That is why I trust you will cosponsor the Homeland Security Enhancement Act of 2005.

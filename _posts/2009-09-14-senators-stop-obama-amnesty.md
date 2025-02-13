@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We find it sickening that the Obama Administration is preventing ICE from doing its job. We fear the Administration is simply trying to find ways of issuing de facto amnesties for illegal aliens. We hope you will use your place in the ruling Democratic Party to put a stop to ICE's emasculation so they are allowed to arrest and deport illegal aliens.
@@ -20,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Don't let Obama the illegal immigrant who has usurped our presidency to set our immigration policy. He clearly hates this country, and that includes you!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

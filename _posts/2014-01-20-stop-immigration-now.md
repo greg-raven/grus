@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Martin Luther King, Jr. strived for racial equality and that equality has been achieved in many arenas. However, it is still lacking in terms of employment, particularly for Black men. I urge you to consider reducing immigration numbers, which are far too high, so that all Americans have a good chance of finding a job.
@@ -24,3 +22,6 @@ Dr. King's dream is still alive and I hope you will honor it by working to furth
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

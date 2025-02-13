@@ -5,7 +5,7 @@ categories:
 - letter
 tags:
 - Barack Hussein Obama
-- Federal government
+- federal government
 - national security
 - Jerry Lewis
 - Barbara Boxer

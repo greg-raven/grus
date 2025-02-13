@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - environment
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I am writing to demand that you refuse to ratify the Copenhagen Climate Treaty.
@@ -18,3 +16,6 @@ America's sovereignty, prosperity, and economic independence are all at stake. T
 For the sake of our economy, our sovereignty, and our freedom, I respectfully request that you do not even consider ratifying the Copenhagen Climate Treaty.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

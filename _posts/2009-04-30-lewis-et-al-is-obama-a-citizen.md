@@ -4,6 +4,7 @@ layout: post
 categories:
 - letter
 tags:
+- Barack Hussein Obama
 - Jerry Lewis
 - Barbara Boxer
 - Dianne Feinstein

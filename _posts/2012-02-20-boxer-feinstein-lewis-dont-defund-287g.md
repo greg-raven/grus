@@ -4,12 +4,11 @@ layout: post
 categories:
 - letter
 tags:
+- national security
 - Jerry Lewis
 - Barbara Boxer
 - Dianne Feinstein
 ---
-
-Senator Barbara Boxer,
 
 I am outraged that President Obama is so desperate to curry the favor of certain ethnic interest groups that he is willing to cut funding to the 287(g) program. I urge you to make sure that this particularly obscene element of his FY2013 budget does not make its way through Congress.
 

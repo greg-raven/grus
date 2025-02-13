@@ -5,10 +5,8 @@ categories:
 - letter
 tags:
 - California
-- Federal government
+- federal government
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 You were not sent to Washington to protect the interests of illegal aliens! Why did you oppose Sen. Vitter's amendment to H.R. 2847? Do you truly support the notion of "sanctuary cities?"
@@ -24,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Just what do you think your grandchildren are going to do with the country that you're working so hard to flush down the drain? Have you no shame whatsoever?
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

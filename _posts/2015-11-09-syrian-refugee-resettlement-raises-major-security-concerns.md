@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I hope you will take a look at the Senate's recent hearing into the Syrian refugee situation. Multiple Obama administration officials, including FBI Director James Comey, have admitted that there is no way to determine which applicants pose a security threat. Efforts to allocate $1 billion to resettle Syrians in the United States, while well-meaning, are dangerous and should not be supported. The United States' efforts should focus on helping the millions of Syrians who have fled to Turkey and Jordan.
@@ -17,7 +15,7 @@ A group of 18 U.S. mayors have asked the government to send their cities more Sy
 
 On top of this, allowing too many refugees to settle in a country brings other risks. Sweden, which until now has had an open-door policy to those fleeing the Syrian conflict, is feeling the strain. Margot Wallstrom, Sweden's foreign minister, has warned that the influx cannot continue indefinitely:
 
-"I think most people feel that we cannot maintain a system where perhaps 190,000 people will arrive every year --- in the long run, our system will collapse.... And that welcome is not going to receive popular support."
+> "I think most people feel that we cannot maintain a system where perhaps 190,000 people will arrive every year --- in the long run, our system will collapse. ... And that welcome is not going to receive popular support."
 
 The United States faces the same collapse if it admits more fleeing Syrians. Please do all you can to make sure the U.S. helps those Syrians sheltered in Turkey and Jordan and doesn't make the mistake of relocating these people to the United States.
 
@@ -26,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We must secure our borders!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

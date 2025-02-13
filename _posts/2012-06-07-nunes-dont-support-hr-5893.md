@@ -5,7 +5,7 @@ categories:
 - letter
 tags:
 - economy
-- Federal government
+- federal government
 ---
 
 It is ridiculous for anyone to propose legislation that would bring more foreign workers into the United States when millions of American STEM workers can't find jobs. Your Startup Act 2.0 is such a piece of ridiculous legislation.

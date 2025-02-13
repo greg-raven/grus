@@ -4,9 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
-- Barbara Boxer
-- Dianne Feinstein
+- federal government
 ---
 
 It is absolutely imperative that E-Verify is reauthorized for at least ten years. You can ensure this occurs by supporting the addition of the reauthorization of the E-Verify program to the Omnibus Appropriations Bill.
@@ -20,3 +18,6 @@ I hope that what Sen. Reid wrote represents his true feelings and that he has de
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

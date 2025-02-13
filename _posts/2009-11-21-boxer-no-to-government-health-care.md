@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - Obamacare
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 RE: No to government health care meddling
@@ -22,3 +20,6 @@ I believe that you, as a United States Senator, must follow the wishes of the ma
 Vote NO!
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

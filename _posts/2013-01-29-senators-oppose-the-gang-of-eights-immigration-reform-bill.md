@@ -4,8 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Barbara Boxer
-- Dianne Feinstein
 - amnesty
 ---
 
@@ -20,3 +18,6 @@ I urge you to oppose amnesty and support real solutions that finally solve the i
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is absolutely disgusting that Majority Leader Reid wants to force the DREAM Act amnesty through the lame duck session! I expect you to do the right thing for American workers and oppose this horrible mass amnesty.
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

@@ -4,8 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barbara Boxer
-- Dianne Feinstein
+- amnesty
 ---
 
 It is disappointing that so many of your Democratic colleagues are rushing to give an amnesty to illegal aliens. I am counting on you to oppose these efforts and help preserve jobs for unemployed American workers.
@@ -19,3 +18,6 @@ You have a poor record of defending these victims of illegal immigration but at 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

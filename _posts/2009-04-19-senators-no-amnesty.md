@@ -6,8 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It did not take long for Resident Obama to shift his priorities from putting Americans back to work to keeping illegal workers in U.S. jobs. The unnamed Democratic operatives mentioned in the recent *New York Times* article are right to be concerned.
@@ -23,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Never forgive, never forget: No amnesty!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

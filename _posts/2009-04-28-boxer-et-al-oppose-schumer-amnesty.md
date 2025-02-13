@@ -5,7 +5,7 @@ categories:
 - letter
 tags:
 - amnesty
-- Federal government
+- federal government
 - Jerry Lewis
 - Barbara Boxer
 - Dianne Feinstein

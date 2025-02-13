@@ -4,14 +4,11 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 - population
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We are glad Resident Obama pointed out that America needs to create 150,000 new jobs each month simply to employ those Americans entering the workforce. With this in mind, why is the Congress allowing businesses to import 125,000 new foreign workers each month?
-
 
 Obama is right, the United States needs to create 150,000 jobs each month to keep pace without own skyrocketing population. According to Obama, we are only creating 50,000 jobs each month. This means that we are creating 100,000 too few jobs each month. That means we are looking at a jobs deficit of 1.2 million over the next year (if the economy keeps improving).
 
@@ -24,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Get the government out of our lives so our businesses can grow and hire Americans again!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

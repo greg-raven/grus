@@ -6,8 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I find the Senate leadership's plan to attach the DREAM Act amnesty to the defense authorization bill to be shocking. The authorization bill is supposed to fund our armed forces, not reward lawbreakers!
@@ -21,3 +19,6 @@ Many people argue that children should not be forced to pay the sins of their pa
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

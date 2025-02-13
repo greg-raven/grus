@@ -4,8 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Barbara Boxer
-- Dianne Feinstein
 - stimulus
 - jobs
 ---
@@ -19,3 +17,6 @@ You must take immediate and decisive action to ensure that businesses which bene
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

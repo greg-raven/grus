@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 - visa lottery
 - E-Verify
 ---
@@ -23,3 +21,6 @@ I urge you to do call you can to assist Resident-elect Obama in creating and pro
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

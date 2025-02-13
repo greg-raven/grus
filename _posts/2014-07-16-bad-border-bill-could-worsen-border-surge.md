@@ -1,12 +1,10 @@
 ---
-title: "Bad Border Bill Could Worsen Border Surge"
+title: "Bad border bill could worsen border surge"
 layout: post
 categories:
 - letter
 tags:
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We were disappointed to learn that Rep. McCaul is pushing for his border security bill, H.R.1417, to be part of the House's response to the ongoing border crisis. Rep. McCaul's bill would weaken existing law, and given what's happening along the Southwest border, now is not the time to be weakening existing laws. Please do not support the inclusion of H.R.1417 in your response to what's happening at the border.
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. A nation without borders is not a nation!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

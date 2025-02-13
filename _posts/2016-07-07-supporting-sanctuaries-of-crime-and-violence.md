@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is disappointing that you voted against the motions to invoke cloture on S. 3100 and S. 2193. The bills would have stopped sanctuary cities from shielding criminal aliens and would have saved Americans' lives. I cannot understand you willingness to protect illegal aliens at the expense of innocent Americans.
@@ -24,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Sanctuary cities threaten American lives, and yet, you have voted to protect these bastions of crime, violence and danger from the law.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

@@ -4,10 +4,8 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 2012 is a long way away, but if this last election taught us anything, it is that politicians can no longer hope that their controversial votes will be forgotten come election time. Sen. Reid is setting you up for trouble. You need to vote "NO" on the DREAM Act.
@@ -21,3 +19,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If you don't start thinking and acting pro-America, soon there will be no America left. You might want to start thinking about where you're going to take your ill-gotten millions after you destroy this country.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

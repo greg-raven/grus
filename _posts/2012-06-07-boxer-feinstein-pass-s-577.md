@@ -4,10 +4,8 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 - taxes
 ---
 
@@ -24,3 +22,6 @@ The House has already done its part by passing legislation to close this loophol
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

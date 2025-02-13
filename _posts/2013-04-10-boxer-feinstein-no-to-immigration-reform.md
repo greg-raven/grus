@@ -6,8 +6,6 @@ categories:
 tags:
 - amnesty
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is disappointing that pro-illegal alien protestors are on the National Mall demanding an amnesty for lawbreakers. I urge you to rebuff their demands and help put jobless Americans into construction and service jobs held by millions of illegal aliens.
@@ -23,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Instead of amnesty for criminals, how about evicting all illegals and securing our borders? It's a pretty sorry day for the nation when I have to recommend to my senators to follow the law!
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

@@ -7,11 +7,7 @@ tags:
 - border control
 - illegal aliens
 - Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
-
-Senator Barbara Boxer,
 
 To say I am disturbed by the video of drug smugglers sneaking into the United States using an automotive jack is putting it mildly. To be honest, I'm in an apoplectic fury. Everyone who has said that our border is secure has been lying and the proof is in the video.
 
@@ -26,3 +22,6 @@ Americans have been let down on this issue. Please make sure we're not let down 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

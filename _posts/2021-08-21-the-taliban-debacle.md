@@ -4,7 +4,7 @@ layout: post
 categories:
 - commentary
 tags:
-- Federal government
+- federal government
 ---
 
 > "Once is happenstance. Twice is coincidence. Three times is enemy action."

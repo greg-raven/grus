@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 How could Resident Obama even consider instructing USCIS to draw up a memorandum entitled "Administrative Alternatives to Comprehensive Immigration Reform?" Does he not believe it is the job of the people's Congress to set immigration policy?
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I'm pretty certain you are as hopeless on this issue as you are on virtually every other issue, but I'm asking pro-forma. Obviously, you and Obama need an amnesty so Obama can stay in this country.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

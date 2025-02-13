@@ -4,8 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Barbara Boxer
-- Dianne Feinstein
 - stimulus
 ---
 
@@ -18,3 +16,6 @@ I urge you to ensure that sufficient protections for American workers are presen
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

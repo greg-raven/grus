@@ -5,7 +5,7 @@ categories:
 - letter
 tags:
 - bailouts
-- Federal government
+- federal government
 - George Bush
 - Jerry Lewis
 - Barbara Boxer

@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 If you oppose amnesty, you must vote against Sen. Specter's immigration proposal. It is a major illegal-alien amnesty.

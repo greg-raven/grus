@@ -5,7 +5,7 @@ categories:
 - video
 tags:
 - Barack Hussein Obama
-- Federal government
+- federal government
 - national debt
 ---
 

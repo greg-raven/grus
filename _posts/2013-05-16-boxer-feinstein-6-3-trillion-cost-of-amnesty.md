@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We wanted to make sure you were aware of the Heritage Foundation's new study which conclusively proves that the amnesty provisions of the Gang of Eight's comprehensive amnesty bill would cost U.S. taxpayers at least $6.3 trillion. This is in addition to the costs caused by the importation of 22 million legal immigrants over the first decade of the bill. We know you realize that America cannot afford to amnesty 11 million illegal aliens, as doing so would force Congress to reduce spending on services to those Americans most in need. Please oppose this bill.
@@ -18,3 +16,6 @@ However, legislation that gives work permits, green cards, and U.S. citizenship 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

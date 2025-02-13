@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
-- Dianne Feinstein
 - immigration
 ---
 
@@ -23,3 +21,6 @@ Amnesty is bad for America and bad for American workers. I hope you will oppose 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

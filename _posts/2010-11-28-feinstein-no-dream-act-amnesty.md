@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is reprehensible that Senate Majority Leader Harry Reid wants to force the DREAM Act amnesty on the American people during the lame duck session of Congress. You need to do the right thing and stand up to Sen. Reid and just say "No" to amnesty! Otherwise, your chances of winning reelection in 2012 will look dim.
@@ -27,3 +25,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. How about supporting this country and its citizens for a change? Deport all illegals, secure our borders, and return to pre-1965 immigration policies.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

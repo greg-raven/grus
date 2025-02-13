@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- Federal government
+- federal government
 ---
 
 Enough is enough! It's time for both sides to stop the drama! We do not want tax increases! We do not want to raise the debt ceiling! We do not want more spending! Why is that so difficult for our politicians to understand?

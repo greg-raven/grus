@@ -5,7 +5,7 @@ categories:
 - letter
 tags:
 - economy
-- Federal government
+- federal government
 - immigration
 ---
 

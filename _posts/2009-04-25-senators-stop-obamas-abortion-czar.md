@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - abortion
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I'm writing to ask you to STOP Obama's "Abortion Czar." "Abortion Queen" Sebelius' die-hard support for ALL forms of abortion --- especially the gruesome late-term abortions performed by her biggest political ally and financial backer, Killer Dr. George Tiller of Wichita, Kansas, makes her unfit to serve as head of Health and Human Services. The Senate should not confirm her nomination.
@@ -22,3 +20,6 @@ The Kansas State Legislature overwhelmingly passed a bill requiring health inspe
 STOP Obama's "Abortion Czar!" Vote NO on this dangerous nomination that would punish every unborn child. I will be watching your votes on this matter very closely. Thank you.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

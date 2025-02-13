@@ -6,7 +6,7 @@ categories:
 tags:
 - Barack Hussein Obama
 - economy
-- Federal government
+- federal government
 ---
 
 There is one person --- one American among the 300 million of us --- who is not to blame for the state of the union. Everyone else, each of you, in some small or large way, bears some share of the blame, but not this guy. Not one little bit.

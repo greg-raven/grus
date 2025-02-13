@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 I am not sure why you believe it is good policy to reward illegal aliens with jobs and legal status, but I am totally opposed to it. I'm disappointed in your vote in favor of amnesty-guestworker.

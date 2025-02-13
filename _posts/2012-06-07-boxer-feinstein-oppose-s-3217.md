@@ -4,11 +4,9 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 - immigration
 - jobs
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is ridiculous for anyone to propose legislation that would bring more foreign workers into the United States when millions of American STEM workers can't find jobs. S. 3217, the Startup Act 2.0, would destroy the hopes and dreams of millions of Americans. Please oppose it.
@@ -22,3 +20,6 @@ What unemployed American STEM workers need is not competition, but jobs. America
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

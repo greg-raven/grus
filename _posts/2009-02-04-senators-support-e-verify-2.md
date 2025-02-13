@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Barbara Boxer
-- Dianne Feinstein
 - jobs
 ---
 
@@ -19,3 +17,6 @@ I urge you to do all you can to support Sen. Nelson's and Sen. Sessions' efforts
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

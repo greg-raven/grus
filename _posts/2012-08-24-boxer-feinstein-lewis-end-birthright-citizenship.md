@@ -4,9 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
-- Barbara Boxer
-- Dianne Feinstein
+- amnesty
 ---
 
 I oppose automatic citizenship granted to the children of illegal aliens.
@@ -20,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. This is key to the survival of our republic.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

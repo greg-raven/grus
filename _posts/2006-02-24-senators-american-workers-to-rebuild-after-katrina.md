@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 I think most of the victims of Hurricane Katrina will tell you that a guest worker program will NOT benefit the American people.

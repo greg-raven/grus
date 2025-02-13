@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - judiciary
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I am asking you to OPPOSE AND FILIBUSTER Resident Obama's nomination of anti-life, anti-liberty, and anti-Christian Judge David Hamilton to the 7th Circuit Court of Appeals.
@@ -24,3 +22,6 @@ We therefore request you OPPOSE AND FILIBUSTER the nomination of the anti-life, 
 I hope you will oppose Judge Hamilton.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

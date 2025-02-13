@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 We cannot understand why the United States continues to import 125,000 foreign workers each month while 15 million Americans are out of work. The $1.5 billion jobs stimulus will not help Americans find work as long as they have to compete against less-expensive foreign workers!

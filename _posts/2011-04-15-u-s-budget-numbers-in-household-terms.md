@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- Federal government
+- federal government
 - national debt
 ---
 

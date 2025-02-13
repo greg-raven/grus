@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 Chairman Intel's comment makes clear how little the tech industry values the American worker. You have a responsibility to protect us from people like him.

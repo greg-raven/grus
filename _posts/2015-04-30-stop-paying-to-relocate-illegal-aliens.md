@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I was outraged to learn that the Obama administration is using taxpayer dollars to bring the children of illegal aliens to the United States. This simply encourages illegal immigration and I urge you to work to defund it.
@@ -16,3 +14,6 @@ First, the Obama administration encouraged the border surge and current illegal 
 This program is unnecessary and an affront to the American people and the rule of law. I urge you to take steps to stop this misuse of taxpayer dollars.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

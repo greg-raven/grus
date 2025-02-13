@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Federal government
+- federal government
 ---
 
 No more amnesties! Please oppose Sen. Specter's immigration proposal because it includes a major amnesty.

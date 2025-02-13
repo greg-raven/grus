@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I am contacting you today to ask that you vote YES on two upcoming bills.
@@ -20,3 +18,6 @@ Tomorrow marks the one-year anniversary of Kate Steinle's death, but over the ye
 Your support for each of these bills is critical. It's time to end sanctuary cities once and for all!
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

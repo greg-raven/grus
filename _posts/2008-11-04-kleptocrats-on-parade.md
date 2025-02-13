@@ -4,7 +4,7 @@ layout: post
 categories:
 - opinion
 tags:
-- Federal government
+- federal government
 - government power
 ---
 
