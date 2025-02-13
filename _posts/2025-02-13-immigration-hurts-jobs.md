@@ -2,7 +2,7 @@
 title: "Immigration hurt employment over last 5 years"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 - jobs
