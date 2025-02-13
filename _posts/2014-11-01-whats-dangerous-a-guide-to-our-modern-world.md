@@ -7,10 +7,81 @@ categories:
 
 Let's review what our current leaders and talking heads tell us is dangerous, and compare those things against what they tell us is not dangerous.
 
-| Dangerous | Not dangerous |
-|---|---|
-| - Smoking - Second-hand smoke - Third-hand smoke - Fatty foods - Sugary foods - Not enough food - Meat and meat products - Food insecurity - Oil pipelines - Capitalism - Tea-Party patriots - Christians - Guns - Veterans - Cholesterol - Hetero-normalcy - Traditions - American exceptionalism - 'Right-wing' fascism - video
- - Flu season - Bird flu - Swine flu - Racial realities - Cultural appropriation - Sneezing - AIDS - Unsafe sex - George Bush - Rush Limbaugh - The Koch brothers - Conservative thought - Conservative opinion - Conservative protests - Conservative speech - Conservative women - Conservative blacks - Nazis - Republicans - Border controls - Voter registration checks - Government accountability - Government transparency - Privacy laws - Freedom of speech - Stand-your-ground laws - Fly-over country - Political criticism (U.S. only) - Poverty - Profits - Letting big corporations fail - Inequality - Unequal outcomes - 'Disproportionate' punishments - Meritocracy - Freedom of association - Rich people (conservatives only) - Self-reliance - White people - White privilege - Acting white | - Ebola |
+<table>
+  <thead>
+    <tr>
+      <th>Dangerous</th>
+      <th>Not dangerous</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Acting white<br>
+AIDS<br>
+American exceptionalism<br>
+Bird flu<br>
+Border controls<br>
+Capitalism<br>
+Cholesterol<br>
+Christians<br>
+Conservative blacks<br>
+Conservative opinion<br>
+Conservative protests<br>
+Conservative speech<br>
+Conservative thought<br>
+Conservative women<br>
+Cultural appropriation<br>
+'Disproportionate' punishments<br>
+Fatty foods<br>
+Flu season<br>
+Fly-over country<br>
+Food insecurity<br>
+Freedom of association<br>
+Freedom of speech<br>
+George Bush<br>
+Government accountability<br>
+Government transparency<br>
+Guns<br>
+Hetero-normalcy<br>
+Inequality<br>
+Letting big corporations fail<br>
+Meat and meat products<br>
+Meritocracy<br>
+Nazis<br>
+Not enough food<br>
+Oil pipelines<br>
+Political criticism (U.S. only)<br>
+Poverty<br>
+Privacy laws<br>
+Profits<br>
+Racial realities<br>
+Republicans<br>
+Rich people (conservatives only)<br>
+'Right-wing' fascism<br>
+Rush Limbaugh<br>
+Second-hand smoke<br>
+Self-reliance<br>
+Smoking<br>
+Sneezing<br>
+Stand-your-ground laws<br>
+Sugary foods<br>
+Swine flu<br>
+Tea-Party patriots<br>
+The Koch brothers<br>
+Third-hand smoke<br>
+Traditions<br>
+Unequal outcomes<br>
+Unsafe sex<br>
+Veterans<br>
+Video<br>
+Voter registration checks<br>
+White people<br>
+White privilege
+</td>
+      <td>Ebola</td>
+    </tr>
+  </tbody>
+</table>
 
 Note that if you are accosted by a hater who disputes this accounting because of its apparently lop-sided nature, you may add to the "Not dangerous" list any of the following on an *ad hoc* basis.
 

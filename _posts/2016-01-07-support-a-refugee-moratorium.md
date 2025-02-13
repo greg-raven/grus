@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - refugees
-- Paul Cook
 ---
 
 It is important that you support H.R. 4218, legislation introduced by Reps. Marsha Blackburn, Lamar Smith, Lou Barletta, and Steve DesJarlais. This bill would temporarily halt the refugee resettlement program and ensure that no terrorists or terrorist sympathizers are admitted. Please do all you can to get this bill passed.
@@ -22,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. While you're at it, please consider a complete moratorium on all immigration, secure our border, and evict the illegals already here.
+
+Sent to:
+: Paul Cook

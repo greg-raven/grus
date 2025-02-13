@@ -6,8 +6,6 @@ categories:
 tags:
 - bailouts
 - federal government
-- George Bush
-- Jerry Lewis
 ---
 
 I was very disappointed to hear that you voted for the last "bailout for billionaires" plan. Thank goodness it did not pass.
@@ -23,3 +21,6 @@ I realize that our political elite has been promising us that we do need it, but
 You must absolutely, positively, vote NO on this bill, and any others like it.
 
 {% include signature.html %}
+
+Sent to:
+: George Bush, Jerry Lewis

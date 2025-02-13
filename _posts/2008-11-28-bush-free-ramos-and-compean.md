@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - federal government
-- George Bush
 ---
 
 On October 19, 2006, former Border Patrol Agents Ignacio Ramos and Jose Compean were sentenced to 11 years and 1 day, and 12 years, respectively, in the U.S. District Court for the Western District of Texas for the events surrounding their attempt to apprehend a drug trafficker who was delivering 743 pounds of marijuana valued at $1.2 million.
@@ -43,3 +42,6 @@ Given these facts, I believe clemency is warranted for Agents Ramos and Compean.
 While this case has generated strong emotions on both sides, I do not believe that justice will be served by Agents Ramos and Compean spending over a decade in prison. I urge you to commute their prison sentences immediately, as you have with other, less deserving, persons recently.
 
 {% include signature.html %}
+
+Sent to:
+: George Bush

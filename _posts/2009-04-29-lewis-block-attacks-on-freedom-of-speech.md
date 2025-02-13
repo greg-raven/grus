@@ -4,8 +4,8 @@ layout: post
 categories:
 - letter
 tags:
+- free speech
 - Barack Hussein Obama
-- Free speech
 - Jerry Lewis
 - Barbara Boxer
 - Dianne Feinstein
