@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Donald J. Trump
 ---
 
 Please push for mandatory E-Verify!
@@ -15,3 +14,6 @@ It is really important that Congress pass legislation to mandate the use of the 
 Please do all you can to get E-Verify use mandated so that Americans can get back to work and illegal immigration reduced.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

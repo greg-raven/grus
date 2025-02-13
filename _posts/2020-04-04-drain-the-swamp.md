@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - federal government
-- Donald J. Trump
 ---
 
 I implore you to be an authentic, impassioned, fearless conservative around whom freedom-loving Americans can rally.
@@ -15,13 +14,21 @@ The Washington establishment has not served the people, and so we have suffered 
 Please stay true to conservatism and:
 
 - Stop illegal immigration by securing our borders and enforcing the laws;
+
 - Balance the federal budget by slashing the size of government;
+
 - End pork-barrel spending and the buying of votes in Congress;
+
 - Eliminate today's federal tax code and replace it with a new, fair, flat tax;
+
 - Free our children and grandchildren from the crushing national debt;
+
 - Replace Obamacare with a market-driven, patient-centered reform;
+
 - Take care of our military and our veterans;
+
 - Uphold the Constitution;
+
 - Believe in the power of "we, the people."
 
 Our forefathers founded America based on the timeless idea that all men are created equal, and that they are endowed with God-given, unalienable rights to life, liberty. and the pursuit of happiness. Moreover, they believed that government existed solely to secure those rights and that its power derived from the consent of the governed. From these principles flow the freedoms that have made the American Dream possible.
@@ -29,3 +36,6 @@ Our forefathers founded America based on the timeless idea that all men are crea
 Our children and grandchildren depend on us as stewards of these principles. I ask you to act in their defense.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

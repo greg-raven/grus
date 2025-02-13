@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Thurston Smith
 - 2nd Amendment
 ---
 
@@ -27,3 +26,6 @@ I am writing in strong opposition to A.B. 1227, which seeks to impose an excise 
 I stand with Gun Owners of California in opposition to A.B. 1227.
 
 {% include signature.html %}
+
+Sent to:
+: Thurston Smith

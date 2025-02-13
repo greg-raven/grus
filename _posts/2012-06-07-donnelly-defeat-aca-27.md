@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Tim Donnelly
 - California
 - immigration
 - jobs
@@ -21,3 +20,6 @@ Perhaps Assemblyman Fuentes is pushing the measure in the legislature because he
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Tim Donnelly

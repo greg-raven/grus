@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Donald J. Trump
 ---
 
 More Americans are back to work than ever thanks to your policies --- do even more by reducing legal immigration!
@@ -15,3 +14,6 @@ Your policies are creating hundreds of thousands of new jobs each month. This ha
 Please work to reduce legal immigration so that American workers benefit the most from them.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

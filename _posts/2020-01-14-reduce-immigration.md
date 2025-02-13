@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Donald J. Trump
 ---
 
 You must help Americans by reducing foreign worker importation.
@@ -19,3 +18,6 @@ Businesses, including foreign companies opening new facilities in the United Sta
 I hope you will reconsider your support for anti-American worker companies and will do all you can to reduce immigration numbers.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

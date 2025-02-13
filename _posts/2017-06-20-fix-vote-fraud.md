@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - elections
-- Donald J. Trump
 ---
 
 As a candidate, you made references to vote fraud as a serious issue in the United States. I agree, which is why I applauded your executive order establishing a commission to investigate vote fraud.
@@ -19,3 +18,6 @@ Obviously, you retain previous vote registrations for reference, but having ever
 Please don't hesitate to contact me if you wish to discuss this.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

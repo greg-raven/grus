@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Donald J. Trump
 ---
 
 Don't support amnesty or guest worker increases!
@@ -15,3 +14,6 @@ I was disappointed to read in Politico that you want Congress to pass legislatio
 American workers, especially those who still cannot find work, are depending on you and Congressional Republicans to reduce immigration and competition for jobs. I hope you will abandon any plans to amnesty illegal aliens or increase the number of foreign workers allowed to work in the United States.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

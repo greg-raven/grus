@@ -6,7 +6,6 @@ categories:
 tags:
 - illegal aliens
 - illegal immigration
-- Donald J. Trump
 ---
 
 As a candidate, you made numerous promises regarding illegal immigration, including building a wall. Clearly, you are not going to make good on that promise any time soon.
@@ -22,3 +21,6 @@ Third, you must make good on your campaign promise to end Obama's DACA amnesty a
 Please don't hesitate to contact me if you wish to discuss this.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

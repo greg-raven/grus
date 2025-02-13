@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - national security
-- Donald J. Trump
 ---
 
 During your campaign, opponents claimed that you would get us into World War III. I not only scoffed at the idea, and pointed out your many statements about disengaging the U.S. from the role of world policeman, but reminded them that the horrible foreign policy track records of the Clintons and our past presidents argued for "business as usual" should you not be elected.
@@ -21,6 +20,9 @@ Third, you hinted that maybe the U.S. would pull out of the United Nations and N
 It is vital to the survival of our country that Donald Trump the President act as Donald Trump the candidate promised he would.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump
 
 ---
 

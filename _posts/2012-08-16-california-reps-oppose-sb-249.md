@@ -12,7 +12,7 @@ I am writing you to urge you to join Riverside County Sheriff Stan Sniff, myself
 
 In the words of Sheriff Sniff: "Even more critically, we should not be turning entire classes of citizen gun-owners from all walks of life, which made good-faith lawful rifle purchases over the past few years, into criminals."
 
-SB 249 is a flawed piece of legislation. As written, this bill will convert hundreds of thousands of law abiding California citizens into criminals with the stroke of a pen through no fault of their own. S.B. 249 confiscates without recompense millions if not billions of dollars of property purchased lawfully over the past several years.
+S.B. 249 is a flawed piece of legislation. As written, this bill will convert hundreds of thousands of law abiding California citizens into criminals with the stroke of a pen through no fault of their own. S.B. 249 confiscates without recompense millions if not billions of dollars of property purchased lawfully over the past several years.
 
 The Second Amendment to our Constitution reads in part, "the right of the people to keep and bear arms shall not be infringed." Your oath of office reads, "I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter."
 

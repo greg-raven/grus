@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - economy
-- Donald J. Trump
 ---
 
 Due to the Coronavirus, our economy has been effectively shut down for weeks now, and it's having a MASSIVE impact on millions of Americans like me. While we should do everything we can to stop the spread of this deadly virus, we can't let that goal create a crippling economic disaster, the likes of which we haven't seen since the Great Depression.
@@ -20,4 +19,7 @@ Please, President Trump, I urge you to think about the countless Americans in ou
 
 {% include signature.html %}
 
-P.S. Please keep these key principles in mind as we move to reopen our economy and save America: https://bit.ly/3bdsxLY
+P.S. Please keep these key principles in mind as we move to reopen our economy and save America.
+
+Sent to:
+: Donald J. Trump

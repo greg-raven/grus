@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Thurston Smith
 ---
 
 I am writing to you today to express my opposition to A.B. 1223, which would impose an unjust financial burden on working-class Californians by placing a tax on firearms and ammunition sales.
@@ -21,3 +20,6 @@ A.B. 1237 mandates that the California Department of Justice (DOJ) supply inform
 A.B. 1509 reduces the penalties for criminal misuse of firearms, ironic as the California legislature targets every-day citizens and firearms owners while seeming to favor aggressive criminals.
 
 {% include signature.html %}
+
+Sent to:
+: Thurston Smith

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Donald J. Trump
 ---
 
 I appreciate that you are protecting American workers.
@@ -15,3 +14,6 @@ I am glad that you are taking concrete steps to help jobless Americans get back 
 Thank you for suspending these visa categories; I know that this action will have a positive impact on countless Americans and their families. Please continue to take executive action that prevents businesses from hiring low-cost foreign workers instead of jobless Americans.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

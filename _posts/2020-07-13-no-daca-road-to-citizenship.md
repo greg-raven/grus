@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Donald J. Trump
 ---
 
 I am writing in response to your Telemundo interview of June 10, 2020, where you stated that you will be giving certain illegal aliens a "road to citizenship" by signing a major immigration Executive Order. This unlawful unilateral action would legitimize Obama's unlawful DACA (Deferred Action for Childhood Arrivals) protections for illegal alien offspring.
@@ -27,3 +26,6 @@ Once upon a time, you seemed concerned about these issues, and about putting Ame
 We thank our Founding Fathers for a Constitution that allows us to address you and we thank you for battling each day for our nation. We insist that you stand strong by rescinding DACA and never giving in to the open-border demagogues. I thank you from the bottom of my heart for your sacrifices and will continue to include you in my daily prayers.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

@@ -7,7 +7,6 @@ tags:
 - amnesty
 - chain migration
 - immigration
-- Donald J. Trump
 - visa lottery
 ---
 
@@ -20,3 +19,6 @@ Ending Chain Migration and the Visa Lottery in exchange for a DACA amnesty shoul
 Please include an end to Chain Migration and the Visa Lottery along with mandatory E-Verify as part of your DACA proposal!
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

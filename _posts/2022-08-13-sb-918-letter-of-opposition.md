@@ -1,10 +1,9 @@
 ---
-title: "SB 918 --- Letter of opposition"
+title: "S.B. 918 --- Letter of opposition"
 layout: post
 categories:
 - letter
 tags:
-- Thurston Smith
 - 2nd Amendment
 ---
 
@@ -15,3 +14,6 @@ Lawful CCW holders are not killing, injuring, or traumatizing individuals with a
 I strongly oppose S.B. 918.
 
 {% include signature.html %}
+
+Sent to:
+: Thurston Smith

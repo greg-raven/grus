@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Tim Donnelly
 - California
 - immigration
 ---
@@ -20,3 +19,6 @@ With 11 percent unemployment and a $16 billion budget deficit, the legislature s
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Tim Donnelly

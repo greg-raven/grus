@@ -12,7 +12,7 @@ I am a California voter who wants you to block passage of S.B. 54. Preventing po
 
 It is false to claim that sanctuary policies are needed to protect witnesses or crime victims who are unlawfully present. They are already protected under the federal "U" visa, and there is no research that suggests crime reporting increases in sanctuary jurisdictions.
 
-Like the vast majority of California residents, I support an end to sanctuary city policies. Instead of responding to the public will, the state Senate passed a bill (SB 54) that would extend the prohibition of communications between local law enforcement agencies and Immigration and Customs Enforcement. This is wrong and dangerous so I hope you will stop the bill from moving forward in the Assembly.
+Like the vast majority of California residents, I support an end to sanctuary city policies. Instead of responding to the public will, the state Senate passed a bill (S.B. 54) that would extend the prohibition of communications between local law enforcement agencies and Immigration and Customs Enforcement. This is wrong and dangerous so I hope you will stop the bill from moving forward in the Assembly.
 
 Why release criminal aliens to commit more crimes when they can be detained or deported? Releasing a deportable criminal alien led to the shooting death of Kate Steinle. It also endangers police who needlessly risk their lives every time they arrest one.
 

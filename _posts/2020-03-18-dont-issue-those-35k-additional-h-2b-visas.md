@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Donald J. Trump
 ---
 
 Americans losing jobs shouldn't compete against additional H-2B workers!
@@ -15,3 +14,6 @@ It was very sobering to read that Treasury Secretary Steve Mnuchin believes we c
 Please show Americans workers that you are on top of this situation by stopping DHS' issuance of these 35,000 H-2B visas.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

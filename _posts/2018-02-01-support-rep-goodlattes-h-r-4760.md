@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - immigration
-- Donald J. Trump
 ---
 
 You promised on the campaign trail and then again in your State of the Union address that any deal on DACA needs to put the interests of American workers first. Unfortunately, the White House proposal wouldn't accomplish this because it would take at least 15 years before there were significant reductions in legal immigration.
@@ -16,3 +15,6 @@ A recent Harvard-Harris poll found that more than 80% of Americans want immigrat
 If there's to be any DACA deal, please do all you can to make sure it's H.R. 4760!
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

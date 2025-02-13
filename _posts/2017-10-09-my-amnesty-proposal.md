@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - immigration
-- Donald J. Trump
 ---
 
 While I appreciate your 70-point immigration proposal, I have to say I am still opposed to any amnesty for Dreamers or anyone else currently here illegally.
@@ -18,3 +17,6 @@ Obviously, this "amnesty" would only apply to those who have committed no (as in
 Don't let them do to you what they did to Reagan, et al.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

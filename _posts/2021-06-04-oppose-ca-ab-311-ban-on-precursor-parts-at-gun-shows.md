@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Thurston Smith
 ---
 
 I stand with FPC and I am writing to you today to express my opposition to California AB-311, a bill that would make participation in free trade and free association even more difficult, and without any real benefit.
@@ -19,3 +18,6 @@ By banning the lawful sale of firearms precursor parts by licensed vendors, the 
 AB-311 creates criminal activity rather than discouraging it, and serves no purpose other than as a barrier to the exercise of constitutionally-protected rights. For all of these reasons I respectfully urge you to join me in opposing AB-311.
 
 {% include signature.html %}
+
+Sent to:
+: Thurston Smith

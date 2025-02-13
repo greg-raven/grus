@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Donald J. Trump
+- federal government
 ---
 
 I am very disappointed that you have gone from being somewhat pro-active to being almost totally reactive. From where I sit, it seems that your successes have come from being proactive, while most of your problems come from being reactive.
@@ -20,3 +20,6 @@ The only "good" news is that you can recycle each of your campaign promises from
 God help us all if you don't have the mother of all October Surprises coming.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

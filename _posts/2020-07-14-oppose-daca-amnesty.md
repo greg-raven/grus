@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Donald J. Trump
 ---
 
 Do not issue a DACA amnesty executive order!
@@ -16,3 +15,6 @@ President Obama took unilateral action to amnesty illegal aliens and he was roun
 Please do not take any executive action to amnesty illegal aliens. Any legalization or amnesty for Dreamers must come from Congress and can only happen after E-Verify is mandated and chain migration is eliminated.
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump

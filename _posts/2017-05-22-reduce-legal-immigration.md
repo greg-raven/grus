@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Donald J. Trump
 ---
 
 I was concerned by your recent statements to the Economist where you said that you did not want to reduce legal immigration levels. These statements contradict your Joint Address to Congress when you said, "Protecting our workers also means reforming our system of legal immigration. The current, outdated system depresses wages for our poorest workers, and puts great pressure on taxpayers."
@@ -18,3 +17,6 @@ Sen. Tom Cotton's RAISE Act would cut legal immigration by 50% and accomplish th
 Call me if you want to talk about this,
 
 {% include signature.html %}
+
+Sent to:
+: Donald J. Trump
