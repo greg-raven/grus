@@ -18,8 +18,6 @@ I am also extremely disappointed that the bipartisan Senate bill and President B
 
 I hope you contact me to discuss this CBS poll showing that voters overwhelmingly support stopping illegal immigration.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

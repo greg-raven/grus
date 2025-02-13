@@ -4,11 +4,9 @@ layout: post
 categories:
 - letters
 tags:
-- Tim Donnelly
 - California
 - economy
 - immigration
-- Sharon Runner
 ---
 
 I am a voter in your district who wants you to vote no on AB1081 when it comes up for a concurrence vote. It is wrong to tie the hands of police and ICE agents by limiting detainers to illegal immigrants who committed serious offenses.
@@ -24,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. And don't forget California Penal Code Section 834b.
+
+Sent to:
+: Sharon Runner, Tim Donnelly

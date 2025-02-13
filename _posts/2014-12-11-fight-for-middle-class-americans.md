@@ -5,10 +5,9 @@ categories:
 - letters
 tags:
 - amnesty
-- John Boehner
 ---
 
-In your op-ed in the Wall Street Journal, you talk about this Congress being an "opportunity to help struggling middle-class Americans who are clearly frustrated by an increasing lack of opportunity," One way that goal can be accomplished is by defunding Pres. Obama's executive amnesty and curbing the high rates of immigration into the U.S.
+In your op-ed in the *Wall Street Journal,* you talk about this Congress being an "opportunity to help struggling middle-class Americans who are clearly frustrated by an increasing lack of opportunity," One way that goal can be accomplished is by defunding Pres. Obama's executive amnesty and curbing the high rates of immigration into the U.S.
 
 Currently, 18 million Americans want a full-time job, but can't find one. These Americans strive to be part of the middle-class, but our current immigration polices are driving them down. The U.S. grants more than 1 million work permits per year under current immigration policy. Allowing millions more to receive work permits through Pres. Obama's executive amnesty would increase the competition for new jobs and keep wages stagnant.
 
@@ -17,3 +16,6 @@ According to a study from the Center for Immigration Studies, nearly all job gro
 To give our struggling middle-class a clean shot at finding a good job, I urge you to limit new legal immigration and defund the President's executive amnesty.
 
 {% include signature.html %}
+
+Sent to:
+: John Boehner

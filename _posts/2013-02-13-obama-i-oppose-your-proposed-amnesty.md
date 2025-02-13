@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barack Hussein Obama
 ---
 
 After taking a closer look at your revived immigration proposal, it's nothing more than the plan in 2007 that failed to pass through Congress. I urge you to work towards securing the border, mandating national use of E-Verify, and completion of the entry/exit system before addressing individuals who are illegally in this country.
@@ -19,3 +18,6 @@ I urge you to stop pushing an unpopular amnesty on the American people and begin
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama

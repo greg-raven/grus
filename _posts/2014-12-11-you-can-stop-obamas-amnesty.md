@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- John Boehner
 ---
 
 As this session of Congress moves closer to its close, I am very concerned about the strategy that you and other House members have been floating that would fund President Obama's executive amnesty, even for a short period of time. It is imperative that Congress utilize the power of the purse and defund President Obama's executive amnesty immediately. I urge you to support a bill that would do so.
@@ -17,3 +16,6 @@ After investigating the legality of this plan at the behest of Senator Sessions,
 I urge you to reconsider your plan and pass a bill that defunds President Obama's executive amnesty immediately.
 
 {% include signature.html %}
+
+Sent to:
+: John Boehner

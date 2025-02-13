@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barack Hussein Obama
 ---
 
 It is very disappointing that you are pushing the DREAM Act amnesty during a jobs depression! Don't you care about unemployed American workers?
@@ -14,10 +13,13 @@ It is truly disappointing that supporters of the DREAM amnesty continue to misle
 
 On November 2nd, the American people made it loud and clear that we care more about one thing than anything else: jobs. And you think you can create jobs for unemployed Americans by supporting a mass amnesty bill? I might be wrong, but I think something might be off with your reasoning.
 
-I urge you to do the right thing for the American people and urge Sen. Reid and Rep. Pelosi to stand down and not push the DREAM Act amnesty during the lame duck session of Congress. In doing so, you would prove you care about the wishes and welfare of the American people.
+I urge you to do the right thing for the American people and urge Sen. Harry Reid and Rep. Nancy Pelosi to stand down and not push the DREAM Act amnesty during the lame duck session of Congress. In doing so, you would prove you care about the wishes and welfare of the American people.
 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
 
 P.S. I realize that as an illegal alien yourself, you find honor and commitment difficult concepts, and as a Marxist, your utterances have little relation with the truth. You are a sorry excuse for a human being, and you certainly are no American.
+
+Sent to:
+: Barack Hussein Obama

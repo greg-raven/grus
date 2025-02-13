@@ -14,8 +14,6 @@ The best way to protect our arable farmland is to bring down America's rate of u
 
 Please work to reduce our high immigration rates to help save America's farmland for future generations. This includes ending asylum and parole abuse, limiting chain migration to spouses and minor children, and/or establishing a nationwide E-Verify system.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

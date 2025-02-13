@@ -4,7 +4,6 @@ layout: post
 categories:
 - videos
 
-format: video
 ---
 
 And why not? These Amendments (parts of our Bill of Rights) already have largely been replaced by National Defense Authorization Act, which modernizes everything so Caliph Hussein can run things to suit himself.

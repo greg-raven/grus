@@ -4,7 +4,7 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
+- amnesty
 ---
 
 Why are you continuing to push for a comprehensive amnesty that would continue to put even more Americans out of work?
@@ -20,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Even as an illegal alien yourself, you should be at least a little concerned about the $2.6 trillion in additional costs created by your position.
+
+Sent to:
+: Barack Hussein Obama

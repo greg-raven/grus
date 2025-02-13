@@ -13,8 +13,6 @@ That sounds like common sense. It is a position once taken by the late Democrat 
 
 How will you commit yourself to ending illegal immigration and limiting legal immigration?
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

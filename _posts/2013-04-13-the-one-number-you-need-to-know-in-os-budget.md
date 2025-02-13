@@ -5,10 +5,7 @@ categories:
 - information
 tags:
 - budget
-- Kevin D. Williamson
 ---
-
-By Kevin D. Williamson
 
 Here's the number to keep in mind: $763 billion.
 
@@ -18,4 +15,4 @@ But let's stay with that $763 billion a year for now. How much money is that? It
 
 \[...\]
 
-Source: [National Review](https://www.nationalreview.com/).
+Source: [Kevin D. Williamson](https://www.nationalreview.com/).

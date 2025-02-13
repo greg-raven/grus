@@ -17,8 +17,6 @@ These same businesses are mainly looking for any means to exploit cheaper labor.
 
 I urge you to support U.S. wages and job quality with legislation aimed to at stopping immigration increases and enforcing existing immigration laws to reduce the current illegal immigrant population.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

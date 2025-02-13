@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barack Hussein Obama
 - chain migration
 ---
 
@@ -22,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need to secure our border, evict the illegals and "anchor babies" who are already here, and then return to our pre-1965 immigration policies.
+
+Sent to:
+: Barack Hussein Obama

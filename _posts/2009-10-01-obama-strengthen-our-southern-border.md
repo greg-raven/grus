@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - Federal government
 ---
 
@@ -20,4 +19,7 @@ Please speak with DHS Secretary Janet Napolitano and ensure that she is not plan
 
 Phone me if you would like to talk about this.
 
-Mr. {% include signature.html %}
+{% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama

@@ -4,7 +4,6 @@ layout: post
 categories:
 - videos
 
-format: video
 ---
 
 Media critic and social analyst Mark Dice shows how casually sign a petition to ban one of their birthright.

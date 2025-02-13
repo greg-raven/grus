@@ -13,8 +13,6 @@ According to data from the Bureau of Labor Statistics, nearly half of all workin
 
 Investigative reports have shown that businesses are more than willing to fire American workers when H-2B workers become available. It's clear that the H-2B program, which is fraught with abuse, harms Americans and should not be expanded. Please do all you can to ensure that American and legal immigrant workers are protected from any additional competition from low-cost temporary foreign workers.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

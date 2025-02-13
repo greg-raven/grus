@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - 2nd Amendment
-- U.S. Army Corps of Engineers
 ---
 
 Re: Docket COE- 2018-0008
@@ -24,6 +23,9 @@ States and other federal agencies have, since 2009, changed their laws on the as
 
 Additionally, the Corps made the correct determination among the various alternatives from which it could choose. The "Preferred Alternative" respects the Second Amendment-recognized individual right to keep and bear arms more than the others. The Army Corps of Engineers must simultaneously take action and avoid establishing its own rules on how weapons must be carried. To allow firearms but create additional regulations would add to the patchwork of unacceptable Second Amendment infringements and regulations levied by the government against law-abiding gun owners on public property.
 
-For all these reasons, we thank you for proposing to bring your regulations into compliance with the 2009 amendment and urge you to finalize the Preferred Alternative regulation revision proposed in docket COE- 2018-0008.
+For all these reasons, we thank you for proposing to bring your regulations into compliance with the 2009 amendment and urge you to finalize the Preferred Alternative regulation revision proposed in docket COE-2018-0008.
 
 {% include signature.html %}
+
+Sent to:
+: U.S. Army Corps of Engineers

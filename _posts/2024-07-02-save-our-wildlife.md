@@ -14,8 +14,6 @@ Our attempts to reduce our individual footprints by consumption reduction cannot
 
 The destruction of natural spaces is primarily driven by the need for more space to accommodate more of us: more schools, roads, places of business, hospitals, water treatment facilities, farms, parking lots, etc. Focusing on individual consumption is beneficial, but we are losing the war while winning a few showy but insufficient battles. As a voting citizen I want you to know that there are many of us who want you to put down your fears and take up the cause of ending our current unsustainable immigration policies for the sake of wildlife.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

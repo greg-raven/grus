@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- John Morton
 - Federal government
 - illegal aliens
 - immigration
@@ -18,6 +17,7 @@ It is alarming to me to learn that law enforcement agents who are doing their jo
 
 Please encourage law enforcement agents to enforce the law, but do not punish them for doing so.
 
-Signed,
-
 {% include signature.html %}
+
+Sent to:
+: John Morton

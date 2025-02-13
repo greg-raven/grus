@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - chain migration
 - Federal government
 ---
@@ -26,3 +25,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Never forgive, never forget --- No amnesty!
+
+Sent to:
+: Barack Hussein Obama

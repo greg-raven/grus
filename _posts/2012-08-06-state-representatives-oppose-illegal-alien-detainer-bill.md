@@ -4,11 +4,9 @@ layout: post
 categories:
 - letters
 tags:
-- Tim Donnelly
 - California
 - illegal aliens
 - immigration
-- Sharon Runner
 ---
 
 Senator Sharon Runner:
@@ -28,3 +26,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We can't trust Governor Brown to do the right thing and veto this bill, so it's defeat is up to you.
+
+Sent to:
+: Sharon Runner, Tim Donnelly

@@ -23,8 +23,6 @@ Jessica Garrison, Ken Bensinger, and Jeremy Singer-Vine, 2015. "All You American
 
 Steven Greenhouse, 2008. After 15 Years, North Carolina Plant Unionizes. *The New York Times.* (The workforce went from 20 percent Black to 60 percent)
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

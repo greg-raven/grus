@@ -11,8 +11,6 @@ I was concerned to learn that efforts are being made to pass legislation that wo
 
 I urge you to oppose efforts to codify this ludicrous proposal.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

@@ -16,8 +16,6 @@ Issuing an amnesty during a historic border crisis will only encourage more ille
 
 Please contact me to discuss President Biden's unconstitutional amnesty.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

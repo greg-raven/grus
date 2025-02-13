@@ -14,8 +14,6 @@ The floor for illegal immigration into the U.S. should be zero, *not* 2,500 a da
 
 I want to discuss with you realistic ways to stop our border crisis by ending all asylum application abuse and reinstating Remain in Mexico policies.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

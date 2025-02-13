@@ -7,10 +7,7 @@ tags:
 - economy
 - Federal government
 - immigration
-- Paul Ryan
 ---
-
-Representative Paul Ryan,
 
 As a swing voter, I am counting on you to support immigration policies that will protect American workers and taxpayers from the effects of uncontrolled immigration.
 
@@ -25,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. The next administration needs to represent Americans and American interests, not foreigners and foreign interests.
+
+Sent to:
+: Paul Ryan

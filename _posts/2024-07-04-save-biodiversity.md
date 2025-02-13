@@ -15,8 +15,6 @@ During the past 20 years, we've paved over more than 11.5 million acres. Most of
 
 I am urging you to support the Secure the Border Act (H.R. 2) and the Nuclear Family Priority Act (H.R. 7833) so that America can regain control over our nation's unprecedented levels of immigration. Our future, and biodiversity, depend on it.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

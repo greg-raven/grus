@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Kevin McCarthy
 ---
 
 Why did you go on CNN's "State of the Union" program and give your support to amnesty legislation? Californians expect you to oppose, not support, an amnesty for illegal aliens!
@@ -17,3 +16,6 @@ Californians deserve better than the amnestying of illegal aliens. They are alre
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Kevin McCarthy

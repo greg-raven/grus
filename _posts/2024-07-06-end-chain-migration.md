@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Laphonza Butler
 - chain migration
 ---
 
@@ -12,8 +11,9 @@ For over 200 years, American policymakers have used immigration increases to pil
 
 At the very least, immigration policy should not be so unregulated as to disadvantage one of the oldest groups of American citizens: Black Americans. Restore our immigration system to a more honorable tradition by ending chain migration as recommended by the bipartisan U.S. Commission on Immigration Reform.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Laphonza Butler

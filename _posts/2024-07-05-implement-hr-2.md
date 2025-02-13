@@ -26,8 +26,6 @@ The ongoing crisis at the U.S.-Mexico border will not end unless Congress takes 
 
 It's time Congress steps up to the plate and gets H.R. 2 signed into law to end the crisis at the U.S.-Mexico border.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - immigration
 ---
 
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Just because you as an illegal alien found a job here in the U.S., doesn't mean that others haven't been hurt by your actions.
+
+Sent to:
+: Barack Hussein Obama

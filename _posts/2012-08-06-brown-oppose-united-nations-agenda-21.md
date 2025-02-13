@@ -6,8 +6,6 @@ categories:
 tags:
 - environment
 - globalism
-- Jerry Brown
-- United Nations
 ---
 
 I am writing to urge you to do everything in your power to expose the United Nations' Agenda 21 and prevent its implementation at all levels of government in your state.
@@ -29,3 +27,6 @@ Other states are considering resolutions that expose Agenda 21 and rejects its i
 It is imperative that you draft and support passage of a similar resolution in your state and do everything in your power to stop Agenda 21 dead in its tracks.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Brown, United Nations

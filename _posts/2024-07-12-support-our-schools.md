@@ -17,8 +17,6 @@ It is disappointing that provisions in H.R. 2, the Secure the Border Act, have n
 
 Please contact me to discuss how E-Verify and asylum and parole abuse reforms can rescue our schools.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

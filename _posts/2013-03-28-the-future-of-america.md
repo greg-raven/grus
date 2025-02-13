@@ -4,7 +4,6 @@ layout: post
 categories:
 - videos
 
-format: video
 ---
 
 "Tell me and I will forget: South Africa 15 years after the Apartheid"

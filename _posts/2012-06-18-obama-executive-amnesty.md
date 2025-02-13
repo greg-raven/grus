@@ -4,14 +4,11 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - Federal government
 - illegal aliens
 - immigration
 - national security
 ---
-
-Resident Obama:
 
 I am absolutely appalled by your amnesty program. How dare you!
 
@@ -26,3 +23,7 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Let's face it: You are a sociopathic, lying sack of shit. As with everything else you've done since usurping the office of the presidency, this is anti-America, unconstitutional, immoral, and self-serving.
+
+Sent to:
+: Barack Hussein Obama
+

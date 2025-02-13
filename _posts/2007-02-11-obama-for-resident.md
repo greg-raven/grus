@@ -7,7 +7,6 @@ categories:
 tags:
 - politics
 - population
-format: video
 ---
 
 Today's paper reports that Barack Obama "announced his bid for president Saturday, a black man evoking Abraham Lincoln's ability to unite a nation." I don't know which is more frightening: That the AP reporters and editors who produced this story are insane, or Obama is and no one else has yet noticed it.

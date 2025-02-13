@@ -4,12 +4,9 @@ layout: post
 categories:
 - letters
 tags:
-- John Perez
 - California
 - immigration
 ---
-
-Assemblyman John Perez:
 
 It is ridiculous for the state to try to amend the constitution to set up a program for illegal immigrants that can never be fully implemented. Please ensure that ACA 27 is defeated.
 
@@ -22,3 +19,6 @@ Please ensure ACA 27's defeat. I will be watching this issue and I vote.
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: John Perez

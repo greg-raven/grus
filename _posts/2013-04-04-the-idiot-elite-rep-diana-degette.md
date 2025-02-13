@@ -4,7 +4,6 @@ layout: post
 categories:
 - videos
 
-format: video
 ---
 
 For this idiot-who-would-lead-us, gun magazines are the same as gun clips, which are the same as bullets, and thus can be used up so eventually there won't be any.

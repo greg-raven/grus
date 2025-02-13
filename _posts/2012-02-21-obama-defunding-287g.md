@@ -4,10 +4,8 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
+- national security
 ---
-
-Barack Obama
 
 It is detrimental to the security of the populace for you to attempt to defund the 287(g) program in your FY2013 budget request. I fail to understand how a commander-in-chief can end a program that saves lives and removes criminals from the streets. Clearly, you are putting your political interests above the interests of the American people.
 
@@ -22,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. You really don't give a shit about this country, do you? You're a sad excuse for a human being.
+
+Sent to:
+: Barack Hussein Obama

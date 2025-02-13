@@ -4,7 +4,6 @@ layout: post
 categories:
 - videos
 
-format: video
 ---
 
 <iframe width="640" height="360" loading="lazy" src="https://www.mrctv.org/embed/120737" title="Joe Klein on guns" allowfullscreen></iframe>

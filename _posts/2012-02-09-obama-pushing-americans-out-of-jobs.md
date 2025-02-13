@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - immigration
 ---
 
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. This is just one of the problems our nation has seen since having an illegal alien usurp the office of the president.
+
+Sent to:
+: Barack Hussein Obama

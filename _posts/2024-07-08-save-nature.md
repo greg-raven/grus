@@ -14,8 +14,6 @@ Congress has set immigration levels so high --- more than one million per year -
 
 An ethical immigration policy must consider our responsibility to nature as well as to each other and future generations. In the time it has taken you to read this, we have already lost another football field worth of open space and natural habitat. Please join the effort to establish responsible immigration limits that will save millions of acres of nature from destruction. We don't have 30 seconds to lose.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

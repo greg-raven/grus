@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Paul Ryan
 - visa lottery
 - E-Verify
 ---
@@ -22,3 +21,6 @@ This is a terrible idea! DACA recipients are under no threat of deportation beca
 Please do not give in to pressure from the White House and strike a bad DACA deal. There is no need to rush this and give up the leverage you have to strike a DACA deal that stops illegal immigration and the hiring of illegal workers.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Ryan

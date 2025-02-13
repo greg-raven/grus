@@ -5,10 +5,9 @@ categories:
 - letters
 tags:
 - amnesty
-- Barack Hussein Obama
 ---
 
-The Washington Post is reporting that your Administration is preparing to move forward with an executive action that would protect 5-6 million illegal aliens from deportation and grant them work permits. But it was your similar action for childhood arrivals that caused the ongoing border crisis, and an expanded action would make the situation worse. I urge you stop protecting illegal aliens and start protecting American workers.
+The *Washington Post* is reporting that your administration is preparing to move forward with an executive action that would protect 5-6 million illegal aliens from deportation and grant them work permits. But it was your similar action for childhood arrivals that caused the ongoing border crisis, and an expanded action would make the situation worse. I urge you stop protecting illegal aliens and start protecting American workers.
 
 Since 2011, your actions on immigration have repeatedly sent signals around the world that illegal immigration will be tolerated (even rewarded) in the United States. These policies have contributed to the surge in illegal immigration at the border today.
 
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop the flow of illegal aliens immediately. America does NOT need any more people like you.
+
+Sent to:
+: Barack Hussein Obama

@@ -4,11 +4,8 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - Federal government
 ---
-
-Resident Obama:
 
 Today I read that you signed into law the Edward M. Kennedy Serve America Act, which for the first time includes federal authorization to establish September 11 as an annually recognized National Day of Service and Remembrance. It's time we had a talk.
 
@@ -65,3 +62,6 @@ You have made a mockery of our Constitution and the office that you hold. You ha
 YES, "We noticed."
 
 We have noticed all these things. We hope that you do "bring America together," because when you do, it will be to remove you from the office you have usurped.
+
+Sent to:
+: Barack Hussein Obama

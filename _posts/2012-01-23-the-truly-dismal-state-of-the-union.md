@@ -9,8 +9,6 @@ tags:
 - Federal government
 ---
 
-By Joseph Curl --- [The Washington Times](https://www.washingtontimes.com/news/2012/jan/22/curl-the-truly-dismal-state-of-the-union/?page=all#pagebreak), Sunday, January 22, 2012
-
 There is one person --- one American among the 300 million of us --- who is not to blame for the state of the union. Everyone else, each of you, in some small or large way, bears some share of the blame, but not this guy. Not one little bit.
 
 This guy is Barack Obama. He is not the least bit to blame for the dismal state of the U.S. economy. George W. Bush is, for sure, and that evil Dick Cheney, oh, no doubt. House Speaker John A. Boehner --- evil, too --- is, of course, to blame. But guess what? So is Senate Majority Leader Harry Reid, House Democratic Leader Nancy Pelosi, and every Democrat in the House and Senate.
@@ -39,6 +37,5 @@ On the macro side, America's annual budget has jumped to $3.8 trillion --- and y
 
 So, America, that is the State of Your Union. But remember, Mr. Obama had not one thing to do with it. So don't blame him when you go to the polls. Blame everyone else, especially yourself.
 
-• Joseph Curl covered the White House and politics for a decade for The Washington Times. He can be reached at jcurl@washingtontimes.com.
+Source: Joseph Curl --- [The Washington Times](https://www.washingtontimes.com/news/2012/jan/22/curl-the-truly-dismal-state-of-the-union/?page=all#pagebreak), Sunday, January 22, 2012
 
-© Copyright 2012 The Washington Times, LLC. Click here for reprint permission.

@@ -5,7 +5,6 @@ categories:
 - letters
 tags:
 - amnesty
-- Barack Hussein Obama
 ---
 
 Late last year, you announced a set of executive actions on immigration that will grant work permits to up to 5 million illegal aliens. Further, your actions will make it easier for illegal-alien tech workers to remain in the country. Have you considered the impact of these actions on struggling American workers? I urge you to place the concerns of American workers and legal immigrants already here ahead of illegal aliens.
@@ -25,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Not that you care about America or Americans, being an illegal alien yourself, and a gluttonous, ungrateful one at that.
+
+Sent to:
+: Barack Hussein Obama

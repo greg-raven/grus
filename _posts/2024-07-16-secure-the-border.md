@@ -12,8 +12,6 @@ The ongoing crisis at the U.S.-Mexico border will not end unless you and your co
 
 You and your Congressional colleagues must force President Biden and his administration to secure the border and stop rewarding illegal economic migrants with work permits and far-off notices to appear. The crisis will not end until this administration's priorities change and it starts to put Americans and legal immigrants ahead of illegal aliens. Please do all you can to force the administration to change its border crisis-exacerbating policies.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

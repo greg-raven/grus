@@ -5,7 +5,6 @@ categories:
 - information
 tags:
 - Federal government
-format: video
 ---
 
 > "We support the Federal government. That's our job. That's what we do."

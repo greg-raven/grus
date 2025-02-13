@@ -14,8 +14,6 @@ Blue-collar Americans are especially vulnerable to mass immigration because they
 
 Congress should have sent the Secure the Border Act (H.R. 2) and the Nuclear Family Priority Act (H.R. 7833) to the president's desk so we can regain control over our nation's unprecedented levels of immigration.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

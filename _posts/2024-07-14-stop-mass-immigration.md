@@ -13,8 +13,6 @@ It is alarming how our border crisis over the past few years is enabling busines
 
 Please value our minority workers by ending asylum and parole abuse, blocking catch and release policies, and mandating E-Verify.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Laphonza Butler
 - E-Verify
 - jobs
 ---
@@ -13,8 +12,9 @@ Requiring employers to run new hires through the Chamber of Commerce-supported E
 
 Clearly, this is an easy and effective way of putting unemployed Americans and legal immigrants in jobs currently held by illegal aliens while also shutting off the jobs magnet that lures so many to come to the U.S. illegally.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Laphonza Butler

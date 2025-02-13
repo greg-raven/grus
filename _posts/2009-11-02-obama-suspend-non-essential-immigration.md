@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - Federal government
 ---
 
@@ -20,4 +19,7 @@ Phone me if you would like to talk about this.
 
 {% include signature.html %}
 
-P.S. Get the government out of our lives and protect our borders! By the way, the story about you in the November 9, 2009, Globe certainly seems to be on the money from where I stand.
+P.S. Get the government out of our lives and protect our borders! By the way, the story about you in the November 9, 2009, *Globe* certainly seems to be on the money from where I stand.
+
+Sent to:
+: Barack Hussein Obama

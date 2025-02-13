@@ -18,8 +18,6 @@ According to a recent *Wall Street Journal* article titled "How Trump Boosted Hi
 
 Please contact me to discuss how you can work to address the economic concerns of working-class Blacks and Latinos by stopping illegal immigration and moderating legal immigration.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}

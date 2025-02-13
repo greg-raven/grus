@@ -4,7 +4,6 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - immigration
 - population
 ---
@@ -22,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Get the government our of our lives and the marketplace, and let our businesses grow and hire Americans again.
+
+Sent to:
+: Barack Hussein Obama

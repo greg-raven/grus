@@ -4,14 +4,11 @@ layout: post
 categories:
 - letters
 tags:
-- Barack Hussein Obama
 - border control
 - Federal government
 - illegal aliens
 - immigration
 ---
-
-Resident Obama:
 
 DHS Secretary Janet Napolitano's testimony before the House Judiciary Committee made it clear that her agency is ill-prepared to handle your politically-motivated and poorly-conceived amnesty.
 
@@ -27,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. It's amazing that in your entire life you have thus far failed to do anything worthwhile. What a putz!
+
+Sent to:
+: Barack Hussein Obama

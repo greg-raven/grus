@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- John Cornyn
-- John Thune
-- Mitch McConnell
 - visa lottery
 ---
 
@@ -23,3 +20,6 @@ We must secure our borders, remove the bad actors who are already here, and retu
 Logic, sanity, and your oath of office demand nothing less.
 
 {% include signature.html %}
+
+Sent to:
+: John Cornyn, John Thune, Mitch McConnell

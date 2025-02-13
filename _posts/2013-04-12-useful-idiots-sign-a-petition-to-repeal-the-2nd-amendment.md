@@ -4,7 +4,6 @@ layout: post
 categories:
 - videos
 
-format: video
 ---
 
 Media critic and social analyst Mark Dice shows how people are literally in a trance as he gets people to sign a petition banning one of their birthright. The public's zombie-like mental state is what will allow Caliph Hussein to get his gun ban through.

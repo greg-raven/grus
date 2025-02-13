@@ -27,8 +27,6 @@ The Biden-Harris solution to the border crisis has failed. What is needed is H.R
 
 Please help end the border crisis by supporting a solution that works; get H.R. 2 passed to secure the border and stop illegal immigration.
 
-Sincerely,
-
 {% include signature.html %}
 
 {% include immigration.html %}
