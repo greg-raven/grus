@@ -2,7 +2,7 @@
 title: "Reduce green card numbers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

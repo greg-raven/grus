@@ -2,7 +2,7 @@
 title: "Stop Costa Rica from helping Cubans enter U.S."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

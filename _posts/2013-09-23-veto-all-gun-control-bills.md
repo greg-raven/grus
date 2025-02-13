@@ -2,7 +2,7 @@
 title: "Veto all gun control bills"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

@@ -2,7 +2,7 @@
 title: "Amnesty will sink us: Oppose radical amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

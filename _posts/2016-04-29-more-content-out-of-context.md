@@ -2,7 +2,7 @@
 title: "More content out of context"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Apple Valley
 ---

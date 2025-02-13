@@ -2,7 +2,7 @@
 title: "Oppose DREAM Act amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - immigration

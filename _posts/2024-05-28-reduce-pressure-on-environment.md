@@ -2,7 +2,7 @@
 title: "Lowering immigration rates takes pressure off habitat and wildlife"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 ---

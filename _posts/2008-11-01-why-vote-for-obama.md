@@ -2,7 +2,7 @@
 title: "Why vote for Obama?"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - politics
 ---

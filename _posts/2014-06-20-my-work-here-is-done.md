@@ -2,7 +2,7 @@
 title: "My work here is done"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - Barack Hussein Obama
 ---

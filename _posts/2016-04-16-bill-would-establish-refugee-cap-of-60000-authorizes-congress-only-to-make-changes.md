@@ -2,7 +2,7 @@
 title: "Bill would establish refugee cap of 60,000, Authorizes Congress, only, to make changes"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - refugees
 - Paul Cook

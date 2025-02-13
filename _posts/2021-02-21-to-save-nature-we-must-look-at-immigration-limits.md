@@ -2,7 +2,7 @@
 title: "To save nature, we must look at immigration limits"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 - immigration

@@ -2,7 +2,7 @@
 title: "No path to citizenship in the lame duck. The border needs attention."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - environment

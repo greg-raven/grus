@@ -2,7 +2,7 @@
 title: "Senate must act to eliminate sanctuary localities"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Barbara Boxer

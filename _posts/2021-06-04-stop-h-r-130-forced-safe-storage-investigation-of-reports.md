@@ -2,7 +2,7 @@
 title: "Stop H.R. 130 --- Forced Safe Storage, Investigation of Reports"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Shiela Jackson Lee

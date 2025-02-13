@@ -2,7 +2,7 @@
 title: "Your amnesty vote"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - population

@@ -2,7 +2,7 @@
 title: "Unions oppose H-2B increases"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

@@ -2,7 +2,7 @@
 title: "End the visa lottery"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Jerry Lewis

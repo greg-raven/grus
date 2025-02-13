@@ -2,7 +2,7 @@
 title: "Keep criminal illegal aliens in jail"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - illegal aliens

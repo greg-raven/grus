@@ -2,7 +2,7 @@
 title: "Protect the Second Amendment and vote no on H.R. 8 and H.R. 1112"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

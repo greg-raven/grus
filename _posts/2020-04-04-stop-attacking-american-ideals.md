@@ -2,7 +2,7 @@
 title: "Stop attacking American ideals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - Nancy Pelosi

@@ -2,7 +2,7 @@
 title: "No amnesty conference"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

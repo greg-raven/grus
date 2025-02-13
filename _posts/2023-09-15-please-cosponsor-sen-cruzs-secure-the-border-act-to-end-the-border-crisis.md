@@ -2,7 +2,7 @@
 title: "Please cosponsor Sen. Cruz's Secure the Border Act to end the border crisis!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 ---

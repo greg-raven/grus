@@ -2,7 +2,7 @@
 title: "Thank you for supporting H.R. 4437"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - population

@@ -2,7 +2,7 @@
 title: "Conserve farmland"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

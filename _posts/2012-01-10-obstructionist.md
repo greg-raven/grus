@@ -2,7 +2,7 @@
 title: Obstructionist!
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - Barack Hussein Obama
 - government power

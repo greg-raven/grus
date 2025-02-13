@@ -2,7 +2,7 @@
 title: "Tell Congressional Hispanic Caucus about Hispanic immigration polling"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

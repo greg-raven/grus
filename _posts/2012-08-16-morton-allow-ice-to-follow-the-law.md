@@ -2,7 +2,7 @@
 title: "Allow ICE to follow the law"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - illegal aliens

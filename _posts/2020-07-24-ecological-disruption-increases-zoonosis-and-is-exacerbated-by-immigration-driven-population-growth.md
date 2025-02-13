@@ -2,7 +2,7 @@
 title: "Ecological disruption increases zoonosis and is exacerbated by immigration-driven population growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 - population

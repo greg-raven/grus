@@ -2,7 +2,7 @@
 title: "Putin for President"
 layout: post
 categories:
-- cartoons
+- cartoon
 ---
 
 He guards his country's borders.

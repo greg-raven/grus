@@ -2,7 +2,7 @@
 title: "Oppose Bambam's amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Jerry Lewis

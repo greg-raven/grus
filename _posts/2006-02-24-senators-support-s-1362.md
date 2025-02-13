@@ -2,7 +2,7 @@
 title: "Support S. 1362"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

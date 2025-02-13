@@ -2,7 +2,7 @@
 title: "Oppose amnesty in the budget framework"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Jay Obernolte

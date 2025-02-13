@@ -2,7 +2,7 @@
 title: "The promise of work permits encourages illegal immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 ---

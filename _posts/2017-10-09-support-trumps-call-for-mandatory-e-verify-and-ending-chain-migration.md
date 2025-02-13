@@ -2,7 +2,7 @@
 title: "Support Trump's call for mandatory E-Verify and ending chain migration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

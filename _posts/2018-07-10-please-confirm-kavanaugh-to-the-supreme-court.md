@@ -2,7 +2,7 @@
 title: "Please confirm Kavanaugh to the Supreme Court"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Dianne Feinstein
 - Kamala Harris

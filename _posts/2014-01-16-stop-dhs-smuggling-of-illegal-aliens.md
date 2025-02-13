@@ -2,7 +2,7 @@
 title: "Stop DHS smuggling of illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

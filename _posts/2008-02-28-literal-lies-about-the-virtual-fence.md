@@ -2,7 +2,7 @@
 title: "Literal lies about the 'Virtual Fence'"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - national security
 ---

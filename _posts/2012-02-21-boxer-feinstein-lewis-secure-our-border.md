@@ -2,7 +2,7 @@
 title: "Secure our border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal aliens

@@ -2,7 +2,7 @@
 title: "Defend PLCAA protections"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

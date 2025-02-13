@@ -2,7 +2,7 @@
 title: "Moderate immigration to restore our middle class"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

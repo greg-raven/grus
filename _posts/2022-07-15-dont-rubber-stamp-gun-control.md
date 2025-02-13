@@ -2,7 +2,7 @@
 title: "Don't rubber-stamp gun control"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

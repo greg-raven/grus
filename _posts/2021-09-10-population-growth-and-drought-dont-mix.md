@@ -2,7 +2,7 @@
 title: "Population growth and drought don't mix"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

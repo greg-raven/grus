@@ -2,7 +2,7 @@
 title: "Oppose Ryan's 'crime reform' bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - national security

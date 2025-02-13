@@ -2,7 +2,7 @@
 title: "Please oppose new gun control legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

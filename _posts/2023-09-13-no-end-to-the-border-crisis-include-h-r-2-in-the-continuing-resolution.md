@@ -2,7 +2,7 @@
 title: "No end to the border crisis. Include H.R. 2 in the Continuing Resolution."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - child labor

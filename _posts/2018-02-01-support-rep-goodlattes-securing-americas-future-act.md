@@ -2,7 +2,7 @@
 title: "Support Rep. Goodlatte's Securing America's Future Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

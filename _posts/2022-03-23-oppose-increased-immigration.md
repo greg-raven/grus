@@ -2,7 +2,7 @@
 title: "Oppose increased immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

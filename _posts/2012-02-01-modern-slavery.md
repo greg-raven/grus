@@ -2,7 +2,7 @@
 title: "Modern slavery"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - Federal government
 - national debt

@@ -2,7 +2,7 @@
 title: "Shame on you for confirming Merrick Garland"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

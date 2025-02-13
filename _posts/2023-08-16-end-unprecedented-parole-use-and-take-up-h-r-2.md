@@ -2,7 +2,7 @@
 title: "End unprecedented parole use and take up H.R. 2"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

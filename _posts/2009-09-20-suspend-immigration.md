@@ -2,7 +2,7 @@
 title: "Suspend immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - immigration

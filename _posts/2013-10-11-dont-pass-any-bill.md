@@ -2,7 +2,7 @@
 title: "Don't pass any bill that provides a back door to amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Help save our environment by reducing immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - environment

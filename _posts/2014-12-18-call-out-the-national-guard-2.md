@@ -2,7 +2,7 @@
 title: "Call out the National Guard"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jerry Brown
 - illegal immigration

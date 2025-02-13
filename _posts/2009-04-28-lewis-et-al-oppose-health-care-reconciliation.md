@@ -2,7 +2,7 @@
 title: "Oppose health care reconciliation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Obamacare
 - Jerry Lewis

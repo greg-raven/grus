@@ -2,7 +2,7 @@
 title: "Oppose gun control"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

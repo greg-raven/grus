@@ -2,7 +2,7 @@
 title: "When will your company switch to renewable energy?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 ---

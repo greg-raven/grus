@@ -2,7 +2,7 @@
 title: "Oppose efforts to expand H-2 visa programs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 ---

@@ -2,7 +2,7 @@
 title: "Reopen California"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 ---

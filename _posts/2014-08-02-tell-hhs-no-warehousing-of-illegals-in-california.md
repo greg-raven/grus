@@ -2,7 +2,7 @@
 title: "Tell HHS no warehousing of illegals in California"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

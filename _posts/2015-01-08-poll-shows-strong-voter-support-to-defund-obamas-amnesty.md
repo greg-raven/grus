@@ -2,7 +2,7 @@
 title: "Poll shows strong voter support to defund Obama's amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Oppose S.B. 249"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - 2nd Amendment

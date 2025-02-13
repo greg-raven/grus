@@ -2,7 +2,7 @@
 title: "Jordan Commission's Recommendations"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

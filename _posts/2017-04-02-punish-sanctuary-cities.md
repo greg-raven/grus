@@ -2,7 +2,7 @@
 title: "Punish 'sanctuary cities'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "House proposal would release Criminal Aliens onto the streets"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - national security

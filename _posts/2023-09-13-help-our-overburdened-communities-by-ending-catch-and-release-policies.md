@@ -2,7 +2,7 @@
 title: "Help our overburdened communities by ending catch-and-release policies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal aliens

@@ -2,7 +2,7 @@
 title: "Oppose Senator Spector's immigration proposal"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

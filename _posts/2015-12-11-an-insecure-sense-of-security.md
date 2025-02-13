@@ -2,7 +2,7 @@
 title: "An insecure sense of security"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - population

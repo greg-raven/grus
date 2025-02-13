@@ -2,7 +2,7 @@
 title: "Immigration fuels California's population growth and wildfires"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

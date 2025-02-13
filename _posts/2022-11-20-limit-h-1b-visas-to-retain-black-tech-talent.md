@@ -2,7 +2,7 @@
 title: "Limit H-1B visas to retain Black tech talent"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

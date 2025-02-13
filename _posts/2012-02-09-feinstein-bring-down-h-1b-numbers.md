@@ -2,7 +2,7 @@
 title: "Bring down H-1B numbers!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Dianne Feinstein
 ---

@@ -2,7 +2,7 @@
 title: "Mandatory E-Verify would shut off the jobs magnet and help end illegal immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Oppose firearms licensing and registration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Jay Obernolte

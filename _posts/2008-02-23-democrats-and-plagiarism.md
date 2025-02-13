@@ -2,7 +2,7 @@
 title: "Democrats and plagiarism"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - politics
 ---

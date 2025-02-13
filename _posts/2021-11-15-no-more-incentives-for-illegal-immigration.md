@@ -2,7 +2,7 @@
 title: "No more incentives for illegal immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 ---

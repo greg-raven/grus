@@ -2,7 +2,7 @@
 title: "Sensible immigration policy"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

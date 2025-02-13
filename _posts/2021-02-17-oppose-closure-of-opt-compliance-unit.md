@@ -2,7 +2,7 @@
 title: "Oppose closure of OPT Compliance Unit"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 ---

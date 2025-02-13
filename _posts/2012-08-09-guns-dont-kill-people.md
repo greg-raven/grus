@@ -2,7 +2,7 @@
 title: "Guns don't kill people ..."
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - 2nd Amendment
 ---

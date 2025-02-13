@@ -2,7 +2,7 @@
 title: "Block passage of S.B. 54"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jay Obernolte
 - illegal aliens

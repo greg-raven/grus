@@ -2,7 +2,7 @@
 title: "Thank you for supporting H.R. 5272"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

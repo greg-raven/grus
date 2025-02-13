@@ -2,7 +2,7 @@
 title: "Disney forces tech workers to train H-1B replacements"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Global warming = global control?"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - environment
 - world government

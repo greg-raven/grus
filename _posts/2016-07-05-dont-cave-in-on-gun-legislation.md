@@ -2,7 +2,7 @@
 title: "Don't cave in on gun legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

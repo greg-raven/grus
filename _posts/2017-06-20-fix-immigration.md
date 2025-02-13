@@ -2,7 +2,7 @@
 title: "Fix immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - illegal immigration

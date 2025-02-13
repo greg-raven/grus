@@ -2,7 +2,7 @@
 title: "Oppose Biden's radical, anti-gun picks for Attorney General and HHS Director"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

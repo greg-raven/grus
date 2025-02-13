@@ -2,7 +2,7 @@
 title: "Oppose Democrat illegal alien amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barbara Boxer
 - Dianne Feinstein

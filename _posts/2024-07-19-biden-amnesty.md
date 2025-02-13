@@ -2,7 +2,7 @@
 title: "Biden's unconstitutional amnesty worsens border crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - illegal immigration

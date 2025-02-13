@@ -2,7 +2,7 @@
 title: "Nearly 2 in 3 Americans favor deporting all illegal immigrants"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

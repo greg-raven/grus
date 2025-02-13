@@ -2,7 +2,7 @@
 title: "Walmart vs. The Morons"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - population
 ---

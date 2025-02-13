@@ -2,7 +2,7 @@
 title: "Cosponsor H.R. 140 to end birthright citizenship"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Restore hope to American workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

@@ -2,7 +2,7 @@
 title: "Fix your foreign policy"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - national security
 - Donald J. Trump

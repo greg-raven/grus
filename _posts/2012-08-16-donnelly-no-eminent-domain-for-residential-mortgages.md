@@ -2,7 +2,7 @@
 title: "No eminent domain for residential mortgages"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - San Bernardino

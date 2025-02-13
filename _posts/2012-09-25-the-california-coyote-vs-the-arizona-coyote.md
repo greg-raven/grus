@@ -2,7 +2,7 @@
 title: "The California Coyote vs the Arizona Coyote"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - Arizona
 - California

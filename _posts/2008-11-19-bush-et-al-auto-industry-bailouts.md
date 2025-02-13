@@ -2,7 +2,7 @@
 title: "Auto industry bailouts"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - bailouts
 - Federal government

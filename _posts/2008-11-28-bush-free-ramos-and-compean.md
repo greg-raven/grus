@@ -2,7 +2,7 @@
 title: "Free Ramos and Compean"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - George Bush

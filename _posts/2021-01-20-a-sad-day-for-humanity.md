@@ -2,7 +2,7 @@
 title: "A sad day for humanity"
 layout: post
 categories:
-- commentaries
+- commentary
 ---
 
 Today is a sad day for America and for human-kind. With this transition to the Harris/Biden administration, the American republic is over. Freedom here and around the world no longer has a champion. Corrupt politicians, hypocrites, pedophiles, race baiters, globalists, and the Deep State now control virtually every aspect of our lives, with two of the most stupid and corrupt among them as the figureheads overseeing our destruction.

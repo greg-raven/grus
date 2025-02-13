@@ -2,7 +2,7 @@
 title: "Cotton bill would end chain migration and visa lottery"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

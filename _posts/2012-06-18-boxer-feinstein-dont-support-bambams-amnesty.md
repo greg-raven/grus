@@ -2,7 +2,7 @@
 title: "Don't support Bambam's amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barbara Boxer

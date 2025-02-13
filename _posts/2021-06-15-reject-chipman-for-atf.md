@@ -2,7 +2,7 @@
 title: "Reject Chipman for ATF"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

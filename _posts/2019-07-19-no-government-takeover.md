@@ -2,7 +2,7 @@
 title: "No government takeover"
 layout: post
 categories:
-- letters
+- letter
 ---
 
 I am greatly concerned about Bullhead City's proposal to seize our water company ("City files EPCOR referendum with county," Mohave Daily News, July 17, 2019). This has been tried over and over and over again in cities and towns all over the country, and the results are rarely if ever as promised by the politicians who push for these measures.

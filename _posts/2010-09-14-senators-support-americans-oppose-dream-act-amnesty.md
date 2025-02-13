@@ -2,7 +2,7 @@
 title: "Support Americans, oppose DREAM Act amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

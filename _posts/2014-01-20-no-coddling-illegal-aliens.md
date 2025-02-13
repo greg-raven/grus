@@ -2,7 +2,7 @@
 title: "No coddling illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - population

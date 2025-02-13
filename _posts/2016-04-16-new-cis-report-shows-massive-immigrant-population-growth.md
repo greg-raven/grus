@@ -2,7 +2,7 @@
 title: "New CIS report shows massive immigrant population growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

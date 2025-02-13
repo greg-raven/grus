@@ -2,7 +2,7 @@
 title: "House Armed Services Committee backs DACA"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

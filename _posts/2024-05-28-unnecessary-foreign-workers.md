@@ -2,7 +2,7 @@
 title: "Put American workers first"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

@@ -2,7 +2,7 @@
 title: "Oppose all amnesties"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

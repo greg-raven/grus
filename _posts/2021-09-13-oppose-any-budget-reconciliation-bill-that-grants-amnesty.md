@@ -2,7 +2,7 @@
 title: "Oppose any budget reconciliation bill that grants amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

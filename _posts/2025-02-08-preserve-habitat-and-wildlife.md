@@ -2,7 +2,7 @@
 title: "Take the pressure off our habitat and wildlife"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - environment

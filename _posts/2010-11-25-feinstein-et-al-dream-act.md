@@ -2,7 +2,7 @@
 title: "DREAM Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - Federal government

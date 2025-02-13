@@ -2,7 +2,7 @@
 title: "No additional refugee funding or H-2B increases"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

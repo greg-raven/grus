@@ -2,7 +2,7 @@
 title: "Block S.B. 54 from passage"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 ---

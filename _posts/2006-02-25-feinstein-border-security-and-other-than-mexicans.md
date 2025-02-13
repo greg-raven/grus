@@ -2,7 +2,7 @@
 title: "Border security and 'other than Mexicans'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Federal government

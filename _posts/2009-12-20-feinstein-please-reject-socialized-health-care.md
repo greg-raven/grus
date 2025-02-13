@@ -2,7 +2,7 @@
 title: "Please REJECT Socialized Health Care!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Obamacare
 - Barbara Boxer

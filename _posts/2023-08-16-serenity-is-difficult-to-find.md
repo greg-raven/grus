@@ -2,7 +2,7 @@
 title: "Serenity is difficult to find"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

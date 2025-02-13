@@ -2,7 +2,7 @@
 title: "Visa fraud must be a top priority"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

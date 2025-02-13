@@ -2,7 +2,7 @@
 title: "Support Rep. Bishop's Border amendment"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Jerry Lewis

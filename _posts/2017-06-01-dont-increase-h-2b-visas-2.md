@@ -2,7 +2,7 @@
 title: "Don't increase H-2B visas"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 ---

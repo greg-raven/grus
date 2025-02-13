@@ -2,7 +2,7 @@
 title: "Porous borders are unsustainable, drive overpopulation and overcrowding"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

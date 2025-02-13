@@ -2,7 +2,7 @@
 title: "Please sign the Budd Letter"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

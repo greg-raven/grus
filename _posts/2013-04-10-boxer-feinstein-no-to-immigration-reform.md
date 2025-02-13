@@ -2,7 +2,7 @@
 title: "NO to immigration 'reform'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - immigration

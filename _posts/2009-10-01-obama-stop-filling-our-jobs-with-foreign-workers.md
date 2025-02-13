@@ -2,7 +2,7 @@
 title: "Stop filling our jobs with foreign workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

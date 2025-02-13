@@ -2,7 +2,7 @@
 title: "Please support mandatory E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - illegal immigration

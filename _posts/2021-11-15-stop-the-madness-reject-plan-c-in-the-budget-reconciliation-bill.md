@@ -2,7 +2,7 @@
 title: "Stop the madness. Reject Plan C in the budget reconciliation bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

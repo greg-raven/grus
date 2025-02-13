@@ -2,7 +2,7 @@
 title: "Time to celebrate"
 layout: post
 categories:
-- commentaries
+- commentary
 tags:
 - Barack Hussein Obama
 ---

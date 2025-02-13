@@ -2,7 +2,7 @@
 title: "Attach H.R. 2 to the Continuing Resolution"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal aliens

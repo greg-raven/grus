@@ -2,7 +2,7 @@
 title: "Oppose amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - Jerry Lewis

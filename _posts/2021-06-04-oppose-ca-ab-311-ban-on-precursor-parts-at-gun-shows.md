@@ -2,7 +2,7 @@
 title: "Oppose CA A.B. 311 --- ban on precursor parts at gun shows"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Thurston Smith

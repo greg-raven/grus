@@ -2,7 +2,7 @@
 title: "Support American workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 - Federal government

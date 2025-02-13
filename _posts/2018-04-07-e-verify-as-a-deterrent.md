@@ -2,7 +2,7 @@
 title: "E-Verify as a deterrent"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - illegal immigration

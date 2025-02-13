@@ -2,7 +2,7 @@
 title: "Population growth is overwhelming U.S.; please end chain migration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

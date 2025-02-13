@@ -2,7 +2,7 @@
 title: "America's biodiversity loss"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - environment

@@ -2,7 +2,7 @@
 title: "Oppose H.R. 167 --- FFL requirements for gun show transfers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Jay Obernolte

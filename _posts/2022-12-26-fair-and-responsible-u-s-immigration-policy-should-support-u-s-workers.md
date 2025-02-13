@@ -2,7 +2,7 @@
 title: "Fair and responsible U.S. immigration policy should support U.S. workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

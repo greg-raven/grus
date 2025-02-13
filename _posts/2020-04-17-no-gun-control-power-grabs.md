@@ -2,10 +2,9 @@
 title: "No gun control power grabs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
-- Mitch McConnell
 ---
 
 WHEREAS: The Second Amendment to the United States Constitution protects the individual right to keep and bear arms; and
@@ -17,3 +16,6 @@ WHEREAS: If you and I don't fight back now to protect our Second Amendment freed
 THEREFORE: I urge my Congressman, U.S. Senators, as well as my politicians to stand against using COVID-19 as an excuse to impose unconstitutional gun control measures.
 
 {% include signature.html %}
+
+Sent to:
+: Mitch McConnell

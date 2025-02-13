@@ -2,7 +2,7 @@
 title: "Syrian refugee resettlement raises major security concerns"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Barbara Boxer

@@ -2,7 +2,7 @@
 title: "The balance of powers under Obama"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - Barack Hussein Obama
 ---

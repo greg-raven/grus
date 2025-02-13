@@ -2,7 +2,7 @@
 title: "Wages decrease during a slowing economy. Reduce immigration."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 - immigration

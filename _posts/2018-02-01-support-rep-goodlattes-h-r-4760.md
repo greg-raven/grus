@@ -2,7 +2,7 @@
 title: "Support Rep. Goodlatte's H.R 4760"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - immigration

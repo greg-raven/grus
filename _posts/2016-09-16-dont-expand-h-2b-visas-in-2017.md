@@ -2,7 +2,7 @@
 title: "Don't expand H-2B visas in 2017"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "No more foreign workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Paul Cook

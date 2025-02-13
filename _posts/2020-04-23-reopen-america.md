@@ -2,7 +2,7 @@
 title: "Reopen America"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 - Donald J. Trump

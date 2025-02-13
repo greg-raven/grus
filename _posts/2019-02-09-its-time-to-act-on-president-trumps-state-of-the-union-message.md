@@ -2,7 +2,7 @@
 title: "It's time to act on President Trump's State of the Union message"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - immigration

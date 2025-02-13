@@ -2,7 +2,7 @@
 title: "Stop Supporting Sanctuary Cities and Illegal Aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - Federal government

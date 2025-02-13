@@ -2,7 +2,7 @@
 title: "Shame on you for funding Obama's illegal executive amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Dianne Feinstein

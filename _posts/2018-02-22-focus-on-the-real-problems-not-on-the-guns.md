@@ -2,7 +2,7 @@
 title: "Focus on the real problems, not on the guns"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

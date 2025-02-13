@@ -2,7 +2,7 @@
 title: "Protect American jobs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

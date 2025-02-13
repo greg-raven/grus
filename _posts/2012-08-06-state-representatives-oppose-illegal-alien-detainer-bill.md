@@ -2,7 +2,7 @@
 title: "Oppose Illegal-Alien Detainer Bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - illegal aliens

@@ -2,7 +2,7 @@
 title: "Planned economy or planned destruction?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - economy

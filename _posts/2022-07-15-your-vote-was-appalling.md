@@ -2,7 +2,7 @@
 title: "Your vote was appalling"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

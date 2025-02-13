@@ -2,7 +2,7 @@
 title: "Please confirm the President's nominees"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - judiciary
 ---

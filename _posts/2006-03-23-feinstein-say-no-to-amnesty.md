@@ -2,7 +2,7 @@
 title: "Say 'no' to amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

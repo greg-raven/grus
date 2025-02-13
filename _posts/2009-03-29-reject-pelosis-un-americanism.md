@@ -2,7 +2,7 @@
 title: "Reject Pelosi's 'un-Americanism'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Barbara Boxer

@@ -2,7 +2,7 @@
 title: "Heed HHS Secretary Xavier Becerra's warning"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

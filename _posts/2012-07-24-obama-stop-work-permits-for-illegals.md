@@ -2,7 +2,7 @@
 title: "Stop work permits for illegals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Federal government

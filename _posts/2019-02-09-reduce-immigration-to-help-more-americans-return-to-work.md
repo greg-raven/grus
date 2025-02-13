@@ -2,7 +2,7 @@
 title: "Reduce immigration to help more americans return to work"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Donald J. Trump

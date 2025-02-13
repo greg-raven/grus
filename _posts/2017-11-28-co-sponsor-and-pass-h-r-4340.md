@@ -2,7 +2,7 @@
 title: "Cosponsor and pass H.R. 4340"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - E-Verify

@@ -2,7 +2,7 @@
 title: "You can stop Obama's amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

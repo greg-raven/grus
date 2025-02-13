@@ -2,7 +2,7 @@
 title: "Vote 'no' on this latest amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barbara Boxer

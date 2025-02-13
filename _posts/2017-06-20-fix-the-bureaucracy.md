@@ -2,7 +2,7 @@
 title: "Fix the bureaucracy"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

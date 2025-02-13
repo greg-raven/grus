@@ -2,7 +2,7 @@
 title: "Thanks for cosponsoring legislation to mandate use of E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Paul Cook

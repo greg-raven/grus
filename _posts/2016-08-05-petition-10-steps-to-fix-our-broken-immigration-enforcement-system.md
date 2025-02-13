@@ -2,7 +2,7 @@
 title: "Petition: 10 steps to fix our broken immigration enforcement system"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - immigration

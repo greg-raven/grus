@@ -2,7 +2,7 @@
 title: "Black voters are not aligned with Democratic immigration policies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

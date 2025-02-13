@@ -2,7 +2,7 @@
 title: "The fraud of 'climate change'"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - environment
 ---

@@ -2,7 +2,7 @@
 title: "No STEM crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

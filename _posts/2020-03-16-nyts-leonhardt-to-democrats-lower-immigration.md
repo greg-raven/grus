@@ -2,7 +2,7 @@
 title: "NYT's Leonhardt to Democrats: Lower immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Dianne Feinstein

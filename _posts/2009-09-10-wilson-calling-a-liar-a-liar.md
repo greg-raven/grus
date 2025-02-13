@@ -2,7 +2,7 @@
 title: "Calling a liar a liar"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 ---

@@ -2,7 +2,7 @@
 title: "Lower immigration rates will reduce population growth and save nature."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - illegal immigration

@@ -2,7 +2,7 @@
 title: "I support the use of firearms on public lands"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

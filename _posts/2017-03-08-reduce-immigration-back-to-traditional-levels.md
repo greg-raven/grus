@@ -2,7 +2,7 @@
 title: "Reduce immigration back to traditional levels"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

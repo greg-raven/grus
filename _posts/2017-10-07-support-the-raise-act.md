@@ -2,7 +2,7 @@
 title: "Support the RAISE Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

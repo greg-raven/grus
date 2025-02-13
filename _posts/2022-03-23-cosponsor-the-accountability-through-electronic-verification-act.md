@@ -2,7 +2,7 @@
 title: "Cosponsor the Accountability Through Electronic Verification Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 ---

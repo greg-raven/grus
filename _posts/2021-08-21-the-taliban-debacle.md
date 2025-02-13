@@ -2,7 +2,7 @@
 title: "The Taliban debacle"
 layout: post
 categories:
-- commentaries
+- commentary
 tags:
 - Federal government
 ---

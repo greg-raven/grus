@@ -2,7 +2,7 @@
 title: "Weather-related disasters increase with U.S. population growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

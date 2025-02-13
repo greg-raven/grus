@@ -2,7 +2,7 @@
 title: "H.R. 2740 would worsen the border crisis --- please vote NO!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Paul Cook

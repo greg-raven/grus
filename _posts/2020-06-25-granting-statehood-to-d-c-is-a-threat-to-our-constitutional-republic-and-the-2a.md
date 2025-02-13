@@ -2,7 +2,7 @@
 title: "Granting statehood to D.C. is a threat to our constitutional republic and the 2A"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Paul Cook

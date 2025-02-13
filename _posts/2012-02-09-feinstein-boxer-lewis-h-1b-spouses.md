@@ -2,7 +2,7 @@
 title: "H-1B spouses"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Jerry Lewis

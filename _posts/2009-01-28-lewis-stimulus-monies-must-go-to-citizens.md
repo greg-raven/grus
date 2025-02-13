@@ -2,7 +2,7 @@
 title: "Stimulus monies must go to citizens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jerry Lewis
 - stimulus

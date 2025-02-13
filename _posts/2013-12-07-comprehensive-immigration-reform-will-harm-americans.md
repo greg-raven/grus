@@ -2,7 +2,7 @@
 title: "'Comprehensive immigration reform' will harm Americans"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "The future of America?"
 layout: post
 categories:
-- videos
+- video
 
 ---
 

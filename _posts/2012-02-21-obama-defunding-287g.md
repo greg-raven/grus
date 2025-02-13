@@ -2,7 +2,7 @@
 title: "Defunding 287(g)"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - national security
 ---

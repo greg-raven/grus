@@ -2,7 +2,7 @@
 title: "A glimpse at the future"
 layout: post
 categories:
-- memes
+- meme
 ---
 
 Year 2048: An American soldier is patrolling the center of Paris.

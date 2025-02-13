@@ -2,7 +2,7 @@
 title: "The Filibuster: Reid vs. Reid"
 layout: post
 categories:
-- videos
+- video
 
 ---
 

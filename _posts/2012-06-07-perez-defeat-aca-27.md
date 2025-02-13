@@ -2,7 +2,7 @@
 title: "Defeat ACA 27"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - immigration

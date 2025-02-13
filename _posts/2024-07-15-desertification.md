@@ -2,7 +2,7 @@
 title: "Mass immigration makes no sense given desertification"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - environment

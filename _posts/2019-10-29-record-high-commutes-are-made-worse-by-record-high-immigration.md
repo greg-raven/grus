@@ -2,7 +2,7 @@
 title: "Record-high commutes are made worse by record-high immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

@@ -2,7 +2,7 @@
 title: "Cosponsor the SAVE Act, H.R. 830"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Paul Cook

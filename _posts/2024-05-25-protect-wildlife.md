@@ -2,7 +2,7 @@
 title: "Protect wildlife with H.R. 2 and H.R. 7833"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - environment

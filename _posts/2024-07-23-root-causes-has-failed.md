@@ -2,7 +2,7 @@
 title: "Biden-Harris 'root causes' approach has failed"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

@@ -2,7 +2,7 @@
 title: "Take amnesty off the table completely"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

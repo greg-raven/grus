@@ -2,7 +2,7 @@
 title: "Defund amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

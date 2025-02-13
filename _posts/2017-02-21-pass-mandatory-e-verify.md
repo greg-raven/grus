@@ -2,7 +2,7 @@
 title: "Pass mandatory E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Oppose farmworker amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

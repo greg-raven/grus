@@ -2,7 +2,7 @@
 title: "Asylum abuse takes away jobs and depresses wages"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - immigration

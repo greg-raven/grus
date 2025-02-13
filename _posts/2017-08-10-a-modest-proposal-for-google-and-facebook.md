@@ -2,7 +2,7 @@
 title: "A modest proposal for Google and Facebook"
 layout: post
 categories:
-- commentaries
+- commentary
 tags:
 - jobs
 ---

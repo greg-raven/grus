@@ -2,7 +2,7 @@
 title: "Vote no on gun confiscation legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

@@ -2,7 +2,7 @@
 title: "Population growth undermines efforts to protect open space"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

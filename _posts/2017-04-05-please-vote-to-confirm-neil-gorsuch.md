@@ -2,7 +2,7 @@
 title: "Please vote to confirm Neil Gorsuch"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - judiciary
 - Dianne Feinstein

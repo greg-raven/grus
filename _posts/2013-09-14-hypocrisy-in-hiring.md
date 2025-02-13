@@ -2,7 +2,7 @@
 title: "Hypocrisy in hiring"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

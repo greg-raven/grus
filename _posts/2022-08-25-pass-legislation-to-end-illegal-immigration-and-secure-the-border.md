@@ -2,7 +2,7 @@
 title: "Pass legislation to end illegal immigration and secure the border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - immigration

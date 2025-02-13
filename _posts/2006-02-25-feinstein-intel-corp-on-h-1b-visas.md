@@ -2,7 +2,7 @@
 title: "Intel Corp. on H-1B visas"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

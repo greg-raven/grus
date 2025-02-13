@@ -2,7 +2,7 @@
 title: "Help abolish birthright citizenship"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

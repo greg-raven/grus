@@ -2,7 +2,7 @@
 title: "Fix APPS now"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jerry Brown
 - 2nd Amendment

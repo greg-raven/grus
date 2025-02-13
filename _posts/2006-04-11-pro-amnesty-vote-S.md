@@ -2,7 +2,7 @@
 title: "Troubled by your pro-amnesty vote"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Dianne Feinstein
 - Barbara Boxer

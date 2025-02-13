@@ -2,7 +2,7 @@
 title: "Americans want and need open space"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

@@ -2,7 +2,7 @@
 title: "Stop preferential treatment of H-1B workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

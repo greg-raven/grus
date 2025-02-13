@@ -2,7 +2,7 @@
 title: "Cosponsor the New IDEA Act (H.R. 1292)"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Paul Cook

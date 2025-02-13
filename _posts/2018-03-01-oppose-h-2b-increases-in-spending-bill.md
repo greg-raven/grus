@@ -2,7 +2,7 @@
 title: "Oppose H-2B increases in spending bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

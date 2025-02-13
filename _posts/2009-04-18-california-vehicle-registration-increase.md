@@ -2,7 +2,7 @@
 title: "California vehicle registration increase"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - taxes

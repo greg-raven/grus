@@ -2,7 +2,7 @@
 title: "Oppose H-2B foreign worker increases"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

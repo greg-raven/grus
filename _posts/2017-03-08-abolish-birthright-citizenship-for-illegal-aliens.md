@@ -2,7 +2,7 @@
 title: "Abolish birthright citizenship for illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - birthright citizenship
 - illegal aliens

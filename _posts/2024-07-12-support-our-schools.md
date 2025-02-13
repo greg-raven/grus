@@ -2,7 +2,7 @@
 title: "Support our schools by adopting sensible immigration policies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - education

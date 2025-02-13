@@ -2,7 +2,7 @@
 title: "Stop S. 744"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barbara Boxer

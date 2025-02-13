@@ -2,7 +2,7 @@
 title: "Stop fund-raising from un-American CEOs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

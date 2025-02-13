@@ -2,7 +2,7 @@
 title: "Amnesty lies from the White House"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

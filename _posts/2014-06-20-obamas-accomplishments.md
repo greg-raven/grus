@@ -2,7 +2,7 @@
 title: "Obama's accomplishments"
 layout: post
 categories:
-- commentaries
+- commentary
 tags:
 - Barack Hussein Obama
 ---

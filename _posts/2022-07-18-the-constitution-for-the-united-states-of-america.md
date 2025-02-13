@@ -2,7 +2,7 @@
 title: "The Constitution for the United States of America"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Constitution
 ---

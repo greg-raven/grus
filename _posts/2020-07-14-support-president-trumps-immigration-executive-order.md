@@ -2,7 +2,7 @@
 title: "Support President Trump's immigration Executive Order!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Paul Cook

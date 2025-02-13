@@ -2,7 +2,7 @@
 title: "No DACA 'road to citizenship'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Donald J. Trump

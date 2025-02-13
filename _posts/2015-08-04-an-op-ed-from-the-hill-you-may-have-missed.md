@@ -2,7 +2,7 @@
 title: "An Op-Ed from The Hill you may have missed"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

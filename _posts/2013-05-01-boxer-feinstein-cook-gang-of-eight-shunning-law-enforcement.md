@@ -2,7 +2,7 @@
 title: "Gang of Eight shunning law enforcement"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

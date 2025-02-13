@@ -2,7 +2,7 @@
 title: "More Sarahs and fewer Arnolds"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 ---

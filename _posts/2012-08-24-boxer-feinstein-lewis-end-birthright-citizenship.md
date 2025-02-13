@@ -2,7 +2,7 @@
 title: "End birthright citizenship"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - Barbara Boxer

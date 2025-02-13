@@ -2,7 +2,7 @@
 title: "H.R. 3401 fails to address causes of the crisis and lacks enforcement funding --- Vote NO"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

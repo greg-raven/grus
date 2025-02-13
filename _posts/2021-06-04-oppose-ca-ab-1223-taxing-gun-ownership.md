@@ -2,7 +2,7 @@
 title: "Oppose CA A.B. 1223 --- taxing gun ownership"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Thurston Smith

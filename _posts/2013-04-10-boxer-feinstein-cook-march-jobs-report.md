@@ -2,7 +2,7 @@
 title: "March jobs report"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Paul Cook

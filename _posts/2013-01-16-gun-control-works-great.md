@@ -2,7 +2,7 @@
 title: "Gun control works great ..."
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - 2nd Amendment
 ---

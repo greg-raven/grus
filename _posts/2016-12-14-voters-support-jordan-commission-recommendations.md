@@ -2,7 +2,7 @@
 title: "Voters support Jordan Commission recommendations"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - immigration

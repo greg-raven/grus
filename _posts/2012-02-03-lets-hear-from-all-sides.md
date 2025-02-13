@@ -2,7 +2,7 @@
 title: "Let's hear from all sides"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - media bias
 ---

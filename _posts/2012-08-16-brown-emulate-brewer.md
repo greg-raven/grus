@@ -2,7 +2,7 @@
 title: "Emulate Brewer"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - Jerry Brown

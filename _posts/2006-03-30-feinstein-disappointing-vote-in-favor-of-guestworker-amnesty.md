@@ -2,7 +2,7 @@
 title: "Disappointing vote in favor of guestworker amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

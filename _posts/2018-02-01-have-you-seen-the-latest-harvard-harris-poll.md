@@ -2,7 +2,7 @@
 title: "Have you seen the latest Harvard-Harris poll?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

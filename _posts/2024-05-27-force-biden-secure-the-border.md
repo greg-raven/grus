@@ -2,7 +2,7 @@
 title: "Force Biden to secure the border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal aliens

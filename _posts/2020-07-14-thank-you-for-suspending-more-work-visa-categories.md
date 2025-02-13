@@ -2,7 +2,7 @@
 title: "Thank you for suspending more work visa categories"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Donald J. Trump

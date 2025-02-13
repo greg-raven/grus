@@ -2,7 +2,7 @@
 title: "Serious about immigration? Push E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Dianne Feinstein

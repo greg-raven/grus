@@ -2,8 +2,8 @@
 title: "Obama for Resident"
 layout: post
 categories:
-- opinions
-- videos
+- opinion
+- video
 tags:
 - politics
 - population

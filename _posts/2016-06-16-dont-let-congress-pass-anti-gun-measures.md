@@ -2,7 +2,7 @@
 title: "Don't let Congress pass anti-gun measures"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

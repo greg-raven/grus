@@ -2,7 +2,7 @@
 title: "Thank you for voting against amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

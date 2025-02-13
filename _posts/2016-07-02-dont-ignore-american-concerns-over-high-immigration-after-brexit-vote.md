@@ -2,7 +2,7 @@
 title: "Don't ignore American concerns over high immigration after Brexit vote"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

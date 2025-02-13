@@ -2,7 +2,7 @@
 title: "Eliminate child tax credits for illegals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Federal government

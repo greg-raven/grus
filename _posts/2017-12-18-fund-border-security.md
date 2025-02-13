@@ -2,7 +2,7 @@
 title: "Fund border security"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - national security

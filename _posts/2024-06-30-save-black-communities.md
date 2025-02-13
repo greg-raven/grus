@@ -2,7 +2,7 @@
 title: "The burden of the border crisis should not fall on Black communities"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Laphonza Butler
 - jobs

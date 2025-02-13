@@ -2,7 +2,7 @@
 title: "Force Obama to enforce immigration laws"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

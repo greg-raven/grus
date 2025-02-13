@@ -2,7 +2,7 @@
 title: "Block sanctuary legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jay Obernolte
 - illegal aliens

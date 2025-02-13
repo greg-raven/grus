@@ -2,7 +2,7 @@
 title: "I can't believe Resident Biden plans to do nothing about the border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

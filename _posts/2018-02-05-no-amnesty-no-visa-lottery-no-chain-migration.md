@@ -2,7 +2,7 @@
 title: "No amnesty, no visa lottery, no chain migration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

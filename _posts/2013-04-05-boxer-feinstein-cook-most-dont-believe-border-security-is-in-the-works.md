@@ -2,7 +2,7 @@
 title: "Most don't believe border security is in the works"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Paul Cook

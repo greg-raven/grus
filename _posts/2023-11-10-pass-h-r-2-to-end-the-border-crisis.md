@@ -2,7 +2,7 @@
 title: "Pass H.R. 2 to end the border crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

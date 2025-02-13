@@ -2,7 +2,7 @@
 title: "The world's population is stabilizing, why not America's?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

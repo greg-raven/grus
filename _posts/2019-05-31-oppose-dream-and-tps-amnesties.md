@@ -2,7 +2,7 @@
 title: "Oppose DREAM and TPS Amnesties"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

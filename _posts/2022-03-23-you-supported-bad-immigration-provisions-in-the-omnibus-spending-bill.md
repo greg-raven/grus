@@ -2,7 +2,7 @@
 title: "You supported bad immigration provisions in the omnibus spending bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

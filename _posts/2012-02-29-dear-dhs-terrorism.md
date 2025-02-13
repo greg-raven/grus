@@ -2,7 +2,7 @@
 title: Terrorism
 layout: post
 categories:
-- letters
+- letter
 tags:
 - DHS
 - national security

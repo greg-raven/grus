@@ -2,7 +2,7 @@
 title: "Oppose the Graham-Durbin-Flake amnesty deal"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

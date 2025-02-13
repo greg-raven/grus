@@ -2,7 +2,7 @@
 title: "America is losing places to get away from it all"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 ---

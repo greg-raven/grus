@@ -2,7 +2,7 @@
 title: "Stop the Democrat's lame duck amnesty plans"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Jay Obernolte

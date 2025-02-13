@@ -2,7 +2,7 @@
 title: "Obama: 'We Noticed'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

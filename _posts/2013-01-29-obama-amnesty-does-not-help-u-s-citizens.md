@@ -2,7 +2,7 @@
 title: "Amnesty does NOT help U.S. citizens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

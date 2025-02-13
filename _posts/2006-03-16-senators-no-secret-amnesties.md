@@ -2,7 +2,7 @@
 title: "No secret amnesties"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

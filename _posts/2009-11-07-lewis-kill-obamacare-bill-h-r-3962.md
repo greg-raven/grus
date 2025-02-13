@@ -2,7 +2,7 @@
 title: "Kill ObamaCare Bill H.R. 3962"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - Federal government

@@ -2,7 +2,7 @@
 title: "Balanced budget?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Apple Valley
 ---

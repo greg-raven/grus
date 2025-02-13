@@ -2,7 +2,7 @@
 title: "Support mandatory E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

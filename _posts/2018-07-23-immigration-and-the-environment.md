@@ -2,7 +2,7 @@
 title: "Immigration and the environment"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

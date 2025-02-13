@@ -2,7 +2,7 @@
 title: "John McCain's Senate replacement"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Arizona
 ---

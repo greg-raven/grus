@@ -2,7 +2,7 @@
 title: "Reduce immigration to protect farmland and nature"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 ---

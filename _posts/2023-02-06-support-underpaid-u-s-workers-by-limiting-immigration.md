@@ -2,7 +2,7 @@
 title: "Support underpaid U.S. workers by limiting immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - immigration

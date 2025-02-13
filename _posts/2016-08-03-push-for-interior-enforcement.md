@@ -2,7 +2,7 @@
 title: "Push for interior enforcement"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - Paul Cook

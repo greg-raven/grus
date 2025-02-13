@@ -2,7 +2,7 @@
 title: "Stop the Biden amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

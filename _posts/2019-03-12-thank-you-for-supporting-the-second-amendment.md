@@ -2,7 +2,7 @@
 title: "Thank you for supporting the Second Amendment"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

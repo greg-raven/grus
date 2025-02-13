@@ -2,7 +2,7 @@
 title: "Cosponsor H.R. 704 to end the visa lottery"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - immigration

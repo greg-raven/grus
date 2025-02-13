@@ -2,7 +2,7 @@
 title: "Housing supplies cannot keep up with immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

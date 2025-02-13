@@ -2,7 +2,7 @@
 title: "Racial disparities in bankruptcy filings"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - race relations
 ---

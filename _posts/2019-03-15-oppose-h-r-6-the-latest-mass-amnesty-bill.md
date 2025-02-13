@@ -2,7 +2,7 @@
 title: "Oppose H.R. 6, the latest mass amnesty bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

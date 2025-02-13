@@ -2,7 +2,7 @@
 title: "DREAM Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Dianne Feinstein

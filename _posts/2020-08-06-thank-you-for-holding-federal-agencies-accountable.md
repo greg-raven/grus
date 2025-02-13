@@ -2,7 +2,7 @@
 title: "Thank you for holding federal agencies accountable"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Donald J. Trump

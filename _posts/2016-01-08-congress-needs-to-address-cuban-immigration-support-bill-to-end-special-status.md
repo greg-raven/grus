@@ -2,7 +2,7 @@
 title: "Congress needs to address Cuban immigration, support bill to end special status"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

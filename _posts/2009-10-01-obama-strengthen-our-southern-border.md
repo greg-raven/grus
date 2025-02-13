@@ -2,7 +2,7 @@
 title: "Strengthen our southern border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

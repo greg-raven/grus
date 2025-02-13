@@ -2,7 +2,7 @@
 title: "Veto limits on illegal alien detainers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - Jerry Brown

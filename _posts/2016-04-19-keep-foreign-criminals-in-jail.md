@@ -2,7 +2,7 @@
 title: "Keep foreign criminals in jail"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

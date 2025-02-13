@@ -2,7 +2,7 @@
 title: "Vote to end sanctuary cities"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Dianne Feinstein

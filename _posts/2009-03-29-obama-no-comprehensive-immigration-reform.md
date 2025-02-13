@@ -2,7 +2,7 @@
 title: "No 'comprehensive immigration reform'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barack Hussein Obama

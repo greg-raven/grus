@@ -2,7 +2,7 @@
 title: "No privileges for illegals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - Jerry Brown

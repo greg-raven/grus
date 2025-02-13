@@ -2,7 +2,7 @@
 title: "Federal action is needed to take population pressures off communities."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

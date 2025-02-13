@@ -2,7 +2,7 @@
 title: "Thanks for opposing Obama's illegal executive amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

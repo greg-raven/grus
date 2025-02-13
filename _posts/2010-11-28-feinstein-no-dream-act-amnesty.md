@@ -2,7 +2,7 @@
 title: "No DREAM Act amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

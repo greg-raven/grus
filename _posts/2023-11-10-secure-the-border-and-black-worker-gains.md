@@ -2,7 +2,7 @@
 title: "Secure the border and Black worker gains"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

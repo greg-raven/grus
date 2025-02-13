@@ -2,7 +2,7 @@
 title: "Cosponsor bill to end chain migration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

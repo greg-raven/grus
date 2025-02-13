@@ -2,7 +2,7 @@
 title: "Amnesty harms American workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

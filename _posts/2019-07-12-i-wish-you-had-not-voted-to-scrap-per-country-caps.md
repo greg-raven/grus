@@ -2,7 +2,7 @@
 title: "I wish you had not voted to scrap per-country caps"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

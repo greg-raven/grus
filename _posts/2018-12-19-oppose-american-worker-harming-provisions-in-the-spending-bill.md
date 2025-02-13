@@ -2,7 +2,7 @@
 title: "Oppose American-worker-harming provisions in the spending bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Paul Cook

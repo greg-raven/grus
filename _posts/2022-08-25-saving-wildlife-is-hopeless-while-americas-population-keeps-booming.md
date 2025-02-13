@@ -2,7 +2,7 @@
 title: "Saving wildlife is hopeless while America's population keeps booming"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - immigration

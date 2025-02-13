@@ -2,7 +2,7 @@
 title: "Subprime mess"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - race relations
 ---

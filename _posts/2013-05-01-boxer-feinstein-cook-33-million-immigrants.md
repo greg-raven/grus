@@ -2,7 +2,7 @@
 title: "33 million immigrants!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - population

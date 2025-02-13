@@ -2,7 +2,7 @@
 title: Heaven-sent
 layout: post
 categories:
-- cartoons
+- cartoon
 ---
 
 "Biden and Harris were sent by God."

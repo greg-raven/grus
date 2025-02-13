@@ -2,7 +2,7 @@
 title: "Save jobs and protect the California economy"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 - environment

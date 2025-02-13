@@ -2,7 +2,7 @@
 title: "Petition to Congress"
 layout: post
 categories:
-- letters
+- letter
 ---
 
 I am writing to demand that Congress protect American jobs and the Rule of Law by passing the H.A.L.T. Act --- (H.R. 2497). This act is designed to protect America from the Obama Administration's disastrous Amnesty plans.

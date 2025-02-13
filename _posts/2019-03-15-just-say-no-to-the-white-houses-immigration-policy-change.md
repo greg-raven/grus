@@ -2,7 +2,7 @@
 title: "Just say 'no' to the White House's immigration policy change"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

@@ -2,7 +2,7 @@
 title: "Stand up for E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Jerry Lewis

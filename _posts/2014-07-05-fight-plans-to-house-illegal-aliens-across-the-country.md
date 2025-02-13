@@ -2,7 +2,7 @@
 title: "Fight plans to house illegal aliens across the country"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

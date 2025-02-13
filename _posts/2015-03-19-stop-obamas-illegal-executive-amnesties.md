@@ -2,7 +2,7 @@
 title: "Stop Obama's illegal executive amnesties"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

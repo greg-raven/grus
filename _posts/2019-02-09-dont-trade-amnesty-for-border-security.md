@@ -2,7 +2,7 @@
 title: "Don't trade amnesty for border security"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Paul Cook

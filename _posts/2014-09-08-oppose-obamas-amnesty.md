@@ -2,7 +2,7 @@
 title: "Oppose Obama's amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barbara Boxer

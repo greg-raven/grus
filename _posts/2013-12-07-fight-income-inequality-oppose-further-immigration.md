@@ -2,7 +2,7 @@
 title: "Fight income inequality: Oppose further immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Reinstate Remain in Mexico and denounce Biden's 2,500 daily illegal plan"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - border control

@@ -2,7 +2,7 @@
 title: "Suspend Non-Essential Immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

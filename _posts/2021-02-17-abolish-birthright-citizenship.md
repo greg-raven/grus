@@ -2,7 +2,7 @@
 title: "Abolish birthright citizenship"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - birthright citizenship
 - Jay Obernolte

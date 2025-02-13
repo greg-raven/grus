@@ -2,7 +2,7 @@
 title: "Democrats cannot ignore misguided immigration policies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Dianne Feinstein

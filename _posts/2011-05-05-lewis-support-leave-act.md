@@ -2,7 +2,7 @@
 title: "Support LEAVE Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - immigration

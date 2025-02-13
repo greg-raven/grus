@@ -2,7 +2,7 @@
 title: "Stop immigration to stop sprawl"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - immigration

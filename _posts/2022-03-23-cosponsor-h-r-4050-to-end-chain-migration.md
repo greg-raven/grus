@@ -2,7 +2,7 @@
 title: "Cosponsor H.R. 4050 to End Chain Migration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

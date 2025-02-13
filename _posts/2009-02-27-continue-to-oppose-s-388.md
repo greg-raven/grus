@@ -2,7 +2,7 @@
 title: "Continue to oppose S. 388"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - immigration

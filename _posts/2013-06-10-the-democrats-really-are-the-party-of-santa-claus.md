@@ -2,7 +2,7 @@
 title: "Democrats really are the party of Santa Claus"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - rights
 ---

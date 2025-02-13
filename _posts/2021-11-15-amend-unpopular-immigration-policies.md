@@ -2,7 +2,7 @@
 title: "Amend unpopular immigration policies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

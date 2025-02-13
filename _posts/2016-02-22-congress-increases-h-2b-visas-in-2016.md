@@ -2,7 +2,7 @@
 title: "Congress increases H-2B visas in 2016"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

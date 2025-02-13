@@ -2,7 +2,7 @@
 title: "Locomotive regulations"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 - environment

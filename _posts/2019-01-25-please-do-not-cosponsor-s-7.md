@@ -2,7 +2,7 @@
 title: "Please do not cosponsor S. 7"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

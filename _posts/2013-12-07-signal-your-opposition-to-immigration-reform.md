@@ -2,7 +2,7 @@
 title: "Signal your opposition to 'immigration reform'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - immigration

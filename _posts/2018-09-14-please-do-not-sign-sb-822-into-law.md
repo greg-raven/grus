@@ -2,7 +2,7 @@
 title: "Please do NOT sign S.B. 822 into law"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jerry Brown
 - Internet

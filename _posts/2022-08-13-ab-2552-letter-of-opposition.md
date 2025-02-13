@@ -2,7 +2,7 @@
 title: "A.B. 2552 --- Letter of opposition"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

@@ -2,7 +2,7 @@
 title: "Cosponsor 'no amnesty' resolution"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

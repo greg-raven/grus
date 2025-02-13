@@ -2,7 +2,7 @@
 title: "End Migrant Child Labor Violations with H.R. 2"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - child labor

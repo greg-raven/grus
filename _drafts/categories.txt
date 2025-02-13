@@ -1,8 +1,8 @@
-cartoons
-commentaries
+cartoon
+commentary
 information
-letters
-memes
-opinions
-tweets
-videos
+letter
+meme
+opinion
+tweet
+video

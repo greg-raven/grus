@@ -2,7 +2,7 @@
 title: "Woke and racist agree"
 layout: post
 categories:
-- videos
+- video
 
 tags:
 - race relations

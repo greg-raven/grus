@@ -2,7 +2,7 @@
 title: "GOP platform &#038; Trump promises should guide immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - immigration

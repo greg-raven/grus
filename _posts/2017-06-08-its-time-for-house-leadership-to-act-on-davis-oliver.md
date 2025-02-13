@@ -2,7 +2,7 @@
 title: "It's time for House Leadership to act on Davis-Oliver"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

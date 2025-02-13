@@ -2,7 +2,7 @@
 title: "H.R. 5038 = Amnesty &#038; indentured servitude"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - E-Verify

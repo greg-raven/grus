@@ -2,7 +2,7 @@
 title: "Eagle replaced by skunk"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - Barack Hussein Obama
 ---

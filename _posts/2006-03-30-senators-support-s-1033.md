@@ -2,7 +2,7 @@
 title: "Oppose S. 1033"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

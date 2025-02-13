@@ -2,7 +2,7 @@
 title: "Support mandatory E-Verify this summer!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Paul Cook

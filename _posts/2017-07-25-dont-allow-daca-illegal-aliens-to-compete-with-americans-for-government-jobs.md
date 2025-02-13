@@ -2,7 +2,7 @@
 title: "Don't allow DACA illegal aliens to compete with Americans for government jobs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - jobs

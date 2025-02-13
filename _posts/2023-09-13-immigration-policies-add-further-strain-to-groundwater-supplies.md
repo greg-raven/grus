@@ -2,7 +2,7 @@
 title: "Immigration policies add further strain to groundwater supplies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - chain migration

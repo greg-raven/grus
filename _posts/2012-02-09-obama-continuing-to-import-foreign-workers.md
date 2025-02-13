@@ -2,7 +2,7 @@
 title: "Continuing to import foreign workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

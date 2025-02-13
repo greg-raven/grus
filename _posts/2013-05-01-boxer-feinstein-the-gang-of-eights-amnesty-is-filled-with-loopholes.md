@@ -2,7 +2,7 @@
 title: "The Gang of Eight's amnesty is filled with loopholes"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barbara Boxer

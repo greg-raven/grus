@@ -2,14 +2,11 @@
 title: "Thanks for opposing the Gang of Eight"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - immigration
-- Mitch McConnell
 ---
-
-Senate Minority Leader Mitch McConnell:
 
 I am glad that you, the Senate Minority Leader, are speaking out against the Gang of Eight's terrible immigration proposal. How would an amnesty help the American people?
 
@@ -22,3 +19,6 @@ Thank you again for doing what is best for the United States and please continue
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Mitch McConnell

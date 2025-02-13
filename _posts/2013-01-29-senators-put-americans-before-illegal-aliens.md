@@ -2,7 +2,7 @@
 title: "Put Americans before illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barbara Boxer
 - Dianne Feinstein

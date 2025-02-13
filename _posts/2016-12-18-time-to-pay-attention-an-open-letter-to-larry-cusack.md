@@ -2,7 +2,7 @@
 title: "Time to pay attention: An open letter to Larry Cusack"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Apple Valley
 ---

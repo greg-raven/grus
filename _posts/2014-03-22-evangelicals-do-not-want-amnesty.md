@@ -2,7 +2,7 @@
 title: "Evangelicals do NOT want amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

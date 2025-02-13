@@ -2,7 +2,7 @@
 title: "End the border crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

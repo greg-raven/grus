@@ -2,7 +2,7 @@
 title: "Obama's true faith"
 layout: post
 categories:
-- cartoons
+- cartoon
 - information
 tags:
 - Barack Hussein Obama

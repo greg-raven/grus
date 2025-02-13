@@ -2,7 +2,7 @@
 title: "Real security"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - border control
 ---

@@ -2,7 +2,7 @@
 title: "No state benefits for illegals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - illegal aliens

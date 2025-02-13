@@ -2,7 +2,7 @@
 title: "An opportunity for Hungary"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - population
 ---

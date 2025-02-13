@@ -2,7 +2,7 @@
 title: "Oppose Mulvaney/Biaz-Balart/Ryan Amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

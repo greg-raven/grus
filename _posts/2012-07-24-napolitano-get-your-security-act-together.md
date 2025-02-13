@@ -2,7 +2,7 @@
 title: "Get your security act together"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Federal government

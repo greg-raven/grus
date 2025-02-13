@@ -2,7 +2,7 @@
 title: "Bad Border Bill Could Worsen Border Surge"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Barbara Boxer

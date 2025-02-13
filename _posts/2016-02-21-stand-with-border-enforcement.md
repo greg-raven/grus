@@ -2,7 +2,7 @@
 title: "Stand with border enforcement"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Paul Cook

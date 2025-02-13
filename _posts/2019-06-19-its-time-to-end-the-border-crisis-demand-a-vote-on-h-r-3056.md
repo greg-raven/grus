@@ -2,7 +2,7 @@
 title: "It's time to end the border crisis: Demand a vote on H.R. 3056!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Paul Cook

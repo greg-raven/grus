@@ -2,7 +2,7 @@
 title: "No DREAM Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - illegal aliens

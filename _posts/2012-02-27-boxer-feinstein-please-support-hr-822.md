@@ -2,7 +2,7 @@
 title: "Please support H.R. 822"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - 2nd Amendment

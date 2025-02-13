@@ -2,7 +2,7 @@
 title: "Working-class Black and Latino voters increasingly favor immigration limits"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - illegal immigration

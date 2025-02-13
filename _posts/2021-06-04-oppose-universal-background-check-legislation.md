@@ -2,7 +2,7 @@
 title: "Oppose universal background check legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

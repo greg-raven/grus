@@ -2,7 +2,7 @@
 title: "Thank you for voting for the Verify First Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

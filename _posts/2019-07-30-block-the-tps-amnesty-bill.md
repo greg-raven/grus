@@ -2,10 +2,9 @@
 title: "Block the TPS amnesty bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
-- Mitch McConnell
 ---
 
 Please block a vote on S. 636, the Venezuela Temporary Protected Status Act of 2019.
@@ -17,3 +16,6 @@ I know that Sen. Lee blocked the bill passing by unanimous consent. I hope you w
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Mitch McConnell

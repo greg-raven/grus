@@ -2,7 +2,7 @@
 title: "Thanks for cosponsoring the SAVE Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jerry Lewis
 ---

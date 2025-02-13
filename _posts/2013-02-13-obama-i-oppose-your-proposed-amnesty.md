@@ -2,7 +2,7 @@
 title: "I oppose your proposed amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

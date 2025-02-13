@@ -2,7 +2,7 @@
 title: "Thank you for ending DAPA amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - illegal aliens

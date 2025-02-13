@@ -2,7 +2,7 @@
 title: "Vote for sanctuary city legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Oppose Cuellar/Cornyn border bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - immigration

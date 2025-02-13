@@ -2,7 +2,7 @@
 title: "Don't sign the Coffman Discharge Petition"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

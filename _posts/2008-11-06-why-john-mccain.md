@@ -2,7 +2,7 @@
 title: "Why John McCain?"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - politics
 - world government

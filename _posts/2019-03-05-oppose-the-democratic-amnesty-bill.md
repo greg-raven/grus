@@ -2,7 +2,7 @@
 title: "Oppose the Democratic Amnesty Bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

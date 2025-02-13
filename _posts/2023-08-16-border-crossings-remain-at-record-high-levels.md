@@ -2,7 +2,7 @@
 title: "Border crossings remain at record-high levels"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - immigration

@@ -2,7 +2,7 @@
 title: "SB 1384 --- Letter of opposition"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Thurston Smith
 - 2nd Amendment

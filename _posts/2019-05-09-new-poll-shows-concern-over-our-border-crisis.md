@@ -2,7 +2,7 @@
 title: "New poll shows concern over our border crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

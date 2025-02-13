@@ -2,7 +2,7 @@
 title: "Mandate E-Verify"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - jobs

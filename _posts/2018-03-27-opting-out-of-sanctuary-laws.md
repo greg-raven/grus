@@ -2,7 +2,7 @@
 title: "Opting out of sanctuary laws"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 ---

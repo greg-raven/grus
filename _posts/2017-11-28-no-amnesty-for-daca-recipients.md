@@ -2,7 +2,7 @@
 title: "No amnesty for DACA recipients"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

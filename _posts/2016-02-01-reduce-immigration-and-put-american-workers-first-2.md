@@ -2,7 +2,7 @@
 title: "Reduce immigration and put American workers first!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

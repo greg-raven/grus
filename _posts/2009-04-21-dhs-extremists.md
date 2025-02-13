@@ -2,7 +2,7 @@
 title: "Obama: DHS 'extremists'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - Federal government

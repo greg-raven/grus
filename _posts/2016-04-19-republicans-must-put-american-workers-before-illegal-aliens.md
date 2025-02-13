@@ -2,7 +2,7 @@
 title: "Republicans MUST put American workers before illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - jobs

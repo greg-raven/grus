@@ -2,7 +2,7 @@
 title: "Don't make Garcia's mistake"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

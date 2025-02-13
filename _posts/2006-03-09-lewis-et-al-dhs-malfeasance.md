@@ -2,7 +2,7 @@
 title: "DHS malfeasance"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - DHS
 ---

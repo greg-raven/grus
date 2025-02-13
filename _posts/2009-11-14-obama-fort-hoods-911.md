@@ -2,7 +2,7 @@
 title: "Fort Hood's 9/11"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - Federal government

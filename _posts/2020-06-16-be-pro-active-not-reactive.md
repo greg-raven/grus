@@ -2,7 +2,7 @@
 title: "Be pro-active, not reactive"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Donald J. Trump
 ---

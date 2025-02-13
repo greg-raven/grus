@@ -2,7 +2,7 @@
 title: "Our de facto open borders make inflation and climate change worse"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 - immigration

@@ -2,7 +2,7 @@
 title: "Don't use the Omnibus to pass anti-gun Fix NICS"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

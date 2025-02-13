@@ -2,7 +2,7 @@
 title: "Stop 'extra' visas"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Barbara Boxer

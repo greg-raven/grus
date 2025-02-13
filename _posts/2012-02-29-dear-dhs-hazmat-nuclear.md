@@ -2,7 +2,7 @@
 title: "HAZMAT &#038; Nuclear"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - DHS
 - national security

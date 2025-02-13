@@ -2,7 +2,7 @@
 title: "Oppose the Biden Amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

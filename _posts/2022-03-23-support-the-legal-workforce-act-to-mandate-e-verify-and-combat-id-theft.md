@@ -2,7 +2,7 @@
 title: "Support the Legal Workforce Act to Mandate E-Verify and Combat ID Theft"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Jay Obernolte

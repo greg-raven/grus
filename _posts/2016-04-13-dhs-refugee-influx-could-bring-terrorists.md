@@ -2,7 +2,7 @@
 title: "DHS: Refugee influx could bring terrorists"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - refugees

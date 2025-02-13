@@ -2,7 +2,7 @@
 title: "EPA and greenhouse gases"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

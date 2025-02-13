@@ -2,7 +2,7 @@
 title: "Vote no on the Hagel/Martinez proposal"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - Barbara Boxer

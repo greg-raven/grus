@@ -2,7 +2,7 @@
 title: "Ensure border funding is approved"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Donald J. Trump

@@ -2,7 +2,7 @@
 title: "Is Obama a citizen?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Jerry Lewis
 - Barbara Boxer

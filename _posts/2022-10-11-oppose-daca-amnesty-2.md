@@ -2,7 +2,7 @@
 title: "Oppose DACA amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - illegal aliens

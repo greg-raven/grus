@@ -2,7 +2,7 @@
 title: "Oppose David Hamilton"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - judiciary
 - Barbara Boxer

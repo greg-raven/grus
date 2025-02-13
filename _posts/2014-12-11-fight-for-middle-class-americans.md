@@ -2,7 +2,7 @@
 title: "Fight for middle-class Americans"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

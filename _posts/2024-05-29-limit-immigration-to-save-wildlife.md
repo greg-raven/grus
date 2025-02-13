@@ -2,7 +2,7 @@
 title: "To save wildlife, we must limit immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - environment
 ---

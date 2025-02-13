@@ -2,7 +2,7 @@
 title: "Bailouts for billionaires"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - bailouts
 - Federal government

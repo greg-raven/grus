@@ -2,7 +2,7 @@
 title: "Weather, Disaster, Emergency"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - DHS
 - national security

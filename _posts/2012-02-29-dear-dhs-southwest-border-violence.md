@@ -2,7 +2,7 @@
 title: "Southwest border violence"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - DHS
 - national security

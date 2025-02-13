@@ -2,7 +2,7 @@
 title: "Please cosponsor bill revising Cuban immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

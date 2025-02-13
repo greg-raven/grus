@@ -2,7 +2,7 @@
 title: "Republicans must take concrete action to stop Obama's amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

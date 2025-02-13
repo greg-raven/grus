@@ -2,7 +2,7 @@
 title: "Support jobs for U.S. citizens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Jerry Lewis

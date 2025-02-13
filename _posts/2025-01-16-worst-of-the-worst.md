@@ -2,7 +2,7 @@
 title: "Your performance at the confirmation hearings has been disgusting"
 layout: post
 categories:
-- letters
+- letter
 tags: 
 - Federal government
 ---

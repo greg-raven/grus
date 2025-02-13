@@ -2,7 +2,7 @@
 title: "Representatives Need to Support Aderholt and Blackburn Amendments to DHS Bill"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

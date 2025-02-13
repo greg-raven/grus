@@ -2,7 +2,7 @@
 title: "Protect U.S. jobs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barbara Boxer
 - Dianne Feinstein

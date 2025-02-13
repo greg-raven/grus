@@ -2,7 +2,7 @@
 title: "Oppose SOPA / PIPA"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - censorship
 - Jerry Lewis

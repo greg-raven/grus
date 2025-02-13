@@ -2,7 +2,7 @@
 title: "17 reasons not to vote for Obama"
 layout: post
 categories:
-- cartoons
+- cartoon
 - information
 tags:
 - Barack Hussein Obama

@@ -2,7 +2,7 @@
 title: "'Economic stimulus' payments to illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - George Bush

@@ -2,7 +2,7 @@
 title: "Cosponsor the SHORT Act!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

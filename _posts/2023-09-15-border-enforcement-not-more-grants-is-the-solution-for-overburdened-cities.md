@@ -2,7 +2,7 @@
 title: "Border enforcement, not more grants, is the solution for overburdened cities"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - child labor

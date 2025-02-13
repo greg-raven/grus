@@ -2,7 +2,7 @@
 title: "Oppose efforts to 'staple' green cards to university degrees"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 ---

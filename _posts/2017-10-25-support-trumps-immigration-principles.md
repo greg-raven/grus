@@ -2,7 +2,7 @@
 title: "Support Trump's immigration principles"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - E-Verify

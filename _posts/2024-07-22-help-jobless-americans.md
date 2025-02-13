@@ -2,7 +2,7 @@
 title: "Support immigration reductions to help jobless Americans"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 ---

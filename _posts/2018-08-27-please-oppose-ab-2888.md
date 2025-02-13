@@ -2,7 +2,7 @@
 title: "Please oppose A.B. 2888"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 - Scott Wilk

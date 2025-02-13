@@ -2,7 +2,7 @@
 title: "No impeachment"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - impeachment
 ---

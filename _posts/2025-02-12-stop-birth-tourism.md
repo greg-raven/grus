@@ -2,7 +2,7 @@
 title: "Stop bastardizing the 14th Amendment"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - birthright citizenship
 ---

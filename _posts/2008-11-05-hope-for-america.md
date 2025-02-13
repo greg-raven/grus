@@ -2,7 +2,7 @@
 title: "Hope for America"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - politics
 ---

@@ -2,7 +2,7 @@
 title: "Prioritize U.S. labor, not work permits"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - illegal aliens

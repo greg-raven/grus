@@ -2,7 +2,7 @@
 title: "Don't support H.R. 5893"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - economy
 - Federal government

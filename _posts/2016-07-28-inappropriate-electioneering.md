@@ -2,7 +2,7 @@
 title: "Inappropriate electioneering"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Apple Valley
 ---

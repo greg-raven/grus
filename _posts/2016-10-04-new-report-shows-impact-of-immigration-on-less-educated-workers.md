@@ -2,7 +2,7 @@
 title: "New report shows impact of immigration on less educated workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

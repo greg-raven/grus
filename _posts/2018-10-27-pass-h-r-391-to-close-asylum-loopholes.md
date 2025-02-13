@@ -2,7 +2,7 @@
 title: "Pass H.R. 391 to close asylum loopholes!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

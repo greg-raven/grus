@@ -2,7 +2,7 @@
 title: "New gun laws won't secure our border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

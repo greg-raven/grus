@@ -2,7 +2,7 @@
 title: "Support immigration enforcement"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 - Paul Cook

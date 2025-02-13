@@ -2,7 +2,7 @@
 title: "U.S. granted 1 million green cards in 2014"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

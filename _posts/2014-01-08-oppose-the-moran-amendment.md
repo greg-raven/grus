@@ -2,7 +2,7 @@
 title: "Oppose the Moran amendment"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Barbara Boxer

@@ -2,7 +2,7 @@
 title: "Limit immigration to save wildlife"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Laphonza Butler
 - environment

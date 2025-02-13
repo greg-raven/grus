@@ -2,7 +2,7 @@
 title: "Stop Obama's unfair, illegal-alien tax credits"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - immigration

@@ -2,7 +2,7 @@
 title: "Napolitano must go"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - DHS

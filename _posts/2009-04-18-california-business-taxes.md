@@ -2,7 +2,7 @@
 title: "California business taxes"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - taxes
 ---

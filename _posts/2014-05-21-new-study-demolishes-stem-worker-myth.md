@@ -2,7 +2,7 @@
 title: "New study demolishes STEM worker myth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

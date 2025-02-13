@@ -2,7 +2,7 @@
 title: "Conserving water, and California"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - Jerry Brown

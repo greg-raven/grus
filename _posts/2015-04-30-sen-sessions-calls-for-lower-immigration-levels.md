@@ -2,7 +2,7 @@
 title: "Sen. Sessions calls for lower immigration levels"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

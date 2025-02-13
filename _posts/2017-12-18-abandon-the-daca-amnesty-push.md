@@ -2,7 +2,7 @@
 title: "Abandon the DACA amnesty push"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

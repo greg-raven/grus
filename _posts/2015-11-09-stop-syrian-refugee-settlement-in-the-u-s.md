@@ -2,7 +2,7 @@
 title: "Stop Syrian refugee settlement in the U.S."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

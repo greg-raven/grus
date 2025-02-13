@@ -2,7 +2,7 @@
 title: "Check out the results of this new poll"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

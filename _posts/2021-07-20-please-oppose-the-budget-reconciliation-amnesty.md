@@ -2,7 +2,7 @@
 title: "Please oppose the budget reconciliation amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Dianne Feinstein

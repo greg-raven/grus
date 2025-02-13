@@ -2,7 +2,7 @@
 title: "Border crossings tie lower wages with higher housing costs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - jobs

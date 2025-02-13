@@ -2,7 +2,7 @@
 title: "What about spying on U.S. citizens?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Dianne Feinstein
 - spying

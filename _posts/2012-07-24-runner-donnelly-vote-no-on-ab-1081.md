@@ -2,7 +2,7 @@
 title: "Vote no on A.B. 1081"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - economy

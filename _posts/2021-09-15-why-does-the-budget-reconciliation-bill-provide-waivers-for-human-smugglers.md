@@ -2,7 +2,7 @@
 title: "Why does the budget reconciliation bill provide waivers for human smugglers?"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

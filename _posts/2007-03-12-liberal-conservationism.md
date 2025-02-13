@@ -2,7 +2,7 @@
 title: "Liberal conservationism"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - environment
 ---

@@ -2,7 +2,7 @@
 title: "New cuts in water withdrawals imposed"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

@@ -2,7 +2,7 @@
 title: "Support ICE agents' suit"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Federal government

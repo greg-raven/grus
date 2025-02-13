@@ -2,7 +2,7 @@
 title: "Help our senators understand"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - population

@@ -2,7 +2,7 @@
 title: "The multi-trillion dollar cost of amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barack Hussein Obama

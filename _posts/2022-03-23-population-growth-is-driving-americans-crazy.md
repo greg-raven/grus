@@ -2,7 +2,7 @@
 title: "Population growth is driving Americans crazy"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

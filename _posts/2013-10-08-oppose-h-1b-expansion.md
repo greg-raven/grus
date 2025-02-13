@@ -2,7 +2,7 @@
 title: "Oppose H-1B expansion"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

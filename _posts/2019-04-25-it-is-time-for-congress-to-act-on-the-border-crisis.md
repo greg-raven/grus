@@ -2,7 +2,7 @@
 title: "It is time for Congress to act on the border crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

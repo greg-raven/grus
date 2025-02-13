@@ -2,7 +2,7 @@
 title: "Oppose H.R. 2330"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

@@ -2,7 +2,7 @@
 title: "End sanctuary city funding"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - illegal aliens

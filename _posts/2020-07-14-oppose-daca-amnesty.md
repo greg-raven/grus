@@ -2,7 +2,7 @@
 title: "Oppose DACA Amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

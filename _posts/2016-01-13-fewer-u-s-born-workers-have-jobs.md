@@ -2,7 +2,7 @@
 title: "Fewer U.S.-Born Workers Have Jobs"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Thank you for opposing Canterbury"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

@@ -2,7 +2,7 @@
 title: "Push E-Verify legislation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 ---

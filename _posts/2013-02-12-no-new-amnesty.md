@@ -2,7 +2,7 @@
 title: "No new amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - chain migration

@@ -2,7 +2,7 @@
 title: "Please withdraw H.R. 127"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

@@ -2,7 +2,7 @@
 title: "Reduce spending"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Paul Cook
 ---

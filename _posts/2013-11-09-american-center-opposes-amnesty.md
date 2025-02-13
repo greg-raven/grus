@@ -2,7 +2,7 @@
 title: "'American Center' opposes amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - population

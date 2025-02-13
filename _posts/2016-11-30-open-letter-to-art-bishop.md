@@ -2,7 +2,7 @@
 title: "Open letter to Art Bishop"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Apple Valley
 ---

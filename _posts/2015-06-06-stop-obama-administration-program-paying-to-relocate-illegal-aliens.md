@@ -2,7 +2,7 @@
 title: "Stop Obama Administration program paying to relocate illegal aliens"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

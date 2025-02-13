@@ -2,7 +2,7 @@
 title: "Amnesty won't win the Latino vote"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

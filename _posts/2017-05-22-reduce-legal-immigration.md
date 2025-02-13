@@ -2,7 +2,7 @@
 title: "Reduce legal immigration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

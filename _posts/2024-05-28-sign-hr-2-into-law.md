@@ -2,7 +2,7 @@
 title: "Sign H.R. 2 into law"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

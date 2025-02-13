@@ -2,7 +2,7 @@
 title: "Congress asks Americans to sacrifice at the altar of eternal growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

@@ -2,7 +2,7 @@
 title: "NO on A.B. 1544"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Tim Donnelly
 - California

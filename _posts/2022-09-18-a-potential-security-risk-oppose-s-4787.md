@@ -2,7 +2,7 @@
 title: "A potential security risk: Oppose S. 4787"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

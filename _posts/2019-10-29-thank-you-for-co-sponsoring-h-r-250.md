@@ -2,7 +2,7 @@
 title: "Thank you for co-sponsoring H.R. 250"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - E-Verify
 - Paul Cook

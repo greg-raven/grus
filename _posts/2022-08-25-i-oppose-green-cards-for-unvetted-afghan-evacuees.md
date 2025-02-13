@@ -2,7 +2,7 @@
 title: "I oppose green cards for unvetted Afghan evacuees!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Jay Obernolte

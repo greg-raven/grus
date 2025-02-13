@@ -2,7 +2,7 @@
 title: "American workers to rebuild after Katrina"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 ---

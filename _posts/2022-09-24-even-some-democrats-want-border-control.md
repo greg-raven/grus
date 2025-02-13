@@ -2,7 +2,7 @@
 title: "Help Democratic cities by securing the border"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 ---

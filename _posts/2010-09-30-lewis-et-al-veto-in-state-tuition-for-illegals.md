@@ -2,7 +2,7 @@
 title: "Veto in-state tuition for illegals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - California

@@ -2,7 +2,7 @@
 title: "Oppose H-2B Increase"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

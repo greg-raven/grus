@@ -2,7 +2,7 @@
 title: "Words and pictures"
 layout: post
 categories:
-- cartoons
+- cartoon
 - information
 tags:
 - Barack Hussein Obama

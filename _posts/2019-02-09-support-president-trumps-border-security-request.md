@@ -2,7 +2,7 @@
 title: "Support President Trump's border security request"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - Paul Cook

@@ -2,7 +2,7 @@
 title: "Enforce our immigration laws"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

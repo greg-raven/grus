@@ -2,7 +2,7 @@
 title: "Set immigration limits"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

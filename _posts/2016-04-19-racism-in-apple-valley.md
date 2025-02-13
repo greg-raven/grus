@@ -2,7 +2,7 @@
 title: "Racism in Apple Valley"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Apple Valley
 ---

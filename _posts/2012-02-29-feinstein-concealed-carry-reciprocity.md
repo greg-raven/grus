@@ -2,7 +2,7 @@
 title: "Concealed carry reciprocity"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - California
 - 2nd Amendment

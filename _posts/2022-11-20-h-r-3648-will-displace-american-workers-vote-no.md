@@ -2,7 +2,7 @@
 title: "H.R. 3648 will displace American workers --- VOTE NO!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Jay Obernolte

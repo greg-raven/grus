@@ -2,7 +2,7 @@
 title: "Oppose executive action amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Jerry Lewis

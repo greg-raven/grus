@@ -2,7 +2,7 @@
 title: "Thanks for supporting free speech"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Free speech
 ---

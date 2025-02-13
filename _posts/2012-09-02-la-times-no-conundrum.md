@@ -2,7 +2,7 @@
 title: "LA Times: No conundrum"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 ---

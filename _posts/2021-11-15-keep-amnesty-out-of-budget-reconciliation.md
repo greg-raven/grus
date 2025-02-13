@@ -2,7 +2,7 @@
 title: "Keep amnesty out of budget reconciliation"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

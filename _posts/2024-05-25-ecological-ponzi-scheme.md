@@ -2,7 +2,7 @@
 title: "Scrap America's ecological Ponzi scheme"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

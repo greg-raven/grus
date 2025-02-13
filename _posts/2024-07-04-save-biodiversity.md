@@ -2,7 +2,7 @@
 title: "Save what's left of America's biodiversity"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - environment

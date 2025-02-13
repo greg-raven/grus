@@ -2,7 +2,7 @@
 title: "Support the bill ending sanctuary cities"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

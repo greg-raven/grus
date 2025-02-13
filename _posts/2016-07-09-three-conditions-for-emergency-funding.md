@@ -2,7 +2,7 @@
 title: "Three conditions for emergency funding"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - immigration

@@ -2,14 +2,14 @@
 title: "What's dangerous? A guide to our modern world"
 layout: post
 categories:
-- commentaries
+- commentary
 ---
 
 Let's review what our current leaders and talking heads tell us is dangerous, and compare those things against what they tell us is not dangerous.
 
 | Dangerous | Not dangerous |
 |---|---|
-| - Smoking - Second-hand smoke - Third-hand smoke - Fatty foods - Sugary foods - Not enough food - Meat and meat products - Food insecurity - Oil pipelines - Capitalism - Tea-Party patriots - Christians - Guns - Veterans - Cholesterol - Hetero-normalcy - Traditions - American exceptionalism - 'Right-wing' fascism - videos
+| - Smoking - Second-hand smoke - Third-hand smoke - Fatty foods - Sugary foods - Not enough food - Meat and meat products - Food insecurity - Oil pipelines - Capitalism - Tea-Party patriots - Christians - Guns - Veterans - Cholesterol - Hetero-normalcy - Traditions - American exceptionalism - 'Right-wing' fascism - video
  - Flu season - Bird flu - Swine flu - Racial realities - Cultural appropriation - Sneezing - AIDS - Unsafe sex - George Bush - Rush Limbaugh - The Koch brothers - Conservative thought - Conservative opinion - Conservative protests - Conservative speech - Conservative women - Conservative blacks - Nazis - Republicans - Border controls - Voter registration checks - Government accountability - Government transparency - Privacy laws - Freedom of speech - Stand-your-ground laws - Fly-over country - Political criticism (U.S. only) - Poverty - Profits - Letting big corporations fail - Inequality - Unequal outcomes - 'Disproportionate' punishments - Meritocracy - Freedom of association - Rich people (conservatives only) - Self-reliance - White people - White privilege - Acting white | - Ebola |
 
 Note that if you are accosted by a hater who disputes this accounting because of its apparently lop-sided nature, you may add to the "Not dangerous" list any of the following on an *ad hoc* basis.

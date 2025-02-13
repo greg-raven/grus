@@ -2,7 +2,7 @@
 title: "Sign H.R. 2 into law to end the border crisis"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - immigration

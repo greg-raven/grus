@@ -2,7 +2,7 @@
 title: "Please oppose A.B. 1223, A.B. 1237, and A.B. 1509"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - 2nd Amendment
 ---

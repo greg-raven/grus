@@ -2,7 +2,7 @@
 title: "Stop lame duck session DREAM Act"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - chain migration

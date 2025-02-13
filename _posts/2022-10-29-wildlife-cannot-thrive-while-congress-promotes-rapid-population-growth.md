@@ -2,7 +2,7 @@
 title: "Wildlife cannot thrive while Congress promotes rapid population growth."
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - environment

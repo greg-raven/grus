@@ -2,7 +2,7 @@
 title: "'Union' amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Jerry Lewis

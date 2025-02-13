@@ -2,7 +2,7 @@
 title: "Support H.R. 191: Repeal Executive Amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

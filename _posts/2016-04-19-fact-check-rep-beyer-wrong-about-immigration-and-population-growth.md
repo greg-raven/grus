@@ -2,7 +2,7 @@
 title: "Fact Check: Rep. Beyer wrong about immigration and population growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

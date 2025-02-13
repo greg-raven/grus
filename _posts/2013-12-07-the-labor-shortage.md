@@ -2,7 +2,7 @@
 title: "The 'labor shortage'"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - Paul Cook

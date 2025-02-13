@@ -2,7 +2,7 @@
 title: "Mandate E-Verify, end chain migration"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - E-Verify

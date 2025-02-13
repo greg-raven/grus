@@ -2,7 +2,7 @@
 title: "Lower emissions by lowering immigration-driven growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

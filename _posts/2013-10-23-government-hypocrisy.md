@@ -2,7 +2,7 @@
 title: "Government hypocrisy"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - Obamacare
 ---

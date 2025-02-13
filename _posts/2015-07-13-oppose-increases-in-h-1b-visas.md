@@ -2,7 +2,7 @@
 title: "Oppose increases in H-1B visas"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - jobs

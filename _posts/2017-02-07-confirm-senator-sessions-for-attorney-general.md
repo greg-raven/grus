@@ -2,7 +2,7 @@
 title: "Confirm Senator Sessions for Attorney General"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Dianne Feinstein
 - Kamala Harris

@@ -2,7 +2,7 @@
 title: "Secure our border now!"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - border control
 - illegal immigration

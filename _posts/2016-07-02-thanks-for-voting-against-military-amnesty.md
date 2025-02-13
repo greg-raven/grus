@@ -2,7 +2,7 @@
 title: "Thanks for voting against military amnesty"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - national security

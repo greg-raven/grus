@@ -2,7 +2,7 @@
 title: "Oppose S. 744"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Barack Hussein Obama

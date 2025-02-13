@@ -2,7 +2,7 @@
 title: "Wages belie claims of a labor shortage"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Federal government
 - Barbara Boxer

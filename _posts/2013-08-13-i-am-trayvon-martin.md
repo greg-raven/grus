@@ -2,7 +2,7 @@
 title: "I am Trayvon Martin"
 layout: post
 categories:
-- cartoons
+- cartoon
 tags:
 - race relations
 ---

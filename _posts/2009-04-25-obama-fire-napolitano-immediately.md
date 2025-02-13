@@ -2,7 +2,7 @@
 title: "Fire Napolitano Immediately"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Barack Hussein Obama
 - DHS

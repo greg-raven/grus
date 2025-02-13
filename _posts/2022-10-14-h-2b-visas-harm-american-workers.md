@@ -2,7 +2,7 @@
 title: "H-2B visas harm American workers"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Jay Obernolte

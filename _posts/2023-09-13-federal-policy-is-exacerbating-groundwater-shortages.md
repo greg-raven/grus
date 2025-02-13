@@ -2,7 +2,7 @@
 title: "Federal policy is exacerbating groundwater shortages"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - E-Verify

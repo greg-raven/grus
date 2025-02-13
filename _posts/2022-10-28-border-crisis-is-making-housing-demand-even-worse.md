@@ -2,7 +2,7 @@
 title: "Border crisis is making housing demand even worse"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal immigration
 ---

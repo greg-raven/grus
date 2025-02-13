@@ -2,7 +2,7 @@
 title: "Vote against illegal immigration and for public safety"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - national security

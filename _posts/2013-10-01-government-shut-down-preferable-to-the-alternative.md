@@ -2,7 +2,7 @@
 title: "Government shut-down preferable to the alternative"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - Paul Cook
 ---

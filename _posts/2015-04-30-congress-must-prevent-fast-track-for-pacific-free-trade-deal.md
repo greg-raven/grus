@@ -2,7 +2,7 @@
 title: "Congress must prevent fast track for Pacific free trade deal"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - jobs
 - Paul Cook

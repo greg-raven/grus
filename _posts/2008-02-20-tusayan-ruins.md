@@ -2,7 +2,7 @@
 title: "Tusayan ruins"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - race relations
 ---

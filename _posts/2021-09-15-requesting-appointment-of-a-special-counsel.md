@@ -2,7 +2,7 @@
 title: "Requesting appointment of a special counsel"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - corruption
 ---

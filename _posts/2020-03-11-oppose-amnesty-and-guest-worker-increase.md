@@ -2,7 +2,7 @@
 title: "Oppose amnesty and guest worker increase"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

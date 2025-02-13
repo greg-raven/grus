@@ -2,7 +2,7 @@
 title: "We must have immigration limits"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 ---

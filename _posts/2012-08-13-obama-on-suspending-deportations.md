@@ -2,7 +2,7 @@
 title: "Obama on suspending deportations"
 layout: post
 categories:
-- videos
+- video
 tags:
 - Barack Hussein Obama
 - border control

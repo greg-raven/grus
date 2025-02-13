@@ -2,7 +2,7 @@
 title: "A year in photos"
 layout: post
 categories:
-- memes
+- meme
 ---
 
 ![Bare shelves](/assets/img/2022/02/Bare_Shelves.png "Bare shelves")

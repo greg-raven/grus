@@ -2,7 +2,7 @@
 title: "Mulvaney resolution opposes Obama's amnesties"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

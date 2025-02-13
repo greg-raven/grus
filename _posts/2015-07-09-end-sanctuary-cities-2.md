@@ -2,7 +2,7 @@
 title: "End sanctuary cities"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Barbara Boxer

@@ -2,7 +2,7 @@
 title: "American cities should not provide 'sanctuary' for foreign criminals"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - illegal aliens
 - Paul Cook

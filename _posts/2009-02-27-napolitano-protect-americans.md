@@ -2,7 +2,7 @@
 title: "Protect Americans"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 ---

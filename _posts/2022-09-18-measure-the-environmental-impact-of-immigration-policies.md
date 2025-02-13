@@ -2,7 +2,7 @@
 title: "Measure the environmental impact of immigration policies"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - immigration
 - population

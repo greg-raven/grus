@@ -2,7 +2,7 @@
 title: "Thanks for nothing"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Obamacare

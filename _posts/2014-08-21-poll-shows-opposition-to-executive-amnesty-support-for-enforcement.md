@@ -2,7 +2,7 @@
 title: "Poll Shows Opposition to Executive Amnesty, Support for Enforcement"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - amnesty
 - Paul Cook

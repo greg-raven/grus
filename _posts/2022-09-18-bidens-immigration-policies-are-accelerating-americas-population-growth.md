@@ -2,7 +2,7 @@
 title: "Biden's immigration policies are accelerating America's population growth"
 layout: post
 categories:
-- letters
+- letter
 tags:
 - chain migration
 - immigration

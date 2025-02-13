@@ -2,7 +2,7 @@
 title: "The Senator formerly known as Hussein"
 layout: post
 categories:
-- opinions
+- opinion
 tags:
 - politics
 ---
