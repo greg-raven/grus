@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - Barack Hussein Obama
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 There are serious questions about whether or not Barack Hussein Obama is eligible to be (or act as) President of the United States. I urge you to look into this questions. Here are some of the documents you will need in order to get to the bottom of this Constitutional crisis:
@@ -29,3 +26,6 @@ There are serious questions about whether or not Barack Hussein Obama is eligibl
 This is so important that I request that you put aside any and all other business before you and resolve it immediately.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

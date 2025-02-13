@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
-- federal government
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
+- Obamacare
 ---
 
 I'm writing to ask you to KILL ObamaCare Bill H.R. 3962. I'm not going to ask you to read it or point out the manifold egregious provisions of this bill. You don't need to go to that effort because this bill is --- like Resident Obama and a fair number of our "representatives" in D.C. --- utterly un-American, and must be rejected.
@@ -18,3 +14,6 @@ Government control of healthcare is immoral, corrosive of the fabric of our soci
 If you really want to reform healthcare in America, you don't need 1,990 pages of country-destroying text. All you need to do is outlaw medical insurance and give tax write-offs for medical savings plans. The fact that Obama, Pelosi, and Reid are not going this route is proof that they have no intention of "reforming" health care; they're after total control of all aspects of our society by the federal government.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

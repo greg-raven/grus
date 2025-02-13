@@ -6,12 +6,7 @@ categories:
 tags:
 - border control
 - federal government
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
-
-Representatives:
 
 Finally some brave ICE agents are standing up to Secretary Napolitano's DREAM Directive requiring them to violate immigration law. I hope you will support these fine ICE agents and their suit against Secretary Napolitano and Director Morton.
 
@@ -24,3 +19,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If our leaders won't return this country to the rule of law, we are lost.
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

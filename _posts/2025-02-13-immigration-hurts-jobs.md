@@ -1,5 +1,5 @@
 ---
-title: "Immigration hurt employment over last 5 years"
+title: "Immigration hurt employment over the last 5 years"
 layout: post
 categories:
 - letter

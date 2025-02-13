@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is absurd that America's unions, including the A.F.L.-C.I.O., are supporting comprehensive amnesty! Such a plan, if enacted, would harm millions of American workers.
@@ -23,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. America first!
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

@@ -5,8 +5,6 @@ categories:
 - letter
 tags:
 - Obamacare
-- Jerry Lewis
-- Barbara Boxer
 ---
 
 I urge you to oppose health care reconciliation.
@@ -22,3 +20,6 @@ Our nation's use of procedural trickery to put socialized healthcare on the fast
 Again, I urge you to take a strong stand against the so-called fast-track measures being employed to keep the public in the dark against these vital issues!
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis, Barbara Boxer

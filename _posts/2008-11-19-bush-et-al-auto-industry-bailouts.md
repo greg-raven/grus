@@ -6,10 +6,6 @@ categories:
 tags:
 - bailouts
 - federal government
-- George Bush
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I urge you to oppose any bailout of the auto industry, whether by taking existing funds from TARP, revising any previous loans, or making new grants.
@@ -32,3 +28,6 @@ Since the election, Republicans have talked of returning to their limited govern
 The answers to our economic problems cannot be found in further government intervention. As your constituent, I urge you not to put my tax dollars on the line, to vote "no" on the auto industry bailout, and to get the government out of our lives.
 
 {% include signature.html %}
+
+Sent to:
+: George Bush, Jerry Lewis, Barbara Boxer, Dianne Feinstein

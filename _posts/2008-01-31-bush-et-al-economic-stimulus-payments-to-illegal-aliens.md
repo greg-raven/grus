@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- federal government
-- George Bush
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
+- illegal aliens
 ---
 
 I'm writing today about H.R. 5140, which apparently includes a loophole that allows the IRS to send "Economic Stimulus" payments to illegal aliens.
@@ -18,3 +14,6 @@ I urge you NOT to sign any legislation that rewards illegal aliens in any way, s
 We have suffered enough from the illegal aliens infesting our country --- no more hand-outs for illegal aliens!
 
 {% include signature.html %}
+
+Sent to:
+: George Bush, Jerry Lewis, Barbara Boxer, Dianne Feinstein

@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 December's unemployment figures are deeply troubling. All must be done to promote job growth!
@@ -21,3 +18,6 @@ There are more than ten million out-of-work Americans and they are depending on 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

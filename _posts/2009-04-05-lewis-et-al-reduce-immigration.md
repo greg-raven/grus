@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 There are more than 13 million out-of-work Americans and the number is growing by the day. Something must be done!
@@ -21,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If you don't stop this insanity, we will soon cease to exist as a country.
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

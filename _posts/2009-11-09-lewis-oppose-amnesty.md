@@ -4,10 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- federal government
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
+- amnesty
 ---
 
 I was appalled to learn that "comprehensive immigration reform" still has sincere proponents. Don't these people realize that such a plan would devastate millions of Americas?
@@ -21,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop trying to stamp out the middle class!
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

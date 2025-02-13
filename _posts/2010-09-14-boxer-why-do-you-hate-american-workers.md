@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Barbara Boxer
 ---
 
 I must admit that I have no idea why you support the anti-American worker, anti-American student DREAM Act amnesty. However, I hope you realize that a jobs depression is the wrong time to try to force this legislation through Congress.
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Your policies have the U.S. going over a cliff. Can't you at least take your foot off the gas? Your actions seem treasonous.
+
+Sent to:
+: Barbara Boxer
