@@ -13,7 +13,7 @@ I am disturbed that legislation that actually keeps Americans from finding work 
 
 Former Federal Reserve Chairman Alan Greenspan understood that increasing skilled immigration would harm American workers:
 
-"Our skilled wages are higher than anywhere in the world. If we open up a significant window for skilled workers, that would suppress the skilled-wage level and end the concentration of income."
+> "Our skilled wages are higher than anywhere in the world. If we open up a significant window for skilled workers, that would suppress the skilled-wage level and end the concentration of income."
 
 I urge you to oppose this amendment. It can only harm American workers.
 

@@ -10,7 +10,7 @@ tags:
 - Jay Obernolte
 ---
 
-The Biden-Harris "root cause" migration plan has failed, as is documented in The Washington Post column "U.S. arrests along Mexico border top 2 million a year for first time" that was published this month.
+The Biden-Harris "root cause" migration plan has failed, as is documented in *The Washington Post* column "U.S. arrests along Mexico border top 2 million a year for first time" that was published this month.
 
 People can simply make far more money in the United States than in their home countries. They look at the 2 million who have been released into the country and think "why not me?"
 

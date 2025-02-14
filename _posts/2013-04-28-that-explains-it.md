@@ -15,7 +15,7 @@ State high-speed rail officials acknowledged Thursday that they changed their ru
 
 [Read the full story here](https://web.archive.org/web/20130422105037/https://articles.latimes.com/2013/apr/19/local/la-me-high-speed-bidding-20130419).
 
-**Dianne Feinstein praises Jerry Brown**'**s high-speed rail plan** (4/10/2012)
+**Dianne Feinstein praises Jerry Brown's high-speed rail plan** (4/10/2012)
 
 U.S. Sen. Dianne Feinstein praised Gov. Jerry Brown's revised approach on California's high-speed rail project today, but cautioned that the federal funding for the project could depend on final cost projections.
 

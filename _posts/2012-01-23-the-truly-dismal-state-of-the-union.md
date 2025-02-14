@@ -37,5 +37,5 @@ On the macro side, America's annual budget has jumped to $3.8 trillion --- and y
 
 So, America, that is the State of Your Union. But remember, Mr. Obama had not one thing to do with it. So don't blame him when you go to the polls. Blame everyone else, especially yourself.
 
-Source: Joseph Curl --- [The Washington Times](https://www.washingtontimes.com/news/2012/jan/22/curl-the-truly-dismal-state-of-the-union/?page=all#pagebreak), Sunday, January 22, 2012
+Source: Joseph Curl, washingtontimes.com/news/2012/jan/22/curl-the-truly-dismal-state-of-the-union/, Sunday, January 22, 2012
 

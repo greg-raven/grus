@@ -12,7 +12,7 @@ I work in the technology industry and I can safely say that there is no shortage
 
 It's clear that policymakers and business owners don't want to pay the high wages and provide the good benefits that American STEM workers deserve. Former Federal Reserve Chairman Alan Greenspan made this clear when he advocated increasing high-skilled immigration:
 
-"Our skilled wages are higher than anywhere in the world. If we open up a significant window for skilled workers, that would suppress the skilled-wage level and end the concentration of income."
+> "Our skilled wages are higher than anywhere in the world. If we open up a significant window for skilled workers, that would suppress the skilled-wage level and end the concentration of income."
 
 People like Mr. Greenspan, who represent the interests of business owners, believe that the higher-educated and the hard-working don't deserve to earn fair wages. Instead, they would rather businesses be allowed to hire large numbers of foreign workers so that wages are depressed. This is one of the reasons there exists the STEM shortage myth.
 

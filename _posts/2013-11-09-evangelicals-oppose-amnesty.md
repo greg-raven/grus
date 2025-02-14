@@ -12,7 +12,7 @@ I believe it's important for Republican Members of Congress to realize that most
 
 A Pulse Opinion Poll asked Republican evangelicals:
 
-"How much moral responsibility do you feel Congress has to help protect the ability of current illegal immigrants to hold a job and support their families without fear of deportation?"
+> "How much moral responsibility do you feel Congress has to help protect the ability of current illegal immigrants to hold a job and support their families without fear of deportation?"
 
 Only 28% answered either "a lot" (10%) or "some" (18%). Unlike evangelical lobbyists, it's clear that Republican evangelicals feel a moral duty to protect vulnerable members in our own national community.
 

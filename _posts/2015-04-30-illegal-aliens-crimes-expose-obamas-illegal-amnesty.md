@@ -21,7 +21,7 @@ A new *Washington Times* article by Stephen Dinan highlights the dangers of Bara
 >
 > Oftentimes the children don't even sneak into the country but instead boldly seek out a Border Patrol agent to turn themselves in to, trusting that generous laws, crowded courts and bureaucratic confusion will give them a chance to disappear into the shadows ...
 
-I hope you will read the article I have attached. It is written by the *Washington Times'* Stephan Dinan and highlights the dangers of President Obama's illegal amnesty program.
+I hope you will read the article I have attached. It is written by the *Washington Times*' Stephan Dinan and highlights the dangers of President Obama's illegal amnesty program.
 
 Phone me if you would like to talk about this.
 

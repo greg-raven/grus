@@ -15,17 +15,23 @@ The new law will be the first in California specifically focused on ensuring pro
 
 [...]
 
-"The California Endangered Species Act is our most important biodiversity protection law, and western Joshua trees clearly qualify as threatened," Cummings said. "As the first species in the state to be protected because of climate change, they deserve the special measures contained in the new conservation act."
+> "The California Endangered Species Act is our most important biodiversity protection law, and western Joshua trees clearly qualify as threatened," Cummings said. "As the first species in the state to be protected because of climate change, they deserve the special measures contained in the new conservation act."
 
 The provisions of the Western Joshua Tree Conservation Act include:
 
 - Prohibiting unpermitted killing or removal of the trees.
+
 - Requiring a conservation plan for the species.
+
 - Creating a fund to acquire and manage lands to protect the species.
+
 - Creating a permitting regime expected to be faster and cheaper than the state endangered species act.
+
 - Requiring regular reviews of the species' status and the effectiveness of the permitting regime and conservation plan.
+
 - Requiring consultation with California Native American Tribes on the law's implementation.
-- Background
+
+**Background**
 
 [...]
 

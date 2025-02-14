@@ -15,7 +15,7 @@ According to Jon Keeley, a research scientist at the U.S. Geological Survey, "Po
 
 CNBC's John W. Schoen reports in "Warming climate, population sprawl threaten California's future with more destructive wildfires" (November 9, 2019):
 
-"A growing population, spread out into forested regions largely uninhabited until recently, is placing people and nature more at risk of being burned."
+> "A growing population, spread out into forested regions largely uninhabited until recently, is placing people and nature more at risk of being burned."
 
 So why shouldn't we set immigration at a level that would allow for the U.S. population to stabilize?
 

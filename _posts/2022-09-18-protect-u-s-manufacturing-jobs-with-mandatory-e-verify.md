@@ -8,7 +8,7 @@ tags:
 - E-Verify
 ---
 
-Washington Post writer Catherine Rampell writes in her column, "The myth of the manufacturing comeback," about the future of dwindling job prospects in American manufacturing:
+*Washington Post* writer Catherine Rampell writes in her column, "The myth of the manufacturing comeback," about the future of dwindling job prospects in American manufacturing:
 
 > "... \[I\]t is risky to count on a supposed manufacturing comeback to power a jobs boom in the years ahead. Building more physical 'things' in this country does not guarantee huge job growth, much less 'bottom-up' job growth.
 >

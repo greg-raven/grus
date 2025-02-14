@@ -8,7 +8,7 @@ tags:
 - population
 ---
 
-Chairman of the Senate's immigration subcommittee, Sen. Jeff Sessions, wrote an op-ed for the Washington Post calling for "an honest discussion of immigration" and its effects on American workers and their families. I agree that it is time for Congress to have this discussion and work to stem the tide of the hundreds of thousands of immigrants to work jobs that millions of Americans need to have.
+Chairman of the Senate's immigration subcommittee, Sen. Jeff Sessions, wrote an op-ed for the *Washington Post* calling for "an honest discussion of immigration" and its effects on American workers and their families. I agree that it is time for Congress to have this discussion and work to stem the tide of the hundreds of thousands of immigrants to work jobs that millions of Americans need to have.
 
 In the op-ed, Sen. Sessions described that after changes were made to immigration law to reduce admissions after the first "'great wave' of U.S. immigration", wages for American workers surged "increasing more than 90 percent from 1948 to 1973, according to the Economic Policy Institute."
 

@@ -28,7 +28,7 @@ Administration officials said Friday that the 10,000 Syrian refugees President O
 
 At today's pace, more than 12,000 refugees could be admitted by the end of September, which marks the end of the fiscal year.
 
-Source: https://www.washingtontimes.com/news/2016/aug/5/obama-admin-go-beyond-10000-syrian-refugees/
+Source: washingtontimes.com/news/2016/aug/5/obama-admin-go-beyond-10000-syrian-refugees/
 
 **Syrian Prof: Arabs Migrate for 'Sluts' and Welfare, Attack When They Don't Get It**
 
@@ -38,4 +38,4 @@ Prof. Bassam Tibi said that the mass sex attacks in Cologne were a result of the
 
 The professor, who now lives in Germany, said that Arab men come expecting "great apartments, blonde women, and the welfare state."
 
-Source: https://www.breitbart.com/london/2016/08/05/professor-arabs-migrate-women/
+Source: breitbart.com/london/2016/08/05/professor-arabs-migrate-women/

@@ -11,7 +11,7 @@ I wanted to share this news article where a federal judge accuses DHS agents of 
 
 > **Homeland Security helps smuggle illegal immigrant children into the U.S.**
 >
-> By Stephen Dinan --- *The Washington Times*
+> By Stephen Dinan --- *Washington Times*
 >
 > Thursday, December 19, 2013
 >

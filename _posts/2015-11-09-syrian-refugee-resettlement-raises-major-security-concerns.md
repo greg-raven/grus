@@ -11,7 +11,7 @@ I hope you will take a look at the Senate's recent hearing into the Syrian refug
 
 A group of 18 U.S. mayors have asked the government to send their cities more Syrian refugees. While these elected officials are right to want to help those fleeing violence, they are wrong to suggest that the United States should allow any more into our country. FBI Director James Comey recently said:
 
-"My concern there is there are certain gaps ... in the data available to us. There is risk associated of bringing anybody in from the outside, but specifically from a conflict zone like that.... There is no such thing as a no-risk enterprise and there are deficits that we face."
+> My concern there is there are certain gaps ... in the data available to us. There is risk associated of bringing anybody in from the outside, but specifically from a conflict zone like that. ... There is no such thing as a no-risk enterprise and there are deficits that we face.
 
 On top of this, allowing too many refugees to settle in a country brings other risks. Sweden, which until now has had an open-door policy to those fleeing the Syrian conflict, is feeling the strain. Margot Wallstrom, Sweden's foreign minister, has warned that the influx cannot continue indefinitely:
 

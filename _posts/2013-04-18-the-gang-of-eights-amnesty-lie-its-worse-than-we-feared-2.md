@@ -16,9 +16,13 @@ It also puts the interests of foreign workers ahead of the interests of American
 
 Backers of the bill that the bill is not an amnesty. But illegal aliens would be legalized and get work permits, before a single increase in enforcement to stop future illegal immigration.
 
-> "This is not amnesty. Amnesty is the forgiveness of something." --- Sen. Marco Rubio (R-FL)
+> "This is not amnesty. Amnesty is the forgiveness of something."
 >
-> "The crux of their deal is that illegal immigrants would be granted immediate legal status ..." --- Washington Times, April 14, 2013
+> <cite>Sen. Marco Rubio (R-FL)</cite>
+
+> "The crux of their deal is that illegal immigrants would be granted immediate legal status ..."
+>
+> <cite>Washington Times, April 14, 2013</cite>
 
 Supporters claim that illegal aliens would not be eligible for welfare and other benefits. This is only an accounting trick to allow them to exempt the bill from budget rules that require supermajorities for bills that increase the deficit. The truth is that once illegal aliens are granted their green cards years from now, they will qualify for all benefits, including Social Security, welfare, Medicare, Medicaid, and even subsidized Obamacare. The final cost for the bill will be trillions of dollars. Not billions, but trillions.
 
