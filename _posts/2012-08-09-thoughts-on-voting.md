@@ -1,9 +1,6 @@
 ---
-title: 
->
-> <cite>Thoughts on voting
->
-> <cite>layout: post
+title: "Thoughts on voting"
+layout: post
 categories:
 - information
 tags:
