@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Chairman of the Senate's immigration subcommittee, Sen. Jeff Sessions, wrote an op-ed for the Washington Post calling for "an honest discussion of immigration" and its effects on American workers and their families. I agree that it is time for Congress to have this discussion and work to stem the tide of the hundreds of thousands of immigrants to work jobs that millions of Americans need to have.
@@ -24,3 +21,6 @@ It is time for Congress to have an honest discussion about why the U.S. should b
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

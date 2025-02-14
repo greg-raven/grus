@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - Obamacare
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I'm outraged by Congress's use of procedural trickery to put socialized healthcare on the fast-track in the Obama revised budget!
@@ -18,3 +14,6 @@ This maneuver is classic political misdirection that silences the opposition, an
 I urge you to take a strong stand against the so-called fast-track measures being employed to keep the public in the dark on these vital issues!
 
 {% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

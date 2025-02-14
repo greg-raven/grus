@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barbara Boxer
 ---
 
 I am disappointed by your tendency to support amnesty legislation! Why would you support legislation that harms the job prospects of disabled Americans?
@@ -21,3 +20,6 @@ I urge you to support legislation that helps unemployed Americans, not harm them
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer

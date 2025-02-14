@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I was appalled to hear IRS Commissioner John Koskinen confirm that illegal aliens who receive amnesty through Pres. Obama's executive actions would be eligible to receive tax credits from previous years. The administration continues to sell the president's executive actions as simply a "relief from deportation," but Commissioner Koskinen's statement proves that it's much more than that.
@@ -20,3 +17,6 @@ So in addition to work permits, Social Security cards, and quasi-legal status, i
 The president's actions are not fair for the millions of hard-working, taxpaying, law-abiding Americans. I hope you will put Americans and first and do all you can to stop the president's overreach.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

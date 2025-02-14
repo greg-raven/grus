@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It's disappointing that President Obama wants to force an amnesty for illegal aliens through Congress, even though a new NBC News poll shows that a majority of the American people --- the so-called American center --- opposes this. I hope you will take the results of this poll to heart and share it with your colleagues.
@@ -22,3 +19,6 @@ It's clear that the American people, particularly the moderate center, do not su
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

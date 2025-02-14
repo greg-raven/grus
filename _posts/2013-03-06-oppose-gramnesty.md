@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Senators and Representative:
@@ -23,3 +20,6 @@ The costs of an amnesty are simply too much for Americans to bear. Please oppose
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

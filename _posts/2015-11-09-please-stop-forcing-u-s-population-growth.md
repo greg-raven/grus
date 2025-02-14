@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The population of the United States is on track to hit 444 million by 2050. Please reflect on your policies that are causing this detrimental and unsustainable growth.
@@ -22,3 +19,6 @@ Immigration helped make America what it is today. However, it is possible to hav
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

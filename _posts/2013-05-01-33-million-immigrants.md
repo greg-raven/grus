@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I was outraged to learn that the Gang of Eight's amnesty bill will add 33 million people to the United States' population in the next ten years, and 20 million people every decade after that! How is this just to the 22 million Americans unable to find a full-time job? I urge you to oppose this horrible bill.
@@ -24,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. These amnesties are on the path to national suicide. We must return to pre-1965 immigration law, secure our borders, and evict those who should not be here, including "anchor babies."
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

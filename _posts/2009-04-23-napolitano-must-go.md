@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - DHS
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 In light of the unfounded "threat assessment" on "Rightwing Extremism" issued by DHS Secretary Janet Napolitano, I am calling for Napolitano's immediate removal from office.
@@ -20,3 +16,6 @@ Unfortunately, Napolitano and your administration continue to stand behind this 
 {% include signature.html %}
 
 P.S.: If you keep Napolitano, have her do a "threat assessment" on the dangers of an illegal alien occupying the office of the President of the United States.
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

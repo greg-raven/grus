@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Barbara Boxer
 ---
 
 We truly are disappointed that you have decided to support the DREAM Act amnesty. We thought that, given the recent election, you would be opposing, not supporting, an anti-American amnesty bill.
@@ -26,3 +25,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I don't understand why you liberals hate the United States so much. You disgust me.
+
+Sent to:
+: Barbara Boxer

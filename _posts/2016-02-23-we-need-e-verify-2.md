@@ -6,9 +6,6 @@ categories:
 tags:
 - E-Verify
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Perhaps the biggest magnet for illegal immigration to the United States is jobs. Most illegal aliens come to our country in seek of work, and considering that 40% of the illegal-alien population came here legally and simply overstayed their visa, border security is not enough to stop illegal immigration. That's why I urge you to support legislation that would require all employers to use the E-Verify employment verification system and ensure that they're only hiring authorized workers.
@@ -20,3 +17,6 @@ In 2013, E-Verify checked the worker eligibility for nearly 24 million new hires
 As you can see, E-Verify is popular with employers and would be the single greatest deterrent in reducing illegal immigration. I urge you to support legislation that would require all employers to use it.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

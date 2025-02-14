@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I wanted to make sure you knew that ICE Union head Chris Crane wrote to American business leaders after they met with Pres. Obama at the White House and let them know that their support for "comprehensive immigration reform" has profoundly negative effects for our nation and for the American people. I hope you will take his comments to heart and make sure amnesty doesn't reach President Obama's desk.
@@ -43,3 +40,6 @@ I urge you to take both of these arguments into consideration. If this legislati
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

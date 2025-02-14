@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Post-Brexit, there is no place for scapegoating immigrants or for bashing those of us who recognize the need to moderate immigration numbers.
@@ -23,3 +20,6 @@ I urge Congress to listen to the economic concerns coming from the American peop
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I was outraged to learn that the Obama administration is using taxpayer dollars to bring the children of illegal aliens to the United States. This simply encourages illegal immigration and I urge you to work to defund it.
@@ -19,3 +16,6 @@ I urge you to finally put an end to our government's refusal to secure our natio
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

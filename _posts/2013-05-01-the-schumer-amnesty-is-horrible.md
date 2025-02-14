@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The Gang of Eight's amnesty bill is an amnesty first, enforcement promises bill. The amnesty for illegal aliens comes before any enforcement occurs and there are no hard triggers requiring enforcement. Americans want enforcement first. Please oppose this legislation.
@@ -27,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. No amnesty. Not now, not ever! Secure our borders, and evict the illegals.
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

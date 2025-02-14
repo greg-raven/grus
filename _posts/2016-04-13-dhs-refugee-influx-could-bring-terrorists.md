@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - refugees
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 DHS Secretary Jeh Johnson recently told a House panel that the influx of refugees from the Middle East creates a perfect opportunity for terrorists to enter the United States. Please pass H.R. 4731, the Refugee Program Integrity Restoration Act, which would reform the refugee program and increase its security.
@@ -22,3 +19,6 @@ The attacks in Paris and elsewhere highlight the need to secure our country's re
 {% include signature.html %}
 
 P.S. When talking about "gun control" for American citizens, Barack Obama says background checks do not work. When talking about admitting tens of thousands of foreign refugees, however, Obama says that a background check will protect our country. Clearly, he is wrong on both counts.
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

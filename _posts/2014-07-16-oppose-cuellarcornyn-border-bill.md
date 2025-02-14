@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The bill introduced by Rep. Henry Cuellar and Sen. John Cornyn to combat the border crisis would weaken current law while only addressing a small part of the problem. The bill is nothing more than a shiny object that will ultimately detract blame from President Obama and his failure to enforce existing laws. Please oppose this bill and instead apply pressure on the administration to secure the border and enforce our laws using the tools already at their disposal.
@@ -26,3 +23,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We must secure our border now, and send each of the illegals back home. No housing here! No hand-outs here! No amnesty!
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Donald Trump's plan to reform America's immigration system to benefit America's workers is the best of all those running for the White House. I hope you will look at his plan and start working on instituting his proposals in the near future.
@@ -23,3 +20,6 @@ Please read Mr. Trump's entire immigration plan and do all you can to put his pr
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

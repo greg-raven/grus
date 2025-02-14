@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 A new report from the Center for Immigration Studies shows that immigrants and their children now represent 18.9% of the U.S. population. This represents a drastic increase from 1970, when immigrants and their children represented 6.6% of the population. Current immigration levels are far above America's historic average and need to be decreased. On top of this, a new Bloomberg poll shows that 61% of Americans believe current immigration levels jeopardize the United States. I hope you will read the report and the poll results and act to reduce immigration to sustainable levels.
@@ -22,3 +19,6 @@ Americans understand the necessity of bringing America's sky-high immigration nu
 I hope you will look at the report's findings and take action to decrease immigration levels.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

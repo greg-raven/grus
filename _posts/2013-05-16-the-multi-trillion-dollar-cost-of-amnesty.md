@@ -5,10 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barack Hussein Obama
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I was astounded to learn that the Heritage Foundation's Robert Rector has just released a study showing that the Gang of Eight's amnesty bill would cost U.S. taxpayers at least $6.3 trillion. As horrible as this number is, the legislation will cost Americans much, much more as the study only includes the amnesty provisions, not those that allow 22 million more legal immigrants to come to the U.S. over the next decade. Please oppose this legislation.
@@ -20,3 +16,6 @@ The solution to fixing our system is not an amnesty that adds trillions to the n
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein, Barack Hussein Obama

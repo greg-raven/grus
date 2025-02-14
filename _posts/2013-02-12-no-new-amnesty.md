@@ -4,12 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - chain migration
-- Jerry Brown
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I oppose the Senate Gang of Eight's amnesty proposal to legalize millions of illegal immigrants.
@@ -25,3 +20,6 @@ Combined with current laws, the legalization would be a pathway to massive new w
 4. It would immediately legalize 11 million illegal aliens without requiring triggers that fully implement enforcement first. The previous seven amnesties between 1986 and 2000 had no enforcement triggers and served only to entice 11 million new illegal immigrants who now demand their own amnesty.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein, Barack Hussein Obama, Jerry Brown

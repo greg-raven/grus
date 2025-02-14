@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Recently released statistics from DHS show that the U.S. issued more than 1 million green cards in 2014. This is far too high a number and Congress needs to take action to cut immigration numbers.
@@ -20,3 +17,6 @@ More than 14 million Americans cannot find a full-time job and tens of millions 
 I urge you to do all you can to reduce immigration numbers, particularly among those who are granted legal permanent residency based on non-nuclear family ties.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

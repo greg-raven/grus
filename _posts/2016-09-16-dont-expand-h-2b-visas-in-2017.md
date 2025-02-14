@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 USCIS recently notified employers to identify returning workers on their H-2B applications for FY2017. This was done in anticipation of Congress extending a provision from last year's spending bill that exempted returning workers from the annual cap of 66,000, potentially quadrupling the number of visas given out. This would have a devastating effect on American workers with a high school education or less who have unemployment rates significantly higher than the national average. Please oppose any efforts to expand the H-2B visa program in the FY2017 spending bills.
@@ -21,3 +18,6 @@ Investigative reports have shown that businesses are more than willing to fire A
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

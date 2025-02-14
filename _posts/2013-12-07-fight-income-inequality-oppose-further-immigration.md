@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I believe you need to help President Obama to fight income inequality by reducing the future flow of foreign citizens given green cards and lifetime work permits.
@@ -21,3 +18,6 @@ The current system does not benefit American workers. Passing legislation to bri
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

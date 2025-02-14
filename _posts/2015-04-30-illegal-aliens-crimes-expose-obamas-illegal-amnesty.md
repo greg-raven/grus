@@ -5,12 +5,9 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
-A new Washington Times article by Stephen Dinan highlights the dangers of Barack Obama's failed --- and illegal --- immigration policies:
+A new *Washington Times* article by Stephen Dinan highlights the dangers of Barack Obama's failed --- and illegal --- immigration policies:
 
 > As the Obama administration prepares for a new surge of illegal immigrant children this year, some of those from previous waves are turning up on court dockets across the country, charged with serious crimes such as capital murder and aggravated rape.
 >
@@ -24,8 +21,11 @@ A new Washington Times article by Stephen Dinan highlights the dangers of Barack
 >
 > Oftentimes the children don't even sneak into the country but instead boldly seek out a Border Patrol agent to turn themselves in to, trusting that generous laws, crowded courts and bureaucratic confusion will give them a chance to disappear into the shadows ...
 
-We hope you will read the article we have attached. It is written by the Washington Times' Stephan Dinan and highlights the dangers of President Obama's illegal amnesty program.
+I hope you will read the article I have attached. It is written by the *Washington Times'* Stephan Dinan and highlights the dangers of President Obama's illegal amnesty program.
 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

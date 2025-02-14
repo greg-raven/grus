@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - DHS
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Americans are repulsed by the leaked DHS anti-terrorism security assessment summary that clearly targets mainstream Americans as dangerous extremists. One section of the report reads: "Rightwing extremism in the United States can be broadly divided into those groups, movements, and adherents that are primarily hate-oriented (based on hatred of particular religious, racial or ethnic groups) ..."
@@ -20,3 +16,6 @@ This leaked DHS security assessment is so repulsive that rational, freedom-lovin
 I demand that DHS Secretary Janet Napolitano be FIRED without delay!
 
 {% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

@@ -5,12 +5,9 @@ categories:
 - letter
 tags:
 - birthright citizenship
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
-We see the problem of anchor babies as a serious flaw in our immigration law. I hope you will take action to end it by cosponsoring S.45 and H.R.140 that would end Birthright Citizenship.
+I see the problem of anchor babies as a serious flaw in our immigration law. I hope you will take action to end it by cosponsoring S.45 and H.R.140 that would end Birthright Citizenship.
 
 Many open-borders advocates claim that a Constitutional amendment is required to end birthright citizenship. However, this matter is open to debate as many Constitutional scholars say that a simple act of Congress will suffice. What is certain is that once a law is passed, it will end up before the Supreme Court for them to make the final decision.
 
@@ -21,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Birthright citizenship has never been the law in this country. We need to end the practice immediately.
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

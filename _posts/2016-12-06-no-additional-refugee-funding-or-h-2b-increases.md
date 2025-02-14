@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We hear that President Obama wants Congress to more than double refugee resettlement spending to $3.9 billion in the upcoming continuing resolution. We urge you to oppose this request and to oppose efforts to extend the provision exempting returning H-2B workers from the H-2B cap.
@@ -23,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. The people have spoken: No additional refugees and no additional immigration until we drain the swamp, figure out who is already here (and what they are doing), secure our border, and can vet newcomers. Our immigration system must serve American interests, not international interests or Obama's twisted agenda.
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

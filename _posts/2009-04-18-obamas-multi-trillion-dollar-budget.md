@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - federal government
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Fiscal irresponsibility and massive new deficits are not solutions to our economic problems.
@@ -20,3 +16,6 @@ Your budget means bigger government, and bigger government always translates int
 For these reasons, I, as a legal U.S. citizen urge you to take back your $3.6 trillion budget and instead cut the size of the Federal government and the Federal budget by at least three-quarters.
 
 {% include signature.html %}
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

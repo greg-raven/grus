@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Please do not allow the federal government to house illegal aliens in our state. The Obama administration is responsible for the influx at the border and should not be forcing our state to deal with the consequences.
@@ -19,3 +16,6 @@ Please make sure the government doesn't try to house illegal aliens in our state
 {% include signature.html %}
 
 P.S. As long as the government is willing to move them, let's make certain that they move them back across the border!
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

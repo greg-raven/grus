@@ -5,16 +5,13 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
-<span style="line-height: 1.5;">I wanted to share this news article where a federal judge accuses DHS agents of helping illegal immigration instead of enforcing the law.</span>
+I wanted to share this news article where a federal judge accuses DHS agents of helping illegal immigration instead of enforcing the law.
 
-> Homeland Security helps smuggle illegal immigrant children into the U.S.
+> **Homeland Security helps smuggle illegal immigrant children into the U.S.**
 >
-> By Stephen Dinan --- The Washington Times
+> By Stephen Dinan --- *The Washington Times*
 >
 > Thursday, December 19, 2013
 >
@@ -55,3 +52,6 @@ tags:
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

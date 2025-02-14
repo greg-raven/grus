@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 A new NBC News poll shows that swing voters --- what the pollsters dub the "new American Center" --- have little appetite for giving illegal aliens a pathway to citizenship. Given this fact, I hope you will not go along with plans to force his amnesty on the American people.
@@ -20,3 +17,6 @@ When this group was asked if they support providing illegal aliens with a pathwa
 It's clear that the American people, particularly the moderate center, do not support giving illegal aliens any special benefits. Please take this poll to heart and spread its results amongst your colleagues.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

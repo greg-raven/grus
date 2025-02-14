@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Please pass legislation that would require all employers to use E-Verify. Mandating E-Verify will prevent illegal aliens from finding jobs and help Americans get back to work.
@@ -19,3 +16,6 @@ Clearly, this is an easy and effective way of putting unemployed Americans and l
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

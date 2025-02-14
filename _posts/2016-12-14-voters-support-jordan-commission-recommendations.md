@@ -6,9 +6,6 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Barbara Boxer
-- Dianne Feinstein
-- visa lottery
 - visa lottery
 ---
 
@@ -29,3 +26,6 @@ Americans are depending on Congress to reform our immigration system so that it 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

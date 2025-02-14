@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I hope you will take the time to read the attached op-ed from The Hill. Sanctuary cities need to be eliminated and this article makes that case well.
@@ -27,3 +24,6 @@ Please read the attached op-ed and help to make our country safer by helping to 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

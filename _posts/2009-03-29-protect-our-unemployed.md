@@ -5,10 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barack Hussein Obama
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Amnesty is not the answer to America's illegal immigration debacle and would only make matters worse. Please do not support any amnesty proposed by the Congressional Hispanic Caucus.
@@ -24,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. At least twice, you have taken an oath to protect the United States from foreign invasion by other illegal aliens. Do your duty!
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

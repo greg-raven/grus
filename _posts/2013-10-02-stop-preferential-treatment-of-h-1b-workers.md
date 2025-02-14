@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 As an American tech worker, I find it disgusting that IBM posted jobs that preferred foreign workers on temporary visas over American tech workers, while at the same time, they lobby Washington for increases in foreign workers. How are American tech workers supposed to find jobs when corporations can break the law and hire foreign workers at will? Please make sure that American workers have the first shot at any job, and that the federal government prosecutes companies that hire foreign workers over qualified American workers.
@@ -23,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Congress created this mess, so it's up to Congress to fix it. Stop the preferential treatment of foreigners over U.S. citizens!
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

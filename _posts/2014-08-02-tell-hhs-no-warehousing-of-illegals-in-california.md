@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Please do not allow the federal government to house illegal aliens in our state. The Obama administration is responsible for the influx at the border and should not be forcing our state to deal with the consequences.
@@ -23,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. First, they should be deported immediately, not housed anywhere in the U.S. Second, we keep hearing about the seriousness of the water shortage here in California; why not mitigate it by kicking out all our illegals and prevent others from entering?
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

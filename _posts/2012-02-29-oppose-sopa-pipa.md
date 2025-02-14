@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - censorship
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Right now, the same folks that brought us the so-called "Patriot" Act, indefinite detention of American citizens, and an out-of-control TSA and Department of Homeland Security are preparing to wage war on our freedom online.
@@ -21,3 +18,6 @@ If the government takes the power to regulate the internet and shut down informa
 For these reasons I, as your constituent, urge you to oppose SOPA (H.R. 3261) in the House and Protect IP (S. 968) in the Senate, and preserve internet freedom.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis, Barbara Boxer, Dianne Feinstein

@@ -6,8 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The AFL-CIO and other labor unions are opposing efforts to quadruple H-2B worker numbers as part of the upcoming FY2017 DHS appropriations bill. Please do all you can to support American workers and oppose these foreign worker increases.
@@ -27,3 +25,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Unions oppose H-2B increases. You should, too.
+
+Sent to:
+: Barbara Boxer, Dianne Feinstein

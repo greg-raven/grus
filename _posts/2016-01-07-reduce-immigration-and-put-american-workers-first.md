@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 A new NumbersUSA television ad features civil rights icon Barbara Jordan who chaired the last bi-partisan commission on immigration. The Jordan Commission recommended cutting legal immigration to 550,000 annually. I support the recommendations of the Jordan Commission and urge you to do so as well.
@@ -21,3 +18,6 @@ These are commonsense solutions that have broad support among the American peopl
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

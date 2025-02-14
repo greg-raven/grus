@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I was sickened to learn that companies that have laid off thousands of American workers are now asking Congress to increase the number of foreign workers they are able to hire. I hope you will not accede to their demands and will work to protect American workers. Please read the attached article about their efforts.
@@ -25,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop all immigration, evict the illegals (including "anchor babies") who are already here, and return to pre-1965 immigration rules!
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

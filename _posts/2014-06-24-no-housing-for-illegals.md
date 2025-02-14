@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I cannot understand why the federal government is allowing illegal aliens to flood into our country. The end result is that DHS and HHS are trying to house illegal aliens at sites around the country. Please make sure that no illegal aliens are brought to our state.
@@ -25,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need to secure our borders and evict all the illegals NOW!
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

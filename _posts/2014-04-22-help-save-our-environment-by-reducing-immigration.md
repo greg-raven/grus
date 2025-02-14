@@ -4,13 +4,9 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - environment
 - immigration
 - population
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Population growth fueled almost totally by immigration is causing America to lose green spaces, forests, and farm land at a frightening pace. Congress needs to change our nation's immigration policies before it's too late.
@@ -26,3 +22,6 @@ If we want America to have any green spaces in the decades to come, you need to 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein, Barack Hussein Obama

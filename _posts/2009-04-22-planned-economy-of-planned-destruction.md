@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - economy
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I'm sending you a copy of this from the *Chicago Tribune,* April 21, 1934:
@@ -32,3 +28,6 @@ Title: "Planned economy or planned destruction?"
 {% include signature.html %}
 
 Source: https://3.bp.blogspot.com/_8aN4krk1nsk/Se-FtRPEBzI/AAAAAAAAALA/lehbZI5PFIo/s1600-h/redredred.jpg
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

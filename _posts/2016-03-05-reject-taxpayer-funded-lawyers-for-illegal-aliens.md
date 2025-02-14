@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 It is ridiculous that Sen. Harry Reid and Rep. Zoe Lofgren have introduced legislation that would require the government to use tax dollars to provide UACs with lawyers. Individuals who came to this country illegally should not receive any more handouts and you should not support this legislation.
@@ -19,3 +16,6 @@ This legislation is simply a ploy to amnesty illegal aliens and a handout to imm
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

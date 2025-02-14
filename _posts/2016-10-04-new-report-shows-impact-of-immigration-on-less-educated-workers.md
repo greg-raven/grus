@@ -6,9 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Research by the National Academy of Sciences has concluded that high levels of immigration benefit businesses instead of workers and reduces wages for low-skilled and less-educated workers. Please support overall reductions in immigration numbers to protect jobs and wages for all Americans.
@@ -20,3 +17,6 @@ The study proves that most immigrants do not work jobs that "American's won't do
 I urge you to read the NAS report and act on its findings. Americans are being irreparably harmed by millions of foreign workers and Congress must act to reduce immigration to sustainable levels.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

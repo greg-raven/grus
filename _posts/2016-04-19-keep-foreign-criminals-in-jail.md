@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Please oppose the Sentencing Reform Act of 2015 as it is currently written. This legislation would release thousands of dangerous non-citizen offenders at a time when the Obama administration has shown a refusal to deport even the most violent criminal aliens.
@@ -19,3 +16,6 @@ Countless Americans have been maimed and murdered by criminal illegal aliens. Ka
 Passing the Sentencing Reform Act in its current form would put more criminal aliens on our streets. This is avoidable and I am counting on your to prevent it from occurring. Please oppose this legislation until it safeguards Americans from non-citizen criminals.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

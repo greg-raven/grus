@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - illegal aliens
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 We urge you to support both S. 3100, the Stop Dangerous Sanctuary Cities Act, and S. 2193, Kate's Law, when the Senate votes on them. Sanctuary cities provide refuge for dangerous criminals and need to be eliminated. Please vote in favor of these bills and help to protect the American people.
@@ -22,3 +19,6 @@ Please do all you can to get these bills passed.
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

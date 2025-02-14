@@ -6,9 +6,6 @@ categories:
 tags:
 - illegal aliens
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 I urge you to take legislative steps that strengthen interior enforcement, end policies that encourage illegal immigration and achieve 100% operational control at and in between all ports of entry.
@@ -38,3 +35,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Each of these things must be done.
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

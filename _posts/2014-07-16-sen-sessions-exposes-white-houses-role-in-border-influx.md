@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Tuesday, Sen. Sessions spoke on the Senate floor about President Obama's role in the border influx.
@@ -25,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Illegal aliens are criminals. Treat them as such!
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

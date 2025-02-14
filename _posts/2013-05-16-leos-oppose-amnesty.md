@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 A group of law enforcement agents from around the country have written to you, warning you of the public safety dangers in the Gang of Eight's amnesty bill. I hope you will read their letter and oppose the bill.
@@ -21,3 +18,6 @@ I am just as disappointed as the law enforcement officials with the government's
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

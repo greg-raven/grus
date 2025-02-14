@@ -5,10 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Barack Hussein Obama
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 In 2007 the American people rose up and prevented Congress from passing amnesty. With this in mind, why would you tell members of the Congressional Hispanic Caucus that you supported "comprehensive immigration reform?" We both know this is nothing more than a fancy term for amnesty.
@@ -24,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. At least twice, you have taken an oath of office to protect the United States from foreign invasion by other illegal aliens. Do your duty!
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

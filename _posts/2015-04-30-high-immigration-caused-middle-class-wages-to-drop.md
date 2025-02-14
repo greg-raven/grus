@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 The Congressional Research Service has tied falling middle class wages to increased immigration numbers and Congress has done nothing to address this very serious problem. Reducing immigration numbers to sensible levels would increase middle class wages and I urge you to push for legislation that would make this happen.
@@ -21,3 +18,6 @@ Please do all you can to pass legislation that brings down immigration numbers. 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

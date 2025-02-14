@@ -4,11 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Barack Hussein Obama
 - federal government
-- Jerry Lewis
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 As a tax-paying citizen and American patriot, I am outraged that the Department of Homeland Security would label me as a right-wing extremist, apparently as part of an attempt to silence opposition to the ever-burgeoning Federal government, the size and scope of which are being greatly boosted by your Administration's Marxist and anti-American policies.
@@ -24,3 +20,6 @@ The freedom of association and the freedom of speech are guaranteed to all Ameri
 P.S. How is it that your administration is frenetically boosting the centralization of power, yet refuses to exercise that power to secure our own borders?
 
 P.P.S. Found your birth certificate yet? Be sure to send me a copy.
+
+Sent to:
+: Barack Hussein Obama, Jerry Lewis, Barbara Boxer, Dianne Feinstein

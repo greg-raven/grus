@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 Recently, ICE Union President Chris Crane told a Senate Committee about the Gang of Eight's refusal to meet with any law enforcement when they drafted its immigration bill. How are we supposed to enforce our nation's immigration laws when the opinions of these men and women are ignored by Congress? I hope you'll ensure these Americans are heard.
@@ -27,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need to demand an enforcement-only immigration policy until we clear the swamp. Secure the borders, and put American citizens first.
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein

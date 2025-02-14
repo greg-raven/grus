@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Barbara Boxer
-- Dianne Feinstein
 ---
 
 A new study from the Center for Immigration Studies shows that the U.S. government can help twelve Syrian refugees who remain in the Middle East for every one refugee it relocates to the U.S. I urge you to support U.S. guidelines that advice against relocating refugees long distances and oppose any efforts to fund Syrian refugee resettlement.
@@ -19,3 +16,6 @@ In addition to the obvious security concerns, relocating Syrians to the U.S. mak
 I urge you to make the right choice both for Syrian refugees and the United States and oppose efforts to relocate Syrians to the U.S.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Barbara Boxer, Dianne Feinstein
