@@ -7,7 +7,6 @@ tags:
 - border control
 - federal government
 - illegal aliens
-- Jerry Lewis
 ---
 
 We hope you will support H.R. 6165, The Responsible Child Tax Credit Eligibility Verification Act of 2012, so that illegal aliens will no longer be able to claim the child tax credit.
@@ -21,3 +20,6 @@ H.R. 6165 would eliminate this loophole. Please make sure The Responsible Child 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

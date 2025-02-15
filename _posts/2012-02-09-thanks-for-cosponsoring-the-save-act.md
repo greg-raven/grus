@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
+- E-Verify
 ---
 
 I was thrilled to learn that you are a cosponsor of the SAVE Act!
@@ -16,3 +16,6 @@ Thank you again for cosponsoring the SAVE Act and do everything you can to ensur
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

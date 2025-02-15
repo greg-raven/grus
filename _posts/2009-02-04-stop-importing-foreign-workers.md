@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Jerry Lewis
 ---
 
 I am outraged that America is continuing to import 1.5 million workers per year when there are more than 11 million unemployed American workers. You must take immediate action to ensure that only American workers benefit from the economic stimulus package.
@@ -19,3 +18,6 @@ The Senate is currently considering their own version of the economic stimulus p
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

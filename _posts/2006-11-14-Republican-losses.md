@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
+- politics
 ---
 
 Some newspaper editorial writers have tried to spin the Republicans' loss of the House of Representatives as proof that getting tough on illegal immigration is a political loser, but nothing could be further from the truth.
@@ -20,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Illegal immigration is a weapon of mass destruction!
+
+Sent to:
+: Jerry Lewis

@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
 - border control
 ---
 
@@ -23,3 +22,6 @@ The real reason that most people oppose having local police participate in immig
 Hopefully,
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

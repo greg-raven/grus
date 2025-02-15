@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
 - stimulus
 ---
 
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We need to practice autarky if we are to get out of this economic mess.
+
+Sent to:
+: Jerry Lewis

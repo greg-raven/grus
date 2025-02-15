@@ -6,7 +6,6 @@ categories:
 tags:
 - chain migration
 - federal government
-- Jerry Lewis
 ---
 
 Please support Rep. Gingrey's Nuclear Family Priority Act (H.R. 878).
@@ -22,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. This is extremely important to the future of our country.
+
+Sent to:
+: Jerry Lewis

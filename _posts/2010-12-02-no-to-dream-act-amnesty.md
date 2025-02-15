@@ -7,7 +7,6 @@ tags:
 - chain migration
 - federal government
 - immigration
-- Jerry Lewis
 ---
 
 According to every single news outlet, House Speaker Nancy Pelosi wants to try one more time to force the DREAM Act amnesty on the American people, even though the vast majority of Americans oppose giving any amnesty to illegal aliens. Please prove you care about the 22 million Americans who cannot find a job by opposing the DREAM Act amnesty.
@@ -24,4 +23,7 @@ Phone me if you would like to talk about this.
 
 {% include signature.html %}
 
-P.S. Just one month ago the American people voted against all this cr\*p. Don't let the treason lobby get away with this!
+P.S. Just one month ago the American people voted against all this crap. Don't let the treason lobby get away with this!
+
+Sent to:
+: Jerry Lewis

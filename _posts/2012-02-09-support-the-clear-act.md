@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
+- illegal aliens
 ---
 
 Illegal aliens, especially those who have committed crimes, pose a serious threat to citizens and legal residents in the U.S. Please cosponsor the CLEAR Act, which would clarify the authority of local law enforcement to deal with illegal aliens, and provide funding to enable them to effectively exercise that authority. Sheriffs from across the United States are visiting Washington, D.C., this week seeking more federal help and you can help these sheriffs by cosponsoring the CLEAR Act.
@@ -20,3 +20,6 @@ SCAAP has broad bipartisan support and it needs to be reauthorized. Please do al
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

@@ -6,10 +6,7 @@ categories:
 tags:
 - federal government
 - illegal aliens
-- Jerry Lewis
 ---
-
-Representative Jerry Lewis,
 
 Americans and legal immigrants should not have to pay the price for the government's refusal to stop illegal aliens from coming into this country. Please support the Child Tax Credit Integrity Preservation Act (H.R. 3444) so that illegal aliens are no longer allowed to claim the Child Tax Credit.
 
@@ -22,3 +19,6 @@ You can help to change this perception of America by supporting the Child Tax Cr
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

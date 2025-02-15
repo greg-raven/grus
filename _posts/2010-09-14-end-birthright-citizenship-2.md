@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - birthright citizenship
-- Jerry Lewis
 ---
 
 An op-ed in August 31's *USA Today* explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation.
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. The U.S. is the only first-world country that allows this insane practice, and it's not legal, ethical, or moral to do so. We must end birthright citizenship immediately, and make it enforceable retroactively.
+
+Sent to:
+: Jerry Lewis

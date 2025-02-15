@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - chain migration
-- Jerry Lewis
 - visa lottery
 - E-Verify
 
@@ -22,3 +21,6 @@ Thank you for your hard work in 2011 and please continue to look after America's
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

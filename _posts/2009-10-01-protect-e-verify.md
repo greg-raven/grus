@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Jerry Lewis
 ---
 
 We expect you to ensure that the E-Verify provisions of the DHS Appropriations bill survive the Conference Committee!
@@ -18,4 +17,7 @@ It is very likely that Obama, Reid, and Pelosi will try to do the same thing to 
 
 Phone me if you would like to talk about this.
 
-Mr. {% include signature.html %}
+{% include signature.html %}
+
+Sent to:
+: Jerry Lewis

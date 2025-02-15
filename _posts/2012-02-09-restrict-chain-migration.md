@@ -6,7 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Jerry Lewis
 ---
 
 I would be grateful if you were to consider cosponsoring H.R. 692, the Nuclear Family Priority Act.
@@ -20,3 +19,6 @@ While ending chain migration would directly reduce overall immigration by around
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

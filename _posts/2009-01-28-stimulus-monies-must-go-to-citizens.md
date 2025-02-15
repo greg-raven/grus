@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
 - stimulus
 ---
 
@@ -19,3 +18,6 @@ Millions of unemployed Americans are depending on their government to stimulate 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

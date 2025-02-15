@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - federal government
-- Jerry Lewis
 ---
 
 I oppose automatic citizenship granted to the children of illegal aliens.
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. This is key to the survival of our republic.
+
+Sent to:
+: Jerry Lewis

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - federal government
-- Jerry Lewis
 ---
 
 Resident Obama's amnesty, as outlined in *The New York Times,* will create a firestorm of opposition from the millions of disenfranchised workers across the country. I hope Republicans in Congress can be counted on to stand up with American voters and oppose any form of amnesty.
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Never forgive, never forget: No amnesty!
+
+Sent to:
+: Jerry Lewis

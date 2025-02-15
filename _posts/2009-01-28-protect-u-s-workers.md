@@ -6,7 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Jerry Lewis
 - visa lottery
 ---
 
@@ -23,3 +22,6 @@ I urge you to work towards temporarily halting non-essential immigration. Doing 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

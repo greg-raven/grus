@@ -19,7 +19,7 @@ As a member of the Senate Judiciary Committee I urge you to speak with DHS Secre
 
 Phone me if you would like to talk about this.
 
-Mr. {% include signature.html %}
+{% include signature.html %}
 
 Sent to:
 : Barbara Boxer, Dianne Feinstein

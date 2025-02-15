@@ -6,6 +6,7 @@ categories:
 tags:
 - California
 - economy
+- jobs
 ---
 
 Speaker of the House John Boehner has asked all of his Representatives to focus on one area: jobs. I agree with him that putting Americans back to work is a top priority. With this in mind, I urge you to support the Legal Workforce Act (H.R. 2885), which provides a superabundance of means for illegal aliens to be dispossessed of their U.S. jobs, thus allowing the 22 million Americans without a full-time job a chance of filling them.

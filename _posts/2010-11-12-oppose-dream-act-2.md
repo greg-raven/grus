@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Jerry Lewis
 ---
 
 I understand that outgoing House Speaker Nancy Pelosi is trying to force the DREAM Act amnesty through the House during the lame duck session. I hope you realize that the American people have made it loud and clear that we oppose amnesty and we expect Congress to uphold our will.
@@ -24,3 +23,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. No amnesty! No special favors for illegal aliens! Secure our borders and evict the illegals who are already in the country! Don't make me regret voting for you.
+
+Sent to:
+: Jerry Lewis

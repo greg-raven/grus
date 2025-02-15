@@ -6,7 +6,6 @@ categories:
 tags:
 - border control
 - illegal aliens
-- Jerry Lewis
 ---
 
 To say I am disturbed by the video of drug smugglers sneaking into the United States using an automotive jack is putting it mildly. To be honest, I'm in an apoplectic fury. Everyone who has said that our border is secure has been lying and the proof is in the video.
@@ -24,4 +23,4 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 Sent to:
-: Barbara Boxer, Dianne Feinstein
+: Barbara Boxer, Dianne Feinstein, Jerry Lewis

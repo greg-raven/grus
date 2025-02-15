@@ -8,7 +8,6 @@ tags:
 - economy
 - illegal aliens
 - immigration
-- Jerry Lewis
 ---
 
 I'm writing to ask you to reach out to Rep. Kevin McCarthy from Bakersfield, to remind him that he swore an oath of office to protect and defend the United States. This oath of office includes representing the interests of U.S. citizens, not those of illegal aliens ... no matter what the pretext.
@@ -20,3 +19,6 @@ I would much appreciate it if there is anything you can do to get him to represe
 Thanks,
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis

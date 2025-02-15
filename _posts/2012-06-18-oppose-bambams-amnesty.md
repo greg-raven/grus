@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Jerry Lewis
 ---
 
 We hope you find the unilateral Obama Amnesty as appalling as we do. This amnesty happened, in part, due to Republican inaction. Republicans must now counter it by passing mandatory E-Verify legislation.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop fiddling while America burns!
+
+Sent to:
+: Jerry Lewis

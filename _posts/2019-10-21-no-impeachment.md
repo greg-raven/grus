@@ -15,7 +15,7 @@ As one of your constituents, I want to make it clear that I strongly oppose the 
 
 We have a national election in about a year and 'We the People' will decide whether or not to reelect President Trump. If you really want to get President Trump out of office, do it the American way, beat him at the polls.
 
-Mr. {% include signature.html %}
+{% include signature.html %}
 
 Sent to:
 : Paul Cook, Dianne Feinstein, Kamala Harris

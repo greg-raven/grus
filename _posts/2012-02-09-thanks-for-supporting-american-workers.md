@@ -4,7 +4,8 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Lewis
+- jobs
+- E-Verify
 ---
 
 Thank you for cosponsoring H.R. 2885, a bill that will put jobless Americans into jobs currently held by illegal aliens.

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - federal government
-- Jerry Lewis
 ---
 
 We are shocked and dismayed that the House passed the illegal immigration-inducing "Affordable Health Care for America Act!" Why should American taxpayers pay for the health care of illegal aliens? Thank you for opposing this bill and please continue to oppose bills that benefit illegal aliens!
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Let's all pray that this anti-American, anti-middle-class, illegal, and immoral legislation does not pass the Senate.
+
+Sent to:
+: Jerry Lewis

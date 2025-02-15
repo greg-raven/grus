@@ -6,7 +6,6 @@ categories:
 tags:
 - federal government
 - immigration
-- Jerry Lewis
 - visa lottery
 ---
 
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. You need to do everything in your power to reduce the number of immigrants entering the country, and to remove the illegal immigrants already here.
+
+Sent to:
+: Jerry Lewis

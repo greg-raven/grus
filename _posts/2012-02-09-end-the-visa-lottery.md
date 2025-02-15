@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Jerry Lewis
 - visa lottery
 ---
 
@@ -25,3 +24,6 @@ Please cosponsor the bi-partisan H.R. 704 to end the visa lottery.
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Lewis
