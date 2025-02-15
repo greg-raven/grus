@@ -6,8 +6,6 @@ categories:
 tags:
 - environment
 - population
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 A recent article in *The New York Times Magazine* ("How Humanity Unleashed a Flood of New Diseases," 6/17/20) describes that as expanding human populations lead to more deforestation, mining, intensive agriculture, and urban sprawl, natural habitats, in turn, are destroyed, forcing wild creatures to venture into human communities. As most predators are eliminated, the remaining animals are forced into unnatural and hazardous arrangements, ultimately jeopardizing our own health. This has created an increase in the frequency of zoonosis outbreaks, including COVID-19, which are diseases that move from animals to humans.
@@ -25,3 +23,6 @@ Congress needs to turn this trend around, and it needs leaders like you to steer
 So as to reduce the unrelenting pressures on the resilience of our natural areas, please work to stabilize the U.S. population, which can only be done by reducing immigration levels. As the 2020 election nears, I'll be looking at how candidates view high rates of immigration as a proxy for how serious they are about protecting America's public health and the environment.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

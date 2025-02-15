@@ -7,8 +7,6 @@ tags:
 - amnesty
 - chain migration
 - immigration
-- Jay Obernolte
-- Dianne Feinstein
 - visa lottery
 ---
 
@@ -29,3 +27,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P. S. We need to secure our borders, stop all immigration for at least ten years, and remove from the country anyone who is in the country illegally.
+
+Sent to:
+: Dianne Feinstein, Jay Obernolte

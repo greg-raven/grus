@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I completely agree with the Heritage Foundation's assertion that the White House is promulgating falsehoods in an effort to force the Senate's immigration bill on the American people. Please do all you can to prevent this bill from becoming law.
@@ -25,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop all immigration, evict the illegals (including "anchor babies") who are already here, and return to pre-1965 immigration rules!
+
+Sent to:
+: Paul Cook

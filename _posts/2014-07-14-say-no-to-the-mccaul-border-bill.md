@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
 ---
 
 Please do not support Rep. McCaul's efforts to include his border legislation, H.R.1417, as part of the solution to end the border surge. The bill would weaken current law and give the Senate an opportunity to attach the Gang of Eight's amnesty to the deal.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Evict all the invaders now, old and new!
+
+Sent to:
+: Paul Cook

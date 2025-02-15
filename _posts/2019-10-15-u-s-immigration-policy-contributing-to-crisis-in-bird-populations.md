@@ -7,8 +7,6 @@ tags:
 - environment
 - immigration
 - population
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 North America's bird populations are being pushed by us to the edge of extinction. Will you stand up to confront the elephant in the room?
@@ -20,3 +18,6 @@ As the Times article illustrates, there is an inverse relationship between human
 I know that politicians prefer to avoid discussion about responsible immigration numbers, but we now know that silence has consequences. Let's show some courage before we lose another species.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

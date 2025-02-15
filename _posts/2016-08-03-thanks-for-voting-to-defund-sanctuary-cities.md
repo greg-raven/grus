@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Thank you for voting in favor of the Gosar amendment to the Financial Services Appropriations bill. Please continue to support legislation that targets sanctuary cities.
@@ -17,3 +16,6 @@ Thank you again for voting to defund sanctuary cities. Please continue to suppor
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

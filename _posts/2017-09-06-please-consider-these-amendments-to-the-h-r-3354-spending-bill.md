@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - national security
-- Paul Cook
 ---
 
 The H.R. 3354 minibus spending bill would provide funding for the Departments of Homeland Security, State, Agriculture, Transportation, and Housing and Urban Development, among others. Several Members of Congress have offered immigration amendments that impact issues ranging from E-Verify to immigration enforcement.
@@ -19,3 +18,6 @@ Please vote NO on these amendments:
 <table><thead><tr><th>Sponsor</th><th>Number</th><th>Section</th><th>Comment</th></tr></thead><tbody><tr><td>Pramila Jayapal</td><td>108</td><td>DHS</td><td>Reduces funding for I.C.E. enforcement</td></tr><tr><td>Lou Correa</td><td>48</td><td>DHS</td><td>Reduces funding for I.C.E. enforcement</td></tr><tr><td>Lucille Roybal-Allard</td><td>1</td><td>DHS</td><td>Reduces funding for I.C.E. enforcement</td></tr><tr><td>Lou Correa</td><td>47</td><td>DHS</td><td>Reduces funding for I.C.E. enforcement</td></tr><tr><td>Norma Torres</td><td>18</td><td>DHS</td><td>Prevents DHS from transferring funds to I.C.E. enforcement</td></tr><tr><td>Joaquin Castro</td><td>13</td><td>DHS</td><td>Prevents DHS from using privatized immigration detention facilities</td></tr><tr><td>Pramila Jayapal</td><td>62</td><td>DHS</td><td>Prevents funding for expanding or building new detention facilities</td></tr></tbody></table>
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I cannot understand why the new "Standards for Immigration Reform" include virtually every point of the Democrats' amnesty plans. How does it help the American people to legalize 11-18 million illegal aliens and give them work permits to boot? These are not the immigration "standards" the American people want or deserve.
@@ -17,3 +16,6 @@ With the November elections fast approaching, I thought your party would be seek
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - national security
-- Paul Cook
 ---
 
 Your vote in favor of the Gosar amendment to the NDAA shows that you support our troops and oppose giving illegal aliens amnesty and legal status. Thank you.
@@ -16,3 +15,6 @@ While it is disappointing that the Gosar amendment did not pass, I am glad you v
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Americans want to cut immigration. The polls show this. Any immigration bill coming out of the House has to make deep cuts in immigration numbers next year and 10 years from now."
@@ -17,3 +14,6 @@ In the short-run and in the longer run. Overall numbers have to go down. Visas c
 Please do all you can to reduce immigration numbers!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

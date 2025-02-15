@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Thank you for voting against the revised DHS funding bill. Leaving the funding for the president's amnesties in tact is the same as supporting amnesty.
@@ -17,3 +16,6 @@ Thank you for voting against the Senate's bill. Please continue to stand up for 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

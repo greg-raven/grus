@@ -6,7 +6,6 @@ categories:
 tags:
 - illegal aliens
 - national security
-- Paul Cook
 ---
 
 Please oppose efforts in the Judiciary Committee to bring H.R. 3713, the Sentencing Reform Act of 2015, to the House floor. This legislation, as it is currently written, would release thousands of dangerous non-citizen offenders at a time when the Obama administration has shown a refusal to deport even the most violent criminal aliens.
@@ -30,3 +29,6 @@ These groups oppose H.R. 3713 because it would release criminal aliens back onto
 I urge you to oppose any effort to bring this legislation to the House floor.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

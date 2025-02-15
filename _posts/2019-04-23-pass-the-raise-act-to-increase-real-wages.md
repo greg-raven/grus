@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Americans need a raise --- please help push the RAISE Act through Congress.
@@ -23,3 +20,6 @@ Many of your Congressional colleagues are saying the same thing, but if there we
 Americans need a raise, I hope you will make that happen by helping to push the RAISE Act through Congress.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

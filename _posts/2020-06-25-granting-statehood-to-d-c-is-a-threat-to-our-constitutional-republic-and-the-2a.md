@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Paul Cook
 ---
 
 Vote NO on H.R. 51 --- a bill that will violate the Constitution and permanently add two anti-gun Senators in the Congress.
@@ -21,3 +20,6 @@ I agree with Gun Owners of America that there will be huge political ramificatio
 Obey Article 1, Section 8, Clause 17 of our Constitution, vote against H.R. 51 --- the Washington, D.C. Admissions Act --- and protect our constitutional republic.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

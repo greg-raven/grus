@@ -5,12 +5,9 @@ categories:
 - letter
 tags:
 - border control
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
-During his primetime address, President Trump reiterated the need for more resources at the border, notably $5.7 billion for new fencing, to combat illegal immigration and mitigate the harm it causes:
+During his primetime address, President Donald J. Trump reiterated the need for more resources at the border, notably $5.7 billion for new fencing, to combat illegal immigration and mitigate the harm it causes:
 
 > "We have requested more agents, immigration judges, and bed space to process the sharp rise in unlawful migration fueled by our very strong economy. Our plan also contains an urgent request for humanitarian assistance and medical support ...
 >
@@ -23,3 +20,6 @@ It is important that Congress passes the necessary legislation to secure our sou
 Contact me if you would like to talk about this,
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

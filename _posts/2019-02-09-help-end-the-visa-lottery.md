@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 - visa lottery
 ---
 
@@ -16,3 +15,6 @@ More than half of all immigrant families with children are on welfare and 90% of
 Please cosponsor H.R. 479 and help to end the problem!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

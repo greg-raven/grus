@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Paul Cook
 ---
 
 The bipartisan Legal Workforce Act would phase in mandatory use of the E-Verify system, thereby preventing illegal aliens from finding work. The bill also contains provisions to combat identity theft. Please cosponsor it today!
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We must do everything possible to favor existing U.S. citizens and discourage foreigners --- especially illegal foreigners. A nation without borders is not a nation.
+
+Sent to:
+: Paul Cook

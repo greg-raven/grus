@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I am glad you voted in favor of H.R. 5272. Please continue to do all you can to stop President Obama's pro-illegal alien policies.
@@ -17,3 +16,6 @@ Thank you for working to solve our nation's illegal immigration problem.
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

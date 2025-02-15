@@ -7,7 +7,7 @@ tags:
 - government
 ---
 
-I've learned that Nancy Pelosi and more radical elements of the Democratic Party in Congress have officially launched impeachment proceedings against President Trump.
+I've learned that Nancy Pelosi and more radical elements of the Democratic Party in Congress have officially launched impeachment proceedings against President Donald J. Trump.
 
 As a FreedomWorks activist, I urge you to ignore the unhinged propaganda from the Left, listen to the American people, and OPPOSE this impeachment crusade.
 

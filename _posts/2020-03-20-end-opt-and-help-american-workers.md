@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Paul Cook
 ---
 
 Please cosponsor H.R. 3564 to end the OPT program.
@@ -18,3 +17,6 @@ It makes no sense to give foreign STEM graduates of U.S. universities a 36-month
 American and legal immigrant STEM graduates need a level playing field. I hope you will cosponsor H.R. 3564, the Fairness for High-Skilled Americans Act, to end the OPT program and help STEM graduates get to work.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

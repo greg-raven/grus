@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 America's current immigration levels are far too high. Please work to reduce current immigration levels to fall in line with traditional levels.
@@ -19,3 +16,6 @@ For the first 200 years of its existence, the United States admitted about 250,0
 I implore you to look at the numbers. You will find that America is indeed taking in far too many immigrants than it can handle. You and your friends and colleagues in Congress can act to reduce these numbers so that America's unemployed and underemployed have a decent chance of finding a job.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

@@ -7,7 +7,7 @@ tags:
 - illegal aliens
 ---
 
-I hope you will take the time to read the attached op-ed from The Hill. Sanctuary cities need to be eliminated and this article makes that case well.
+I hope you will take the time to read the attached op-ed from *The Hill.* Sanctuary cities need to be eliminated and this article makes that case well.
 
 Sanctuary cities make our entire country less safe by refusing to hand over illegal aliens to ICE for removal proceedings, even if the illegal aliens have a criminal record. The arrogance of these localities is beyond belief and has resulted in the deaths of innocent Americans. By attempting to protect illegal aliens from deportation, they are knowingly and wantonly harboring dangerous illegal aliens.
 

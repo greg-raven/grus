@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 House Minority Leader Nancy Pelosi and several pro-amnesty Senators have made it clear that they will use any House-passed immigration legislation to get their "Gang of Eight" amnesty to President Obama's desk. Rep. Steve Stockman has written a letter to Speaker John Boehner warning of this eventuality and asks him to make sure no immigration legislation reaches the House floor unless it can be guaranteed that it will not be conferenced with Senate-passed comprehensive immigration bills. Please sign this letter and make it clear you do not want sensible House-passed immigration legislation to be used to pass the Senate's amnesty bill.
@@ -37,3 +36,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Please help keep Boehner on the straight and narrow. He seems to like to wander off onto the Dark Side whenever possible. Thanks.
+
+Sent to:
+: Paul Cook

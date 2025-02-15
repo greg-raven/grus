@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - birthright citizenship
-- Paul Cook
 ---
 
 Birthright citizenship is an outdated practice that lures foreign nationals to the United States so their unborn children can become U.S. citizens. Please work to end this policy that most industrialized nations have already abandoned.
@@ -21,3 +20,6 @@ The American people, and our nation's future generations, are depending on you t
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

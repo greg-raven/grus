@@ -7,8 +7,6 @@ tags:
 - amnesty
 - chain migration
 - E-Verify
-- Dianne Feinstein
-- Kamala Harris
 - visa lottery
 ---
 
@@ -25,3 +23,6 @@ Moreover, this amnesty "compromise" doesn't apply to only DACA recipients, but i
 Please do not support the Durbin-Graham-Flake amnesty deal, it is simply a mass amnesty in sheep's clothing.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

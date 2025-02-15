@@ -15,7 +15,7 @@ I hope you will oppose any effort to give amnesty to illegal aliens and I hope y
 
 Phone me if you would like to talk about this.
 
- {% include signature.html %}
+{% include signature.html %}
 
 P.S. Especially with Gavin Newsome giving away even more free medical care to anyone who can drag his carcass across the border, it is now or never to preserve what is left of our once-beautiful, once-prosperous state.
 

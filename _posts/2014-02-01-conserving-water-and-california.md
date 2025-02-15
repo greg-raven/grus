@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - California
-- Jerry Brown
 - immigration
 ---
 
@@ -26,3 +25,8 @@ At the time you signed these three pieces of legislation, the state unemployment
 If you were to obey your oath of office and uphold the law, you would see to it that illegal aliens were removed from the state by any means necessary. This would net us a 10 percent savings in water consumption immediately. Not only that, it would relieve the tremendous burdens illegal aliens place on our infrastructure, legal system, medical establishments, and ecosystem. Just as importantly, it would show that we are governed by laws, not by feelings and emotions, and that if you break the laws, you are punished, not rewarded.
 
 If you are really serious about fixing California, then you must follow and obey the law, and evict the illegal aliens from California. I fear, however, that you like so may others are merely a demagogue, and have no intention of fixing anything.
+
+{% include signature.html %}
+
+Sent to:
+: Jerry Brown

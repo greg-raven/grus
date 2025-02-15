@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Dianne Feinstein
 ---
 
 Nature needs half, S.372 is just a beginning.
@@ -18,3 +17,6 @@ Udall's contemporary, the late Earth Day founder Sen. Gaylord Nelson agreed, say
 The Census Bureau projects that we will add another 80 million people by the 2060s. That's like adding the combined populations of California, Colorado, Oregon, New Mexico, Illinois, New Jersey, and Maryland! Despite the worthy goals of S.Res.372, Congress appears resolved to continue its record of failure and further delay our environmental goals.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein

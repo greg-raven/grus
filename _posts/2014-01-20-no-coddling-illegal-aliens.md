@@ -6,12 +6,11 @@ categories:
 tags:
 - amnesty
 - population
-- Paul Cook
 ---
 
 Why are House Republican leadership aides telling reporters that your party is planning a push to give illegal aliens work permits? I hope this isn't true.
 
-The Wall Street Journal is reporting:
+The *Wall Street Journal* is reporting:
 
 > "Legislation is being developed by House Republicans that wouldn't exclude citizenship for those here illegally. But it rejects what many Republicans see as a 'special path' not available to would-be immigrants who didn't break the law."
 
@@ -32,3 +31,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. "A nation without borders is not a nation." --- Ronald Reagan
+
+Sent to:
+: Paul Cook

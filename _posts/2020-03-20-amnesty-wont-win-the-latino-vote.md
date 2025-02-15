@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Republicans won't win the Latino vote by supporting amnesty.
@@ -18,6 +17,9 @@ It seems that the Republican Party is always trying to win a greater share of th
 >
 > Trump doesn't need amnesty to increase his support among Hispanic voters because, according to both state and national polls, he's already improved significantly from where he was four years ago. In Florida, 45% of Hispanics say they will vote for Trump on Election Day, up from 35% in 2016. Polls in Texas show that 41% of Hispanics favor Trump in 2020, up from 34% last time. Even in Trump's home state of New York, his support among Latinos is at 32%, up nine points from four years prior.
 
-It's clear that President Trump's failure to support an amnesty for illegal aliens hasn't hurt his standing among Latino voters. I hope your party doesn't try to pick up even more of the Latino vote by supporting amnesty.
+It's clear that President Donald J. Trump's failure to support an amnesty for illegal aliens hasn't hurt his standing among Latino voters. I hope your party doesn't try to pick up even more of the Latino vote by supporting amnesty.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

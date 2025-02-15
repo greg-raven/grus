@@ -15,7 +15,7 @@ In just a matter of weeks, our country has gone from having the lowest unemploym
 
 Public health and safety depend on more than dedicated doctors and nurses. They depend on an economy that allows people like me to provide for their families and support their friends and communities. If our economy collapses and takes YEARS to recover, countless Americans will be MORE vulnerable to viruses like COVID-19.
 
-Please, President Trump, I urge you to think about the countless Americans in our country, struggling to provide for their families. I urge you to reject the Fake News Media and keep up the fight to reopen America.
+Please, President Donald J. Trump, I urge you to think about the countless Americans in our country, struggling to provide for their families. I urge you to reject the Fake News Media and keep up the fight to reopen America.
 
 {% include signature.html %}
 

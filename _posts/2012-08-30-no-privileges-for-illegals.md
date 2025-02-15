@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - California
-- Jerry Brown
 - illegal aliens
 ---
 
@@ -24,3 +23,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. If we do not observe the rule of law our nation is lost.
+
+Sent to:
+: Jerry Brown

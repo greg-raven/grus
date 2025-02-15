@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Dianne Feinstein
 ---
 
 I'm disappointed to learn that you want to double immigration.
@@ -20,3 +19,6 @@ This immigration bill benefits unscrupulous employers who hire illegally, illega
 I didn't vote for this, and I'd like you to withdraw your co-sponsorship from the U.S. Citizenship Act.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein

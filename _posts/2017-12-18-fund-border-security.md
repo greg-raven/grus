@@ -6,9 +6,6 @@ categories:
 tags:
 - border control
 - national security
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I urge you to support spending legislation for FY18 that will fund border improvements along the southern border.
@@ -24,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. We must defend our borders to protect our country, our culture, and our lifestyle.
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

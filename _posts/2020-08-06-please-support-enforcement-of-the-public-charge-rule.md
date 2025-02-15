@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I was saddened to hear that New York District Judge George Daniels halted the Trump Administration's Public Charge rule, again, even after the Supreme Court struck down an identical nationwide injunction put in place by Daniels in January.
@@ -17,3 +14,6 @@ Public charge exclusions are among the first and most consistent immigration law
 Now, Congressional action may be the only way to ensure that the Public Charge rule is implemented and enforced. Please support legislation that puts disadvantaged Americans first, and support the Administration's expanded public charge rule.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 - visa lottery
 ---
 
@@ -22,3 +21,6 @@ Please help secure our nation and protect jobs for unemployed Americans by cospo
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

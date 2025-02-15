@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Dianne Feinstein
-- Kamala Harris
 - visa lottery
 ---
 
@@ -26,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. American citizens must be the priority, not immigrants, and certainly not refugees.
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

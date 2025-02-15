@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Secretary of the Department of Homeland Security John Kelly issued two memos today that cleared out most of the rubbish of past Administration internal memos and basically declared that federal law enforcement officers are now free to apply any law that Congress passed to discourage illegal immigration.
@@ -23,3 +20,6 @@ I hope you will do all you can to support Secretary Kelly's actions, including m
 Call me if you want to discuss this,
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

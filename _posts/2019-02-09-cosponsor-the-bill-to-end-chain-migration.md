@@ -6,7 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Paul Cook
 ---
 
 Please consider supporting H.R. 891, the Nuclear Family Priority Act, to end chain migration.
@@ -16,3 +15,6 @@ Ending chain migration was one of the top recommendations of the Jordan Commissi
 Please cosponsor H.R. 891, the Nuclear Family Priority Act, and help solve America's immigration problem.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

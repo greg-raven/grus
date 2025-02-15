@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I was heartened by the results of a new poll, which found that likely American voters overwhelmingly want to reform our immigration system to serve the national interest and work for the American people by ending Chain Migration.
@@ -21,3 +18,6 @@ The poll also asked at what level immigration to the U.S. should be kept and 60%
 It's clear that the American people --- and American voters --- want our immigration system changed. Congress should not amnesty DACA recipients without ending chain migration and mandating the use of the E-Verify system. In addition, Congress must consider reducing immigration levels to a more sustainable level of fewer than 500,000 per year.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

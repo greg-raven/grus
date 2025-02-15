@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
 ---
 
 Rep. Mike Coffman (R-Colo.) announced last week that he will start a Discharge Petition in the House to force a floor vote on his BRIDGE Act that would make Deferred Action for Childhood Arrivals (DACA) permanent --- the unconstitutional Obama executive amnesty that allows younger illegal aliens to receive work permits.
@@ -19,3 +18,6 @@ I am writing to urge you: Do not sign Coffman's petition. Do not cosponsor it, o
 End DACA, end special favors for illegals, end special favors that elevate one class above others, and end the attacks on legal American workers.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -6,7 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Paul Cook
 ---
 
 I urge you to cosponsor H.R. 891, the Nuclear Family Priority Act.
@@ -18,3 +17,6 @@ While ending chain migration would directly reduce overall immigration by around
 Please cosponsor H.R. 891, the Nuclear Family Priority Act, and help solve America's immigration problem.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - border control
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Please focus on securing the border, not on amnestying illegal aliens!
@@ -19,3 +16,6 @@ Please support legislation to construct additional border fencing, increase the 
 Contact me if you want to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

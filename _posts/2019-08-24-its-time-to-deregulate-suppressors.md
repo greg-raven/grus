@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Paul Cook
 ---
 
 Anti-gun advocates are waging war against the Second Amendment, but you have the opportunity to stand up for the God-given rights of millions of Americans.
@@ -17,3 +16,6 @@ Suppressors are a common firearm accessory, and even the ATF considers their reg
 I agree with Gun Owners of America that suppressors should not be regulated as an NFA item. Period. So please SUPPORT legislation like H.R. 775 and S. 202, which would end this unconstitutional regulation and allow suppressors to be treated just like every other firearm accessory.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

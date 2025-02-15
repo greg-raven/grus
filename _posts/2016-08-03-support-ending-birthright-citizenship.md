@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
 ---
 
 Birthright citizenship leads to more unemployed citizens and legal immigrant workers by making it more difficult to remove illegal workers who have U.S.-born children. Please cosponsor H.R. 140, the Birthright Citizenship Act, to end this practice.
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Even though birthright citizenship is not the law in the U.S., we must make this explicit.
+
+Sent to:
+: Paul Cook

@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Dianne Feinstein
 - visa lottery
 ---
 
@@ -22,3 +21,5 @@ I urge you to support American workers by opposing the U.S. Citizenship Act of 2
 
 {% include signature.html %}
 
+Sent to:
+: Dianne Feinstein

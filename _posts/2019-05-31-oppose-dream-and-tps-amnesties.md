@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Please oppose any dangerous pro-criminal amnesty, including the proposed DREAM and TPS Amnesties currently before you.
@@ -17,3 +16,6 @@ Both of these pieces of legislation would allow repeat criminal offenders, inclu
 I hope you will vote "NO" on H.R. 2820, the DREAM Act amnesty, and H.R. 2821, the TPS amnesty. It would be a huge mistake to pass these open-ended amnesties while there is a perpetual crisis at the border.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

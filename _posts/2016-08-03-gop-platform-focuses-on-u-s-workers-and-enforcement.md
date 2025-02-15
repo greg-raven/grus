@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 ---
 
 We are glad that the Republican Party, as part of its new platform, has decided to focus on immigration enforcement and protecting American workers. We hope you will do all you can to see these policies made into law.
@@ -23,3 +22,6 @@ I am glad that the Republican Party understands that immigration needs to be lim
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

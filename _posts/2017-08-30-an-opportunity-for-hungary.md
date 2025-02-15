@@ -7,11 +7,6 @@ tags:
 - population
 ---
 
-Prime Minister Viktor Orbán
-1357 Budapest, Pf. 6.
-
-Your Excellency,
-
 Mr. George Soros has made attacking Christian civilization his life's work. His worldwide efforts along these lines have been serious and substantial.
 
 What most do not know is that his efforts within the United States of America have been even more dangerous and effective. Where Hungary has a population of fewer than ten million souls, in the United States alone Mr. Soros has been able to destroy the funding of news agencies that have more than 40 million readers.
@@ -29,4 +24,6 @@ The support of these news agencies will be a substantial financial boon to Hunga
 Whatever you think of this proposal, I wish to thank you for standing up for Europe, and for western civilization.
 
 {% include signature.html %}
- 92307
+
+Sent to:
+: Viktor Orbán

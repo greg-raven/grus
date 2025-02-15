@@ -7,7 +7,6 @@ tags:
 - chain migration
 - immigration
 - population
-- Paul Cook
 ---
 
 It would help all unemployed Americans if you were to cosponsor Rep. Jody Hice's Nuclear Family Priority Act (H.R. 604).
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. After you voted last year to continue supporting Obama's illegitimate government-by-fiat, your staff promised us you'd get tough on illegal immigration. Get going!
+
+Sent to:
+: Paul Cook

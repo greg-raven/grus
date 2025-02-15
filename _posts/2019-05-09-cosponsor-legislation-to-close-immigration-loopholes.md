@@ -5,10 +5,9 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 ---
 
- Please cosponsor H.R. 586, the Fix the Immigration Loopholes Act.
+Please cosponsor H.R. 586, the Fix the Immigration Loopholes Act.
 
 H.R. 586, Rep. Doug Collins' Fix the Immigration Loopholes Act, would help to streamline asylum claims by closing the credible fear loophole for asylum seekers and by modifying the Flores settlement to allow to hold minors for more than 20 days.
 
@@ -16,6 +15,9 @@ The current way asylum claims are processed is slow, cumbersome, and prevents fr
 
 The 1997 Flores Settlement prevents youths from being detained for more than 20 days. This forces DHS to release entire family units from custody --- not just minors. As a result, from FY16 to April 2018, more than 150,000 family units and 100,000 unaccompanied alien children were released into the interior. This legislation would modify the Flores settlement to allow these family units to be held longer.
 
- Closing the credible fear loophole and modifying the Flores Settlement will do much to contain the current border crisis. I hope you will cosponsor H.R. 586, the Fix the Immigration Loopholes Act, and help to fix our immigration system.
+Closing the credible fear loophole and modifying the Flores Settlement will do much to contain the current border crisis. I hope you will cosponsor H.R. 586, the Fix the Immigration Loopholes Act, and help to fix our immigration system.
 
- {% include signature.html %}
+{% include signature.html %}
+
+Sent to:
+: Paul Cook

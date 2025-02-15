@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Brown
 - California
 ---
 
@@ -21,3 +20,6 @@ Your duty as State Attorney General requires you to fully and faithfully enforce
 Thank you.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Brown

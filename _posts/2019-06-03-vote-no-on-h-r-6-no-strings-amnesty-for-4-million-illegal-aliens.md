@@ -5,14 +5,16 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I was outraged to learn that the House of Representatives will hold a vote on H.R. 6 sometime this week. H.R. 6 is a mass amnesty bill that will give amnesty to millions of Dreamers and TPS recipients --- including gang members, human traffickers, and other criminals --- without doing anything to secure the border. Specifically, Dreamers may have committed serious crimes and still qualify for an amnesty:
 
 - criminals may receive amnesty as long as they haven't committed a felony and haven't committed 3 or more misdemeanors not occurring on the same date and not arising out of the same act, omission, or scheme;
+
 - criminals may receive amnesty if they have been convicted of human smuggling;
+
 - one misdemeanor can be waived if the illegal alien has no convictions during the previous five years; and
+
 - two misdemeanors can be waived if the illegal alien has no convictions during the previous ten years.
 
 It is appalling that Congress is even considering this legislation. Rewarding people who have broken our laws only encourages more people to break the law. Moreover, voting on a no-strings, enforcement-free amnesty while there is a serious crisis at the border is morally repugnant. This legislation, if it passes, would only make the crisis worse and encourage more illegal immigration.
@@ -36,3 +38,6 @@ H.R. 6 is full of waivers for those who have broken the law. For example, TPS re
 This legislation does nothing to benefit the United States, law enforcement, the Border Patrol or USCIS, or the American people; it only benefits those who have broken our laws. Its passage would only serve to make the crisis at the border exponentially worse. I urge you to oppose H.R. 6 when it is voted on later this week.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -105,7 +105,7 @@ Let me be clear: Greed is good. Greed is what compels us to accomplish things in
 
 **Response to belief 11**
 
-The current administration is fascist only because all previous administrations going back to FDR were fascist, if not those that went before. President Trump is the only president ever in the history of the U.S. to substantively cut back the administrative --- i.e. fascist --- state. Note that Trump is doing this even as the country undergoes extremely trying times, which is when wanna-be dictators always attempt to seize more power.
+The current administration is fascist only because all previous administrations going back to FDR were fascist, if not those that went before. President Donald J. Trump is the only president ever in the history of the U.S. to substantively cut back the administrative --- i.e. fascist --- state. Note that Trump is doing this even as the country undergoes extremely trying times, which is when wanna-be dictators always attempt to seize more power.
 
 Furthermore, if you did not complain about fascism under Slick Willy or Barry Soetoro, I invite you to zip it until you know what you are talking about. There are no similarities between the Third Reich and the Trump administration. None. You are thinking of the Obama administration. I challenge anyone to produce facts to the contrary.
 

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Paul Cook
 ---
 
 Thanks for cosponsoring H.R. 250 to mandate E-Verify.
@@ -15,3 +14,6 @@ The Legal Workforce Act would not only require employers to run new hires throug
 Simply put, this bill is an easy and cheap way of putting millions of Americans back to work. Thanks again for cosponsoring H.R. 250 to mandate the use of the E-Verify system!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

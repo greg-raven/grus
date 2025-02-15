@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Yesterday, Rep. Joe Garcia went on a Google+ forum to discuss H.R. 15, the Democrat's amnesty legislation. Unfortunately, it turned out that he was unaware that the legislation would increase unemployment and decrease wages for American workers. I hope you will not make Rep. Garcia's mistake of sponsoring this legislation.
@@ -19,3 +18,6 @@ I hope you will not make the same mistake as Rep. Garcia. Please do not support 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

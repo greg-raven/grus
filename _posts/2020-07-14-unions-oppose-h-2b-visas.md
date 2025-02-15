@@ -5,12 +5,11 @@ categories:
 - letter
 tags:
 - jobs
-- Paul Cook
 ---
 
 Please read union-written H-2B op-ed!
 
-A new op-ed in the Hill explains why the H-2B is travesty for American working men and women. Dennis Martire, the vice president and regional manager of the Mid-Atlantic Region of the Laborers' International Union, wrote:
+A new op-ed in *The Hill* explains why the H-2B is travesty for American working men and women. Dennis Martire, the vice president and regional manager of the Mid-Atlantic Region of the Laborers' International Union, wrote:
 
 > "The H-2B visa program was intended to provide employers with access to temporary non-U.S. workers only if an employer could prove they were unsuccessful at genuinely attempting to hire American workers, and if their business would be irreparably harmed without the help of temporary visa holders.
 >
@@ -23,3 +22,6 @@ A new op-ed in the Hill explains why the H-2B is travesty for American working m
 It's past time for you and your fellow Republican Members of Congress to prove your care about working Americans by passing legislation to reform the H-2B program. Visa programs should benefit our nation as a whole, not just business owners who don't want to pay jobless Americans a living wage.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

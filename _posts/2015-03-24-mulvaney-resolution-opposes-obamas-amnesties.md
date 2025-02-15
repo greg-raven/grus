@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I am glad that you voted against the revised DHS funding bill that stripped amnesty defunding language from the legislation. Please continue to stick up for jobless Americans, the rule of law, and our nation's security by cosponsoring H. Con. Res. 28, introduced by Rep. Mick Mulvaney, which expresses the sense of Congress that President Obama's amnesties are illegal and were not approved by Congress through passage of H.R. 240.
@@ -23,3 +22,6 @@ I hope you will cosponsor H. Con. Res. 28 and prove once more that you are again
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Paul Cook
 ---
 
 Sen. Jeff Sessions has written to the Senate Appropriations Committee urging them to oppose efforts to quadruple H-2B visa numbers to 264,000. I urge you to read his letter and do all you can to support jobless Americans by opposing this massive increase in foreign workers.
@@ -22,3 +21,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop all immigration now!
+
+Sent to:
+: Paul Cook

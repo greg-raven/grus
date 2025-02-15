@@ -7,7 +7,7 @@ tags:
 - judiciary
 ---
 
-As a FreedomWorks activist I'm urging you to confirm President Trump's conservative nominees.
+As a FreedomWorks activist I'm urging you to confirm President Donald J. Trump's conservative nominees.
 
 I understand that right before your August Recess the Senate confirmed just 13 of the president's judicial nominees and dozens of others.
 

@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Brown
 - illegal immigration
 ---
 
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. As a great former governor of California once said, "A country without a border is not a country."
+
+Sent to:
+: Jerry Brown

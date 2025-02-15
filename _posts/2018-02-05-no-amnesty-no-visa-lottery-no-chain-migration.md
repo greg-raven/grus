@@ -7,8 +7,6 @@ tags:
 - amnesty
 - chain migration
 - immigration
-- Dianne Feinstein
-- Kamala Harris
 - visa lottery
 ---
 
@@ -17,3 +15,6 @@ Sens. John McCain (R-Ariz.) and Chris Coons (D-Del.) have introduced legislation
 The next item on the agenda is to reform our immigration laws so that they serve the American people. That means ending chain migration and the visa lottery, while ensuring our southern border is secured, and lowering overall immigration from whatever source.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

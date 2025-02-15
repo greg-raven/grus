@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Paul Cook
 ---
 
 Recently, Rep. Don Beyer was fact checked on his claim that U.S. population would actually shrink if legal immigration were reduced, but his claim was rated "mostly false" by Politifact. I hope you will not believe anyone who says that mass immigration is required to grow or sustain America's population.
@@ -22,3 +21,6 @@ Moreover, Politifact stated that America's population would continue to grow aft
 I hope you will read Pew's research and accept that America doesn't need mass immigration to thrive.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

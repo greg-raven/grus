@@ -46,7 +46,7 @@ Who knows WHAT future administrations may do with the can of worms this bill ope
 
 This may astonish and outrage you more:
 
- Like the previous DREAM Act bills, the bill states that no amnesty will be granted to those who've served a year in prison or who've had three convictions on separate dates resulting in 90 days in jail. Also says no domestic abusers and human smugglers or illegal voters, etc., qualify. But believe it or not, the bill specifically allows the government to waive the disqualifications, even to allow domestic abusers to stay. See here:
+Like the previous DREAM Act bills, the bill states that no amnesty will be granted to those who've served a year in prison or who've had three convictions on separate dates resulting in 90 days in jail. Also says no domestic abusers and human smugglers or illegal voters, etc., qualify. But believe it or not, the bill specifically allows the government to waive the disqualifications, even to allow domestic abusers to stay. See here:
 
 > "... Permitting the Secretary to waive select inadmissibility bars and crimes of domestic violence for humanitarian purposes, family unity, or if the waiver is otherwise in the public interest."
 
@@ -67,9 +67,13 @@ Here is what the "Dream and Promise Act of 2019" DOESN'T do. The bill DOES NOT:
 The American people gain NOTHING from this "Dreamers and Promise Act of 2019." Each of us must oppose this bill by contacting our representatives, and by supporting [NumbersUSA](https://www.numbersusa.com/donate). Why?
 
 - NumbersUSA will mobilize other NumbersUSA members to contact their members of Congress, using their toll-free phone lines and free, one-step faxing system. This will bombard Congress with faxes, e-mails, and phone calls in opposition to amnesty.
+
 - They will be notifying activists of congressional town halls all spring and summer long.
+
 - They already have begun alerting their seven million Facebook fans to contact key elected officials representing them who could support this amnesty.
+
 - Their Capitol Hill team is working with allies on the Hill, to do everything to stop this amnesty.
+
 - They will apply the heaviest pressure to newly-elected Democrats, especially in swing districts, to convince them their constituents won't tolerate the fact that they're siding with illegal aliens over their own country's citizens.
 
 The crisis at our southern border is real, and it is getting worse. If we don't act now, we could lose everything.

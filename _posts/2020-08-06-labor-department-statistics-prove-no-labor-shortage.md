@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 According to recent statistics released by the Labor Department, there has been some improvement in the current jobs crisis facing American workers. Sadly, there is much work to be done in reversing the disastrous effects the COVID-19 panic has had on our economy and labor force.
@@ -17,3 +14,6 @@ The current 18.1 million unemployed and the worrying 55.1 million working-age Am
 Please support legislation that reduces overall immigration to give Americans a fair shake in our current labor market; there are no jobs Americans won't do.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

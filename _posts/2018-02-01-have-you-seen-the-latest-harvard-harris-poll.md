@@ -6,9 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 - visa lottery
 ---
 
@@ -25,3 +22,6 @@ I wanted to tell you about a new Harvard-Harris poll of registered voters. It fo
 It is clear that American voters are against any efforts to increase immigration or give DACA recipients a deal that doesn't end chain migration or the visa lottery. I urge you to take heed of this poll and refuse to accept a DACA deal that doesn't end chain migration or the visa lottery.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

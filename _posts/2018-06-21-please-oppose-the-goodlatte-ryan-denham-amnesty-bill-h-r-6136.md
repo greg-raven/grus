@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Paul Cook
 ---
 
 In October of last year, the White House issued an extensive list of immigration principles. Among those principles were ending chain migration, mandating the use of E-Verify, fixing unaccompanied alien children and asylum loopholes, ending sanctuary cities, and improving interior enforcement. The President stated:
@@ -20,3 +19,6 @@ The Goodlatte-Ryan-Denham amnesty, H.R. 6136, not only fails to fulfill the orig
 No amnesty. Not now, not ever!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

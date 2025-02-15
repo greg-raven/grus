@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - border control
-- Paul Cook
 ---
 
 We are glad that President-elect Trump and Vice President-elect Pence are committed to building a fence along the Southern border and that many Republican Members of Congress are committed to making it happen. Existing law already gives the president the authority needed to build a fence, and we hope you'll support President-elect Trump in this effort.
@@ -19,3 +18,6 @@ I hope you will do all you can to support President-elect Trump's effort to comp
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

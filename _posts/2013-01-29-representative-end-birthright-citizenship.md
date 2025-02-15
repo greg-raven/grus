@@ -4,10 +4,8 @@ layout: post
 categories:
 - letter
 tags:
-- Paul Cook
+- birthright citizenship
 ---
-
-Representative Paul Cook
 
 The United States should not reward individuals who have broken our nation's laws. With this in mind, I hope you'll support H.R. 140 offered by Rep. Steve King so that the children of illegal aliens are not rewarded with birthright citizenship.
 
@@ -20,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. "A country without borders is not a country." --- Ronald Reagan.
+
+Sent to:
+: Paul Cook

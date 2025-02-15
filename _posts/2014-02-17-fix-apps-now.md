@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jerry Brown
 - 2nd Amendment
 ---
 
@@ -24,3 +23,6 @@ You, our elected representative, need to make sure that DOJ has 100% confidence 
 Fix APPS now.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Brown

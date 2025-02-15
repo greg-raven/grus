@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Paul Cook
 ---
 
 Please consider the impact of mass immigration on the quality of life of your constituents.
@@ -22,3 +21,6 @@ The current level of immigration is the reason the U.S. population is growing so
 Many voters like myself recognize that bigger is not always better. Does Congress?
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

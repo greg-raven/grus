@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 ---
 
 I cannot understand your vote in favor of H.R. 1004.
@@ -19,3 +18,6 @@ I hope you will consider the impact of legislation on American workers whenever 
 Phone me if you would like to talk about this,
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

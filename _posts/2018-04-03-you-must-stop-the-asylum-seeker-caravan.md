@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 I hope you are contemplating what can be done to prevent the caravan of Central American economic migrants from illegally entering the U.S. and claiming asylum.
@@ -21,3 +18,6 @@ The approaching caravan of economic migrants is proof of this. H.R. 4760 would f
 Please do all you can to get this legislation passed!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

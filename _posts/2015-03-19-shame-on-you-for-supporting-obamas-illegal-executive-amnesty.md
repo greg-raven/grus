@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Kamala Harris
 - amnesty
 ---
 
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Is it because Obama himself is an illegal alien, and you refuse to do anything about that? Your job is to enforce the law, not figure out ways of skirting it when it suits your purposes.
+
+Sent to:
+: Kamala Harris

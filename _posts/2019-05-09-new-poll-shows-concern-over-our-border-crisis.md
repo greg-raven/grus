@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Please take steps to combat border crisis.
@@ -20,4 +17,7 @@ Americans understand there is a crisis, but Congress ignores the problem and hop
 
 I hope you will take this poll's findings seriously and start passing legislation to address the border crisis. If Congress doesn't act to address this crisis we will elect legislators who will.
 
- {% include signature.html %}
+{% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

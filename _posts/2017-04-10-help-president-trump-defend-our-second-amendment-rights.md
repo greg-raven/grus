@@ -1,13 +1,10 @@
 ---
-title: "Help President Trump defend our Second Amendment rights"
+title: "Help President Donald J. Trump defend our Second Amendment rights"
 layout: post
 categories:
 - letter
 tags:
 - 2nd Amendment
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 As your constituent, I ask that you fight to defend, advance, and secure my freedom, as required by your oath of office.
@@ -17,3 +14,6 @@ This includes working to confirm President Donald Trump's political appointees a
 Thank you.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

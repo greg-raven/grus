@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Paul Cook
 ---
 
 It is really important that Congress pass legislation to mandate use of the E-Verify system. E-Verify is easy to use and has the highest satisfaction rates of any government program. Requiring employers to run new hires through E-Verify, as government contractors are already required to do, would prevent the hiring of illegal aliens and make it very hard to remain in the country. If people know that employers are forced to run new hires through E-Verify, fewer people will come to the U.S. illegally in search of work.
@@ -29,3 +28,6 @@ Mandatory E-Verify will UNDO much harm from decades of open-borders policies.
 I have heard that Congress will vote on mandatory legislation before the end of the summer --- I urge you to support it!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

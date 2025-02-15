@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 ---
 
 One of the biggest draws for foreigners who try and come to the United States illegally is a job. By requiring that all employers use E-Verify, the United States can take a giant step towards ending all illegal immigration. I support mandatory E-Verify, I urge you to do so as well.
@@ -17,3 +16,6 @@ Please work with your House colleagues to make E-Verify mandatory for all employ
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

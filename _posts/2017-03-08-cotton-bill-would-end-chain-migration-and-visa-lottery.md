@@ -6,8 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Dianne Feinstein
-- Kamala Harris
 - visa lottery
 ---
 
@@ -20,3 +18,6 @@ Only 1 out of every 15 foreign workers are on a skills-based visa, meaning that 
 Please cosponsor this legislation and work to secure its passage. Immigration needs to serve the national interest, not harm American workers.
 
 {% include signature.html %}
+
+Sent to:
+: Dianne Feinstein, Kamala Harris

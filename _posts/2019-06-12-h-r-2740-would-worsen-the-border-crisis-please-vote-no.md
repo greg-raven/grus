@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - border control
-- Paul Cook
 ---
 
 H.R. 2740 only benefits drug cartels and people traffickers --- please oppose it!
@@ -19,3 +18,6 @@ Furthermore, it allows DACA recipients to obtain jobs in with the federal govern
 While much of this spending bill has nothing to do with immigration, these provisions would significantly hamper the government's ability to secure the border, and I urge you to vote no!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

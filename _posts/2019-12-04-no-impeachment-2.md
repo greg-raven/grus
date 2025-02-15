@@ -15,7 +15,7 @@ Second, your "inquiry" is constitutionally invalid and violates basic due proces
 
 Third, the invalid "impeachment inquiry" plainly seeks to reverse the election of 2016 and to influence the election of 2020.
 
-Fourth, the so-called investigation into these matters is a diversion created to hide and/or minimize serious crimes, misfeasance, and malfeasance by Democrats and members of the Deep State, which often includes falsely accusing President Trump of exactly what Democrats are (and have been) doing.
+Fourth, the so-called investigation into these matters is a diversion created to hide and/or minimize serious crimes, misfeasance, and malfeasance by Democrats and members of the Deep State, which often includes falsely accusing President Donald J. Trump of exactly what Democrats are (and have been) doing.
 
 Fifth, the committees' actions raise serious questions about the members of these committees, their witnesses, and the bad actors the committees are trying to protect. Your desperation is palpable.
 

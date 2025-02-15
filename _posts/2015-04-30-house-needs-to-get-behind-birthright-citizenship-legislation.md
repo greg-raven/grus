@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
 ---
 
 Passing the Birthright Citizenship Act of 2015 is key to stopping the flow of illegal aliens across our borders. While the United States continues to grant citizenship to the children of illegal aliens, illegal aliens will still have an incentive to risk their lives in an attempt to come to this country illegally. I urge you, for the sake of all involved, to cosponsor H.R. 140, the Birthright Citizenship Act of 2015.
@@ -17,3 +16,6 @@ President Obama's decision to amnesty illegal aliens with U.S.-born children is 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

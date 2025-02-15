@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Paul Cook
 - visa lottery
 ---
 
@@ -17,3 +16,6 @@ Thank you for supporting H.R. 4760, the Securing America's future act! This legi
 Thank you again and please continue to support immigration enforcement and sensible immigration changes and be sure to oppose terrible immigration bills such as the Ryan "compromise."
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

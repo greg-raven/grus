@@ -15,7 +15,7 @@ In just a matter of weeks, our country has gone from having the lowest unemploym
 
 Public health and safety depend on more than dedicated doctors and nurses. They depend on an economy that allows people like me to provide for their families and support their friends and communities. If our economy collapses and takes YEARS to recover, countless Americans will be MORE vulnerable to viruses like COVID-19.
 
-Please, Governor Newsom, I urge you to think about the countless Americans in our state, struggling to provide for their families. Stand with President Trump, and help him reopen America.
+Please, Governor Newsom, I urge you to think about the countless Americans in our state, struggling to provide for their families. Stand with President Donald J. Trump, and help him reopen America.
 
 {% include signature.html %}
 

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 - visa lottery
 ---
 
@@ -20,3 +19,6 @@ I urge you to cosponsor H.R. 2278 and help to end this needless waste of taxpaye
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

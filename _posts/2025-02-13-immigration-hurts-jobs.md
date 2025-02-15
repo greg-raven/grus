@@ -18,4 +18,3 @@ It is the responsibility of this Congress to reduce immigration to levels that c
 
 Sent to:
 : Alex Padilla, Adam Schiff, Jay Obernolte
- 

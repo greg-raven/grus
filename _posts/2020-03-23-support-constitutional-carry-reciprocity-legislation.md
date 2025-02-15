@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Have you cosponsored the concealed carry reciprocity bill?
@@ -29,3 +26,6 @@ Sometime between now and the end of Congress, there will come a time when curren
 Gun Owners of America will keep me informed as to what happens on this important issue.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

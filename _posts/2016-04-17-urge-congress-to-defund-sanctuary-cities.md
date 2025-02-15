@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
 ---
 
 It is appalling that after the deaths of Kate Steinle and numerous other innocent Americans, Congress has still not acted to reign in sanctuary cities. I urge you to stand up for the rule of law and American lives by doing all you can to make sure sanctuary cities are defunded as part of the FY2017 appropriations process.
@@ -19,3 +18,6 @@ During a Senate hearing into sanctuary jurisdictions hosted Laura Wilkerson, who
 Sanctuary cities break the law and put American lives at risk. There are no grey areas in this debate: these localities break the law and need to be stopped. Please use the FY2017 appropriations process to defund the localities and force them to abide by the rule of law. Failing to do so will result in the deaths of more innocent Americans.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

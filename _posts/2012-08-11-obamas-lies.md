@@ -59,7 +59,7 @@ https://nation.foxnews.com/border-fence/2011/05/10/obama-claims-border-fence-bas
 **Rich doesn't pay their fair share.**
 https://ntu.org/tax-basics/who-pays-income-taxes.html
 
- **Mitt Romney would deny gay people the right to adopt children.**
+**Mitt Romney would deny gay people the right to adopt children.**
 https://www.youtube.com/watch?v=gMWphSqLRmE
 
 ### Lies During Second Year

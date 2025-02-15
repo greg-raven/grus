@@ -31,7 +31,7 @@ Judge Kavanaugh's academic credentials are superb.
 
 After graduating with honors from Yale College in 1987, Judge Kavanaugh graduated from Yale Law School in 1990, where he was a Notes Editor on the Yale Law Journal. He clerked for Justice Anthony Kennedy of the Supreme Court, Ninth Circuit Judge Alex Kozinski, and Third Circuit Judge Walter Stapleton.
 
-In announcing Kavanaugh's nomination, President Trump said:
+In announcing Kavanaugh's nomination, President Donald J. Trump said:
 
 > "What matters is not a judge's political views, but whether they can set aside those views to do what the law and the Constitution require. I am pleased to say that I have found, without doubt, such a person."
 

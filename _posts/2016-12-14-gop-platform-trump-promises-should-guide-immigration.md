@@ -6,10 +6,9 @@ categories:
 tags:
 - illegal immigration
 - immigration
-- Paul Cook
 ---
 
-I am glad that the Republican Party's immigration platform closely matched many of President-elect Trump's immigration enforcement pledges. I urge you to work with the incoming president to make these pledges into law.
+I am glad that the Republican Party's immigration platform closely matched many of President-elect Donald J. Trump's immigration enforcement pledges. I urge you to work with the incoming president to make these pledges into law.
 
 I was pleased that the GOP is taking the lead on protecting our nation and protecting American workers. I was pleased to read in the Republican platform that:
 
@@ -26,3 +25,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Just like Bill Clinton promised in his 1995 State of the Union address.
+
+Sent to:
+: Paul Cook

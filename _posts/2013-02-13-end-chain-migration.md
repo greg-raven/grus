@@ -7,7 +7,6 @@ tags:
 - chain migration
 - immigration
 - population
-- Paul Cook
 ---
 
 It would help all unemployed Americans if you were to cosponsor Rep. Phil Gingrey's Nuclear Family Priority Act (H.R. 477)!
@@ -21,3 +20,6 @@ You can help to solve this problem by cosponsoring H.R. 477. I hope you will do 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

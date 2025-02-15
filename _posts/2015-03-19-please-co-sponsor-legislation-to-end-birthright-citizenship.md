@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 ---
 
 An op-ed in a recent edition of *USA Today* explains how birthright citizenship loopholes are exploited by illegal workers and tourists, and lead to more unemployed citizens and legal immigrant workers. I hope you will read this editorial and act to change the current (unacceptable) situation by cosponsoring Rep. Steve King's H.R. 140.
@@ -19,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. After you voted last year to continue supporting Obama's illegitimate government-by-fiat, your staff promised us you'd get tough on illegal immigration. Get going!
+
+Sent to:
+: Paul Cook

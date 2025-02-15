@@ -9,7 +9,7 @@ tags:
 
 I urge you to not sign any relevant spending legislation that does not fund the border requests listed in the White House's FY2018 proposed budget. For too long, the federal government has ignored border security, and I'm confident that the President's request for funding would reduce illegal immigration at the border and strengthen national security.
 
-Our country is suffering from decades of lax enforcement and it's time that immigration laws are enforced and our border is secured. President Trump should refuse to sign any legislation --- omnibus bill, continuing resolution, or appropriations bill --- that does not:
+Our country is suffering from decades of lax enforcement and it's time that immigration laws are enforced and our border is secured. President Donald J. Trump should refuse to sign any legislation --- omnibus bill, continuing resolution, or appropriations bill --- that does not:
 
 - fund the completion of the Secure Fence Act passed by Congress in 2006;
 

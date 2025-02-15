@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I realize that you want to express your concern for President Obama's decision to unilaterally amnesty millions of illegal aliens. However, proposing or backing standalone legislation that denounces, or even defunds, the amnesty will simply not work. The only possible way to stop the president's illegal actions is to defund the amnesty in the DHS appropriations bill. Please focus all your attentions there.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Enough screwing around. Your staff promised us action this year. Stop caving in to Obama and the progressives and start landing some punches!
+
+Sent to:
+: Paul Cook

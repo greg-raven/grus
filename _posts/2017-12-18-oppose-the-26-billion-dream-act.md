@@ -6,9 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 The non-partisan Congressional Budget Office (CBO) has released its report on Sens. Lindsey Graham and Dick Durbin's S. 1615, the DREAM Act. The report shows that their legislation would add $26 billion to the deficit over a ten year period. According to the CBO:
@@ -22,3 +19,6 @@ The CBO also found that the DREAM Act would increase chain migration numbers:
 I oppose the DREAM Act and urge you to do the same.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

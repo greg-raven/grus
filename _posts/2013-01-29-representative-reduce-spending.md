@@ -4,10 +4,8 @@ layout: post
 categories:
 - letter
 tags:
-- Paul Cook
+- federal government
 ---
-
-Representative Paul Cook
 
 I am glad you were elected to the House of Representatives. Please do all you can to reign in America's ridiculous spending. You can help to do this by reducing the number of low-skilled immigrants that America imports, costing U.S. taxpayers $89.1 billion per year.
 
@@ -20,3 +18,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Please help fight for America and Americans: STOP immigration; STOP increases to the debt ceiling; STOP further infringements on our 2nd Amendment rights; DISMANTLE the welfare state; REPEAL Obamacare.
+
+Sent to:
+: Paul Cook

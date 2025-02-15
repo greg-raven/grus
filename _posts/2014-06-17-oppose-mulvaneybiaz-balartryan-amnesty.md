@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I cannot understand why Reps. Mulvaney, Diaz-Balart, and Paul Ryan are going against the wishes of their own party by holding whip counts and possibly moving forward with pushing unpopular immigration "reform" legislation. Lobbyists for pro-amnesty groups are bragging about this development. If all goes well for these for these Representatives acting against core Republican principles, they hope to force votes before the August recess. I hope you will make it clear to the House Republican leadership that you will not go along with plans to support amnesty or immigration votes this year.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Stop these idiots from selling out our country!
+
+Sent to:
+: Paul Cook

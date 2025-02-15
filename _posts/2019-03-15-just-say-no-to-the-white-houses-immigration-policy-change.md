@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - chain migration
-- Paul Cook
 - visa lottery
 ---
 
@@ -19,3 +18,6 @@ The economy has improved, but there are still far too many Americans who want a 
 I hope you will oppose efforts to increase immigration numbers. Instead, I urge you to support efforts to reduce immigration numbers by eliminating chain migration and the visa lottery. American workers, and not businesses that want low-cost foreign workers, need to be put first in any immigration discussion.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - illegal aliens
-- Paul Cook
 ---
 
 While I am glad you voted to restrict certain funding to sanctuary localities, Congress must do more to block funding and encourage localities to comply with federal immigration law. The Davis-Oliver Act, H.R. 1148, would block federal law enforcement and SCAAP funding to sanctuary localities and needs to be passed. Please do all you can to make this happen.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I know you feel passionately about this issue, so let's get to work.
+
+Sent to:
+: Paul Cook

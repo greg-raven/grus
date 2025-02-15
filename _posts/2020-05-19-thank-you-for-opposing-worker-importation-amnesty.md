@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Thanks for voting against H.R. 6800!
@@ -15,3 +14,6 @@ H.R. 6800, the American job-destroying HEROES Act, is a terrible bill and I'm gl
 Thank you for opposing this bill and please do all you can to help jobless Americans get back to work.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

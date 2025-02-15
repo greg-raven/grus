@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Paul Cook
 ---
 
 I am ecstatic that the Trump administration has issued executive orders to help reform and repair our nation's broken immigration system. These executive orders fully or partially deal with 6 of NumbersUSA's "10 Steps to Fix Our Broken Immigration-Enforcement System." In addition to passing legislation to support these executive actions, I urge you and your colleagues to pass legislation to mandate use of the E-Verify system.
@@ -17,3 +16,6 @@ I urge you to follow the president's lead and keep the good news American worker
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

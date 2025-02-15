@@ -13,7 +13,7 @@ A few weeks ago, the House Judiciary Committee has approved H.R. 2431, the Davis
 
 The Davis-Oliver Act would strengthen existing immigration enforcement and further empower states and localities to enforce immigration law.
 
-While delivering a campaign speech on immigration last August, President Trump said passing the Davis-Oliver Act was one of his top priorities on immigration.
+While delivering a campaign speech on immigration last August, President Donald J. Trump said passing the Davis-Oliver Act was one of his top priorities on immigration.
 
 The House Judiciary Committee has done its job. It's now time for House Leadership to bring this legislation to the floor for a vote.
 

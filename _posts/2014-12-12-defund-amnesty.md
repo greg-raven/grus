@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Pres. Obama has announced his executive action on immigration that will allow an estimated 5 million illegal aliens to receive deferred action from removal and obtain Social Security numbers and work permits. This is a slap in the face to the 18 million of Americans who want a full-time job, but can't find one and the millions of foreign citizens who are waiting in line.
@@ -19,3 +18,6 @@ You have the power to stop this unlawful action by using Congress' power of the 
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

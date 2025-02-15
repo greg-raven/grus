@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Despite the fact that Republicans campaigned against amnesty and for putting the interests of American workers first, a small group of Republicans is attempting to force the Republican Conference to violate their campaign promises in the middle of a border crisis.
@@ -17,3 +16,6 @@ Despite the fact that Republicans campaigned against amnesty and for putting the
 Please vote NO vote on H.R. 6136!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

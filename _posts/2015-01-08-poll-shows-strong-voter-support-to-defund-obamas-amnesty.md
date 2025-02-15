@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I want to make you aware of a recent poll of Republican voters. "The People's Poll" found that an overwhelming majority of Republican voters, not only oppose President Obama's executive actions granting amnesty and work permits to millions of illegal aliens, but will not reelect Members of Congress who fund it. I urge you to side with those who elected you by defunding President Obama's amnesty.
@@ -25,3 +24,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. I'm starting to despair about you, given your support for Boehner. Uphold your oath of office and represent us citizens!
+
+Sent to:
+: Paul Cook

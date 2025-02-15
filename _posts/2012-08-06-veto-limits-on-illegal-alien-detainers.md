@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - California
-- Jerry Brown
 - illegal aliens
 - immigration
 ---
@@ -23,3 +22,6 @@ It is your duty to protect Californians, not throw us under the bus. Veto A.B. 1
 Phone me if you would like to talk about this.
 
 {% include signature.html %}
+
+Sent to:
+: Jerry Brown

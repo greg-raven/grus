@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - jobs
-- Paul Cook
 ---
 
 Members of Congress have used past spending bills to increase H-2B visas or to authorize DHS to increase H-2B visas. Please oppose any attempt at doing this in the upcoming spending bill.
@@ -20,3 +19,6 @@ The H-2B program often abused. A recent BuzzFeed expose highlights the misuse of
 Increasing H-2B numbers is bad policy and bad for vulnerable American workers. Please do all you can to ensure the program isn't expanded in any upcoming spending bill.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

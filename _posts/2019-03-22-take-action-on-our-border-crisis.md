@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - illegal immigration
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Please do all you can to end the crisis on the Southern border!
@@ -21,3 +18,6 @@ Immigration courts have a 300% backlog and detention centers are full, forcing I
 You and your colleagues must pass legislation to und more detention beds, fund more immigration judges, close the asylum loophole by strengthening the credible fear standard, and reform the credible fear standard.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

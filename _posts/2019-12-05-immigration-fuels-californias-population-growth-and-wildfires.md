@@ -6,7 +6,6 @@ categories:
 tags:
 - immigration
 - population
-- Paul Cook
 ---
 
 Why are people in California living in fire-prone areas? Because population overgrowth is pushing them there!
@@ -20,3 +19,6 @@ CNBC's John W. Schoen reports in "Warming climate, population sprawl threaten Ca
 So why shouldn't we set immigration at a level that would allow for the U.S. population to stabilize?
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

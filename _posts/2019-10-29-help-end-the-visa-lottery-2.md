@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Paul Cook
 - visa lottery
 ---
 
@@ -18,3 +17,6 @@ Not only do these lottery work permits cost taxpayers money, but they also cost 
 Moreover, the Office of the Inspector General has said that the visa lottery poses a significant threat to our national security. There is no doubt that this program needs to be ended. Please co-sponsor H.R. 479 and help to end the problem!
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

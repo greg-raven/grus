@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Oppose the Democrats' amnesty bill, H.R. 6.
@@ -15,3 +14,6 @@ I was disturbed to learn that your Democratic colleagues will soon introduce leg
 I hope you will do all you can to oppose this legislation.
 
 {% include signature.html %}
+
+Sent to:
+: Paul Cook

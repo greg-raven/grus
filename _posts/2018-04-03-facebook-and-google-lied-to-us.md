@@ -5,9 +5,6 @@ categories:
 - letter
 tags:
 - Internet
-- Paul Cook
-- Dianne Feinstein
-- Kamala Harris
 ---
 
 Facebook and Google lied to us, and they must be stopped.
@@ -29,7 +26,14 @@ Instead, Congress should pass real consumer internet protection legislation to e
 **Five things you need to know about Fake Net Neutrality**
 
 1. Fake Net Neutrality doesn't apply to Google and Facebook.
+
 2. Fake Net Neutrality allows for online censorship and less transparency.
+
 3. Fake Net Neutrality was a result of Google's cozy relationship with Obama.
+
 4. Fake Net Neutrality ignores the near-monopoly power of Google and Facebook.
+
 5. Congressional efforts to protect Fake Net Neutrality by passing the CRA undermine any chance of real net neutrality protections.
+
+Sent to:
+: Paul Cook, Dianne Feinstein, Kamala Harris

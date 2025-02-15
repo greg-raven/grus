@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 Rep. Robert Aderholt has just introduced H.R. 191, the Repeal Executive Amnesty Act of 2015, which would not only defund President Obama's executive actions to grant amnesty and work permits to millions of illegal aliens, but also reverse a number of executive actions taken by the Administration over the last several years. I urge you to tell GOP Leadership to include Rep. Aderholt's bill in the upcoming DHS Appropriations bill.
@@ -23,3 +22,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. Time for you to step up.
+
+Sent to:
+: Paul Cook

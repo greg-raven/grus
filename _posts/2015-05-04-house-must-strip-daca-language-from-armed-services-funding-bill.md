@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Paul Cook
 ---
 
 I cannot understand how the House Armed Services Committee --- a committee on which you serve --- voted to endorse the DACA amnesty as part of the NDAA. Please make sure the military amnesty amendments are not in the final bill.
@@ -21,3 +20,6 @@ Phone me if you would like to talk about this.
 {% include signature.html %}
 
 P.S. You PROMISED you would fight amnesty and illegal immigration after the elections, and then you do this? Illegal aliens didn't elect you, American citizens did, and you need to uphold your oath of office and serve them, instead of criminal foreign invaders.
+
+Sent to:
+: Paul Cook
