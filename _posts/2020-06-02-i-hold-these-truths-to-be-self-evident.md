@@ -13,11 +13,15 @@ I saw this piece posted on Facebook, with an introductory paragraph not found in
 
 This is presented as an example of something called "rational liberalism." This is a problem right off the bat. If something is rational, it is neither liberal nor conservative. It is rational. The author seems to be trying to wrap modern-day liberalism (AKA progressivism) in rationality to give it the intellectual weight it does not have. As an aside, when I looked up "rational liberalism" on DuckDuckGo, the first response on the list was the website Rational Liberal, which has as its motto "more feelings, more outrage." Feelings and outrage certainly are part of today's liberal / progressive mindset, but neither is rational.
 
+---
+
 > 1\. I believe a country should take care of its weakest members. A country cannot call itself civilized when its children, disabled, sick, and elderly are neglected. Period.
 
 **Response to belief 1**
 
 This is typical of liberal dogma: "A country" (or some variation) should do XYZ. What this really means is that the liberal feels that certain things should be done, but rather than doing them herself, she wants others to do --- or at least finance --- them. One interesting aspect of this is that it never matters whether the steps taken to satisfy the feelings of the liberal are efficacious or damaging. As long as something is "being done," it rarely matters if the people who the liberal aims for others to help are being helped or harmed. Should it ever be noted that there is no improvement or that the situation is actually getting worse, there is never reflection that the original impulse was wrong. The response is always to redouble efforts and expenditures, results be damned.
+
+---
 
 > 2\. I believe healthcare is a right, not a privilege. Somehow that's interpreted as "I believe Obamacare is the end-all, be-all." This is not the case. I'm fully aware that the ACA has problems, that a national healthcare system would require everyone to chip in, and that it's impossible to create one that is devoid of flaws, but I have yet to hear an argument against it that makes "let people die because they can't afford healthcare" a better alternative. I believe healthcare should be far cheaper than it is, and that everyone should have access to it. And no, I'm not opposed to paying higher taxes in the name of making that happen.
 
@@ -29,6 +33,8 @@ There are other alternatives than mandatory government healthcare or letting peo
 
 Healthcare should be cheaper and better than it is. Getting it that way requires getting the government completely out of the healthcare business. Government intervention introduces waste and inefficiencies that drive up costs and reduce services. To the extent that our healthcare system is aligned more closely with free-market capitalism, it is affordable and thriving (think laser eye surgery). We already have the best healthcare system in the world, and it would be much, much better if we removed government interference.
 
+---
+
 > 3\. I believe education should be affordable and accessible to everyone. It doesn't necessarily have to be free (though it works in other countries so I'm mystified as to why it can't work in the US), but at the end of the day, there is no excuse for students graduating college saddled with five- or six-figure debt.
 
 **Response to belief 3**
@@ -38,6 +44,8 @@ Another example of conflating disparate issues, and using feel-good sentiments i
 Education is affordable and accessible to everyone in the United States from K-12. There is no requirement that anyone go to a college or university. There are plenty of other options. If you choose to incur a five- or six-figure debt for higher education, you are then responsible for paying your bills. That is part of what becoming an adult is all about. As a child, your parents paid for everything. As a teenager, you begin to pay your own way. Once you attain adulthood, you become responsible for your bills.
 
 The alternatives to this are 1) forcing teachers into involuntary servitude (AKA slavery) to reduce the price of higher education, and 2) forcing those who are not in college to pay for all or part of the bill for those who are, which is also a form of slavery. Slavery is not a valid --- let alone rational or liberal --- alternative.
+
+---
 
 > 4\. I don't believe your money should be taken from you and given to people who don't want to work. I have literally never encountered anyone who believes this. Ever. I just have a massive moral problem with a society where a handful of people can possess the majority of the wealth while there are people literally starving to death, freezing to death, or dying because they can't afford to go to the doctor. Fair wages, lower housing costs, universal healthcare, affordable education, and the wealthy actually paying their share would go a long way toward alleviating this. Somehow believing that makes me a communist.
 
@@ -49,11 +57,15 @@ Others do have a lot of wealth. (Side note: This is not a fixed group, as some d
 
 As for the author not being a communist, it is a slippery slope from socialism (taking money from the productive for the benefit of the unproductive) to fascism (government control of private enterprise, which the author advocates) to communism (government ownership of everything). Once you grant that the government can take money by force, subsequent steps in that direction are incremental, not revolutionary.
 
+---
+
 > 5\. I don't throw around "I'm willing to pay higher taxes" lightly. I'm retired and on a fixed income, but I still pay taxes. If I'm suggesting something that involves paying more, well, it's because I'm fine with paying my share as long as it's actually going to something besides lining corporate pockets or bombing other countries while Americans die without healthcare.
 
 **Response to belief 5**
 
 Taxation equals theft equals slavery. I find it illuminating that the author is once again voicing a pro-slavery position. As Gerald Ford (and others) have said, "A government big enough to give you everything you want is big enough to take away everything you have." If you don't want a government big enough to invade and bomb other countries, then you can't simultaneously advocate for a government big enough to control our healthcare (which represents one-sixth of the massive U.S. economy), to go along with the wasteful, inefficient, corrupt actions and influences of government in other areas.
+
+---
 
 > 6\. I believe companies should be required to pay their employees a decent, livable wage. Somehow this is always interpreted as me wanting burger flippers to be able to afford a penthouse apartment and a Mercedes. What it actually means is that no one should have to work three full-time jobs just to keep their head above water. Restaurant servers should not have to rely on tips, multibillion-dollar companies should not have employees on food stamps, workers shouldn't have to work themselves into the ground just to barely make ends meet, and minimum wage should be enough for someone to work 40 hours and live.
 
@@ -65,6 +77,8 @@ As for employees need food stamps, there should be no food stamp program in the 
 
 There is a truly corrosive aspect of this "living wage" nonsense, though, and it is that if you make others comfortable at a minimum level of achievement, they may not aspire to more, let alone to greatness. Who among us has not faced the situation where we had a job but wanted more for ourselves? Workers who are provided with unearned rewards are less likely to improve themselves, start their own business, or even work harder. Removing the desire for upward mobility would lead to ossification and economic stratification, and be the death of the middle class to the benefit of a fixed upper class. This is why financial inequality is greater under socialism, fascism, and communism than under free-market capitalism.
 
+---
+
 > 7\. I am not anti-Christian. I have no desire to stop Christians from being Christians, to close churches, to ban the Bible, to forbid prayer in school, etc. (BTW, prayer in school is NOT illegal; *compulsory* prayer in school is --- and should be --- illegal). All I ask is that Christians recognize *my* right to live according to *my* beliefs. When I get pissed off that a politician is trying to legislate Scripture into law, I'm not "offended by Christianity" --- I'm offended that you're trying to force me to live by your religion's rules. You know how you get really upset at the thought of Muslims imposing Sharia law on you? That's how I feel about Christians trying to impose biblical law on me. Be a Christian. Do your thing. Just don't force it on me or mine.
 
 **Response to belief 7**
@@ -73,6 +87,8 @@ The United States of America is and should be a Christian nation, but Christians
 
 The rest of this point may sound reasonable. The problem is that it is not the liberal position but rather what liberals would have you believe their position is as they wage war on Christianity. Virtually every aspect of Christianity is under relentless attack in this country. For what it's worth, I am not a Christian but support Christians and Christianity for one simple reason: Without Christianity, we would not have Western civilization and the manifold benefits it has brought to the world. Christianity is not perfect --- nothing man-made is --- but it is centuries ahead of whatever is in second place.
 
+---
+
 > 8\. I don't believe LGBT people should have more rights than you. I just believe they should have the *same* rights as you.
 
 **Response to belief 8**
@@ -80,6 +96,8 @@ The rest of this point may sound reasonable. The problem is that it is not the l
 Another disingenuous statement, presumably made in hopes that the reader is unfamiliar with reality --- or rejects it outright. There are laws on the books that give special status to all manner of deviants and mutants. The only persons in America with no inalienable rights are heterosexual white males. Everyone else has been granted dispensations. LGBTQ+ persons clearly have more rights than heterosexual white citizens, Christians, etc.
 
 If you disagree, please tell me how we transitioned from "keep government out of our bedrooms," to "you must accept what we do in our bedrooms," to "you must support what we do in our bedrooms," to "what we do is superior to what heterosexual cisgender persons do in their bedrooms," to "you must celebrate what we do in our bedrooms," to "the government must promote what we do in our bedrooms."
+
+---
 
 > 9\. I don't believe illegal immigrants should come to America and have the world at their feet, especially since THIS ISN'T WHAT THEY DO (spoiler: undocumented immigrants are ineligible for all those programs they're supposed to be abusing, and if they're "stealing" your job it's because your employer is hiring illegally). I'm not opposed to deporting people who are here illegally, but I believe there are far more humane ways to handle undocumented immigration than our current practices (i.e., detaining children, splitting up families, ending DACA, etc).
 
@@ -97,6 +115,8 @@ As for splitting up families, that happens to citizens, too, when one member of 
 
 As for DACA, the "D" stands for "deferred," as DACA is an acronym for "Deferred Action for Childhood Arrivals." "Deferred" does not mean "amnesty." It means that they will be held to account, but at a later date.
 
+---
+
 > 10\. I don't believe the government should regulate everything, but since greed is such a driving force in our country, we NEED regulations to prevent cut corners, environmental destruction, tainted food/water, unsafe materials in consumable goods or medical equipment, etc. It's not that I want the government's hands in everything --- I just don't trust people trying to make money to ensure that their products/practices/etc. are actually SAFE. Is the government devoid of shadiness? Of course not. But with those regulations in place, consumers have recourse if they're harmed and companies are liable for medical bills, environmental cleanup, etc. Just kind of seems like common sense when the alternative to government regulation is letting companies bring their bottom line into the equation.
 
 **Response to belief 10**
@@ -105,6 +125,8 @@ This is a bare-faced call to fascism. Individuals are greedy, so we need to turn
 
 Let me be clear: Private-sector greed is good. Private-sector greed is what compels us to accomplish things in life. As for controls on Private-sector greed, we already have those in the form of laws that state that no one can legally use force or fraud against another. Anything beyond that is fascism. And as for the government being responsible and accountable, I refer the reader to any country run by communists or dictators. This is important because the difference between a communist dictator and power-mad unelected bureaucrats cannot be detected with the naked eye.
 
+---
+
 > 11\. I believe our current administration is fascist. Not because I dislike them or because I can't get over an election, but because I've spent too many years reading and learning about the Third Reich to miss the similarities. Not because any administration I dislike must be Nazis, but because things are actually mirroring authoritarian and fascist regimes of the past.
 
 **Response to belief 11**
@@ -112,6 +134,8 @@ Let me be clear: Private-sector greed is good. Private-sector greed is what comp
 The current administration is fascist only because all previous administrations going back to FDR were fascist, if not those that went before. President Donald J. Trump is the only president ever in the history of the U.S. to substantively cut back the administrative --- i.e. fascist --- state. Note that Trump is doing this even as the country undergoes extremely trying times, which is when wanna-be dictators always attempt to seize more power.
 
 Furthermore, if you did not complain about fascism under Slick Willy or Barry Soetoro, I invite you to zip it until you know what you are talking about. There are no similarities between the Third Reich and the Trump administration. None. You are thinking of the Obama administration. I challenge anyone to produce facts to the contrary.
+
+---
 
 > 12\. I believe the systemic racism and misogyny in our society is [*sic*] much worse than many people think, and desperately needs [*sic*] to be addressed. Which means those with privilege --- white, straight, male, economic, etc. --- need to start listening, even if you don't like what you're hearing, so we can start dismantling everything that's causing people to be marginalized.
 
@@ -122,6 +146,8 @@ This is word salad that leaves the reader starved. The U.S. is the least racist 
 As for "white privilege," there is no such thing. Straight people are not "privileged," they are the reason we have a civilization at all. Males are not "privileged," as they suffer more than women in any number of life and career categories. And what the heck is economic "privilege," anyway, but an attempt to shame those who have succeeded? Successful persons should not be shamed, they should be held up as examples of what can be accomplished with good decisions, hard work, and perseverance.
 
 The very persons pejoratively singled out by the author in this section are those who have given us virtually everything we enjoy in our modern society. To attack them without even a hint of acknowledgment for what they have provided each of us is the height of ingratitude. To the extent that they are privileged, it is because what they do, works. White, Christian people create societies that have both the prosperity and the freedoms without which there would be no discussion of these issues. Straight people create subsequent generations. Males throughout history have provided and protected. These and other factors are why persons in these categories are in the majority. Calling for those fitting this description to step aside is a cloaked call for the extermination of the White race, and the end of Western civilization. This may be liberal, but it is not rational.
+
+---
 
 > 13\. I am not interested in coming after your blessed guns, nor is anyone serving in government. What I am interested in is sensible policies, including background checks, that just MIGHT save one person's, perhaps a toddler's, life by the hand of someone who should not have a gun. (Got another opinion? Put it on your page, not mine).
 
@@ -139,6 +165,8 @@ One more thing: This version of "gun control" does not work in the real world. I
 
 Finally, everyone needs to bear in mind that without the rights to bear arms guaranteed under the 2nd Amendment, we would not have our other rights as expressed in the other nine original amendments.
 
+---
+
 > 14\. I believe in so-called political correctness. I prefer to think it's social politeness. If call you Chuck and you say you prefer to be called Charles I'll call you Charles. It's the polite thing to do. Not because everyone is a delicate snowflake, but because as Maya Angelou put it, when we know better, we do better. When someone tells you that a term or phrase is more accurate/less hurtful than the one you're using, you now know better. So why not do better? How does it hurt you to NOT hurt another person?
 
 **Response to belief 14**
@@ -148,6 +176,8 @@ Another shift from the real issue to a straw-man issue. If Chuck wants to be cal
 A biological male who wants to be called by female pronouns is not normal. When you attempt to normalize the abnormal, you degrade society. If this biological male pretends to be female, we know better, and we can do better by acknowledging and reinforcing the facts, rather than caving into the delusions of a madman.
 
 As they say, "Sticks and stones may break my bones, but words will never hurt me." If someone is hurt by words, then that is an issue they must handle.
+
+---
 
 > 15\. I believe in funding sustainable energy, including offering education to people currently working in coal or oil so they can change jobs. There are too many sustainable options available for us to continue with coal and oil. Sorry, billionaires. Maybe try investing in something else.
 
@@ -159,6 +189,8 @@ There are no sustainable options that even begin to replace coal, oil, and natur
 
 Truly rational liberals would be calling for more power from nuclear facilities, not the end of coal, oil, and natural gas.
 
+---
+
 > 16\. I believe that women should not be treated as a separate class of human. They should be paid the same as men who do the same work, should have the same rights as men and should be free from abuse. Why on earth shouldn't they be?
 
 **Response to belief 16**
@@ -166,6 +198,8 @@ Truly rational liberals would be calling for more power from nuclear facilities,
 If you believe this, then you must advocate for the reduction of compensation for women, who often make more for equal work than do males. The problem is that men and women usually do not do equal work --- with women working less (or being worth less in the marketplace) than men --- while they demand to be paid the same. Look at it this way, if women were such a bargain for employers, why would any employer ever hire another man? The answer is that when you look at the facts and factors, women are not compensated less than men.
 
 Also, you have to start advocating for the end to abortion, as the "right" to murder defenseless fetuses is currently available to women only.
+
+---
 
 > I think that about covers it. Bottom line is that I'm a liberal because I think we should take care of each other. That doesn't mean you should work 80 hours a week so your lazy neighbor can get all your money. It just means I don't believe there is any scenario in which preventable suffering is an acceptable outcome as long as money is saved.
 
