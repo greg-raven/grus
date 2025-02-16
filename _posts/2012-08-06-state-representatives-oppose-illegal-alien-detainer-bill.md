@@ -9,8 +9,6 @@ tags:
 - immigration
 ---
 
-Senator Sharon Runner:
-
 I strongly oppose the legislation (AB1081) that would turn down ICE requests for detaining illegal immigrants unless the individuals are serious criminals. Voters like me fear the consequences of such a policy and want you to oppose the measure on concurrence.
 
 Limiting detainers allows many criminal illegal immigrants, including those who have not yet been convicted, to escape deportation and return to the streets to commit more crimes.

@@ -11,6 +11,5 @@ Please support Rep. Bishop's Border amendment to the Interior Department spendin
 
 Rep. Bishop's Border Amendment to the Interior Department spending bill would ensure immigration enforcement along the entire border. Please support this bill.
 
-
 Sent to:
 : Jerry Lewis

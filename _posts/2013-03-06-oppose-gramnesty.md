@@ -7,8 +7,6 @@ tags:
 - amnesty
 ---
 
-Senators and Representative:
-
 The anti-amnesty advertisement running in South Carolina echoes my feelings on Sen. Graham's immigration proposal, which puts the interests of people who have abused our immigration system before the interests of legal immigrants and American citizens. I hope you will instead support fulfilling Congress' broken enforcement promises.
 
 For years, Sen. Lindsey Graham of South Carolina has tried to be a champion for amnesty. But giving an amnesty to 11 million illegal aliens along with work permits won't help our country's unemployment problem; it will only hurt it even more.
