@@ -3,6 +3,13 @@ title: "I hold these truths to be self-evident"
 layout: post
 categories:
 - commentary
+tags:
+- abortion
+- government
+- government power
+- health care
+- illegal aliens
+- socialism
 ---
 
 ## Dissecting "This I believe: A post in defense of rational liberalism," by Lori Gallagher Witt, January 2018
