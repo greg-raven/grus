@@ -19,7 +19,6 @@ I just watched a video of a Senate hearing, in which you asked Kash Patel if he 
 
 Therefore, you, sir, are a domestic enemy of the United States. I demand that you immediately vacate your seat, retire from politics, renounce your citizenship, and move out of the country.
 
-
 {% include signature.html %}
 
 {% include immigration.html %}
