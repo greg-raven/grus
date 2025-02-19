@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Jay Obernolte
 ---
 
 A handful of bipartisan U.S. Senators have introduced S. 4787 to give green cards to more than 100,000 Afghan evacuees who don't qualify for refugee status or special immigrant visas. I oppose this legislation!
@@ -17,3 +16,6 @@ S. 4787 would give these unvetted Afghan evacuees green cards even though they d
 Please oppose S. 4787 which would essentially "rubber stamp" the Biden Administration's abuse of executive parole.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

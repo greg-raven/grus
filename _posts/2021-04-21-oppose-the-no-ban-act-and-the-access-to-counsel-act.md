@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - immigration
-- Jay Obernolte
 ---
 
 Please vote against H.R. 1333 and H.R. 1573 next week
@@ -17,3 +16,6 @@ The second bill scheduled to receive a vote next week, H.R. 1573, would clog our
 I hope you will oppose these two bills when they receive votes next week.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

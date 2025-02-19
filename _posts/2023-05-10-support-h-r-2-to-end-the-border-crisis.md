@@ -9,7 +9,6 @@ tags:
 - illegal immigration
 - immigration
 - jobs
-- Jay Obernolte
 ---
 
 Reps. Tom McClintock and Mario Diaz-Balart have introduced H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S.-Mexico border. This legislation would:
@@ -31,3 +30,6 @@ As you can see, H.R. 2 is an incredibly important piece of legislation that woul
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte

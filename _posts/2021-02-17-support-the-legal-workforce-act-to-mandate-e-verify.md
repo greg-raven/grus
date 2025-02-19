@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Jay Obernolte
 ---
 
 I hope you will cosponsor and support the Legal Workforce Act, H.R. 78.
@@ -15,3 +14,6 @@ The Legal Workforce Act would, within three years, require all employers to run 
 E-Verify is safe, accurate, and easy to use, and its use is even supported by the U.S. Chamber of Commerce. This bill is pro-American worker and pro-American business. It will help millions of Americans find work and help to combat ID theft. Please cosponsor H.R. 78, the Legal Workforce Act, and help U.S. workers get back to work!
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

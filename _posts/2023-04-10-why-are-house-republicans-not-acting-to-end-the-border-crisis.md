@@ -6,7 +6,6 @@ categories:
 tags:
 - E-Verify
 - illegal immigration
-- Jay Obernolte
 ---
 
 I cannot understand why some House Republicans are preventing House Judiciary Committee Chairman Jordan from moving forward with a hearing to pass a package of border security bills. According to news reports, the hearings have now been delayed until after the Easter break. Why the delay?
@@ -18,3 +17,6 @@ Please encourage your party's leaders to allow legislation to bring the situatio
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte

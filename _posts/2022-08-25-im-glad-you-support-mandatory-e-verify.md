@@ -7,7 +7,6 @@ tags:
 - E-Verify
 - illegal immigration
 - immigration
-- Jay Obernolte
 ---
 
 H.R. 78, the Legal Workforce Act would, within three years, require all employers to run new hires through the E-Verify system. Isn't this great news? Instead of unscrupulous employers being able to drive down wages and take advantage of illegal aliens, they will now be obliged to hire unemployed Americans and legal immigrants.
@@ -19,3 +18,6 @@ Thank you for cosponsoring H.R. 78 to mandate use of the E-Verify system!
 {% include signature.html %}
 
 P.S. Secure our borders. Stop all immigration. Stop importing refugees. Remove the illegals who are already in the country. Stop rewarding criminals, foreign or domestic. Wait 40 years before allowing immigrants and refugees again.
+
+Sent to:
+: Jay Obernolte

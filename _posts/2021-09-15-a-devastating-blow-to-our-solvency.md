@@ -7,7 +7,6 @@ tags:
 - amnesty
 - budget
 - national debt
-- Jay Obernolte
 ---
 
 Details about the huge amnesty to be included in the budget reconciliation bill are out, after being passed by the House Judiciary Committee. It's every bit as bad as I feared, including amnesty for most of the illegal aliens in the U.S.
@@ -25,3 +24,6 @@ Keep in mind, this bill does NOTHING to prevent future illegal immigration and f
 Please do everything you can to defeat this bill.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

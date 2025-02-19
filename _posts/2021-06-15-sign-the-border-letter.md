@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - border control
-- Jay Obernolte
 ---
 
 Rep. Glenn Grothman (R-Wisc.) has authored a letter to Resident Joe Biden urging him to relieve Vice Resident Harris of her duties as border czar and replace her with someone more up to the task. The letter states:
@@ -19,3 +18,6 @@ Rep. Glenn Grothman (R-Wisc.) has authored a letter to Resident Joe Biden urging
 Please add your name to this important letter.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

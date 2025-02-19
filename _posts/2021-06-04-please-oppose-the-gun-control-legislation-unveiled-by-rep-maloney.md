@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Jay Obernolte
 ---
 
 I am writing to you today to inform you that I stand in opposition to H.R. 1004, H.R. 1005, H.R. 1006, H.R. 1007 and H.R. 1008.
@@ -15,3 +14,6 @@ These extremely anti-gun and unconstitutional bills are meant to seem "reasonabl
 I therefore urge you to vote NO on the above proposed violations of the Second Amendment and our U.S. Constitution.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

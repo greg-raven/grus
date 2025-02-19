@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jay Obernolte
 - illegal aliens
 ---
 
@@ -23,3 +22,6 @@ California will lose in the courts using a Tenth Amendment argument. One of the 
 Block S.B. 54.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - amnesty
-- Jay Obernolte
 ---
 
 I vehemently oppose adding an amnesty for millions of illegal aliens in budget reconciliation.
@@ -19,3 +18,6 @@ However, House Speaker Nancy Pelosi (D-Calif.) is working with a thin Democratic
 A House vote on the budget reconciliation blueprint could come as soon as tomorrow. Please oppose adding an amnesty to budget reconciliation.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

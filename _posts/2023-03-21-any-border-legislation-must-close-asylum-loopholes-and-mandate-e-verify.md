@@ -6,7 +6,6 @@ categories:
 tags:
 - E-Verify
 - immigration
-- Jay Obernolte
 ---
 
 I cannot understand why you and your Republican colleagues haven't passed any legislation to help end the border crisis. Republicans won control of the House by promising to end the crisis and it's time for you to make it happen. Total encounters at the U.S./Mexico border exceeded 150,000 in January and February and apprehensions of illegal border crossers have exceeded 125,000 for 24 straight months; it's clear that this problem isn't going away.
@@ -18,3 +17,6 @@ The American people are counting on you and your colleagues to finally take the 
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte

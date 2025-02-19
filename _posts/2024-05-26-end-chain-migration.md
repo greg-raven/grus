@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jay Obernolte
 - chain migration
 ---
 
@@ -17,3 +16,6 @@ Please cosponsor H.R. 7833, the Nuclear Family Priority Act, and help solve Amer
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte

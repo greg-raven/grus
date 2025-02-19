@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Jay Obernolte
 ---
 
 I am writing to you today to express my opposition to H.R. 167, a bill proposed by Representative Al Green of Texas which would stretch beyond the Legislature's constitutional authority by attempting to regulate intrastate commerce, violating both state sovereignty and the right of individuals to lawfully acquire and dispose of firearms.
@@ -19,3 +18,6 @@ In addition to exceeding constitutional authority, this bill would have no pract
 For all of these reasons, I urge you to join me in opposing House Resolution 167. Thank you for your time and consideration.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

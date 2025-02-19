@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Jay Obernolte
 ---
 
 I urge you to OPPOSE H.R. 3740.
@@ -17,3 +16,6 @@ Any registration and licensing scheme advantages the wealthy and powerful who ha
 I urge you to OPPOSE H.R. 3740, and ALL other firearms licensing or registration bills that may be unjustly filed.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

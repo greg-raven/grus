@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Jay Obernolte
 ---
 
 The House of Representatives will soon hold a vote on H.R. 3648, the EAGLE Act. I cannot understand how anyone can think that this bill is a good idea. H.R. 3648 would expand the H-1B program and permanently reduce the number of jobs available to American workers by turning virtually all nonimmigrant visas into a direct path to a green card for foreign workers and their spouses and children, including adult children, regardless of the numerical limits on employment-based green cards.
@@ -17,3 +16,6 @@ Please protect American workers and protect the temporary nature of nonimmigrant
 {% include signature.html %}
 
 {% include immigration.html %}
+
+Sent to:
+: Jay Obernolte

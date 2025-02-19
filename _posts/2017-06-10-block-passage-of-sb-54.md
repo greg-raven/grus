@@ -4,7 +4,6 @@ layout: post
 categories:
 - letter
 tags:
-- Jay Obernolte
 - illegal aliens
 ---
 
@@ -25,3 +24,6 @@ It is false to claim that sanctuary policies are needed to protect witnesses or 
 Advocates for S.B. 54 are on the wrong side of the law and the wrong side of voters such as my wife and myself. Please stop S.B. 54 from passing, and communicate our wishes to Speaker Rendon.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

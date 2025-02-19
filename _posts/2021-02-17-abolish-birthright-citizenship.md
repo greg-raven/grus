@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - birthright citizenship
-- Jay Obernolte
 ---
 
 Abolish birthright citizenship!
@@ -21,4 +20,4 @@ I urge you to get behind legislation that would end this outdated practice once 
 {% include signature.html %}
 
 Sent to:
-: Alex Padilla, Dianne Feinstein
+: Alex Padilla, Dianne Feinstein, Jay Obernolte

@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - E-Verify
-- Jay Obernolte
 ---
 
 Please cosponsor H.R. 78 to mandate E-Verify.
@@ -15,3 +14,6 @@ The Legal Workforce Act would not only require employers to run new hires throug
 Simply put, this bill is an easy and cheap way of putting millions of Americans back to work. Please help combat ID theft and the hiring of illegal aliens by cosponsoring, H.R. 78, the Legal Workforce Act.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

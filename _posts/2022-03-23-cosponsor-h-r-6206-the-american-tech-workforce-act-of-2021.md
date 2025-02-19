@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - jobs
-- Jay Obernolte
 ---
 
 Support American workers, not Big Tech's profits. Cosponsor H.R. 6206.
@@ -21,3 +20,6 @@ Please help end this exploitation and cosponsor H. R. 6026, the American Tech Wo
 {% include signature.html %}
 
 P.S. I know you're a tech guy, but I hope you agree with me that American companies should hire American workers.
+
+Sent to:
+: Jay Obernolte

@@ -6,7 +6,6 @@ categories:
 tags:
 - amnesty
 - E-Verify
-- Jay Obernolte
 ---
 
 I hope you will follow House Minority Leader Kevin McCarthy's lead by coming out against trading a "pathway to citizenship" or a DACA amnesty for border security. Rep. McCarthy said:
@@ -20,3 +19,6 @@ Your top priority should be passing legislation to close asylum loopholes, to im
 {% include signature.html %}
 
 P.S. Secure our borders now and evict all illegals currently in the country, including DACA law-breakers.
+
+Sent to:
+: Jay Obernolte

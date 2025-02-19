@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - 2nd Amendment
-- Jay Obernolte
 ---
 
 I urge you to *reject* H.R. 1207 --- the federal ban on online ammo sales.
@@ -17,3 +16,6 @@ H.R. 1207 would further require that gun dealers report bulk purchases of ammo -
 This legislation is an infringement on the People's fundamental right to keep and bear arms, and I therefore must urge you to vote NO on H.R. 1207.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

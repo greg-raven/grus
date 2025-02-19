@@ -5,7 +5,6 @@ categories:
 - letter
 tags:
 - birthright citizenship
-- Jay Obernolte
 ---
 
 Please cosponsor H.R. 140, the Birthright Citizenship Act.
@@ -15,3 +14,6 @@ Please cosponsor H.R. 140, the Birthright Citizenship Act.
 The United States is almost the only industrialized nation to still practice jus soli --- birthright citizenship. I expect you to help America get with the times by supporting H.R. 140, legislation that would change our nation's laws and prevent the children of illegal aliens from receiving birthright citizenship. When this is done, illegal aliens will have one less anchor keeping them in this country --- making it less likely that they will remain in the U.S. to take U.S. jobs.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte

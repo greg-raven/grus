@@ -6,7 +6,6 @@ categories:
 tags:
 - chain migration
 - immigration
-- Jay Obernolte
 ---
 
 Please add your name as a cosponsor to H.R. 4050 to end chain migration.
@@ -18,3 +17,6 @@ While ending chain migration would directly reduce overall immigration by around
 Please cosponsor H.R. 4050, the Nuclear Family Priority Act, and help solve America's immigration problem.
 
 {% include signature.html %}
+
+Sent to:
+: Jay Obernolte
