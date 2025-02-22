@@ -14,7 +14,7 @@ I am one of the vast majority of Americans who favor deporting all undocumented 
 
 I am upset that H.R. 2, the Secure the Border Act, has not become law.
 
-I am also extremely disappointed that the bipartisan Senate bill and President Biden's Proclamation on Securing the Border give the appearance of addressing our border crisis but only continue mass illegal immigration.
+I am also extremely disappointed that the bipartisan Senate bill and Resident Biden's Proclamation on Securing the Border give the appearance of addressing our border crisis but only continue mass illegal immigration.
 
 I hope you contact me to discuss this CBS poll showing that voters overwhelmingly support stopping illegal immigration.
 

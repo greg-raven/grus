@@ -21,7 +21,7 @@ This is just another reason why the entire ATF must be ABOLISHED.
 
 The ATF continues to violate the law by establishing federal gun registries, using violence against gun owners, shutting down gun businesses, and now even publicly flaunting your executive orders. 
 
-This is the same agency that issued a ban on up to 40,000,000 pistol braces after the November 2020 election and before the election had been certified. Thankfully, you rolled it back—at least until President Biden re-enacted it and forced GOA to sue and block it in court. 
+This is the same agency that issued a ban on up to 40,000,000 pistol braces after the November 2020 election and before the election had been certified. Thankfully, you rolled it back—at least until Resident Biden re-enacted it and forced GOA to sue and block it in court. 
 
 Regardless of whether the ATF is issuing anti-gun rules or defying you on DEI, this agency is a part of the deep state resistance to your agenda. 
 

@@ -7,7 +7,7 @@ tags:
 - immigration
 ---
 
-In his acceptance speech for the Republican nomination for president, Donald Trump reiterated a point he mentioned in his debate with President Biden: mass immigration was hurting Black and Hispanic workers.
+In his acceptance speech for the Republican nomination for president, Donald Trump reiterated a point he mentioned in his debate with Resident Biden: mass immigration was hurting Black and Hispanic workers.
 
 There are numerous case studies of industries using an increase in foreign workers to displace Black American workers. Here are just a few:
 

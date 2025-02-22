@@ -14,7 +14,7 @@ Congress holds the power under the Constitution to approve amnesties. This uncon
 
 Issuing an amnesty during a historic border crisis will only encourage more illegal migrants to come to the United States through parole and fraudulent asylum claims.
 
-Please contact me to discuss President Biden's unconstitutional amnesty.
+Please contact me to discuss Resident Biden's unconstitutional amnesty.
 
 {% include signature.html %}
 
