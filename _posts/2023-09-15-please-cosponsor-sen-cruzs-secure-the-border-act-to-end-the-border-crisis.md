@@ -7,7 +7,7 @@ tags:
 - border control
 ---
 
-Sen. Ted Cruz has introduced the Senate version of the House-passed H.R. 2, the Secure the Border Act. This legislation, if passed by the Senate, would help to end the crisis at the U.S. / Mexico border. This legislation would:
+Sen. Ted Cruz has introduced the Senate version of the House-passed H.R. 2, the Secure the Border Act. This legislation, if passed by the Senate, would help to end the crisis at the U.S. - Mexico border. This legislation would:
 
 - plug the loopholes in our asylum system that are exploited by illegal economic migrants, restoring its integrity and protecting it for legitimate asylum seekers;
 
@@ -21,7 +21,7 @@ Sen. Ted Cruz has introduced the Senate version of the House-passed H.R. 2, the 
 
 - institute mandatory nationwide E-Verify, which would shut off the "jobs magnet" for illegal immigration while protecting jobs for American workers.
 
-As you can see, the Secure the Border Act is an incredibly important piece of legislation that would help to end the crisis at the U.S. / Mexico border. Please cosponsor this bill!
+As you can see, the Secure the Border Act is an incredibly important piece of legislation that would help to end the crisis at the U.S. - Mexico border. Please cosponsor this bill!
 
 {% include signature.html %}
 

@@ -7,7 +7,7 @@ tags:
 - border control
 ---
 
-The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S. / Mexico border. This legislation would:
+The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the Secure the Border Act. This legislation, if passed, would help to end the crisis at the U.S. - Mexico border. This legislation would:
 
 - plug the loopholes in our asylum system that are exploited by illegal economic migrants, restoring its integrity and protecting it for legitimate asylum seekers;
 
@@ -21,7 +21,7 @@ The must-pass Continuing Resolution is a great opportunity to pass H.R. 2, the S
 
 - institute mandatory nationwide E-Verify, which would shut off the "jobs magnet" for illegal immigration while protecting jobs for American workers.
 
-As you can see, H.R. 2 is an incredibly important piece of legislation that would help to end the crisis at the U.S. / Mexico border. Please get H.R. 2 passed by attaching it to the Continuing Resolution!
+As you can see, H.R. 2 is an incredibly important piece of legislation that would help to end the crisis at the U.S. - Mexico border. Please get H.R. 2 passed by attaching it to the Continuing Resolution!
 
 {% include signature.html %}
 

@@ -10,7 +10,7 @@ tags:
 - immigration
 ---
 
-The ongoing crisis at the U.S. / Mexico border will not end unless Congress takes steps to change the government's immigration and border policies. H.R. 2, the Secure the Border Act, would end the crisis by:
+The ongoing crisis at the U.S. - Mexico border will not end unless Congress takes steps to change the government's immigration and border policies. H.R. 2, the Secure the Border Act, would end the crisis by:
 
 - plugging the loopholes in our asylum system that are exploited by illegal economic migrants, restoring its integrity and protecting it for legitimate asylum seekers;
 
