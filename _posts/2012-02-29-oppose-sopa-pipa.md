@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- censorship
+- free speech
 ---
 
 Right now, the same folks that brought us the so-called "Patriot" Act, indefinite detention of American citizens, and an out-of-control TSA and Department of Homeland Security are preparing to wage war on our freedom online.

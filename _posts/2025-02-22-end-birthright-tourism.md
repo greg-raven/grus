@@ -4,7 +4,7 @@ layout: post
 categories:
 - letter
 tags:
-- birthright tourism
+- birthright citizenship
 ---
 
 As a matter of a decades-long misguided policy, the Federal government has granted citizenship to children born to illegal alien mothers. This is a reward to those parents who have entered or stayed in the United States violating immigration laws, including those who arrived during the 2021-2024 border crisis.
