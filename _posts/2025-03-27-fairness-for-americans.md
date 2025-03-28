@@ -1,5 +1,5 @@
 ---
-title: "End the unjust Foreign Worker program"
+title: "End the unjust foreign worker program"
 layout: post
 categories:
 - letter

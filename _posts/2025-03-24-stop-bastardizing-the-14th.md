@@ -1,5 +1,5 @@
 ---
-title: "Drop Your Suit, Stop Bastardizing the 14th"
+title: "Drop your suit, stop bastardizing the 14th"
 layout: post
 categories:
 - letter
