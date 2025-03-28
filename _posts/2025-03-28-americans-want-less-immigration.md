@@ -1,5 +1,5 @@
 ---
-title: "<#title#>"
+title: "Americans want less immigration"
 layout: post
 categories:
 - letter
