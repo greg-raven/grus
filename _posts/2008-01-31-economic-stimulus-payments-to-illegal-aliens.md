@@ -16,4 +16,4 @@ We have suffered enough from the illegal aliens infesting our country --- no mor
 {% include signature.html %}
 
 Sent to:
-: George Bush, Jerry Lewis, Barbara Boxer, Dianne Feinstein
+: George W. Bush, Jerry Lewis, Barbara Boxer, Dianne Feinstein

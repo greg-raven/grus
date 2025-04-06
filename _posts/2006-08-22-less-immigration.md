@@ -20,4 +20,4 @@ Phone me if you would like to talk about this,
 P.S. Your actions on this matter are traitorous, and in violation of your oath of office.
 
 Sent to:
-: George Bush
+: George W. Bush

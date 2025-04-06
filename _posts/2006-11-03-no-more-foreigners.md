@@ -24,4 +24,4 @@ Phone me if you would like to talk about this,
 P.S. Illegal immigration is a weapon of mass destruction!
 
 Sent to:
-: George Bush
+: George W. Bush

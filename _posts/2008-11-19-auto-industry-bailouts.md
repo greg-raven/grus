@@ -30,4 +30,4 @@ The answers to our economic problems cannot be found in further government inter
 {% include signature.html %}
 
 Sent to:
-: George Bush, Jerry Lewis, Barbara Boxer, Dianne Feinstein
+: George W. Bush, Jerry Lewis, Barbara Boxer, Dianne Feinstein

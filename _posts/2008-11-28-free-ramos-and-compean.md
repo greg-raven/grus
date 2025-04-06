@@ -44,4 +44,4 @@ While this case has generated strong emotions on both sides, I do not believe th
 {% include signature.html %}
 
 Sent to:
-: George Bush
+: George W. Bush

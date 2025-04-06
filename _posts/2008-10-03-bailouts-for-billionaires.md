@@ -23,4 +23,4 @@ You must absolutely, positively, vote NO on this bill, and any others like it.
 {% include signature.html %}
 
 Sent to:
-: George Bush, Jerry Lewis
+: George W. Bush, Jerry Lewis

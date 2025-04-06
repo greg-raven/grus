@@ -24,4 +24,4 @@ Phone me if you would like to talk about this.
 P.S. Don't let them languish in prison one minute longer!
 
 Sent to:
-: George Bush
+: George W. Bush

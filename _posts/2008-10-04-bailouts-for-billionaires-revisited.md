@@ -15,4 +15,4 @@ I'll make this short and to the point, as a recital of the flaws of this bill --
 {% include signature.html %}
 
 Sent to:
-: George Bush, Jerry Lewis
+: George W. Bush, Jerry Lewis
