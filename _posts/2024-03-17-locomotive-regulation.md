@@ -27,7 +27,7 @@ Consequently:
 
 - Our national supply chain and West Coast port throughput would suffer without new rail projects that improve efficiency
 
-- Ultimately, this regulation will result in shifting freight from rail—the most efficient way to move goods over land—to trucks, increasing highway congestion
+- Ultimately, this regulation will result in shifting freight from rail --- the most efficient way to move goods over land --- to trucks, increasing highway congestion
 
 There are more practical solutions for reducing carbon emissions in California and protecting our health.
 
