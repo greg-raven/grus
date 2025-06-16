@@ -19,4 +19,4 @@ This says nothing about guns for hunters only. It says nothing about waiting per
 
 I ask you in the strongest possible terms to stand against these (and other similar) bills. Moreover, I request that you begin, starting today, to expend every effort to ensure that we as American citizens retain our few remaining 2nd Amendment rights, and to campaign actively to restore those 2nd Amendment rights already lost.
 
-<a href="https://www.gregraven.org">Greg Raven</a>, Los Angeles, CA
+<a href="https://www.gregraven.online">Greg Raven</a>, Los Angeles, CA
