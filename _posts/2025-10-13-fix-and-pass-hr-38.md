@@ -7,7 +7,7 @@ tags:
 - 2nd Amendment
 ---
 
-Congress must FIX and PASS HR 38 today! I stand with Firearms Policy Coalition (FPC) in asking you to fix the problems listed below
+Congress must **fix** and PASS HR 38 today! I stand with Firearms Policy Coalition (FPC) in asking you to fix the problems listed below.
 
 Unless we fix and pass H.R. 38:
 
@@ -17,7 +17,7 @@ Unless we fix and pass H.R. 38:
 
 - Gun owners would not be able to lawfully carry throughout the United States without massive risk and insane costs.
 
-## There are 3 Most Major Problems with H.R. 38 That Must Be Fixed
+## There are 3 most major problems with H.R. 38 that must be fixed
 
 ### Problem # 1 --- Forgot your wallet? Go to jail.
 
@@ -37,7 +37,7 @@ Unless we fix and pass H.R. 38:
 
 - **FPC fix:** Ensure that people are fully protected while carrying and travelling with firearms.
 
-H.R. 38 matters for all gun owners --- even in "constitutional carry" states
+## H.R. 38 matters for all gun owners --- even in 'constitutional carry' states
 
 - Even in permitless carry states, you're not safe from federal charges. 18 U.S.C. § 922(q), the federal "gun-free school zone" law, bans carry within 1,000 feet of schools unless a person has a carry license issued by every state they carry in. 
 
