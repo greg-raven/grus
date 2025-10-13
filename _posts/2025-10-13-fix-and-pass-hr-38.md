@@ -37,12 +37,13 @@ Unless we fix and pass H.R. 38:
 
 **FPC fix:** Ensure that people are fully protected while carrying and travelling with firearms.
 
-- H.R. 38 matters for all gun owners --- even in "constitutional carry" states
+H.R. 38 matters for all gun owners --- even in "constitutional carry" states
 
 - Even in permitless carry states, you're not safe from federal charges. 18 U.S.C. § 922(q), the federal "gun-free school zone" law, bans carry within 1,000 feet of schools unless a person has a carry license issued by every state they carry in. 
-State-level constitutional carry and permit reciprocity doesn't solve this.
 
-- Americans are being federally prosecuted under this law right now.
+  - State-level constitutional carry and permit reciprocity doesn't solve this.
+  
+  - Americans are being federally prosecuted under this law right now.
 
 So please address the issues listed above and then pass H.R. 38!
 
