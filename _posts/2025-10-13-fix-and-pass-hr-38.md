@@ -13,25 +13,25 @@ Unless we fix and pass H.R. 38:
 
 - Simple mistakes could lead to arrest, prison time, and lifelong loss of rights.
 
-- Americans would need 51 different licenses to exercise 1 right.
+- Americans would need 51 different licenses to exercise one right.
 
 - Gun owners would not be able to lawfully carry throughout the United States without massive risk and insane costs.
 
-## There are 3 most major problems with H.R. 38 that must be fixed
+## There are the three most major problems with H.R. 38 that must be fixed
 
-### Problem # 1 --- Forgot your wallet? Go to jail.
+### Problem # 1 --- Forgot your wallet? Go to jail
 
 - **Flaw:** H.R. 38 requires a person to carry a government-issued photo ID and carry license at all times when they are armed. Just forgetting your wallet or purse could lead to serious, life-altering criminal charges, prosecution, and potentially even a lifetime loss of rights. 
 
 - **FPC fix:** Ensure peaceable people aren't jailed for honest mistakes
 
-### Problem # 2 --- Legal traps everywhere.
+### Problem # 2 --- Legal traps everywhere
 
 - **Flaw:** H.R. 38 allows states and local governments to ban carry on all public property, defeating the very point of the bill and setting a legal trap for gun owners in these unmarked "gun-free" zones.
 
 - **FPC fix:** Guarantee carry rights in non-secured public places nationwide.
 
-### Problem # 3 --- The felony under your floormat.
+### Problem # 3 --- The felony under your floor mat
 
 - **Flaw:** H.R. 38 only protects one handgun, one magazine, and only the ammunition loaded into them. Extra magazines or ammunition, a back-up firearm, or even a single loose round in a purse or under a floormat wouldn't be covered—putting gun owners at risk of arrest and prosecution. 
 
