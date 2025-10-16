@@ -33,7 +33,7 @@ Unless we fix and pass H.R. 38:
 
 ### Problem # 3 --- The felony under your floor mat
 
-- **Flaw:** H.R. 38 only protects one handgun, one magazine, and only the ammunition loaded into them. Extra magazines or ammunition, a back-up firearm, or even a single loose round in a purse or under a floormat wouldn't be covered—putting gun owners at risk of arrest and prosecution. 
+- **Flaw:** H.R. 38 only protects one handgun, one magazine, and only the ammunition loaded into them. Extra magazines or ammunition, a back-up firearm, or even a single loose round in a purse or under a floormat wouldn't be covered --- putting gun owners at risk of arrest and prosecution. 
 
 - **FPC fix:** Ensure that people are fully protected while carrying and travelling with firearms.
 
