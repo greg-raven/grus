@@ -10,7 +10,7 @@ tags:
 
 Please don't support the "temporary worker" plan that Sen. Hutchison and Rep. Pence have introduced.
 
-The only way this plan would reduce illegal immigration is by changing the words "illegal alien" to "temporary worker." That will be of little comfort to communities that are overwhelmed by illegal immigration. 
+The only way this plan would reduce illegal immigration is by changing the words "illegal alien" to "temporary worker." That will be of little comfort to communities that are overwhelmed by illegal immigration.
 
 A real compromise would forego mass deportations and amnesty in favor of straight-forward enforcement at the border and in the interior, especially in the workplace. Please support that kind of plan, not the one advocated by Rep. Pence and Sen. Hutchison.
 

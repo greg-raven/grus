@@ -9,9 +9,9 @@ tags:
 
 Speaker Hastert's call for border security should be backed up by the entire GOP.
 
-If Speaker Hastert and the rest of the Republicans in the House can defy the pundits and the open border lobby by actually getting some serious enforcement measures to the President's desk, you could easily keep your majority in the House. 
+If Speaker Hastert and the rest of the Republicans in the House can defy the pundits and the open border lobby by actually getting some serious enforcement measures to the President's desk, you could easily keep your majority in the House.
 
-Democrats were foolish to stand against the "attrition" strategy this summer, and they will pay greatly if they stand in the way of the House GOP leadership's efforts to pass some basic enforcement measures this month. 
+Democrats were foolish to stand against the "attrition" strategy this summer, and they will pay greatly if they stand in the way of the House GOP leadership's efforts to pass some basic enforcement measures this month.
 
 I hope you back up the GOP leadership with your vocal support and actions.
 

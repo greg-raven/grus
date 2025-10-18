@@ -9,7 +9,7 @@ tags:
 
 Polls consistently show American citizens want less immigration --- NOT MORE.
 
-American workers cannot afford to have Congress play politics with the future of their jobs and the overall security of our nation. 
+American workers cannot afford to have Congress play politics with the future of their jobs and the overall security of our nation.
 
 Stop pandering to businesses that prey on cheap foreign labor and start protecting American workers and their families against an imminent surge in unemployment if your massive amnesty for illegal aliens ever becomes law.
 

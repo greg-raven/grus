@@ -178,7 +178,7 @@ Finally, everyone needs to bear in mind that without the rights to bear arms gua
 
 **Response to belief 14**
 
-Another shift from the real issue to a straw-man issue. If Chuck wants to be called Charles, that is normal. If some random guy on the street corner wants to be called Henry VIII, that is not normal. Only by conflating the normal with the abnormal can the author make her point. 
+Another shift from the real issue to a straw-man issue. If Chuck wants to be called Charles, that is normal. If some random guy on the street corner wants to be called Henry VIII, that is not normal. Only by conflating the normal with the abnormal can the author make her point.
 
 A biological male who wants to be called by female pronouns is not normal. When you attempt to normalize the abnormal, you degrade society. If this biological male pretends to be female, we know better, and we can do better by acknowledging and reinforcing the facts, rather than caving into the delusions of a madman.
 

@@ -10,11 +10,11 @@ tags:
 
 I hope you'll cosponsor S. 43, the Social Security Totalization Agreement Reform Act.
 
-As you know, current law states that totalization agreements go into effect AUTOMATICALLY within 60 days after the President submits the agreement to Congress UNLESS either House passes a resolution disapproving the agreement. 
+As you know, current law states that totalization agreements go into effect AUTOMATICALLY within 60 days after the President submits the agreement to Congress UNLESS either House passes a resolution disapproving the agreement.
 
-Under the INS v. Chadha Supreme Court precedent, this statutory construct is inconsistent with the Constitution as it allows one House to veto an action of the Executive and thereby constitutes a unicameral legislative veto. 
+Under the INS v. Chadha Supreme Court precedent, this statutory construct is inconsistent with the Constitution as it allows one House to veto an action of the Executive and thereby constitutes a unicameral legislative veto.
 
-Senator Ensign’s bill, S. 43, would change current law to treat all totalization agreements as bilateral trade agreements, requiring both houses of Congress to pass a resolution approving a totalization agreement before it could into effect. This bill will shift the burden to the advocates of a totalization agreement to prove its merits, as opposed to gridlock resulting in an agreement becoming operative. 
+Senator Ensign’s bill, S. 43, would change current law to treat all totalization agreements as bilateral trade agreements, requiring both houses of Congress to pass a resolution approving a totalization agreement before it could into effect. This bill will shift the burden to the advocates of a totalization agreement to prove its merits, as opposed to gridlock resulting in an agreement becoming operative.
 
 I think you should consider this important legislation.
 

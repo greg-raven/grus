@@ -30,13 +30,13 @@ Sent to:
 Response
 
 > Thank you for reaching out to express your support for AB 1092 (Castillo), a bill related to firearms. I appreciate hearing your thoughts on this important issue.
->  
+> 
 > On February 20, 2025 I introduced this legislation, which This bill relates to existing law requiring a licensing authority to issue or renew a license to carry a firearm capable of being concealed if specified conditions are met. Existing law makes a new or renewal license that is issued valid for a specified period of time. extends, for a license issued between the specified dates, the duration of those licenses to a period of time not to exceed a specified number of years from the date of the license.
->  
+> 
 > The bill has been referred to the Assembly Public Safety Committee. Please know I value your thoughts, and will work hard to represent you on the Assembly floor. If you would like to track the progress of AB 1092, you may do so online at https://leginfo.legislature.ca.gov.
->  
+> 
 > Thank you again for contacting my office. Please don't hesitate to keep in touch about this or any other issue of concern to you.
->  
+> 
 > Sincerely,
->  
+> 
 > Leticia Castillo, Assemblywoman, 58th District

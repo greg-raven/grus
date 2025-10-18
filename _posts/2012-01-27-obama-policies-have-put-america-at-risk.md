@@ -27,15 +27,15 @@ What he conveniently omitted from his speech was that his failed policies have d
 
 <sup>5</sup> The "Misery Index" equals unemployment plus inflation. For January 2009 and December 2012. https://www.miseryindex.us/indexbymonth.asp.
 
-<sup>6</sup> Average retail price per gallon, January 2009 week 3 and January 2012 week 4. 
+<sup>6</sup> Average retail price per gallon, January 2009 week 3 and January 2012 week 4.
 https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=EMM\_EPMR\_PTE\_NUS\_DPG&amp;f=W.
 
 <sup>7</sup> U.S. Department of Agriculture, values represent monthly "moderate" cost per family of four for January 2009 and November 2011. https://www.cnpp.usda.gov/USDAFoodCost-Home.htm.
 
-<sup>8</sup> U.S. median sales price of existing single-family homes for metropolitan areas for 2008 and 2011 Q3. 
+<sup>8</sup> U.S. median sales price of existing single-family homes for metropolitan areas for 2008 and 2011 Q3.
 https://www.realtor.org/research/research/metroprice.
 
-<sup>9</sup> Residential mortgage delinquencies (real estate loans) for 2008 Q4 and 2011 Q3. 
+<sup>9</sup> Residential mortgage delinquencies (real estate loans) for 2008 Q4 and 2011 Q3.
 https://www.federalreserve.gov/releases/chargeoff/default.htm.
 
 <sup>10</sup> Values for January 21, 2009 and January 23, 2012. https://www.treasurydirect.gov/NP/BPDLogin?application=np.

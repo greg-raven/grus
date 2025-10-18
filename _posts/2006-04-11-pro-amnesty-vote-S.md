@@ -7,9 +7,9 @@ tags:
 - amnesty
 ---
 
-I am troubled by your vote in favor of amnesty just prior to recess. 
+I am troubled by your vote in favor of amnesty just prior to recess.
 
-Your vote in favor of amnesty was a vote against American workers. It was also a vote against law and order and in favor of enticing massive new flows of illegal immigration. 
+Your vote in favor of amnesty was a vote against American workers. It was also a vote against law and order and in favor of enticing massive new flows of illegal immigration.
 
 You appear to have been goaded into supporting amnesty by those who have already broken our immigration laws. Shame on you.
 

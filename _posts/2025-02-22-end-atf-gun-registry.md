@@ -6,38 +6,38 @@ categories:
 tags:
 - 2nd Amendment
 ---
- 
-I know you instructed the Attorney General to provide recommendations to you on actions you should take to restore the Second Amendment. 
 
-As a gun owner, below are just a few actions I urge you to take: 
+I know you instructed the Attorney General to provide recommendations to you on actions you should take to restore the Second Amendment.
 
-First off, I want your presidency to replace the failed White House Office of Gun Control with a pro-gun office to oversee implementation of your Executive Order Protecting Second Amendment Rights and to help make America safe again. 
+As a gun owner, below are just a few actions I urge you to take:
 
-The federal government has been so deeply influenced by anti-gunners for so long that it's infected nearly every tentacle of the executive branch. 
+First off, I want your presidency to replace the failed White House Office of Gun Control with a pro-gun office to oversee implementation of your Executive Order Protecting Second Amendment Rights and to help make America safe again.
 
-You personally know how corrupt and untrustworthy the FBI is. 
+The federal government has been so deeply influenced by anti-gunners for so long that it's infected nearly every tentacle of the executive branch.
 
-Well, in a recent Federalist article by John Lott --- a former senior advisor for research and statistics at the Department of Justice --- reveals how Biden's FBI was distorting gun data, which was, in turn, used to justify the implementation of gun control. 
+You personally know how corrupt and untrustworthy the FBI is.
 
-Pro-gun and pro-Constitution office in the White House would be able to provide your Administration with accurate crime statistics and firearms data. 
+Well, in a recent Federalist article by John Lott --- a former senior advisor for research and statistics at the Department of Justice --- reveals how Biden's FBI was distorting gun data, which was, in turn, used to justify the implementation of gun control.
 
-Next, it's mission critical that you appoint a pro-gun ATF Director --- NOT an entrenched "seasoned bureaucrat" who will do business as usual.  
+Pro-gun and pro-Constitution office in the White House would be able to provide your Administration with accurate crime statistics and firearms data.
 
-That means someone who will: 
+Next, it's mission critical that you appoint a pro-gun ATF Director --- NOT an entrenched "seasoned bureaucrat" who will do business as usual. 
 
-- Stand up to ATF's rogue officials; 
+That means someone who will:
 
-- Help President Trump downsize the federal government (including ATF); 
+- Stand up to ATF's rogue officials;
 
-- Unravel Biden's weaponization of law enforcement (especially ATF); 
+- Help President Trump downsize the federal government (including ATF);
 
-- Scale back the ATF's infringements of constitutional rights; and 
+- Unravel Biden's weaponization of law enforcement (especially ATF);
 
-- Return freedom to the hands of the people to whom it belongs. 
+- Scale back the ATF's infringements of constitutional rights; and
 
-And finally, the ATF's illegal gun registry MUST be permanently deleted. Not only is there absolutely no reason for the ATF to have a digital searchable database of 920 MILLION records on gun owners, it's simply unconstitutional. 
+- Return freedom to the hands of the people to whom it belongs.
 
-I urge you to ensure that all three of the above items make it into your final executive action to restore the Second Amendment. 
+And finally, the ATF's illegal gun registry MUST be permanently deleted. Not only is there absolutely no reason for the ATF to have a digital searchable database of 920 MILLION records on gun owners, it's simply unconstitutional.
+
+I urge you to ensure that all three of the above items make it into your final executive action to restore the Second Amendment.
 
 {% include signature.html %}
 

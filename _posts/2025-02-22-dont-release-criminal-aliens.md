@@ -7,7 +7,7 @@ tags:
 - illegal aliens
 ---
 
-Can you believe what some in the California Assembly have proposed? California Assembly Bill 15 is as dangerous and crazy as it is NOT in the Golden State's best interest! Thankfully, Gov. Newsom has already promised to veto A.B. 15. 
+Can you believe what some in the California Assembly have proposed? California Assembly Bill 15 is as dangerous and crazy as it is NOT in the Golden State's best interest! Thankfully, Gov. Newsom has already promised to veto A.B. 15.
 
 The implications of such a law are profoundly troubling and threaten the safety and security of Golden State communities. By restricting authorities from detaining individuals who have entered our country illegally and committed crimes in California, we would essentially be prioritizing criminal aliens over California citizens' safety.
 

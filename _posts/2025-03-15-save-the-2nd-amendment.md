@@ -29,12 +29,12 @@ I'm including clear instances in which the ATF and FBI have exceeded the law to 
 
 - ATF agents killing a gun owner named Bryan Malinowski in his own home – while "forgetting" to wear their body cameras and covering Bryan's doorbell camera with tape
 
-- ATF spying on pro-gun message boards to create lists of law-abiding gun owners who purchase guns legally through private sellers --- which is an activity that ATF considers outside the law 
- 
+- ATF spying on pro-gun message boards to create lists of law-abiding gun owners who purchase guns legally through private sellers --- which is an activity that ATF considers outside the law
+
 - ATF spying and registering gun owners by using facial recognition technology
 
 - ATF illegally shutting down gun dealers for mere clerical errors through Biden's Zero Tolerance policy
- 
+
 - The FBI coercing law-abiding gun owners to sign away their right to purchase firearms
 
 - ATF stealing from taxpayers by illegally overpaying its agents and stealing firearms for personal use

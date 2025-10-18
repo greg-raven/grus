@@ -9,11 +9,11 @@ tags:
 
 Border Patrol agents Jose Alonso Compean and Ignacio Ramos have been wrongfully convicted and sentenced. They should be pardoned by the White House and set free.
 
-These agents did not receive a fair trial. Jurors have claimed that they were coerced and the case was prosecuted in a way that demands an impartial investigation. 
+These agents did not receive a fair trial. Jurors have claimed that they were coerced and the case was prosecuted in a way that demands an impartial investigation.
 
-A known illegal-alien drug smuggler (who was caught driving a van with 800 pounds of marijuana in it, mind you) was given immunity by the U.S. government in exchange for his testimony. Now he is suing our government for $5 million dollars. This is a travesty of justice. 
+A known illegal-alien drug smuggler (who was caught driving a van with 800 pounds of marijuana in it, mind you) was given immunity by the U.S. government in exchange for his testimony. Now he is suing our government for $5 million dollars. This is a travesty of justice.
 
-Mr. President, I am counting the days to a presidential pardon for these agents. Every day that goes by is another black stain on your administration. 
+Mr. President, I am counting the days to a presidential pardon for these agents. Every day that goes by is another black stain on your administration.
 
 Please pardon agents Ramos and Compean today.
 

@@ -10,7 +10,7 @@ tags:
 
 You are absolutely right that we need increased enforcement and border control, but not in exchange for a guestworker-amnesty program.
 
-A new Congressional Budget Office (CBO) analysis estimates the Senate-passed immigration bill (S. 2611) would allow newly-legalized immigrants to claim nearly $50 billion in Federal benefits over the next decade through earned income and child tax credits, Medicaid, Social Security, and other programs. Some have predicted this would cause the largest expansion of the welfare state in 35 years. 
+A new Congressional Budget Office (CBO) analysis estimates the Senate-passed immigration bill (S. 2611) would allow newly-legalized immigrants to claim nearly $50 billion in Federal benefits over the next decade through earned income and child tax credits, Medicaid, Social Security, and other programs. Some have predicted this would cause the largest expansion of the welfare state in 35 years.
 
 Instead of increasing expenditures to pay benefits to former illegal aliens, we could be taxes paid by hard-working Americans.
 

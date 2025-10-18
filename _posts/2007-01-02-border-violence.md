@@ -3,7 +3,7 @@ title: "Stop border violence"
 layout: post
 categories:
 - letter
-tags: 
+tags:
 - border control
 ---
 
@@ -105,7 +105,7 @@ The Sinaloa Cartel is attempting to take control of the Gulf Cartel away from Lo
 
 "Once the killing began, it never stopped. The hatred between the narcos grew stronger and stronger."
 
-### 'THIS USED TO BE A GOOD PLACE' 
+### 'THIS USED TO BE A GOOD PLACE'
 
 Nacho has lived in Nuevo Laredo most of his adult life. He is a father, husband and one of the few people willing to share the dark secrets of his city.
 
@@ -161,7 +161,7 @@ The arrests of some of Mexico's most notorious drug traffickers --- the recent c
 
 "Every once in awhile, Mexico throws us a bone," he said. "It gives the appearance of cooperation. It's a way of making everything look like it's OK. Well, it's not."
 
-### BAZOOKAS, BULLETS 
+### BAZOOKAS, BULLETS
 
 Nacho ran his palm over a wall in a home that had been blasted by a bazooka. Bullet holes riddled the interior of the house.
 
@@ -181,7 +181,7 @@ Just a few yards away, a group of young men with Nextel phones made it clear Nac
 
 "We better go," he said. "It's not good to stand around here for too long. There are many good people in this city, but you never know."
 
-### 'WE ARE PRISONERS' 
+### 'WE ARE PRISONERS'
 
 Hector cut some cilantro and dropped it into a small bowl. He is the only vendor left at a small placita near the center of town, and his 10-year-old business is barely surviving the violence.
 
@@ -203,7 +203,7 @@ Roll-down security shutters cover the large display windows of shops in the arti
 
 Unofficial estimated number of legal and illegal entries into the U.S. each year. Those who entered legally included nonimmigrant visa overstays (4 million to 5.5 million) and border crossing card violators (250,000 to 500,000).
 
-**$142 billion** 
+**$142 billion**
 
 Estimated value of cocaine, heroin, marijuana, methamphetamine and other illicit drug trafficking between the U.S. and Mexico each year.
 

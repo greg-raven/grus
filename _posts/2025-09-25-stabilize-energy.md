@@ -3,7 +3,7 @@ title: "Stabilize the energy industry"
 layout: post
 categories:
 - letter
-tags: 
+tags:
 - energy
 ---
 
@@ -23,5 +23,5 @@ Thank you for your attention to this pressing issue.
 
 {% include signature.html %}
 
-Sent to: 
+Sent to:
 : Tom Lackey, Rosilicie Ochoa Bogh

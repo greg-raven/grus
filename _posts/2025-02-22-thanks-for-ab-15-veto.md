@@ -11,7 +11,7 @@ Thank you for your public commitment to veto California Assembly Bill 15. Your s
 
 The implications of such a law are profoundly troubling and threaten the safety and security of Golden State communities. By restricting authorities from detaining for ICE transfer individuals who have entered our country illegally and committed crimes in California, we would essentially be prioritizing criminal aliens over California citizens' safety.
 
-It is crucial to acknowledge that illegal immigration must not be supported or normalized through misguided policies. AB 15 undermines the rule of law, compromises public safety, and undermines citizens' trust in the state government to protect their interests. 
+It is crucial to acknowledge that illegal immigration must not be supported or normalized through misguided policies. AB 15 undermines the rule of law, compromises public safety, and undermines citizens' trust in the state government to protect their interests.
 
 Thank you again for promising to veto Assembly Bill 15.
 
