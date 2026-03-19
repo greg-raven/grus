@@ -18,4 +18,4 @@ Gun owners like myself are watching. We will remember who stood for secure elect
 [Greg Raven](https://www.gregraven.online/), Apple Valley, CA
 
 Sent to:
-: Ruben Gallego, Mark Kelly
+: Ruben Gallego, Mark Kelly, Adam Schiff, Alex Padilla
