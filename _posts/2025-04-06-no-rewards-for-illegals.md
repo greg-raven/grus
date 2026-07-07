@@ -4,6 +4,8 @@ layout: post
 categories:
 - letter
 tags:
+- birthright citizenship
+- chain migration
 - E-Verify
 - illegal aliens
 ---
