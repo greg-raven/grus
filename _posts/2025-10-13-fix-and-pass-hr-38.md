@@ -7,7 +7,7 @@ tags:
 - 2nd Amendment
 ---
 
-Congress must **fix** and PASS HR 38 today! I stand with Firearms Policy Coalition (FPC) in asking you to fix the problems listed below.
+Congress must **fix** and PASS H.R. 38 today! I stand with Firearms Policy Coalition (FPC) in asking you to fix the problems listed below.
 
 Unless we fix and pass H.R. 38:
 

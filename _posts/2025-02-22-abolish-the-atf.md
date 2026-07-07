@@ -27,7 +27,7 @@ Regardless of whether the ATF is issuing anti-gun rules or defying you on DEI, t
 
 They're a rogue agency that believes they are above the Constitution, Congress, the Supreme Court, and even the Presidency. 
 
-Congress has already introduced HR 221 to abolish the ATF. Your Vice President also wants to abolish the ATF.
+Congress has already introduced H.R. 221 to abolish the ATF. Your Vice President also wants to abolish the ATF.
 
 This is your moment to abolish the ATF and end their vicious tyranny against American citizens who are exercising their constitutional right to keep and bear arms.
 
