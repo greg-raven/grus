@@ -6,6 +6,7 @@ categories:
 tags:
 - border control
 - child labor
+- E-Verify
 - illegal aliens
 - illegal immigration
 ---

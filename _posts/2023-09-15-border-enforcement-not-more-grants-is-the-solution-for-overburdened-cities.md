@@ -6,6 +6,7 @@ categories:
 tags:
 - border control
 - child labor
+- E-Verify
 ---
 
 It frustrates me that, instead of securing the border, the Administration is allocating large grants that do not even cover the costs of cities overburdened with the migrant crisis.

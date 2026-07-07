@@ -5,6 +5,7 @@ categories:
 - letter
 tags:
 - border control
+- E-Verify
 - illegal aliens
 - illegal immigration
 ---
