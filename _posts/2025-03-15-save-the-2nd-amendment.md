@@ -27,7 +27,7 @@ Finally, the ATF has operated as a rogue criminal organization that bypasses Con
 
 I'm including clear instances in which the ATF and FBI have exceeded the law to violate Americans' Second Amendment rights:
 
-- ATF agents killing a gun owner named Bryan Malinowski in his own home – while "forgetting" to wear their body cameras and covering Bryan's doorbell camera with tape
+- ATF agents killing a gun owner named Bryan Malinowski in his own home --- while "forgetting" to wear their body cameras and covering Bryan's doorbell camera with tape
 
 - ATF spying on pro-gun message boards to create lists of law-abiding gun owners who purchase guns legally through private sellers --- which is an activity that ATF considers outside the law
 
