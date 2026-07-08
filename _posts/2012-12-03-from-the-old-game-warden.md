@@ -3,10 +3,11 @@ title: "From the Old Game Warden"
 layout: post
 categories:
 - letter
+tags:
+- illegal aliens
 ---
 
-California Rifle and Pistol Association
-Fullerton, CA
+California Rifle and Pistol Association, Fullerton, CA
 
 Dear Sirs,
 
@@ -27,3 +28,5 @@ So for Mansell and others like him, here's a conclusion or two.
 Once the political leadership turns against the history, culture, and citizenry of its own state, it doesn't take long before the state feels threatened by the history and culture that came before, and initiates actions against the citizenry. Among those actions will be favoring that which is foreign, over that which is autochthonous.
 
 While Mansell himself may not have gone that far, the fact that he as a game warden has failed to identify an invasive species shows that he is definitely part of the problem, and not part of the solution.
+
+<a href="https://www.gregraven.online">Greg Raven</a>, Los Angeles, CA
