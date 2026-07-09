@@ -14,7 +14,7 @@ We know Attrition Through Enforcement will work because, until recently, it has 
 
 As it currently stands, almost 200,000 illegal aliens self-deport from the United States every year, but imagine how many more would leave if our government refused to award illegal aliens another amnesty, mandated all employers to verify a person’s eligibility to work here, cracked down on identity fraud, and enabled local police to easily transfer illegal aliens in their custody to the feds. 
 
-Rep. King' s excellent *Washington Times* column outlines Attrition Through Enforcement very well. I encourage you to take a look at it.
+Rep. King's excellent *Washington Times* column outlines Attrition Through Enforcement very well. I encourage you to take a look at it.
 
 Phone me if you would like to talk about this,
 
