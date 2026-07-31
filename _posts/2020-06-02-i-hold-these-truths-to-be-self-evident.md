@@ -18,7 +18,7 @@ tags:
 
 I saw this piece posted on Facebook, with an introductory paragraph not found in the original, misattributed to Ron Howard. I was so struck by the horrible logic that I had to respond. The author is entitled to her opinions, but not to her own facts, nor is she entitled to shift from one point to another unrelated point because it sounds good or is convenient.
 
-This is presented as an example of something called "rational liberalism." This is a problem right off the bat. If something is rational, it is neither liberal nor conservative. It is rational. The author seems to be trying to wrap modern-day liberalism (AKA progressivism) in rationality to give it the intellectual weight it does not have. As an aside, when I looked up "rational liberalism" on DuckDuckGo, the first response on the list was the website Rational Liberal, which has as its motto "more feelings, more outrage." Feelings and outrage certainly are part of today's liberal / progressive mindset, but neither is rational.
+This is presented as an example of something called "rational liberalism." This is a problem right off the bat. If something is rational, it is neither liberal nor conservative. It is rational. The author seems to be trying to wrap modern-day liberalism (AKA progressivism) in rationality to give it the intellectual weight it does not have. As an aside, when I did a search for "rational liberalism" on DuckDuckGo, the first response on the list was the website Rational Liberal, which has as its motto "more feelings, more outrage." Feelings and outrage certainly are part of today's liberal/progressive mindset, but neither is rational.
 
 ---
 
@@ -26,7 +26,7 @@ This is presented as an example of something called "rational liberalism." This 
 
 **Response to belief 1**
 
-This is typical of liberal dogma: "A country" (or some variation) should do XYZ. What this really means is that the liberal feels that certain things should be done, but rather than doing them herself, she wants others to do --- or at least finance --- them. One interesting aspect of this is that it never matters whether the steps taken to satisfy the feelings of the liberal are efficacious or damaging. As long as something is "being done," it rarely matters if the people who the liberal aims for others to help are being helped or harmed. Should it ever be noted that there is no improvement or that the situation is actually getting worse, there is never reflection that the original impulse was wrong. The response is always to redouble efforts and expenditures, results be damned.
+This is typical of liberal dogma: "A country" (or some variation) should do XYZ. What this really means is that the liberal feels that certain things should be done, but rather than doing them herself, she wants others to do --- or at least finance --- them. One interesting aspect of this is that it never matters whether the steps taken to satisfy the feelings of the liberal are efficacious or damaging. As long as something is "being done," it rarely matters if the people whom the liberal aims for others to help are being helped or harmed. Should it ever be noted that there is no improvement or that the situation is actually getting worse, there is never reflection that the original impulse was wrong. The response is always to redouble efforts and expenditures, results be damned.
 
 ---
 
@@ -46,11 +46,13 @@ Healthcare should be cheaper and better than it is. Getting it that way requires
 
 **Response to belief 3**
 
-Another example of conflating disparate issues, and using feel-good sentiments instead of logic or rationality.
+Another example of conflating disparate issues and using feel-good sentiments instead of logic or rationality.
 
 Education is affordable and accessible to everyone in the United States from K-12. There is no requirement that anyone go to a college or university. There are plenty of other options. If you choose to incur a five- or six-figure debt for higher education, you are then responsible for paying your bills. That is part of what becoming an adult is all about. As a child, your parents paid for everything. As a teenager, you begin to pay your own way. Once you attain adulthood, you become responsible for your bills.
 
 The alternatives to this are 1) forcing teachers into involuntary servitude (AKA slavery) to reduce the price of higher education, and 2) forcing those who are not in college to pay for all or part of the bill for those who are, which is also a form of slavery. Slavery is not a valid --- let alone rational or liberal --- alternative.
+
+By the way, there is no "free" education anywhere. Everything "free" has to be paid for by someone, somewhere. Using taxes to buy something does not make it free; just the opposite.
 
 ---
 
@@ -60,7 +62,7 @@ The alternatives to this are 1) forcing teachers into involuntary servitude (AKA
 
 More conflation of unassociated facts. If you want to look at something that is not humane, look at welfare systems that create generational welfare recipients. There are those in our society who are neither starving, nor freezing, nor dying, but who are nonetheless part of the generational welfare system. There are hundreds of thousands of "poor" persons in America today who are morbidly obese and have jewelry, a flat-screen TV, a car, a cell phone (some of them provided "free"), free food, free medical care, monthly allotments, and subsidized housing. The poor in America have a better standard of living than the middle-class in most other countries.
 
-Others do have a lot of wealth. (Side note: This is not a fixed group, as some drop out while others join. Thanks to free-market capitalism, we have economic mobility in the U.S.) Typically, wealthy persons in the U.S. become that way by providing goods or services to others. That is, they provide one or more benefits to society, and reap the rewards, as they should. To say that people get wealthy by forcing others to starve or freeze or die is mendacious. Also, due to our "progressive" income tax system, the wealthy pay far, far more than their "fair share," and roughly the bottom half of Americans (by income) pay little or no income taxes (while receiving the blessings and benefits of living here).
+Others do have a lot of wealth. (Side note: This is not a fixed group, as some drop out while others join. Thanks to free-market capitalism, we have economic mobility in the U.S.) Typically, wealthy persons in the U.S. become that way by providing goods or services to others. That is, they provide one or more benefits to society and reap the rewards, as they should. To say that people get wealthy by forcing others to starve or freeze or die is mendacious. Also, due to our "progressive" income tax system, the wealthy pay far, far more than their "fair share," and roughly the bottom half of Americans (by income) pay little or no income taxes (while receiving the blessings and benefits of living here).
 
 As for the author not being a communist, it is a slippery slope from socialism (taking money from the productive for the benefit of the unproductive) to fascism (government control of private enterprise, which the author advocates) to communism (government ownership of everything). Once you grant that the government can take money by force, subsequent steps in that direction are incremental, not revolutionary.
 
@@ -70,7 +72,7 @@ As for the author not being a communist, it is a slippery slope from socialism (
 
 **Response to belief 5**
 
-Taxation equals theft equals slavery. I find it illuminating that the author is once again voicing a pro-slavery position. As Gerald Ford (and others) have said, "A government big enough to give you everything you want is big enough to take away everything you have." If you don't want a government big enough to invade and bomb other countries, then you can't simultaneously advocate for a government big enough to control our healthcare (which represents one-sixth of the massive U.S. economy), to go along with the wasteful, inefficient, corrupt actions and influences of government in other areas.
+Taxation equals theft equals slavery. I find it illuminating that the author is once again voicing a pro-slavery position. As Gerald Ford (and others) have said, "A government big enough to give you everything you want is big enough to take away everything you have." If you don't want a government big enough to invade and bomb other countries, then you can't simultaneously advocate for a government big enough to control our healthcare (which represents one-sixth of the massive U.S. economy) as well as wasteful, inefficient, corrupt actions and influences of government in other areas.
 
 ---
 
@@ -80,9 +82,9 @@ Taxation equals theft equals slavery. I find it illuminating that the author is 
 
 Great news. In a free-market economy, you get to start any business you want and run it any way you want (as long as you do not harm others, of course). So instead of demanding the authority to control the way someone else runs his business (a form of fascism), you can start any number of businesses, pay the employees as much as you want, provide them with whatever healthcare coverage you want, give them as much time off as you want, etc. You can lead by example and show your knuckle-dragging competitors how it's supposed to be done (according to you). Of course, you'll be broke in short order, but think of the virtue signaling!
 
-As for employees need food stamps, there should be no food stamp program in the first place.
+As for employees needing food stamps, there should be no food stamp program in the first place.
 
-There is a truly corrosive aspect of this "living wage" nonsense, though, and it is that if you make others comfortable at a minimum level of achievement, they may not aspire to more, let alone to greatness. Who among us has not faced the situation where we had a job but wanted more for ourselves? Workers who are provided with unearned rewards are less likely to improve themselves, start their own business, or even work harder. Removing the desire for upward mobility would lead to ossification and economic stratification, and be the death of the middle class to the benefit of a fixed upper class. This is why financial inequality is greater under socialism, fascism, and communism than under free-market capitalism.
+There is a truly corrosive aspect of this "living wage" nonsense, though, and it is that if you make others comfortable at a minimum level of achievement, they may not aspire to more, let alone to greatness. Who among us has not faced the situation where we had a job but wanted more for ourselves? Workers who are provided with unearned rewards are less likely to improve themselves, start their own businesses, or even work harder. Removing the desire for upward mobility would lead to ossification and economic stratification and be the death of the middle class to the benefit of a fixed upper class. This is why financial inequality is greater under socialism, fascism, and communism than under free-market capitalism.
 
 ---
 
@@ -110,15 +112,15 @@ If you disagree, please tell me how we transitioned from "keep government out of
 
 **Response to belief 9**
 
-The author may not believe in certain things, but that does not make them less real. America long ago began its descent into socialism, to the point that nowadays anyone who drags his sorry carcass to our shores has the world at his feet because it is given to him by numerous government agencies at all levels, and by private agencies, too, even though giving such aid is (and long has been) against the law. These laws are routinely not enforced, and anyone who says otherwise is either lying or not paying attention.
+The author may not believe in certain things, but that does not make them less real. America long ago began its descent into socialism, to the point that nowadays anyone who drags his sorry carcass to our shores has the world at his feet because it is given to him by numerous government agencies at all levels and by private agencies, too, even though giving such aid is (and long has been) against the law. These laws are routinely not enforced, and anyone who says otherwise is either lying or not paying attention.
 
 (By the way, illegal aliens are not simply "undocumented." They have broken the law. Handling them as anything but criminals is also against the law. Using deceptive terminology such as "undocumented immigrants" changes nothing.)
 
-As for the handling of "undocumented" immigrants in a humane way, why is it that humane treatment only becomes a factor after they break numerous laws --- often including child trafficking, drug trafficking, assault, theft, burglary, rape, or murder? Why are they not responsible for treating themselves and each other in a humane fashion? Why are other countries not responsible for treating their citizens humanely? Is the U.S. the sole source of humane treatment on the planet? If so, it is time to give thanks that we do.
+As for the handling of "undocumented" immigrants in a humane way, why is it that humane treatment only becomes a factor after they break numerous laws --- often including child trafficking, drug trafficking, assault, theft, burglary, rape, or murder? Why are they not responsible for treating themselves and others in a humane fashion? Why are other countries not responsible for treating their citizens humanely? Is the U.S. the sole source of humane treatment on the planet? If so, it is time to give thanks that we do.
 
-It would also help to acknowledge that in many if not most cases, illegal aliens in the U.S. --- including minors --- are treated better than citizens, and certainly better than military veterans, despite assurances to the contrary by demagogues and media agitators.
+It would also help to acknowledge that in many, if not most, cases, illegal aliens in the U.S. --- including minors --- are treated better than citizens, and certainly better than military veterans, despite assurances to the contrary by demagogues and media agitators.
 
-As for splitting up families, that happens to citizens, too, when one member of the family commits a crime and is arrested and/or jailed. Don't tell me it is rationally liberal to either arrest and jail the entire family due to the actions of one, or to let the criminal go free because he has a non-criminal family. Don't tell me that unaccompanied children should be turned out into the streets after the arrest of the parent(s) to avoid "detaining" the child.
+As for splitting up families, that happens to citizens, too, when one member of the family commits a crime and is arrested and/or jailed. Don't tell me it is rational to either arrest and jail the entire family due to the actions of one, or to let the criminal go free because he has a family. Don't tell me that unaccompanied children should be turned out into the streets after the arrest of the parent(s) to avoid "detaining" the child.
 
 As for DACA, the "D" stands for "deferred," as DACA is an acronym for "Deferred Action for Childhood Arrivals." "Deferred" does not mean "amnesty." It means that they will be held to account, but at a later date.
 
@@ -131,6 +133,8 @@ As for DACA, the "D" stands for "deferred," as DACA is an acronym for "Deferred 
 This is a bare-faced call to fascism. Individuals are greedy, so we need to turn control over to an all-knowing government. This is so stupid that only an intellectual could convince herself that it makes sense.
 
 Let me be clear: Private-sector greed is good. Private-sector greed is what compels us to accomplish things in life. As for controls on Private-sector greed, we already have those in the form of laws that state that no one can legally use force or fraud against another. Anything beyond that is fascism. And as for the government being responsible and accountable, I refer the reader to any country run by communists or dictators. This is important because the difference between a communist dictator and power-mad unelected bureaucrats cannot be detected with the naked eye.
+
+Also, trusting government but not trusting people may be liberal, but it is not rational.
 
 ---
 
@@ -150,9 +154,9 @@ Furthermore, if you did not complain about fascism under Slick Willy or Barry So
 
 This is word salad that leaves the reader starved. The U.S. is the least racist country in the history of the human race. It is also the well-spring from which has flowed rights for modern women.
 
-As for "white privilege," there is no such thing. Straight people are not "privileged," they are the reason we have a civilization at all. Males are not "privileged," as they suffer more than women in any number of life and career categories. And what the heck is economic "privilege," anyway, but an attempt to shame those who have succeeded? Successful persons should not be shamed, they should be held up as examples of what can be accomplished with good decisions, hard work, and perseverance.
+As for "white privilege," there is no such thing. Straight people are not "privileged," they are the reason we have a civilization at all. Males are not "privileged," as they suffer more than women in any number of life and career categories. And what the heck is economic "privilege," anyway, but an attempt to shame those who have succeeded? Successful persons should not be shamed; they should be held up as examples of what can be accomplished with good decisions, hard work, and perseverance.
 
-The very persons pejoratively singled out by the author in this section are those who have given us virtually everything we enjoy in our modern society. To attack them without even a hint of acknowledgment for what they have provided each of us is the height of ingratitude. To the extent that they are privileged, it is because what they do, works. White, Christian people create societies that have both the prosperity and the freedoms without which there would be no discussion of these issues. Straight people create subsequent generations. Males throughout history have provided and protected. These and other factors are why persons in these categories are in the majority. Calling for those fitting this description to step aside is a cloaked call for the extermination of the White race, and the end of Western civilization. This may be liberal, but it is not rational.
+The very persons pejoratively singled out by the author in this belief are those who have given us virtually everything we enjoy in our modern society. To attack them without even a hint of acknowledgment for what they have provided each of us is the height of ingratitude. To the extent that they are privileged, it is because what they do, works. White, Christian people create societies that have both the prosperity and the freedoms without which there would be no discussion of these issues. Straight people create subsequent generations. Males throughout history have provided and protected. These and other factors are why persons in these categories are in the majority. Calling for those fitting this description to step aside is a cloaked call for the extermination of the White race, and the end of Western civilization. This may be liberal, but it is not rational.
 
 ---
 
@@ -160,17 +164,17 @@ The very persons pejoratively singled out by the author in this section are thos
 
 **Response to belief 13**
 
-There are plenty of demagogues in politics and the public eye who are calling for the confiscation (under one form or another) of weapons that are currently in private hands. We already have thousands of laws on the books regulating guns and gun ownership, and believe it or not, criminals do not observe the law. What the author is calling for is more controls on law-abiding citizens, while allowing criminals a free hand. And this massive abridgment of our rights is called for because it *might* save one life? Please. And please stop calling your senseless policy proposals "sensible." Just stop.
+There are plenty of demagogues in politics and the public eye who are calling for the confiscation (under one form or another) of weapons that are currently in private hands. We already have tens of thousands of laws on the books regulating guns, gun ownership, and gun usage, but believe it or not, criminals do not observe the law. What the author is calling for is more controls on law-abiding citizens, while allowing criminals a free hand. And this massive abridgment of our rights is called for because it *might* save one life? Please. And please stop calling your senseless policy proposals "sensible." Just stop.
 
 One thing the author does not mention is what else we might do that might save one person's life? I bet there is a long list, and that most would not be willing to give up the items on that list that deal with things other than guns.
 
-Per capita, the U.S. has a relatively high number of guns in private hands, and relatively few instances of mass shootings. Anyone who is serious about reducing the numbers of shootings further has to look at reducing the number of fatherless households (an unintended consequence of our generational welfare system), eliminating the mind- and mood-altering drugs given to children, and for bonus points, breaking down perpetrators and victims by race. Any way you slice it, though, the average legal gun owner is not the ones committing gun crimes.
+Per capita, the U.S. has a relatively high number of guns in private hands, and relatively few instances of mass shootings. Anyone who is serious about reducing the numbers of shootings further has to look at reducing the number of fatherless households (an unintended consequence of our generational welfare system), eliminating the mind- and mood-altering drugs given to children, and for bonus points, breaking down perpetrators and victims by race so we can focus on the real problems. Any way you slice it, though, the average legal gun owner is not the one committing gun crimes.
 
 It is also useful to compare point 11 --- "the current administration is fascist" --- with the author's stance on gun ownership. Apparently, the author thinks that the Trump administration is intolerable, so someone else should do something about it ... someone with a gun, presumably ... after she and her friends infringe on our gun rights. Cuckoo.
 
-One more thing: This version of "gun control" does not work in the real world. In the real world, bad persons with guns are stopped by good persons with guns. If you think this means that only the police should have guns, then you are advocating turning us from citizens to subjects. There is no other way for one class of persons to have the right to bear arms while the underclass that supposedly grants them that status does not itself have the same right.
+One more thing: This version of "gun control" does not work in the real world. In the real world, bad persons with guns are stopped by good persons with guns. If you think this means that only what you call the "fascist government" should have guns, then you are advocating turning us from citizens to subjects. There is no other way for one class of persons to have the right to bear arms while the underclass that supposedly grants them that status does not itself have the same right.
 
-Finally, everyone needs to bear in mind that without the rights to bear arms guaranteed under the 2nd Amendment, we would not have our other rights as expressed in the other nine original amendments.
+Finally, everyone needs to bear in mind that without the God-given right to bear arms guaranteed under the 2nd Amendment, we would not have our other rights as expressed in the other nine original amendments.
 
 ---
 
@@ -182,7 +186,7 @@ Another shift from the real issue to a straw-man issue. If Chuck wants to be cal
 
 A biological male who wants to be called by female pronouns is not normal. When you attempt to normalize the abnormal, you degrade society. If this biological male pretends to be female, we know better, and we can do better by acknowledging and reinforcing the facts, rather than caving into the delusions of a madman.
 
-As they say, "Sticks and stones may break my bones, but words will never hurt me." If someone is hurt by words, then that is an issue they must handle.
+As they say, "Sticks and stones may break my bones, but words will never hurt me." If someone is hurt by words, then that is an issue *they* must handle.
 
 ---
 
@@ -190,11 +194,11 @@ As they say, "Sticks and stones may break my bones, but words will never hurt me
 
 **Response to belief 15**
 
-The author is welcome to fund "sustainable energy," if she can find it. It typically does not exist. However, given the author's other positions, she probably means she wants the fascist government to tax everyone more and put a tiny fraction of that money towards energy projects that have the label of being "sustainable," regardless of whether they are effective or sustainable, so she can virtue signal.
+The author is welcome to fund "sustainable energy," if she can find it. It typically does not exist. However, given the author's other positions, she probably means she wants the "fascist government" to tax everyone more and put a tiny fraction of that money toward energy projects that have the label of being "sustainable," regardless of whether they are effective, sustainable, or safe for the environment, so she can virtue signal.
 
-There are no sustainable options that even begin to replace coal, oil, and natural gas. The only way to make this claim is to 1) be unaware of how much energy it takes to run a first-world nation such as the U.S., 2) be unaware of how much coal and oil energy are required to allow us to play with wasteful trinkets such as solar energy (in its current incarnations) and wind farms, 3) be unaware of how much pollution and environmental damage are being displaced to other locations in the pursuit of so-called "sustainable" energy, and 4) be unaware of the many supply and environmental shortcomings of so-called "sustainable" energy sources.
+There are no sustainable options that even begin to replace coal, oil, and natural gas. The only way to make this claim is to 1) be unaware of how much energy it takes to run a first-world nation such as the U.S., 2) be unaware of how much coal and oil energy is required to allow us to play with wasteful trinkets such as solar energy (in its current incarnations) and wind farms, 3) be unaware of how much pollution and environmental damage are being displaced to other locations in the pursuit of so-called "sustainable" energy, and 4) be unaware of the many supply and environmental shortcomings of so-called "sustainable" energy sources.
 
-Truly rational liberals would be calling for more power from nuclear facilities, not the end of coal, oil, and natural gas.
+Truly rational persons would be calling for more power from nuclear facilities, not the end of coal, oil, and natural gas.
 
 ---
 
@@ -202,7 +206,7 @@ Truly rational liberals would be calling for more power from nuclear facilities,
 
 **Response to belief 16**
 
-If you believe this, then you must advocate for the reduction of compensation for women, who often make more for equal work than do males. The problem is that men and women usually do not do equal work --- with women working less (or being worth less in the marketplace) than men --- while they demand to be paid the same. Look at it this way, if women were such a bargain for employers, why would any employer ever hire another man? The answer is that when you look at the facts and factors, women are not compensated less than men.
+If you believe this, then you must advocate for the reduction of compensation for women, who often make more for equal work than do males. The problem is that men and women usually do not do equal work --- with women working less (or being worth less in the marketplace) than men --- while they demand to be paid the same. Look at it this way: If women were such a bargain for employers, why would any employer ever hire another man? The answer is that when you look at the facts and factors, women are not compensated less than men.
 
 Also, you have to start advocating for the end to abortion, as the "right" to murder defenseless fetuses is currently available to women only.
 
@@ -212,8 +216,8 @@ Also, you have to start advocating for the end to abortion, as the "right" to mu
 
 **Response**
 
-More word salad. What does this even mean, beyond being an attempt to virtue signal just how very much the author cares, regardless of the facts? And who gets to determine what suffering is preventable? Maybe another massive, inefficient, uncaring government bureaucracy?
+More word salad. What does this even mean, beyond being an attempt to virtue signal just how very much the author cares, regardless of the facts? And who gets to determine what suffering is preventable? Maybe another massive, inefficient, uncaring "fascist government" bureaucracy?
 
-Instead of blathering on in this manner, the author should demonstrate how she cares for her neighbors using her own time and after-tax dollars. That might actually be rationally liberal.
+Instead of blathering on in this manner, the author should demonstrate how she cares for her neighbors using her own time and after-tax dollars. That might actually be rational.
 
 {% include signature.html %}
