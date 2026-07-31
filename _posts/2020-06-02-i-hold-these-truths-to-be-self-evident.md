@@ -38,7 +38,7 @@ False. Rights are God-given (or natural, if you prefer). If someone else has to 
 
 There are other alternatives than mandatory government healthcare or letting people die in the streets. This type of false dichotomy is another hallmark of the liberal mindset.
 
-Healthcare should be cheaper and better than it is. Getting it that way requires getting the government completely out of the healthcare business. Government intervention introduces waste and inefficiencies that drive up costs and reduce services. To the extent that our healthcare system is aligned more closely with free-market capitalism, it is affordable and thriving (think laser eye surgery). We already have the best healthcare system in the world, and it would be much, much better if we removed government interference.
+I do agree that healthcare should be cheaper and better than it is. However, getting it that way requires getting the government completely out of the healthcare business. Government intervention introduces waste and inefficiencies that drive up costs and reduce services. To the extent that our healthcare system is aligned most closely with free-market capitalism, it is affordable and thriving (think laser eye surgery). We already have the best healthcare system in the world, and it would be much, much better if we removed government interference.
 
 ---
 
