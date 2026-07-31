@@ -50,7 +50,7 @@ Another example of conflating disparate issues and using feel-good sentiments in
 
 Education is affordable and accessible to everyone in the United States from K-12. There is no requirement that anyone go to a college or university. There are plenty of other options. If you choose to incur a five- or six-figure debt for higher education, you are then responsible for paying your bills. That is part of what becoming an adult is all about. As a child, your parents paid for everything. As a teenager, you begin to pay your own way. Once you attain adulthood, you become responsible for your bills.
 
-The alternatives to this are 1) forcing teachers into involuntary servitude (AKA slavery) to reduce the price of higher education, and 2) forcing those who are not in college to pay for all or part of the bill for those who are, which is also a form of slavery. Slavery is not a valid --- let alone rational or liberal --- alternative.
+The alternatives to this are 1) forcing teachers into involuntary servitude (AKA slavery) to reduce the price of higher education, and 2) forcing those who are not in college to pay through taxes all or part of the bill for those who are, as that is also a form of slavery. Slavery is not a valid --- let alone rational --- alternative.
 
 By the way, there is no "free" education anywhere. Everything "free" has to be paid for by someone, somewhere. Using taxes to buy something does not make it free; just the opposite.
 
