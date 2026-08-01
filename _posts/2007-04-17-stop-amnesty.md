@@ -1,6 +1,11 @@
-Sen. Dianne Feinstein
-United States Senate, SH - 331
-Washington, DC 20510
+---
+title: "Stop amnesty"
+layout: post
+categories:
+- letter
+tags:
+- amnesty
+---
 
 I was extremely disappointed in your vote in favor of S. 2611 last year. How could you turn your back on your constituents like that?
 
@@ -14,4 +19,5 @@ Mr. Greg Raven
 
 P.S. Illegal immigration is a weapon of mass destruction!
 
-cc: Barbara Boxer
+Sent to:
+: Barbara Boxer, Dianne Feinstein

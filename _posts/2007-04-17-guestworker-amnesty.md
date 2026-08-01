@@ -1,8 +1,14 @@
-Congressman Jerry Lewis
-2112 Rayburn House Office Building, United States House of Representatives
-Washington, DC 20515
+---
+title: "Guest worker amnesty"
+layout: post
+categories:
+- letter
+tags:
+- amnesty
+- jobs
+---
 
-In light of the facts presented in the ad featuring T. Willard Fair that is currently running in the Washington Post and Roll Call, I hope you will oppose any guestworker-amnesty plan.
+In light of the facts presented in the ad featuring T. Willard Fair that is currently running in the *Washington Post* and Roll Call, I hope you will oppose any guestworker-amnesty plan.
 
 According to the National Bureau of Economic Research, the hiring of low-skilled immigrants is responsible for 40 percent of the decline in employment among Black American men. 
 
@@ -16,4 +22,5 @@ Mr. Greg Raven
 
 P.S. Illegal immigration is a weapon of mass destruction!
 
-cc: Dianne Feinstein, Barbara Boxer
+Sent to:
+: Dianne Feinstein, Barbara Boxer, Jerry Lewis

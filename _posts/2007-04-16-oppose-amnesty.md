@@ -1,6 +1,11 @@
-Congressman Jerry Lewis
-2112 Rayburn House Office Building, United States House of Representatives
-Washington, DC 20515
+---
+title: "Oppose amnesty"
+layout: post
+categories:
+- letter
+tags:
+- amnesty
+---
 
 Speaker Pelosi says she needs 70 Republicans to move an amnesty bill. I trust you won't be helping her in this endeavor!
 
@@ -15,3 +20,6 @@ Phone me if you would like to talk about this,
 Mr. Greg Raven
 
 P.S. Illegal immigration is a weapon of mass destruction.
+
+Sent to:
+: Jerry Lewis
