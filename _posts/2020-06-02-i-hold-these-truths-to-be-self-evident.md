@@ -18,9 +18,13 @@ tags:
 
 I saw this piece posted on Facebook, with an introductory paragraph not found in the original, misattributed to Ron Howard. I was so struck by the horrible logic that I had to respond. The author is entitled to her opinions, but not to her own facts, nor is she entitled to shift from one point to another unrelated point because it sounds good or is convenient.
 
-This is presented as an example of something called "rational liberalism." This presents problems right off the bat. First, if something is rational, it is neither liberal nor conservative. It is rational. Second, it is an admission against interest, as the unstated implication is that liberalism itself (mainstream liberalism?) is not rational, hence the need for a "rational" branch of liberalism.
+This is presented as an example of something called "rational liberalism." This presents problems right off the bat.
 
-The author seems to be trying to wrap modern-day liberalism (AKA progressivism) in rationality to give it the intellectual weight it does not have. As an aside, when I did a search for "rational liberalism" on DuckDuckGo, the first response on the list was the website Rational Liberal, which has as its motto "more feelings, more outrage." Feelings and outrage certainly are part of today's liberal/progressive mindset, but neither is rational.
+First, if something is rational, it is neither liberal nor conservative. It is rational.
+
+Second, it is an admission against interest, as the unstated implication is that liberalism itself (mainstream liberalism?) is not rational, hence the need for a "rational" branch of liberalism. The author seems to be trying to wrap modern-day liberalism (AKA progressivism) in rationality to give it the intellectual weight it does not have.
+
+As an aside, when I did a search for "rational liberalism" on DuckDuckGo, the first response on the list was the website Rational Liberal, which has as its motto "more feelings, more outrage." Feelings and outrage certainly are part of today's liberal/progressive mindset, but neither is rational.
 
 ---
 
